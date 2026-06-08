@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Materials Information Platform</title>
+  <!-- Shared stylesheet for all pages in the project -->
+  <link rel="stylesheet" href="styles.css">
+  <!-- Google Fonts: Rajdhani (display), Share Tech Mono (data), Barlow (body) -->
+  <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;500;600;700&family=Share+Tech+Mono&family=Barlow:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <!-- HEADER -->
+  <header class="site-header">
+    <h1 class="site-title">MATERIALS INFORMATION PLATFORM</h1>
+  </header>
+
+  <!-- GROUPS LEGEND — category buttons above the table; each links to groups.html -->
+  <nav class="category-legend" aria-label="Element categories">
+    <span class="legend-label">GROUPS</span>
+    <div class="legend-buttons">
+      <button class="cat-btn alkali-metal"      onclick="window.location='groups.html#alkali-metals'">Alkali Metals</button>
+      <button class="cat-btn alkaline-earth"    onclick="window.location='groups.html#alkaline-earth'">Alkaline Earth Metals</button>
+      <button class="cat-btn transition-metal"  onclick="window.location='groups.html#transition-metals'">Transition Metals</button>
+      <button class="cat-btn post-transition"   onclick="window.location='groups.html#post-transition'">Post-Transition Metals</button>
+      <button class="cat-btn metalloid"         onclick="window.location='groups.html#metalloids'">Metalloids</button>
+      <button class="cat-btn reactive-nonmetal" onclick="window.location='groups.html#other-nonmetals'">Other Nonmetals</button>
+      <button class="cat-btn halogen"           onclick="window.location='groups.html#halogens'">Halogens</button>
+      <button class="cat-btn noble-gas"         onclick="window.location='groups.html#noble-gases'">Noble Gases</button>
+      <button class="cat-btn lanthanide"        onclick="window.location='groups.html#lanthanides'">Lanthanides</button>
+      <button class="cat-btn actinide"          onclick="window.location='groups.html#actinides'">Actinides</button>
+      <button class="cat-btn inner-transition"  onclick="window.location='groups.html#inner-transition'">Inner-Transition Metals</button>
+    </div>
+  </nav>
+
+  <!-- PERIODIC TABLE
+       Layout: flex row
+         LEFT  = period-column (boxed, PERIODS label at bottom)
+         RIGHT = 18-column CSS grid
+
+       Grid column math (18-col):
+         main-table element:  gridColumn = group  (1-18)
+         f-block element:     gridColumn = fpos + 3
+           → La (fpos=1) → col 4, Lu (fpos=15) → col 18
+         f-block placeholders: col 3 (group 3 position)
+         Lanthanide row = 9, Actinide row = 10
+
+       Empty center area (cols 3-12, rows 1-3) shows brief description.
+       Arrow cells at col 3, rows 9-10 visually connect placeholders
+       to the f-block rows shifted one column to the right.
+  -->
+  <main class="table-wrapper">
+    <div class="table-layout">
+
+      <!-- PERIOD COLUMN: bold box, numbered buttons, PERIODS label at bottom -->
+      <div class="period-column" id="period-column"></div>
+
+      <!-- ELEMENT GRID: populated by buildGrid() below -->
+      <div class="periodic-grid" id="periodic-grid"></div>
+
+    </div>
+  </main>
+
+  <!-- INFO BOX — usage instructions below the table -->
+  <div class="info-box">
+    <strong class="info-title">How to Use This Page</strong>
+    <ul>
+      <li><strong>ELEMENTS</strong> &mdash; Click on any element to see details</li>
+      <li class="sb"><strong>PERIODS</strong> &mdash; Click any button on the column on the left to learn about each horizontal row of the table</li>
+      <li class="sb"><strong>GROUPS</strong> &mdash; Click any button above to explore that element families and see all its members</li>
+      <li>Hover over any element cell to see its full name, category, and atomic number</li>
+      <li class="sb"><strong>LANTHANIDES</strong> (57&ndash;71) and <strong>ACTINIDES</strong> (89&ndash;103) &mdash; follow the pointing arrows to rows below the table</li>
+      <li class="sb">Elements with <span style="color:#CC0000;font-weight:700">RED symbols</span> are synthetic &mdash; produced only in laboratories, never found in nature</li>
+    </ul>
+  </div>
+
+  <!-- DATA ATTRIBUTION BOX -->
+  <div class="info-box" style="margin-top:10px;border-top:2px solid #2a3a5a;">
+    <strong class="info-title">Data Sources &amp; Attribution</strong>
+    <ul>
+      <li>USGS Mineral Commodity Summaries (2022&ndash;2023)</li>
+      <li>World Gold Council</li>
+      <li>IEA Critical Minerals Report (2023)</li>
+      <li>World Nuclear Association</li>
+      <li>Natural Earth Geographic Data (public domain, embedded in world-map.svg)</li>
+    </ul>
+  </div>
+
+  <!-- Toast notification container (aria-live for screen readers) -->
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+  <footer class="site-footer">
+    CS50 Final Project &mdash; Materials Information Platform &mdash; HTML &bull; CSS &bull; JavaScript
+  </footer>
+
+  <!-- Core data: ELEMENTS array, ELEMENT_INFO object, SYNTHETIC_ELEMENTS lookup -->
+  <script src="elements-data.js"></script>
+
+  <script>
+    /* ============================================================
+       index.html — Periodic Table Builder
+       18-column CSS grid. Period buttons in separate flex column.
+
+       F-BLOCK COLUMN MATH (shifted right by 1):
+         fpos=1  → gridColumn = 1+3 = 4   (La, Ac start at col 4)
+         fpos=15 → gridColumn = 15+3 = 18  (Lu, Lr end at col 18)
+       Placeholders stay at col 3 (group 3), creating a visual gap
+       filled by connecting arrow cells at col 3 in f-block rows.
+
+       ELEMENT PAGES: use element.html?n=NUM (all files at root level,
+       avoids cross-folder script loading issues).
+       ============================================================ */
+
+    /* Maps internal category keys to human-readable display labels */
+    var CAT_NAMES = {
+      'alkali-metal':      'Alkali Metal',
+      'alkaline-earth':    'Alkaline Earth Metal',
+      'transition-metal':  'Transition Metal',
+      'post-transition':   'Post-Transition Metal',
+      'metalloid':         'Metalloid',
+      'reactive-nonmetal': 'Other Nonmetal',
+      'halogen':           'Halogen',
+      'noble-gas':         'Noble Gas',
+      'lanthanide':        'Lanthanide',
+      'actinide':          'Actinide',
+      'inner-transition':  'Inner-Transition Metal',
+      'unknown':           'Unknown Properties'
+    };
+
+    /* Build the period column and element grid once the DOM is ready */
+    window.addEventListener('DOMContentLoaded', function() {
+      buildPeriodColumn();
+      buildGrid();
+    });
+
+    /* ── PERIOD COLUMN ── */
+
+    /*
+     * Builds the numbered period buttons (1-7) in the left column.
+     * Each button navigates to the matching anchor on periods.html.
+     */
+    function buildPeriodColumn() {
+      var col = document.getElementById('period-column');
+
+      /* Container box for the period buttons */
+      var box = document.createElement('div');
+      box.className = 'period-btns-box';
+
+      var i;
+      for (i = 1; i <= 7; i++) {
+        var btn = document.createElement('button');
+        btn.className = 'period-btn';
+        btn.textContent = i;
+        btn.title = 'Period ' + i;
+
+        /* IIFE to capture the correct period number for each click handler */
+        (function(p) {
+          btn.addEventListener('click', function() {
+            window.location = 'periods.html#period-' + p;
+          });
+        })(i);
+
+        box.appendChild(btn);
+      }
+
+      col.appendChild(box);
+
+      /* PERIODS label below the buttons */
+      var lbl = document.createElement('div');
+      lbl.className = 'periods-col-label';
+      lbl.textContent = 'PERIODS';
+      col.appendChild(lbl);
+    }
+
+    /* ── ELEMENT GRID ── */
+
+    /*
+     * Builds the full 18-column periodic table grid.
+     * Adds spacer row, description panel, f-block placeholders,
+     * connecting arrows, and all 118 element cells.
+     */
+    function buildGrid() {
+      var grid = document.getElementById('periodic-grid');
+
+      /* Dashed spacer row at row 8 (visual gap between main table and f-block) */
+      var spacer = document.createElement('div');
+      spacer.className = 'grid-spacer';
+      spacer.style.gridRow = '8';
+      grid.appendChild(spacer);
+
+      /* Brief description panel in the empty center area (periods 1-3, groups 3-12) */
+      var desc = document.createElement('div');
+      desc.className = 'table-empty-desc';
+      desc.innerHTML =
+        '<div class="ted-title">Periodic Table of the Elements</div>' +
+        '<div class="ted-hint">Click any element to explore &mdash; See <em>How to Use This Page</em> below</div>';
+      desc.style.gridColumn = '3 / 13';
+      desc.style.gridRow    = '1 / 4';
+      grid.appendChild(desc);
+
+      addFBlockPlaceholders(grid);
+      addFBlockArrows(grid);
+      addElementCells(grid);
+    }
+
+    /*
+     * Adds the Lanthanide and Actinide placeholder cells in the main table at col 3.
+     * These cells link to groups.html and show a downward arrow pointing to the f-block rows.
+     */
+    function addFBlockPlaceholders(grid) {
+
+      /* Lanthanide placeholder: period 6, group 3 position (col 3) */
+      var laP = document.createElement('div');
+      laP.className = 'element-cell placeholder lanthanide';
+      laP.innerHTML =
+        '<span class="f-label">Lanthanides</span>' +
+        '<span class="f-range">57&ndash;71</span>' +
+        '<span class="f-arrow">&#8595;</span>';
+      laP.style.gridColumn = '3';
+      laP.style.gridRow    = '6';
+      laP.title = 'Lanthanides (La\u2013Lu, elements 57\u201371)';
+      laP.addEventListener('click', function() { window.location = 'groups.html#lanthanides'; });
+      grid.appendChild(laP);
+
+      /* Actinide placeholder: period 7, group 3 position (col 3) */
+      var acP = document.createElement('div');
+      acP.className = 'element-cell placeholder actinide';
+      acP.innerHTML =
+        '<span class="f-label">Actinides</span>' +
+        '<span class="f-range">89&ndash;103</span>' +
+        '<span class="f-arrow">&#8595;</span>';
+      acP.style.gridColumn = '3';
+      acP.style.gridRow    = '7';
+      acP.title = 'Actinides (Ac\u2013Lr, elements 89\u2013103)';
+      acP.addEventListener('click', function() { window.location = 'groups.html#actinides'; });
+      grid.appendChild(acP);
+    }
+
+    /*
+     * Adds rightward arrow cells at col 3 in the f-block rows (rows 9 and 10).
+     * These guide the eye from the placeholders in the main table (rows 6-7)
+     * to the actual lanthanide and actinide element cells in the shifted f-block rows.
+     */
+    function addFBlockArrows(grid) {
+
+      /* Lanthanide row arrow (row 9) */
+      var laArrow = document.createElement('div');
+      laArrow.className = 'fblock-row-arrow';
+      laArrow.innerHTML = '&#8594;';
+      laArrow.title = 'Lanthanide series continues here (elements 57\u201371)';
+      laArrow.style.gridColumn = '3';
+      laArrow.style.gridRow    = '9';
+      grid.appendChild(laArrow);
+
+      /* Actinide row arrow (row 10) */
+      var acArrow = document.createElement('div');
+      acArrow.className = 'fblock-row-arrow';
+      acArrow.innerHTML = '&#8594;';
+      acArrow.title = 'Actinide series continues here (elements 89\u2013103)';
+      acArrow.style.gridColumn = '3';
+      acArrow.style.gridRow    = '10';
+      grid.appendChild(acArrow);
+    }
+
+    /*
+     * Loops through the global ELEMENTS array and creates a button cell for each element.
+     * Positions each cell using CSS grid column and row values from the element data.
+     * F-block elements use fpos+3 for column to shift them right of the arrow cells.
+     * Clicking any cell navigates to element.html?n=NUM.
+     */
+    function addElementCells(grid) {
+      var i;
+      for (i = 0; i < ELEMENTS.length; i++) {
+        var el = ELEMENTS[i];
+        var isSynth = (SYNTHETIC_ELEMENTS[el[0]] === 1);
+
+        var cell = document.createElement('button');
+        cell.className = 'element-cell ' + el[3] + (isSynth ? ' synthetic' : '');
+        cell.title = el[2] + ' (' + el[1] + ', #' + el[0] + ')  \u2014  ' + (CAT_NAMES[el[3]] || el[3]);
+
+        /* Shrink font size for elements with long names to prevent overflow */
+        var nSize = (el[2].length > 10) ? '0.35rem' : '0.4rem';
+        cell.innerHTML =
+          '<span class="atomic-num">' + el[0] + '</span>' +
+          '<span class="symbol">'     + el[1] + '</span>' +
+          '<span class="elem-name" style="font-size:' + nSize + '">' + el[2] + '</span>';
+
+        /* Position the cell in the grid */
+        if (el[8] > 0) {
+          /* F-block element: shifted right, fpos+3 so La/Ac start at col 4 */
+          var fRow = (el[3] === 'lanthanide') ? 9 : 10;
+          cell.style.gridColumn = String(el[8] + 3);
+          cell.style.gridRow    = String(fRow);
+        } else {
+          /* Main-table element: group = column, period = row */
+          cell.style.gridColumn = String(el[5]);
+          cell.style.gridRow    = String(el[4]);
+        }
+
+        /* IIFE to capture the correct atomic number for each click handler */
+        (function(num) {
+          cell.addEventListener('click', function() {
+            window.location = 'element.html?n=' + num;
+          });
+        })(el[0]);
+
+        grid.appendChild(cell);
+      }
+    }
+
+    /*
+     * Displays a brief toast notification at the bottom of the screen.
+     * Automatically hides after 3 seconds.
+     * msg: the text to display in the toast
+     */
+    function showToast(msg) {
+      var t = document.getElementById('toast');
+      t.textContent = msg;
+      t.classList.add('show');
+      clearTimeout(t._timer);
+      t._timer = setTimeout(function() { t.classList.remove('show'); }, 3000);
+    }
+  </script>
+</body>
+</html>

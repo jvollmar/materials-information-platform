@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Element Periods &mdash; Materials Information Platform</title>
+  <link rel="stylesheet" href="styles.css">
+  <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;500;600;700&family=Share+Tech+Mono&family=Barlow:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <!-- ===== HEADER ===== -->
+  <header class="page-header">
+    <a href="index.html" class="nav-back">&#8592; Periodic Table</a>
+    <h1>ELEMENT PERIODS</h1>
+  </header>
+
+  <!-- ===== CONTENT (built by JS below) ===== -->
+  <main class="periods-container" id="periods-root">
+    <h2>Loading periods&hellip;</h2>
+  </main>
+
+  <footer class="site-footer">
+    CS50 Final Project &mdash; Materials Information Platform &mdash; HTML &bull; CSS &bull; JavaScript
+  </footer>
+
+  <script src="elements-data.js"></script>
+  <script>
+    /* =============================================================
+       periods.html — Element Periods Page
+       Explains what a "period" is and describes each of the
+       7 periods, showing all elements that belong to each.
+       ============================================================= */
+
+    var PERIOD_DATA = [
+      {
+        num:   1,
+        title: 'Period 1 — The Simplest Atoms',
+        count: 2,
+        blocks: 's-block only',
+        desc:  'Period 1 contains just two elements: hydrogen and helium. These are the ' +
+               'simplest atoms in existence, with electrons only in the first shell (1s). ' +
+               'Hydrogen is the most abundant element in the universe — it fuels every star ' +
+               'through nuclear fusion. Helium is chemically inert with a completely filled ' +
+               '1s shell.',
+        extra: 'Despite having only one electron, hydrogen\'s chemistry is extraordinarily ' +
+               'diverse — it forms over a million organic compounds through carbon-hydrogen ' +
+               'bonds. Helium was first detected in the Sun\'s spectral lines before being ' +
+               'found on Earth.'
+      },
+      {
+        num:   2,
+        title: 'Period 2 — The Foundation of Organic Chemistry',
+        count: 8,
+        blocks: 's-block and p-block',
+        desc:  'Period 2 introduces the p-block, adding 8 elements as electrons fill the 2s ' +
+               'and 2p subshells. This period includes lithium (lightest metal), beryllium, ' +
+               'boron, and — crucially — carbon, nitrogen, oxygen, and fluorine. These four ' +
+               'elements are the building blocks of virtually all biomolecules: proteins, ' +
+               'DNA, lipids, and carbohydrates.',
+        extra: 'Neon, the noble gas at the end of Period 2, has the complete [He] 2s\u00B2 2p\u2076 ' +
+               'configuration. The dramatic contrast between the highly reactive fluorine (#9) ' +
+               'and the inert neon (#10) — differing by just one electron — illustrates how ' +
+               'profoundly electron configuration governs chemical behavior.'
+      },
+      {
+        num:   3,
+        title: 'Period 3 — Metals, Metalloids, and Industry',
+        count: 8,
+        blocks: 's-block and p-block',
+        desc:  'Period 3 mirrors the pattern of Period 2 as electrons fill the 3s and 3p ' +
+               'subshells. It contains sodium (highly reactive alkali metal), magnesium ' +
+               '(essential biological element), aluminum (most abundant metal in the crust), ' +
+               'and silicon — the foundation of the entire semiconductor and solar-energy ' +
+               'industries.',
+        extra: 'Chlorine (#17) is one of the most important industrial chemicals, used in ' +
+               'water purification and PVC production. Sulfur (#16) is produced in vast ' +
+               'quantities to manufacture sulfuric acid — the most widely produced industrial ' +
+               'chemical in the world. Argon (#18) is the most abundant noble gas in Earth\'s atmosphere.'
+      },
+      {
+        num:   4,
+        title: 'Period 4 — Enter the Transition Metals',
+        count: 18,
+        blocks: 's-block, d-block, and p-block',
+        desc:  'Period 4 is the first period to include transition metals as electrons fill ' +
+               'the 3d subshell (scandium through zinc). This gives Period 4 its 18 elements. ' +
+               'Iron (#26), cobalt (#27), and nickel (#28) are essential for life — iron ' +
+               'carries oxygen in hemoglobin. Copper (#29) and zinc (#30) are vital trace ' +
+               'minerals and foundational industrial materials.',
+        extra: 'Germanium (#32), predicted by Mendeleev as "eka-silicon" before its discovery ' +
+               'in 1886, became one of the great validations of the periodic table. Bromine ' +
+               '(#35) is one of only two elements that is liquid at room temperature under ' +
+               'standard conditions (the other is mercury).'
+      },
+      {
+        num:   5,
+        title: 'Period 5 — The Silver Period',
+        count: 18,
+        blocks: 's-block, d-block, and p-block',
+        desc:  'Period 5 repeats the structure of Period 4 with electrons filling the 4d ' +
+               'subshell. It contains silver (#47) — the best electrical conductor of all ' +
+               'elements — as well as molybdenum (#42), used in high-strength steel alloys, ' +
+               'and palladium (#46), a critical catalyst. Xenon (#54) is the heaviest noble ' +
+               'gas used in everyday applications (xenon headlights and anesthesia).',
+        extra: 'Technetium (#43) is the lightest element with no stable isotopes — all its ' +
+               'forms are radioactive. It was the first element to be produced synthetically ' +
+               '(1937). Iodine (#53) is essential for thyroid hormone production; iodine ' +
+               'deficiency affects hundreds of millions of people worldwide.'
+      },
+      {
+        num:   6,
+        title: 'Period 6 — The Rare Earths and Precious Metals',
+        count: 32,
+        blocks: 's-block, f-block (lanthanides), d-block, and p-block',
+        desc:  'Period 6 is the first period to include f-block elements. As the 4f subshell ' +
+               'fills, it creates the 15 lanthanide elements (57-71), giving Period 6 its ' +
+               '32 elements total. The main table portion of Period 6 contains cesium, barium, ' +
+               'then the 4d transition metals hafnium through mercury, and the p-block from ' +
+               'thallium through radon.',
+        extra: 'Gold (#79) and platinum (#78) are Period 6 transition metals made dense and ' +
+               'chemically inert by relativistic effects — gold\'s distinctive yellow color ' +
+               'is a direct relativistic effect on its 6s electrons. Mercury (#80) is the ' +
+               'only metal that is liquid at room temperature. Most elements from bismuth ' +
+               '(#83) onward are radioactive.'
+      },
+      {
+        num:   7,
+        title: 'Period 7 — The Radioactive Frontier',
+        count: 32,
+        blocks: 's-block, f-block (actinides), d-block, and p-block',
+        desc:  'Period 7 mirrors Period 6 in structure: the 5f subshell fills to create the ' +
+               '15 actinide elements (89-103), all of which are radioactive. The main table ' +
+               'continues with the transactinide elements (104-118), none of which occur ' +
+               'naturally — all are produced in particle accelerators and exist for only ' +
+               'milliseconds to minutes.',
+        extra: 'Uranium (#92) and plutonium (#94) are the fuels for nuclear power generation. ' +
+               'Francium (#87) is the rarest naturally occurring element on Earth — at any ' +
+               'given moment, there are fewer than 30 grams in the entire crust. Oganesson (#118), ' +
+               'the heaviest known element, was first created in 2002 and has a half-life of ' +
+               'less than 1 millisecond.'
+      }
+    ];
+
+    /* Build the page */
+    window.addEventListener('DOMContentLoaded', function() {
+      var root = document.getElementById('periods-root');
+      var html = '<h2>What Is a Period?</h2>';
+
+      /* Intro paragraph */
+      html += '<div class="group-section" style="margin-bottom:28px">';
+      html += '<div class="group-section-body" style="padding:20px 22px">';
+      html += '<p class="group-description">A <strong>period</strong> is a horizontal row in the periodic ' +
+              'table. All elements in the same period have the same number of electron shells (energy levels). ' +
+              'Moving left to right across a period, each element gains one more proton and one more electron. ' +
+              'As a result, atomic radius generally decreases, electronegativity increases, and elements ' +
+              'transition from metals on the left to nonmetals on the right, ending with a noble gas.</p>';
+      html += '<p class="group-description" style="margin-top:10px">There are 7 periods. Periods 1-3 are called ' +
+              '"short periods" (2-8 elements). Periods 4-5 are "long periods" (18 elements). ' +
+              'Periods 6-7 are "very long periods" (32 elements each, including the f-block).</p>';
+      html += '</div></div>';
+
+      var p;
+      for (p = 0; p < PERIOD_DATA.length; p++) {
+        var pd = PERIOD_DATA[p];
+
+        /* Find all elements in this period from the ELEMENTS array */
+        var members = [];
+        var e;
+        for (e = 0; e < ELEMENTS.length; e++) {
+          if (ELEMENTS[e][4] === pd.num) {
+            members.push(ELEMENTS[e]);
+          }
+        }
+        /* Sort by atomic number */
+        members.sort(function(a, b) { return a[0] - b[0]; });
+
+        html += '<section class="period-section" id="period-' + pd.num + '">';
+
+        /* Period header */
+        html += '<div class="period-section-header">';
+        html += '<div class="period-number-badge">' + pd.num + '</div>';
+        html += '<h2>' + pd.title + '</h2>';
+        html += '</div>';
+
+        /* Period body */
+        html += '<div class="period-section-body">';
+
+        /* Stats row */
+        html += '<div class="period-stats">';
+        html += '<span>&#9632; ' + pd.count + ' elements</span>';
+        html += '<span>&#9632; ' + pd.blocks + '</span>';
+        html += '</div>';
+
+        html += '<p class="period-description">' + pd.desc + '</p>';
+        html += '<p class="period-description">' + pd.extra + '</p>';
+
+        /* Element chips for this period */
+        html += '<div class="group-elements">';
+        var m;
+        for (m = 0; m < members.length; m++) {
+          var el = members[m];
+          html += '<div class="elem-chip ' + el[3] + '" title="' + el[2] + ' — #' + el[0] + '">';
+          html += '<span class="chip-num">' + el[0] + '</span>';
+          html += '<span class="chip-sym">' + el[1] + '</span>';
+          html += '<span class="chip-name">' + el[2] + '</span>';
+          html += '</div>';
+        }
+        html += '</div>'; /* group-elements */
+
+        html += '</div>'; /* period-section-body */
+        html += '</section>';
+      }
+
+      root.innerHTML = html;
+
+      /* Scroll to anchor hash if present (e.g. periods.html#period-4) */
+      if (window.location.hash) {
+        var target = document.querySelector(window.location.hash);
+        if (target) {
+          setTimeout(function() {
+            target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          }, 120);
+        }
+      }
+    });
+  </script>
+
+</body>
+</html>

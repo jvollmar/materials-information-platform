@@ -1,0 +1,506 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Discovery History — Materials Information Platform</title>
+  <link rel="stylesheet" href="styles.css">
+  <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;500;600;700&family=Share+Tech+Mono&family=Barlow:wght@400;600;700&display=swap" rel="stylesheet">
+  <style>
+    /* ── Page Shell ─────────────────────────────────── */
+    body { background: var(--bg-page); }
+
+    .iu-header {
+      background: var(--bg-header);
+      border-bottom: 3px solid var(--accent-amber);
+      padding: 14px 24px;
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+    .iu-back-btn {
+      font-family: var(--font-display);
+      font-weight: 600;
+      font-size: 0.85rem;
+      letter-spacing: 0.04em;
+      color: #cbd5e0;
+      background: rgba(255,255,255,0.08);
+      border: 1px solid rgba(255,255,255,0.18);
+      border-radius: 20px;
+      padding: 6px 14px;
+      cursor: pointer;
+      text-decoration: none;
+      transition: background 0.15s, color 0.15s;
+      white-space: nowrap;
+    }
+    .iu-back-btn:hover { background: rgba(255,255,255,0.16); color: #fff; }
+    .iu-elem-badge {
+      margin-left: auto;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      background: rgba(255,255,255,0.07);
+      border: 1.5px solid rgba(255,255,255,0.15);
+      border-radius: 24px;
+      padding: 6px 14px 6px 10px;
+    }
+    .iu-elem-symbol {
+      font-family: var(--font-display);
+      font-weight: 700;
+      font-size: 1.3rem;
+      color: #fff;
+    }
+    .iu-elem-name {
+      font-family: var(--font-display);
+      font-size: 0.85rem;
+      color: #a0aec0;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+    }
+
+    /* ── Hero ───────────────────────────────────────── */
+    .dh-hero {
+      padding: 32px 28px 20px;
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .dh-hero-label {
+      font-family: var(--font-display);
+      font-size: 0.72rem;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--accent-amber);
+      margin-bottom: 6px;
+    }
+    .dh-hero-title {
+      font-family: var(--font-display);
+      font-size: clamp(1.4rem, 3.5vw, 2rem);
+      font-weight: 700;
+      color: var(--text-dark);
+      letter-spacing: 0.02em;
+      margin: 0 0 6px;
+    }
+    .dh-hero-sub {
+      font-family: var(--font-body);
+      font-size: 0.92rem;
+      color: var(--text-light);
+      margin: 0;
+    }
+
+    /* ── Quick Facts Bar ─────────────────────────────── */
+    .dh-facts {
+      max-width: 900px;
+      margin: 0 auto 24px;
+      padding: 0 28px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+    .dh-fact {
+      background: var(--bg-white);
+      border: 1.5px solid #e2e8f0;
+      border-radius: 10px;
+      padding: 12px 18px;
+      min-width: 160px;
+      flex: 1;
+    }
+    .dh-fact-label {
+      font-family: var(--font-display);
+      font-size: 0.65rem;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--text-light);
+      margin-bottom: 4px;
+    }
+    .dh-fact-value {
+      font-family: var(--font-display);
+      font-size: 0.96rem;
+      font-weight: 700;
+      color: var(--text-dark);
+      line-height: 1.3;
+    }
+    .dh-fact-value.amber { color: #b7791f; }
+
+    /* ── Etymology Box ───────────────────────────────── */
+    .dh-etymology {
+      max-width: 900px;
+      margin: 0 auto 24px;
+      padding: 0 28px;
+    }
+    .dh-etymology-inner {
+      background: linear-gradient(135deg, #fffbeb 0%, #fef3c7 100%);
+      border: 1.5px solid #f6d860;
+      border-left: 4px solid var(--accent-amber);
+      border-radius: 10px;
+      padding: 14px 20px;
+      display: flex;
+      align-items: flex-start;
+      gap: 12px;
+    }
+    .dh-etymology-icon {
+      font-size: 1.4rem;
+      flex-shrink: 0;
+      margin-top: 2px;
+    }
+    .dh-etymology-label {
+      font-family: var(--font-display);
+      font-size: 0.65rem;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: #92660a;
+      margin-bottom: 3px;
+    }
+    .dh-etymology-text {
+      font-family: var(--font-body);
+      font-size: 0.9rem;
+      color: #78350f;
+      line-height: 1.55;
+      margin: 0;
+    }
+
+    /* ── Timeline ────────────────────────────────────── */
+    .dh-timeline-wrap {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 0 28px;
+    }
+    .dh-section-label {
+      font-family: var(--font-display);
+      font-size: 0.72rem;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--text-light);
+      margin-bottom: 16px;
+    }
+
+    .dh-timeline {
+      position: relative;
+      padding-left: 28px;
+    }
+    /* The vertical line */
+    .dh-timeline::before {
+      content: '';
+      position: absolute;
+      left: 7px;
+      top: 6px;
+      bottom: 6px;
+      width: 2px;
+      background: linear-gradient(to bottom, var(--accent-amber), transparent);
+    }
+
+    .dh-event {
+      position: relative;
+      margin-bottom: 22px;
+    }
+    /* Timeline dot */
+    .dh-event::before {
+      content: '';
+      position: absolute;
+      left: -24px;
+      top: 6px;
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      background: var(--accent-amber);
+      border: 2px solid #fff;
+      box-shadow: 0 0 0 2px var(--accent-amber);
+    }
+    /* Discovery event gets a special dot */
+    .dh-event.is-discovery::before {
+      width: 14px;
+      height: 14px;
+      left: -26px;
+      top: 4px;
+      background: #b7791f;
+      box-shadow: 0 0 0 3px rgba(183,121,31,0.3);
+    }
+
+    .dh-event-year {
+      font-family: var(--font-mono);
+      font-size: 0.78rem;
+      font-weight: 700;
+      color: var(--accent-amber);
+      margin-bottom: 3px;
+      letter-spacing: 0.05em;
+    }
+    .dh-event.is-discovery .dh-event-year {
+      color: #92660a;
+      font-size: 0.85rem;
+    }
+
+    .dh-event-text {
+      font-family: var(--font-body);
+      font-size: 0.88rem;
+      color: var(--text-medium);
+      line-height: 1.6;
+      margin: 0;
+    }
+    .dh-event.is-discovery .dh-event-text {
+      color: var(--text-dark);
+      font-weight: 500;
+    }
+
+    /* ── Story Box ───────────────────────────────────── */
+    .dh-story {
+      max-width: 900px;
+      margin: 28px auto 0;
+      padding: 0 28px 48px;
+    }
+    .dh-story-inner {
+      background: var(--bg-white);
+      border: 1.5px solid #e2e8f0;
+      border-radius: 12px;
+      padding: 22px 24px;
+    }
+    .dh-story-label {
+      font-family: var(--font-display);
+      font-size: 0.72rem;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--accent-amber);
+      margin-bottom: 10px;
+    }
+    .dh-story-text {
+      font-family: var(--font-body);
+      font-size: 0.92rem;
+      color: var(--text-medium);
+      line-height: 1.75;
+      margin: 0 0 14px;
+    }
+    .dh-source-note {
+      font-family: var(--font-mono);
+      font-size: 0.72rem;
+      color: var(--text-light);
+      border-top: 1px solid #eef2f7;
+      padding-top: 10px;
+      margin: 0;
+    }
+
+    /* ── Coming Soon ─────────────────────────────────── */
+    .dh-coming-soon {
+      max-width: 600px;
+      margin: 60px auto;
+      text-align: center;
+      padding: 0 28px;
+    }
+    .dh-coming-soon .icon { font-size: 3rem; margin-bottom: 16px; }
+    .dh-coming-soon h2 {
+      font-family: var(--font-display);
+      font-size: 1.4rem;
+      font-weight: 700;
+      color: var(--text-dark);
+      margin: 0 0 10px;
+    }
+    .dh-coming-soon p {
+      font-family: var(--font-body);
+      font-size: 0.92rem;
+      color: var(--text-light);
+      line-height: 1.6;
+    }
+
+    /* ── Responsive ──────────────────────────────────── */
+    @media (max-width: 600px) {
+      .dh-hero, .dh-facts, .dh-etymology, .dh-timeline-wrap, .dh-story {
+        padding-left: 14px;
+        padding-right: 14px;
+      }
+      .dh-fact { min-width: 120px; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ── STICKY HEADER ──────────────────────────────────────── -->
+<header class="iu-header" id="page-header">
+  <!-- populated by JS -->
+</header>
+
+<!-- ── MAIN CONTENT ───────────────────────────────────────── -->
+<div id="dh-main">
+  <!-- populated by JS -->
+</div>
+
+<!-- ── Data & Logic ───────────────────────────────────────── -->
+<!-- ── Data & Logic ───────────────────────────────────────── -->
+<script src="elements-data.js"></script>
+<script>
+/* ── Page Initialization ──────────────────────────────────── */
+
+/* Read atomic number from URL query string: discovery-history.html?n=1 */
+var Z = parseInt(new URLSearchParams(window.location.search).get('n'), 10) || 1;
+
+/* Find the matching element row in the global ELEMENTS array */
+var elRow = null;
+for (var i = 0; i < ELEMENTS.length; i++) {
+  if (ELEMENTS[i][0] === Z) { elRow = ELEMENTS[i]; break; }
+}
+var elSymbol = elRow ? elRow[1] : '?';
+var elName   = elRow ? elRow[2] : 'Element';
+
+/* Build the back-link URL for this element's detail page */
+var elPageUrl = 'element.html?n=' + Z;
+
+/* ── JSON Filename Builder ────────────────────────────────── */
+
+/*
+ * Builds the fetch URL for the element's discovery JSON file.
+ * Format: discovery/NNN-elementname.json  (e.g. discovery/001-hydrogen.json)
+ * z: atomic number of the element
+ */
+function discoveryFileName(z) {
+  var name = elName.toLowerCase().replace(/\s+/g, '-');
+  var padded = ('000' + z).slice(-3);
+  return 'discovery/' + padded + '-' + name + '.json';
+}
+
+/* ── Header Renderer ──────────────────────────────────────── */
+
+/*
+ * Populates the sticky header with a back button and the element badge.
+ * Called immediately on page load so the header is visible during the fetch.
+ */
+function renderHeader() {
+  document.getElementById('page-header').innerHTML =
+    '<a href="' + elPageUrl + '" class="iu-back-btn">← Back to ' + elName + '</a>' +
+    '<div class="iu-elem-badge">' +
+      '<span class="iu-elem-symbol">' + elSymbol + '</span>' +
+      '<span class="iu-elem-name">' + elName + '</span>' +
+    '</div>';
+}
+
+/* ── Coming Soon Renderer ─────────────────────────────────── */
+
+/*
+ * Renders the coming-soon placeholder when a discovery JSON file is not yet available.
+ * Shown whenever the fetch fails or returns a non-OK response.
+ */
+function renderComingSoon() {
+  document.getElementById('dh-main').innerHTML =
+    '<div class="dh-hero">' +
+      '<div class="dh-hero-label">Discovery History</div>' +
+      '<h1 class="dh-hero-title">Discovery &amp; Naming — ' + elName + '</h1>' +
+    '</div>' +
+    '<div class="dh-coming-soon">' +
+      '<div class="icon">📜</div>' +
+      '<h2>History Coming Soon</h2>' +
+      '<p>The discovery timeline and naming history for <strong>' + elName + '</strong> ' +
+      'is being researched and will be added here soon.</p>' +
+    '</div>';
+}
+
+/* ── Full Discovery Panel Renderer ───────────────────────── */
+
+/*
+ * Renders the complete discovery history panel from loaded JSON data.
+ * Builds the quick-facts bar, etymology box, dated timeline, and story card.
+ * The discovery year event is highlighted with a special CSS class.
+ * data: parsed JSON object from the discovery/ file
+ */
+function renderDiscovery(data) {
+
+  /* Build the quick-facts bar — only shows cards for fields that have values */
+  var factsHTML =
+    factCard('Discovered', data.discovered) +
+    factCard('Discoverer', data.discoverer) +
+    factCard('Country', data.country) +
+    (data.named_by !== data.discoverer ? factCard('Named By', data.named_by) : '') +
+    (data.named && data.named !== data.discovered ? factCard('Name Given', data.named) : '');
+
+  /* Build the vertical timeline — highlights the discovery year event */
+  var timelineHTML = '';
+  var discoveryYear = data.discovered;
+  data.timeline.forEach(function(ev) {
+    var isDisc = (ev.year === discoveryYear);
+    timelineHTML +=
+      '<div class="dh-event' + (isDisc ? ' is-discovery' : '') + '">' +
+        '<div class="dh-event-year">' + ev.year +
+          (isDisc ? ' — <strong>DISCOVERY</strong>' : '') +
+        '</div>' +
+        '<p class="dh-event-text">' + ev.event + '</p>' +
+      '</div>';
+  });
+
+  /* Assemble and inject the full panel HTML */
+  document.getElementById('dh-main').innerHTML =
+
+    /* Hero section: section label, title, subtitle */
+    '<div class="dh-hero">' +
+      '<div class="dh-hero-label">Discovery History</div>' +
+      '<h1 class="dh-hero-title">Discovery &amp; Naming — ' + elName + '</h1>' +
+      '<p class="dh-hero-sub">Historical timeline from first observations to modern understanding</p>' +
+    '</div>' +
+
+    /* Quick facts bar: discoverer, year, country, named by */
+    '<div class="dh-facts">' + factsHTML + '</div>' +
+
+    /* Etymology box: origin and meaning of the element's name */
+    '<div class="dh-etymology">' +
+      '<div class="dh-etymology-inner">' +
+        '<div class="dh-etymology-icon">🔤</div>' +
+        '<div>' +
+          '<div class="dh-etymology-label">Name &amp; Etymology</div>' +
+          '<p class="dh-etymology-text">' + data.etymology + '</p>' +
+        '</div>' +
+      '</div>' +
+    '</div>' +
+
+    /* Timeline: dated historical events, discovery year highlighted */
+    '<div class="dh-timeline-wrap">' +
+      '<div class="dh-section-label">Historical Timeline</div>' +
+      '<div class="dh-timeline">' + timelineHTML + '</div>' +
+    '</div>' +
+
+    /* Story card: narrative about the discovery with source note */
+    '<div class="dh-story">' +
+      '<div class="dh-story-inner">' +
+        '<div class="dh-story-label">📖 The Story Behind the Discovery</div>' +
+        '<p class="dh-story-text">' + data.story + '</p>' +
+        '<p class="dh-source-note">' + data.source_note + '</p>' +
+      '</div>' +
+    '</div>';
+}
+
+/* ── Fact Card Builder ────────────────────────────────────── */
+
+/*
+ * Returns the HTML for a single quick-fact card in the facts bar.
+ * Returns an empty string if value is falsy (card is omitted).
+ * label: the field name displayed above the value
+ * value: the fact value to display
+ */
+function factCard(label, value) {
+  if (!value) return '';
+  return '<div class="dh-fact">' +
+    '<div class="dh-fact-label">' + label + '</div>' +
+    '<div class="dh-fact-value">' + value + '</div>' +
+  '</div>';
+}
+
+/* ── Init ─────────────────────────────────────────────────── */
+
+/* Render the header immediately (element name is already known) */
+renderHeader();
+
+/* Fetch the discovery JSON file and render the panel, or show coming-soon on failure */
+fetch(discoveryFileName(Z))
+  .then(function(resp) {
+    if (!resp.ok) throw new Error('Not found');
+    return resp.json();
+  })
+  .then(function(data) {
+    renderDiscovery(data);
+  })
+  .catch(function() {
+    renderComingSoon();
+  });
+</script>
+</body>
+</html>

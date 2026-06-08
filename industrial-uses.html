@@ -1,0 +1,677 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Industrial Uses — Materials Information Platform</title>
+  <link rel="stylesheet" href="styles.css">
+  <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;500;600;700&family=Share+Tech+Mono&family=Barlow:wght@400;600;700&display=swap" rel="stylesheet">
+  <style>
+    /* ── Page Shell ─────────────────────────────────── */
+    body { background: var(--bg-page); }
+
+    .iu-header {
+      background: var(--bg-header);
+      border-bottom: 3px solid var(--accent-blue);
+      padding: 14px 24px;
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+    .iu-back-btn {
+      font-family: var(--font-display);
+      font-weight: 600;
+      font-size: 0.85rem;
+      letter-spacing: 0.04em;
+      color: #cbd5e0;
+      background: rgba(255,255,255,0.08);
+      border: 1px solid rgba(255,255,255,0.18);
+      border-radius: 20px;
+      padding: 6px 14px;
+      cursor: pointer;
+      text-decoration: none;
+      transition: background 0.15s, color 0.15s;
+      white-space: nowrap;
+    }
+    .iu-back-btn:hover { background: rgba(255,255,255,0.16); color: #fff; }
+    .iu-back-btn.secondary { color: #90cdf4; border-color: rgba(144,205,244,0.35); }
+    .iu-elem-badge {
+      margin-left: auto;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      background: rgba(255,255,255,0.07);
+      border: 1.5px solid rgba(255,255,255,0.15);
+      border-radius: 24px;
+      padding: 6px 14px 6px 10px;
+    }
+    .iu-elem-symbol {
+      font-family: var(--font-display);
+      font-weight: 700;
+      font-size: 1.3rem;
+      color: #fff;
+    }
+    .iu-elem-name {
+      font-family: var(--font-display);
+      font-size: 0.85rem;
+      color: #a0aec0;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+    }
+
+    /* ── Page Hero ──────────────────────────────────── */
+    .iu-hero {
+      padding: 32px 28px 20px;
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .iu-hero-label {
+      font-family: var(--font-display);
+      font-size: 0.72rem;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--accent-blue);
+      margin-bottom: 6px;
+    }
+    .iu-hero-title {
+      font-family: var(--font-display);
+      font-size: clamp(1.4rem, 3.5vw, 2rem);
+      font-weight: 700;
+      color: var(--text-dark);
+      letter-spacing: 0.02em;
+      margin: 0 0 6px;
+    }
+    .iu-hero-sub {
+      font-family: var(--font-body);
+      font-size: 0.92rem;
+      color: var(--text-light);
+      margin: 0;
+    }
+
+    /* ── Industries Panel ───────────────────────────── */
+    .iu-list {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 4px 28px 48px;
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+    }
+
+    .ind-card {
+      background: var(--bg-white);
+      border: 1.5px solid #e2e8f0;
+      border-radius: 12px;
+      overflow: hidden;
+      transition: box-shadow 0.18s, border-color 0.18s;
+    }
+    .ind-card:hover { box-shadow: 0 4px 18px rgba(0,0,0,0.09); border-color: #c3d0e2; }
+
+    .ind-top {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      padding: 18px 20px 14px;
+      border-bottom: 1px solid #eef2f7;
+    }
+    .ind-icon {
+      font-size: 1.6rem;
+      line-height: 1;
+      flex-shrink: 0;
+    }
+    .ind-meta { flex: 1; min-width: 0; }
+    .ind-name {
+      font-family: var(--font-display);
+      font-weight: 700;
+      font-size: 1.08rem;
+      color: var(--text-dark);
+      letter-spacing: 0.01em;
+    }
+    .ind-share {
+      font-family: var(--font-mono);
+      font-size: 0.73rem;
+      color: #48bb78;
+      margin-top: 2px;
+    }
+    .ind-companies-btn {
+      flex-shrink: 0;
+      font-family: var(--font-display);
+      font-weight: 700;
+      font-size: 0.82rem;
+      letter-spacing: 0.04em;
+      color: #fff;
+      background: var(--bg-header);
+      border: none;
+      border-radius: 8px;
+      padding: 9px 16px;
+      cursor: pointer;
+      transition: background 0.15s, transform 0.1s;
+      white-space: nowrap;
+    }
+    .ind-companies-btn:hover { background: #3a5a8f; transform: translateY(-1px); }
+    .ind-companies-btn::after { content: ' →'; }
+
+    .ind-uses {
+      padding: 14px 20px 16px;
+      list-style: none;
+      margin: 0;
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 6px 20px;
+    }
+    .ind-uses li {
+      font-family: var(--font-body);
+      font-size: 0.87rem;
+      color: var(--text-medium);
+      line-height: 1.5;
+      padding-left: 14px;
+      position: relative;
+    }
+    .ind-uses li::before {
+      content: '•';
+      position: absolute;
+      left: 0;
+      color: var(--accent-blue);
+      font-weight: 700;
+    }
+
+    /* ── Companies Panel ────────────────────────────── */
+    #companies-panel { display: none; }
+
+    .cp-hero {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 28px 28px 16px;
+    }
+    .cp-industry-label {
+      font-family: var(--font-display);
+      font-size: 0.72rem;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--text-light);
+      margin-bottom: 4px;
+    }
+    .cp-industry-name {
+      font-family: var(--font-display);
+      font-size: clamp(1.2rem, 3vw, 1.7rem);
+      font-weight: 700;
+      color: var(--text-dark);
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin: 0 0 6px;
+    }
+    .cp-industry-share {
+      font-family: var(--font-mono);
+      font-size: 0.78rem;
+      color: #48bb78;
+    }
+    .cp-divider {
+      height: 2px;
+      background: linear-gradient(to right, var(--accent-blue), transparent);
+      max-width: 900px;
+      margin: 0 auto 20px;
+    }
+
+    .cp-grid {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 0 28px 48px;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+    .co-card {
+      background: var(--bg-white);
+      border: 1.5px solid #e2e8f0;
+      border-left: 4px solid var(--accent-blue);
+      border-radius: 8px;
+      padding: 16px 20px;
+      transition: box-shadow 0.15s;
+    }
+    .co-card:hover { box-shadow: 0 3px 14px rgba(0,0,0,0.08); }
+    .co-header {
+      display: flex;
+      align-items: baseline;
+      gap: 10px;
+      margin-bottom: 6px;
+      flex-wrap: wrap;
+    }
+    .co-name {
+      font-family: var(--font-display);
+      font-weight: 700;
+      font-size: 1.02rem;
+      color: var(--text-dark);
+    }
+    .co-hq {
+      font-family: var(--font-mono);
+      font-size: 0.72rem;
+      color: var(--text-light);
+      border: 1px solid #d1dae6;
+      border-radius: 4px;
+      padding: 1px 6px;
+    }
+    .co-use {
+      font-family: var(--font-body);
+      font-size: 0.88rem;
+      color: var(--text-medium);
+      line-height: 1.6;
+    }
+
+    /* ── Coming Soon ────────────────────────────────── */
+    .iu-coming-soon {
+      max-width: 600px;
+      margin: 60px auto;
+      text-align: center;
+      padding: 0 28px;
+    }
+    .iu-coming-soon .icon { font-size: 3rem; margin-bottom: 16px; }
+    .iu-coming-soon h2 {
+      font-family: var(--font-display);
+      font-size: 1.4rem;
+      font-weight: 700;
+      color: var(--text-dark);
+      margin: 0 0 10px;
+    }
+    .iu-coming-soon p {
+      font-family: var(--font-body);
+      font-size: 0.92rem;
+      color: var(--text-light);
+      line-height: 1.6;
+    }
+
+    /* ── Responsive ─────────────────────────────────── */
+    @media (max-width: 600px) {
+      .iu-hero, .iu-list, .cp-hero, .cp-grid { padding-left: 14px; padding-right: 14px; }
+      .cp-divider { margin-left: 14px; margin-right: 14px; }
+      .ind-top { flex-wrap: wrap; }
+      .ind-companies-btn { width: 100%; text-align: center; }
+      .ind-uses { grid-template-columns: 1fr; }
+    }
+
+    /* ── Scale Badges ───────────────────────────────────── */
+    .co-scale {
+      display: flex;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin: 6px 0 8px;
+    }
+    .tier-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      font-family: var(--font-display);
+      font-weight: 700;
+      font-size: 0.72rem;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      padding: 3px 9px;
+      border-radius: 4px;
+    }
+    .tier-major { background:#fee2e2; color:#991b1b; }
+    .tier-large { background:#ffedd5; color:#9a3412; }
+    .tier-medium { background:#dbeafe; color:#1e40af; }
+    .tier-small  { background:#f3f4f6; color:#4b5563; }
+    .scale-chip {
+      font-family: var(--font-mono);
+      font-size: 0.70rem;
+      color: #4b5563;
+      background: #f1f5f9;
+      border: 1px solid #cbd5e1;
+      border-radius: 4px;
+      padding: 2px 8px;
+      white-space: nowrap;
+    }
+
+    /* ── Scale Guide (footnote) ─────────────────────────── */
+    .scale-guide {
+      max-width: 900px;
+      margin: 8px auto 0;
+      padding: 18px 28px 28px;
+      border-top: 2px solid #e2e8f0;
+    }
+    .scale-guide-title {
+      font-family: var(--font-display);
+      font-size: 0.72rem;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--text-light);
+      margin: 0 0 10px;
+    }
+    .tier-legend {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px 16px;
+      margin-bottom: 10px;
+      align-items: center;
+    }
+    .tier-legend-item {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-family: var(--font-body);
+      font-size: 0.8rem;
+      color: var(--text-medium);
+    }
+    .scale-guide-note {
+      font-family: var(--font-body);
+      font-size: 0.78rem;
+      color: var(--text-light);
+      line-height: 1.6;
+      margin: 0;
+    }
+  </style>
+</head>
+<body>
+
+<!-- ── STICKY HEADER (rebuilt per panel) ─────────────────── -->
+<header class="iu-header" id="page-header">
+  <!-- populated by JS -->
+</header>
+
+<!-- ══════════════════════════════════════════════════════════
+     PANEL 1: INDUSTRIES LIST
+     ════════════════════════════════════════════════════════ -->
+<div id="industries-panel">
+
+  <div class="iu-hero">
+    <div class="iu-hero-label">Industrial Applications</div>
+    <h1 class="iu-hero-title" id="ind-title">Top Industries &amp; Companies</h1>
+    <p class="iu-hero-sub" id="ind-sub">Major commercial sectors that use this element</p>
+  </div>
+
+  <div class="iu-list" id="ind-list">
+    <!-- populated by JS -->
+  </div>
+
+</div><!-- #industries-panel -->
+
+<!-- ══════════════════════════════════════════════════════════
+     PANEL 2: COMPANIES FOR ONE INDUSTRY
+     ════════════════════════════════════════════════════════ -->
+<div id="companies-panel">
+
+  <div class="cp-hero">
+    <div class="cp-industry-label">Companies — Top Industry View</div>
+    <div class="cp-industry-name" id="cp-title"><!-- icon + name --></div>
+    <div class="cp-industry-share" id="cp-share"></div>
+  </div>
+  <div class="cp-divider"></div>
+
+  <div class="cp-grid" id="cp-grid">
+    <!-- populated by JS -->
+  </div>
+
+</div><!-- #companies-panel -->
+
+<!-- ── Data & Logic ──────────────────────────────────────── -->
+<script src="elements-data.js"></script>
+<script>
+/* ── Page Initialization ──────────────────────────────────── */
+
+/* Read atomic number from URL query string: industrial-uses.html?n=79 */
+var Z = parseInt(new URLSearchParams(window.location.search).get('n'), 10) || 79;
+
+/* Find the matching element row in the global ELEMENTS array */
+var elRow = null;
+for (var i = 0; i < ELEMENTS.length; i++) {
+  if (ELEMENTS[i][0] === Z) { elRow = ELEMENTS[i]; break; }
+}
+var elSymbol = elRow ? elRow[1] : '?';
+var elName   = elRow ? elRow[2] : 'Element';
+
+/* Build the back-link URL for this element's detail page */
+var elPageUrl = 'element.html?n=' + Z;
+
+/* Cached JSON data for the current element (null until first fetch) */
+var elementData = null;
+
+/* ── JSON Filename Builder ────────────────────────────────── */
+
+/*
+ * Builds the fetch URL for the element's industries JSON file.
+ * Format: industries/NNN-elementname.json  (e.g. industries/079-gold.json)
+ * z: atomic number of the element
+ */
+function industriesFileName(z) {
+  var name = elName.toLowerCase().replace(/\s+/g, '-');
+  var padded = ('000' + z).slice(-3);
+  return 'industries/' + padded + '-' + name + '.json';
+}
+
+/* ── JSON Loader ──────────────────────────────────────────── */
+
+/*
+ * Fetches the element's industries JSON file and calls callback with parsed data.
+ * Shows a loading spinner while the fetch is in flight.
+ * Calls callback(null) if the fetch or parse fails.
+ * callback: function(data) — receives the parsed JSON object or null
+ */
+function loadIndustriesData(callback) {
+  /* Show loading state while fetch is in flight */
+  document.getElementById('ind-list').innerHTML =
+    '<div class="iu-coming-soon"><div class="icon">⏳</div>' +
+    '<h2>Loading…</h2></div>';
+
+  var url = industriesFileName(Z);
+  console.log('[Industries] Fetching:', url, '| Full URL:', window.location.origin + '/' + url);
+  fetch(url)
+    .then(function(resp) {
+      console.log('[Industries] Response status:', resp.status, resp.url);
+      if (!resp.ok) { throw new Error('HTTP ' + resp.status + ' for ' + resp.url); }
+      return resp.json();
+    })
+    .then(function(data) {
+      console.log('[Industries] Loaded OK:', Object.keys(data));
+      elementData = data;
+      callback(data);
+    })
+    .catch(function(err) {
+      console.error('[Industries] FAILED:', err);
+      elementData = null;
+      callback(null);
+    });
+}
+
+/* ── Badge HTML Builder ───────────────────────────────────── */
+
+/*
+ * Returns the element symbol/name badge HTML used in both panel headers.
+ * Reused by renderIndustriesPanel() and showCompanies().
+ */
+function badgeHTML() {
+  return '<div class="iu-elem-badge">' +
+         '<span class="iu-elem-symbol">' + elSymbol + '</span>' +
+         '<span class="iu-elem-name">' + elName + '</span>' +
+         '</div>';
+}
+
+/* ── Scale Guide Builder ──────────────────────────────────── */
+
+/*
+ * Returns the HTML for the tier legend and data source footnote at the bottom
+ * of the companies panel. Adjusts the note text for Tier 2 (specialty/rare) elements.
+ * dataTier: 1 = commodity element with public volume data; 2 = specialty/rare element
+ */
+function scaleGuideHTML(dataTier) {
+  var t2note = dataTier === 2
+    ? ' For this element (Tier 2 — specialty/rare), public volume and market share data are not available; only relative tier ratings are shown.'
+    : '';
+  return '<div class="scale-guide">' +
+    '<div class="scale-guide-title">&#128202; Scale Guide</div>' +
+    '<div class="tier-legend">' +
+      '<div class="tier-legend-item"><span class="tier-badge tier-major">&#9670;&#9670;&#9670;&#9670; Major</span> Dominant market presence; highest volume in sector</div>' +
+      '<div class="tier-legend-item"><span class="tier-badge tier-large">&#9670;&#9670;&#9670;&#9671; Large</span> Significant consumer; top-tier within industry</div>' +
+      '<div class="tier-legend-item"><span class="tier-badge tier-medium">&#9670;&#9670;&#9671;&#9671; Medium</span> Established consumer; mid-range volume</div>' +
+      '<div class="tier-legend-item"><span class="tier-badge tier-small">&#9670;&#9671;&#9671;&#9671; Small</span> Niche or specialty consumer</div>' +
+    '</div>' +
+    '<p class="scale-guide-note">Volume figures show estimated annual element consumption from public filings, sustainability reports, USGS Mineral Commodity Summaries, and industry analyst data. ' +
+    'Market share reflects the company\'s portion within that specific industrial sector.' + t2note + '</p>' +
+  '</div>';
+}
+
+/* ── Industries Panel Renderer ────────────────────────────── */
+
+/*
+ * Renders the industries list panel using loaded JSON data.
+ * If data is null (fetch failed), shows the coming-soon placeholder instead.
+ * data: parsed JSON object from the industries/ file, or null
+ */
+function renderIndustriesPanel(data) {
+  /* Always rebuild the header (element badge + back button) */
+  document.getElementById('page-header').innerHTML =
+    '<a href="' + elPageUrl + '" class="iu-back-btn">← Back to ' + elName + '</a>' +
+    badgeHTML();
+
+  if (!data) {
+    /* Coming-soon state — fetch failed or file not yet available */
+    document.getElementById('ind-title').textContent = 'Industrial Uses — ' + elName;
+    document.getElementById('ind-sub').textContent = '';
+    document.getElementById('ind-list').innerHTML =
+      '<div class="iu-coming-soon">' +
+        '<div class="icon">🏗️</div>' +
+        '<h2>Data Coming Soon</h2>' +
+        '<p>Industrial applications and top companies for <strong>' + elName + '</strong> ' +
+        'are being researched and will be added here soon.</p>' +
+      '</div>';
+    return;
+  }
+
+  /* Update hero text with industry count */
+  document.getElementById('ind-title').textContent =
+    'Top Industries Using ' + elName;
+  document.getElementById('ind-sub').textContent =
+    data.industries.length + ' major commercial sectors — click any row for top companies';
+
+  /* Build one card per industry */
+  var html = '';
+  data.industries.forEach(function(ind, idx) {
+    html += '<div class="ind-card">';
+    html +=   '<div class="ind-top">';
+    html +=     '<div class="ind-icon">' + ind.icon + '</div>';
+    html +=     '<div class="ind-meta">';
+    html +=       '<div class="ind-name">' + ind.name + '</div>';
+    html +=       '<div class="ind-share">' + ind.share + '</div>';
+    html +=     '</div>';
+    /* Button passes the industry index to showCompanies() */
+    html +=     '<button class="ind-companies-btn" onclick="showCompanies(' + idx + ')">Top Companies</button>';
+    html +=   '</div>';
+    html +=   '<ul class="ind-uses">';
+    ind.uses.forEach(function(u) {
+      html += '<li>' + u + '</li>';
+    });
+    html +=   '</ul>';
+    html += '</div>';
+  });
+
+  document.getElementById('ind-list').innerHTML = html;
+}
+
+/* ── Industries Panel Builder ─────────────────────────────── */
+
+/*
+ * Entry point for displaying the industries list panel.
+ * Uses cached data if available; fetches from the JSON file otherwise.
+ */
+function buildIndustriesPanel() {
+  /* Set header immediately since we already know the element name */
+  document.getElementById('page-header').innerHTML =
+    '<a href="' + elPageUrl + '" class="iu-back-btn">← Back to ' + elName + '</a>' +
+    badgeHTML();
+
+  /* If data already cached (returning from companies panel), render immediately */
+  if (elementData !== null) {
+    renderIndustriesPanel(elementData);
+    return;
+  }
+
+  /* Otherwise fetch the JSON file for this element */
+  loadIndustriesData(function(data) {
+    renderIndustriesPanel(data);
+  });
+}
+
+/* ── Companies Panel ──────────────────────────────────────── */
+
+/*
+ * Switches to the companies panel and renders company cards for one industry.
+ * idx: index of the industry in the data.industries array
+ */
+function showCompanies(idx) {
+  var data = elementData;
+  if (!data) { showIndustries(); return; }
+  var ind = data.industries[idx];
+
+  /* Header for companies panel has two back buttons */
+  document.getElementById('page-header').innerHTML =
+    '<button class="iu-back-btn" onclick="showIndustries()">← Back to Industries</button>' +
+    '<a href="' + elPageUrl + '" class="iu-back-btn secondary">← Back to ' + elName + '</a>' +
+    badgeHTML();
+
+  /* Industry name and share in the companies panel hero */
+  document.getElementById('cp-title').innerHTML =
+    '<span>' + ind.icon + '</span><span>' + ind.name + '</span>';
+  document.getElementById('cp-share').textContent = ind.share;
+
+  /* Build one card per company */
+  var html = '';
+  var tierLabels = {
+    major:  '&#9670;&#9670;&#9670;&#9670;&nbsp;Major',
+    large:  '&#9670;&#9670;&#9670;&#9671;&nbsp;Large',
+    medium: '&#9670;&#9670;&#9671;&#9671;&nbsp;Medium',
+    small:  '&#9670;&#9671;&#9671;&#9671;&nbsp;Small'
+  };
+  ind.companies.forEach(function(co) {
+    var tier = co.tier || 'small';
+    html += '<div class="co-card">';
+    html +=   '<div class="co-header">';
+    html +=     '<span class="co-name">' + co.name + '</span>';
+    html +=     '<span class="co-hq">' + co.hq + '</span>';
+    html +=   '</div>';
+    html +=   '<div class="co-scale">';
+    html +=     '<span class="tier-badge tier-' + tier + '">' + (tierLabels[tier] || tier) + '</span>';
+    /* Only show volume and share chips if data is available */
+    if (co.volume) html += '<span class="scale-chip">' + co.volume + '</span>';
+    if (co.share)  html += '<span class="scale-chip">' + co.share + '</span>';
+    html +=   '</div>';
+    html +=   '<div class="co-use">' + co.use + '</div>';
+    html += '</div>';
+  });
+
+  /* Append the scale guide legend below the company cards */
+  var dataTier = (data && data.dataTier) || 1;
+  document.getElementById('cp-grid').innerHTML = html + scaleGuideHTML(dataTier);
+
+  /* Switch from industries panel to companies panel */
+  document.getElementById('industries-panel').style.display = 'none';
+  document.getElementById('companies-panel').style.display  = 'block';
+  window.scrollTo(0, 0);
+}
+
+/* ── Industries Panel Show ────────────────────────────────── */
+
+/*
+ * Switches back to the industries list panel from the companies panel.
+ * Re-renders the panel using cached data (no second fetch needed).
+ */
+function showIndustries() {
+  document.getElementById('companies-panel').style.display  = 'none';
+  document.getElementById('industries-panel').style.display = 'block';
+  buildIndustriesPanel();
+  window.scrollTo(0, 0);
+}
+
+/* ── Init ─────────────────────────────────────────────────── */
+/* Start by building the industries panel on page load */
+buildIndustriesPanel();
+</script>
+
+</body>
+</html>

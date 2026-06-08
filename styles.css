@@ -1,0 +1,662 @@
+/* =============================================================
+   MATERIALS INFORMATION PLATFORM — styles.css  (v2)
+   ============================================================= */
+
+/* ── 1. CSS VARIABLES ─────────────────────────────────────── */
+:root {
+  /* ── Category fill colors ── */
+  --col-alkali:          #FF6B6B;
+  --col-alkaline:        #FFA94D;
+  --col-transition:      #4FC3F7;
+  --col-post:            #69DB7C;
+  --col-metalloid:       #CC99FF;
+  --col-nonmetal:        #FFD43B;   /* "Other Nonmetals" */
+  --col-halogen:         #AAEE55;   /* NEW — lime green */
+  --col-noble:           #66CCCC;
+  --col-lanthanide:      #FF99BB;
+  --col-actinide:        #FFCC44;
+  --col-inner:           #C8CDD2;   /* "Inner-Transition" = same shade as old unknown */
+  --col-unknown:         #B8BCC4;   /* residual unknown (no elements currently) */
+
+  /* ── Darker border shades ── */
+  --col-alkali-dk:       #CC3333;
+  --col-alkaline-dk:     #CC7700;
+  --col-transition-dk:   #0077AA;
+  --col-post-dk:         #229944;
+  --col-metalloid-dk:    #7744CC;
+  --col-nonmetal-dk:     #BB8800;
+  --col-halogen-dk:      #77BB00;
+  --col-noble-dk:        #228888;
+  --col-lanthanide-dk:   #CC4477;
+  --col-actinide-dk:     #BB9900;
+  --col-inner-dk:        #7A8490;
+  --col-unknown-dk:      #808890;
+
+  /* ── Page & UI ── */
+  --bg-page:      #F0F2F5;
+  --bg-header:    #2A3F6F;   /* slightly lighter than v1 */
+  --bg-white:     #FFFFFF;
+  --accent-blue:  #4A90D9;
+  --text-dark:    #111827;
+  --text-medium:  #374151;
+  --text-light:   #6B7280;
+  --border-light: #E5E7EB;
+  --period-bg:    #4A5568;
+
+  /* ── Fonts ── */
+  --font-display: 'Rajdhani', 'Arial Narrow', Arial, sans-serif;
+  --font-mono:    'Share Tech Mono', 'Courier New', monospace;
+  --font-body:    'Barlow', Arial, sans-serif;
+
+  /* ── Table sizing ── */
+  --cell-size: 56px;
+  --cell-gap:   3px;
+  --brad:       4px;
+}
+
+/* ── 2. RESET & BASE ──────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { font-size: 16px; }
+body {
+  background: var(--bg-page);
+  color: var(--text-dark);
+  font-family: var(--font-body);
+  min-height: 100vh;
+  padding-bottom: 40px;
+}
+a { color: inherit; text-decoration: none; }
+
+/* ── 3. SITE HEADER ───────────────────────────────────────── */
+.site-header {
+  background: var(--bg-header);
+  color: #fff;
+  text-align: center;
+  padding: 18px 20px 14px;
+  border-bottom: 3px solid var(--accent-blue);
+}
+
+.site-title {
+  font-family: var(--font-display);
+  font-size: 2.6rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  color: #fff;
+}
+
+/* ── 4. INFO BOX (usage instructions) ────────────────────── */
+.info-box {
+  border: 2px solid var(--accent-blue);
+  border-radius: 8px;
+  margin: 10px 14px;
+  padding: 11px 18px;
+  background: #F4F8FF;
+  font-family: var(--font-body);
+  font-size: 0.84rem;
+  line-height: 1.75;
+  color: var(--text-medium);
+}
+
+.info-box strong {
+  font-family: var(--font-display);
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: var(--text-dark);
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  display: block;
+  margin-bottom: 6px;
+}
+
+.info-box ul { list-style: none; padding: 0; }
+.info-box li { padding-left: 1.2em; position: relative; }
+.info-box li::before {
+  content: "•";
+  color: var(--accent-blue);
+  font-weight: 900;
+  position: absolute;
+  left: 0;
+}
+
+/* ── 5. GROUPS LEGEND BOX ─────────────────────────────────── */
+.category-legend {
+  border: 3px solid #2D3748;
+  border-radius: 8px;
+  margin: 10px 14px;
+  padding: 10px 14px;
+  background: var(--bg-white);
+}
+
+.legend-label {
+  font-family: var(--font-display);
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: #2D3748;
+  letter-spacing: 0.12em;
+  display: block;
+  margin-bottom: 9px;
+}
+
+.cat-btn {
+  padding: 4px 11px;
+  border: 2px solid transparent;
+  border-radius: 20px;
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 0.76rem;
+  cursor: pointer;
+  white-space: nowrap;
+  color: var(--text-dark);
+  transition: transform 0.12s, box-shadow 0.12s;
+  margin: 2px 2px;
+}
+.cat-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.22);
+}
+
+.legend-buttons { display: flex; flex-wrap: wrap; gap: 4px; }
+
+/* Category button colors */
+.cat-btn.alkali-metal      { background: var(--col-alkali);     border-color: var(--col-alkali-dk); }
+.cat-btn.alkaline-earth    { background: var(--col-alkaline);   border-color: var(--col-alkaline-dk); }
+.cat-btn.transition-metal  { background: var(--col-transition); border-color: var(--col-transition-dk); }
+.cat-btn.post-transition   { background: var(--col-post);       border-color: var(--col-post-dk); }
+.cat-btn.metalloid         { background: var(--col-metalloid);  border-color: var(--col-metalloid-dk); }
+.cat-btn.reactive-nonmetal { background: var(--col-nonmetal);   border-color: var(--col-nonmetal-dk); }
+.cat-btn.halogen           { background: var(--col-halogen);    border-color: var(--col-halogen-dk); }
+.cat-btn.noble-gas         { background: var(--col-noble);      border-color: var(--col-noble-dk); }
+.cat-btn.lanthanide        { background: var(--col-lanthanide); border-color: var(--col-lanthanide-dk); }
+.cat-btn.actinide          { background: var(--col-actinide);   border-color: var(--col-actinide-dk); }
+.cat-btn.inner-transition  { background: var(--col-inner);      border-color: var(--col-inner-dk); }
+
+/* ── 6. TABLE WRAPPER ─────────────────────────────────────── */
+.table-wrapper {
+  padding: 10px 10px 6px;
+  overflow-x: auto;
+}
+
+/* Flex row: period column on LEFT + the 18-column grid */
+.table-layout {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--cell-gap);
+  min-width: fit-content;
+  margin: 0 auto;
+}
+
+/* ── 7. PERIOD COLUMN (left side, boxed) ──────────────────── */
+.period-column {
+  display: flex;
+  flex-direction: column;
+  border: 3px solid var(--period-bg);
+  border-radius: 6px;
+  overflow: hidden;
+  flex-shrink: 0;
+  background: var(--bg-white);
+}
+
+.period-btns-box {
+  display: flex;
+  flex-direction: column;
+  gap: var(--cell-gap);
+  padding: var(--cell-gap);
+}
+
+.period-btn {
+  width: 40px;
+  height: var(--cell-size);
+  background: var(--period-bg);
+  color: #fff;
+  border: none;
+  border-radius: var(--brad);
+  font-family: var(--font-display);
+  font-size: 1.1rem;
+  font-weight: 700;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background 0.12s, transform 0.1s;
+}
+.period-btn:hover { background: #2D3748; transform: scale(1.08); }
+
+/* "PERIODS" label at bottom of the column box */
+.periods-col-label {
+  background: var(--bg-white);
+  color: var(--text-dark);
+  text-align: center;
+  padding: 5px 3px;
+  font-family: var(--font-display);
+  font-size: 0.6rem;
+  font-weight: 900;
+  letter-spacing: 0.14em;
+  border-top: 2px solid var(--period-bg);
+}
+
+/* ── 8. PERIODIC TABLE GRID (18 cols, no period-button col) ── */
+/*
+  Grid columns 1-18 = groups 1-18
+  Rows 1-7  = periods 1-7
+  Row 8     = dashed spacer (14 px)
+  Row 9     = lanthanides
+  Row 10    = actinides
+*/
+.periodic-grid {
+  display: grid;
+  grid-template-columns: repeat(18, var(--cell-size));
+  grid-template-rows:
+    repeat(7, var(--cell-size))
+    14px
+    var(--cell-size)
+    var(--cell-size);
+  gap: var(--cell-gap);
+}
+
+/* Spacer row */
+.grid-spacer {
+  grid-column: 1 / 19;
+  border-top: 2px dashed #CBD5E0;
+  margin: 4px 0;
+}
+
+/* ── 9. ELEMENT CELL BUTTONS ─────────────────────────────── */
+.element-cell {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid transparent;
+  border-radius: var(--brad);
+  cursor: pointer;
+  position: relative;
+  padding: 2px 1px;
+  overflow: hidden;
+  transition: transform 0.13s ease, box-shadow 0.13s ease;
+}
+.element-cell:hover {
+  transform: scale(1.18);
+  box-shadow: 0 6px 20px rgba(0,0,0,0.3);
+  z-index: 100;
+  position: relative;
+}
+
+/* Atomic number — top-left */
+.atomic-num {
+  position: absolute;
+  top: 3px;
+  left: 4px;
+  font-family: var(--font-mono);
+  font-size: 0.6rem;
+  line-height: 1;
+  color: rgba(0,0,0,0.6);
+  font-weight: 600;
+}
+
+/* Element symbol — large, center */
+.symbol {
+  font-family: var(--font-display);
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1;
+  color: rgba(0,0,0,0.85);
+  margin-top: 6px;
+}
+
+/* Synthetic elements get a RED symbol */
+.element-cell.synthetic .symbol { color: #CC0000; }
+
+/* Element name — small, bottom */
+.elem-name {
+  font-family: var(--font-display);
+  font-size: 0.4rem;
+  font-weight: 600;
+  color: rgba(0,0,0,0.7);
+  text-align: center;
+  margin-top: 2px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 98%;
+}
+
+/* f-block placeholder cells */
+.element-cell.placeholder {
+  justify-content: center;
+  gap: 2px;
+  opacity: 0.9;
+}
+.f-label { font-family: var(--font-display); font-size: 0.42rem; font-weight: 700; text-align: center; line-height: 1.2; color: rgba(0,0,0,0.7); }
+.f-range { font-family: var(--font-mono); font-size: 0.62rem; font-weight: 700; color: rgba(0,0,0,0.8); }
+.f-arrow { font-size: 0.7rem; color: rgba(0,0,0,0.5); line-height: 1; }
+
+/* ── 10. CATEGORY COLORS ─────────────────────────────────── */
+.element-cell.alkali-metal      { background: var(--col-alkali);     border-color: var(--col-alkali-dk); }
+.element-cell.alkaline-earth    { background: var(--col-alkaline);   border-color: var(--col-alkaline-dk); }
+.element-cell.transition-metal  { background: var(--col-transition); border-color: var(--col-transition-dk); }
+.element-cell.post-transition   { background: var(--col-post);       border-color: var(--col-post-dk); }
+.element-cell.metalloid         { background: var(--col-metalloid);  border-color: var(--col-metalloid-dk); }
+.element-cell.reactive-nonmetal { background: var(--col-nonmetal);   border-color: var(--col-nonmetal-dk); }
+.element-cell.halogen           { background: var(--col-halogen);    border-color: var(--col-halogen-dk); }
+.element-cell.noble-gas         { background: var(--col-noble);      border-color: var(--col-noble-dk); }
+.element-cell.lanthanide        { background: var(--col-lanthanide); border-color: var(--col-lanthanide-dk); }
+.element-cell.actinide          { background: var(--col-actinide);   border-color: var(--col-actinide-dk); }
+.element-cell.inner-transition  { background: var(--col-inner);      border-color: var(--col-inner-dk); }
+.element-cell.unknown           { background: var(--col-unknown);    border-color: var(--col-unknown-dk); }
+
+/* ── 11. SYNTHETIC NOTE & FOOTER ─────────────────────────── */
+.synthetic-note {
+  padding: 8px 4px 2px;
+  font-family: var(--font-display);
+  font-size: 0.78rem;
+  color: #CC0000;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+}
+
+.site-footer {
+  text-align: center;
+  padding: 16px 20px;
+  font-size: 0.78rem;
+  color: var(--text-light);
+  border-top: 1px solid var(--border-light);
+  margin-top: 24px;
+}
+
+/* ── 12. TOAST ───────────────────────────────────────────── */
+.toast {
+  position: fixed;
+  bottom: 26px;
+  left: 50%;
+  transform: translateX(-50%) translateY(16px);
+  background: #1A2A4A;
+  color: #fff;
+  padding: 11px 24px;
+  border-radius: 28px;
+  font-family: var(--font-display);
+  font-size: 0.95rem;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+  opacity: 0;
+  pointer-events: none;
+  z-index: 9999;
+  max-width: 90vw;
+  text-align: center;
+  transition: opacity 0.25s, transform 0.25s;
+}
+.toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
+
+/* ── 13. INNER-PAGE SHARED HEADER ────────────────────────── */
+.page-header {
+  background: var(--bg-header);
+  color: #fff;
+  padding: 13px 22px;
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  border-bottom: 3px solid var(--accent-blue);
+}
+.page-header h1 {
+  font-family: var(--font-display);
+  font-size: 1.3rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+}
+.nav-back {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: rgba(255,255,255,0.12);
+  color: #fff;
+  border: 1px solid rgba(255,255,255,0.25);
+  border-radius: 6px;
+  padding: 7px 14px;
+  font-family: var(--font-display);
+  font-size: 0.88rem;
+  font-weight: 600;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: background 0.12s, transform 0.1s;
+  text-decoration: none;
+}
+.nav-back:hover { background: rgba(255,255,255,0.22); transform: translateX(-2px); }
+
+/* ── 14. ELEMENT DETAIL PAGE ─────────────────────────────── */
+.element-hero {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 26px;
+  padding: 28px 24px;
+  background: var(--bg-white);
+  border-bottom: 1px solid var(--border-light);
+}
+.element-card-large {
+  width: 110px;
+  height: 110px;
+  border-radius: 8px;
+  border: 3px solid transparent;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.element-card-large .atomic-num { position: absolute; top: 7px; left: 9px; font-size: 0.82rem; }
+.element-card-large .symbol { font-size: 3rem; margin-top: 8px; }
+.element-card-large .elem-name { font-size: 0.72rem; white-space: normal; margin-top: 3px; }
+.element-info-text h2 { font-family: var(--font-display); font-size: 2rem; font-weight: 700; }
+.category-badge {
+  display: inline-block;
+  padding: 3px 12px;
+  border-radius: 20px;
+  border: 2px solid transparent;
+  font-family: var(--font-display);
+  font-size: 0.8rem;
+  font-weight: 600;
+  margin-top: 7px;
+  color: var(--text-dark);
+}
+.category-badge.alkali-metal      { background: var(--col-alkali);     border-color: var(--col-alkali-dk); }
+.category-badge.alkaline-earth    { background: var(--col-alkaline);   border-color: var(--col-alkaline-dk); }
+.category-badge.transition-metal  { background: var(--col-transition); border-color: var(--col-transition-dk); }
+.category-badge.post-transition   { background: var(--col-post);       border-color: var(--col-post-dk); }
+.category-badge.metalloid         { background: var(--col-metalloid);  border-color: var(--col-metalloid-dk); }
+.category-badge.reactive-nonmetal { background: var(--col-nonmetal);   border-color: var(--col-nonmetal-dk); }
+.category-badge.halogen           { background: var(--col-halogen);    border-color: var(--col-halogen-dk); }
+.category-badge.noble-gas         { background: var(--col-noble);      border-color: var(--col-noble-dk); }
+.category-badge.lanthanide        { background: var(--col-lanthanide); border-color: var(--col-lanthanide-dk); }
+.category-badge.actinide          { background: var(--col-actinide);   border-color: var(--col-actinide-dk); }
+.category-badge.inner-transition  { background: var(--col-inner);      border-color: var(--col-inner-dk); }
+.category-badge.unknown           { background: var(--col-unknown);    border-color: var(--col-unknown-dk); }
+
+.elem-mass-display { font-family: var(--font-mono); font-size: 0.95rem; color: var(--text-medium); margin-top: 10px; }
+
+.properties-section { padding: 20px 24px 4px; }
+.properties-section h3, .description-section h3, .action-section h3, .fun-fact-section h3 {
+  font-family: var(--font-display);
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: var(--text-light);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin-bottom: 12px;
+}
+.properties-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(175px, 1fr)); gap: 10px; }
+.prop-card { background: var(--bg-white); border: 1px solid var(--border-light); border-radius: 7px; padding: 12px 15px; }
+.prop-label { font-family: var(--font-display); font-size: 0.7rem; font-weight: 600; color: var(--text-light); text-transform: uppercase; letter-spacing: 0.06em; }
+.prop-value { font-family: var(--font-mono); font-size: 0.9rem; color: var(--text-dark); margin-top: 4px; word-break: break-word; }
+.description-section, .fun-fact-section { padding: 16px 24px; }
+.description-text { font-size: 0.95rem; line-height: 1.72; color: var(--text-medium); }
+.uses-text { font-size: 0.9rem; line-height: 1.6; color: var(--text-medium); font-style: italic; margin-top: 6px; }
+.fun-fact-box { background: var(--bg-header); color: #E2E8F0; border-radius: 8px; padding: 14px 18px; font-size: 0.92rem; line-height: 1.6; border-left: 4px solid var(--accent-blue); }
+.fun-fact-box strong { color: #fff; font-family: var(--font-display); font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.08em; display: block; margin-bottom: 5px; }
+.action-section { padding: 16px 24px 24px; }
+.action-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(210px, 1fr)); gap: 12px; }
+.action-btn { display: flex; flex-direction: column; align-items: flex-start; gap: 5px; padding: 15px 17px; border-radius: 8px; border: 2px solid var(--border-light); background: var(--bg-white); cursor: pointer; text-decoration: none; color: var(--text-dark); font-family: var(--font-display); transition: transform 0.13s, box-shadow 0.13s, border-color 0.13s; }
+.action-btn:hover:not(.disabled) { transform: translateY(-3px); box-shadow: 0 6px 20px rgba(0,0,0,0.12); border-color: var(--accent-blue); }
+.action-btn.disabled { opacity: 0.42; cursor: not-allowed; }
+.action-btn.available { border-color: #48BB78; background: #F0FFF4; }
+.action-icon { font-size: 1.35rem; line-height: 1; }
+.action-title { font-weight: 700; font-size: 0.93rem; }
+.action-desc { font-size: 0.76rem; color: var(--text-light); font-family: var(--font-body); line-height: 1.4; }
+
+/* ── 15. GROUPS & PERIODS PAGES ───────────────────────────── */
+.groups-container, .periods-container {
+  max-width: 920px;
+  margin: 0 auto;
+  padding: 24px 20px;
+}
+.groups-container > h2, .periods-container > h2 {
+  font-family: var(--font-display);
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--text-light);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin-bottom: 20px;
+}
+.group-section, .period-section {
+  margin-bottom: 30px;
+  background: var(--bg-white);
+  border-radius: 10px;
+  overflow: hidden;
+  border: 1px solid var(--border-light);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+.group-section-header { padding: 14px 22px; display: flex; align-items: center; gap: 13px; border-bottom: 1px solid var(--border-light); }
+.group-color-swatch { width: 18px; height: 18px; border-radius: 4px; flex-shrink: 0; border: 2px solid rgba(0,0,0,0.15); }
+.group-section-header h2 { font-family: var(--font-display); font-size: 1.3rem; font-weight: 700; }
+.group-section-body { padding: 18px 22px 22px; }
+.group-description { font-size: 0.95rem; line-height: 1.72; color: var(--text-medium); margin-bottom: 12px; }
+.group-elements { display: flex; flex-wrap: wrap; gap: 7px; margin-top: 8px; }
+.elem-chip { display: inline-flex; flex-direction: column; align-items: center; padding: 5px 9px; border-radius: 6px; border: 2px solid transparent; min-width: 48px; cursor: default; }
+.elem-chip .chip-num  { font-family: var(--font-mono); font-size: 0.55rem; color: rgba(0,0,0,0.55); }
+.elem-chip .chip-sym  { font-family: var(--font-display); font-size: 1rem; font-weight: 700; color: rgba(0,0,0,0.82); }
+.elem-chip .chip-name { font-family: var(--font-display); font-size: 0.5rem; color: rgba(0,0,0,0.6); }
+.elem-chip.alkali-metal      { background: var(--col-alkali);     border-color: var(--col-alkali-dk); }
+.elem-chip.alkaline-earth    { background: var(--col-alkaline);   border-color: var(--col-alkaline-dk); }
+.elem-chip.transition-metal  { background: var(--col-transition); border-color: var(--col-transition-dk); }
+.elem-chip.post-transition   { background: var(--col-post);       border-color: var(--col-post-dk); }
+.elem-chip.metalloid         { background: var(--col-metalloid);  border-color: var(--col-metalloid-dk); }
+.elem-chip.reactive-nonmetal { background: var(--col-nonmetal);   border-color: var(--col-nonmetal-dk); }
+.elem-chip.halogen           { background: var(--col-halogen);    border-color: var(--col-halogen-dk); }
+.elem-chip.noble-gas         { background: var(--col-noble);      border-color: var(--col-noble-dk); }
+.elem-chip.lanthanide        { background: var(--col-lanthanide); border-color: var(--col-lanthanide-dk); }
+.elem-chip.actinide          { background: var(--col-actinide);   border-color: var(--col-actinide-dk); }
+.elem-chip.inner-transition  { background: var(--col-inner);      border-color: var(--col-inner-dk); }
+.elem-chip.unknown           { background: var(--col-unknown);    border-color: var(--col-unknown-dk); }
+.period-section-header { background: var(--period-bg); color: #fff; padding: 14px 22px; display: flex; align-items: center; gap: 16px; }
+.period-number-badge { width: 38px; height: 38px; border-radius: 50%; background: rgba(255,255,255,0.14); display: flex; align-items: center; justify-content: center; font-family: var(--font-display); font-size: 1.15rem; font-weight: 700; flex-shrink: 0; }
+.period-section-header h2 { font-family: var(--font-display); font-size: 1.15rem; font-weight: 700; }
+.period-section-body { padding: 18px 22px 22px; }
+.period-stats { display: flex; flex-wrap: wrap; gap: 18px; margin-bottom: 14px; font-family: var(--font-mono); font-size: 0.8rem; color: var(--text-light); }
+.period-description { font-size: 0.95rem; line-height: 1.72; color: var(--text-medium); margin-bottom: 12px; }
+
+/* ── EMPTY CENTER AREA DESCRIPTION ──────────────────────────── */
+.table-empty-desc {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 14px 10px;
+  font-family: var(--font-display);
+  color: var(--text-light);
+  border: 1px dashed #CBD5E0;
+  border-radius: 8px;
+  background: rgba(255,255,255,0.6);
+  pointer-events: none;    /* transparent to clicks */
+  z-index: 0;
+  position: relative;
+}
+.ted-title {
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--text-medium);
+  letter-spacing: 0.05em;
+  margin-bottom: 6px;
+}
+.ted-hint {
+  font-size: 0.84rem;
+  color: var(--text-light);
+  line-height: 1.5;
+}
+.ted-hint em { font-style: italic; color: var(--accent-blue); font-weight: 600; }
+
+/* ── F-BLOCK CONNECTING ARROW CELLS ──────────────────────────── */
+/* These appear at col 3, rows 9-10, bridging the ↓ in the
+   placeholders (col 3, rows 6-7) to the shifted f-block rows
+   (which now start at col 4). */
+.fblock-row-arrow {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding-right: 4px;
+  font-size: 1.3rem;
+  font-weight: 900;
+  color: #6B7280;
+  cursor: default;
+  user-select: none;
+}
+
+/* ── GLOSSARY QUICK LINK (between properties and description) ── */
+.glossary-quick-link {
+  padding: 4px 24px 16px;
+}
+.glossary-quick-link .action-btn {
+  width: 100%;
+  max-width: 480px;
+}
+
+/* ── Extra space before footer on index page ── */
+.table-wrapper + .info-box {
+  margin-top: 12px;
+}
+
+/* ── INFO BOX title — slightly larger heading ── */
+.info-box .info-title {
+  font-size: 0.96rem;
+  letter-spacing: 0.06em;
+}
+
+/* ── Space before site footer on all pages ── */
+.site-footer {
+  margin-top: 32px;
+}
+
+/* ── Info-box section-break spacing (sb = section break) ── */
+.info-box li.sb { margin-top: 9px; }
+.info-box li    { margin-bottom: 1px; }
+
+/* ── Compact glossary button (between properties and description) ── */
+.glossary-quick-link {
+  padding: 2px 24px 14px;
+}
+.glossary-quick-link .action-btn {
+  max-width: 420px;
+  padding: 10px 16px;
+}
+.glossary-quick-link .action-icon { font-size: 1.0rem; }
+.glossary-quick-link .action-title { font-size: 0.85rem; }
+.glossary-quick-link .action-desc  { font-size: 0.72rem; }
+
+/* ── Glossary card inside property grid ── */
+.prop-glossary-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-decoration: none;
+  background: #eef3fb;
+  border-color: #1e3a5f;
+  transition: background 0.18s;
+  cursor: pointer;
+}
+.prop-glossary-card:hover { background: #d8e6f7; }
+.prop-glossary-val {
+  color: #1a4aaa !important;
+  font-weight: 700 !important;
+  font-size: 0.76rem !important;
+  letter-spacing: 0.03em;
+}

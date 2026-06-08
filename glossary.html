@@ -1,0 +1,638 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Element Glossary &mdash; Materials Information Platform</title>
+  <link rel="stylesheet" href="styles.css">
+  <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;500;600;700&family=Share+Tech+Mono&family=Barlow:wght@400;600;700&display=swap" rel="stylesheet">
+  <style>
+    /* ── Glossary-specific styles ── */
+    .glossary-layout {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 24px 20px 48px;
+      display: flex;
+      gap: 32px;
+      align-items: flex-start;
+    }
+
+    /* Sticky jump-nav on the left */
+    .gloss-nav {
+      flex-shrink: 0;
+      width: 190px;
+      position: sticky;
+      top: 16px;
+      background: var(--bg-white);
+      border: 1px solid var(--border-light);
+      border-radius: 8px;
+      padding: 14px 16px;
+      font-family: var(--font-display);
+    }
+    .gloss-nav h3 {
+      font-size: 0.72rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: var(--text-light);
+      margin-bottom: 10px;
+    }
+    .gloss-nav ul { list-style: none; padding: 0; }
+    .gloss-nav li { margin-bottom: 4px; }
+    .gloss-nav a {
+      font-size: 0.82rem;
+      font-weight: 600;
+      color: var(--text-medium);
+      text-decoration: none;
+      display: block;
+      padding: 3px 6px;
+      border-radius: 4px;
+      transition: background 0.1s, color 0.1s;
+    }
+    .gloss-nav a:hover {
+      background: #EEF2FF;
+      color: var(--accent-blue);
+    }
+    .gloss-nav .nav-section {
+      font-size: 0.68rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--text-light);
+      margin: 10px 0 4px 6px;
+    }
+
+    /* Main content */
+    .gloss-content { flex: 1; min-width: 0; }
+
+    .gloss-intro {
+      background: #F4F8FF;
+      border: 2px solid var(--accent-blue);
+      border-radius: 8px;
+      padding: 16px 20px;
+      margin-bottom: 28px;
+      font-size: 0.93rem;
+      line-height: 1.7;
+      color: var(--text-medium);
+    }
+    .gloss-intro strong {
+      font-family: var(--font-display);
+      color: var(--text-dark);
+    }
+
+    /* Section groupings */
+    .gloss-group {
+      margin-bottom: 36px;
+    }
+    .gloss-group-title {
+      font-family: var(--font-display);
+      font-size: 0.72rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      color: var(--text-light);
+      border-bottom: 2px solid var(--border-light);
+      padding-bottom: 6px;
+      margin-bottom: 16px;
+    }
+
+    /* Individual term cards */
+    .term-card {
+      background: var(--bg-white);
+      border: 1px solid var(--border-light);
+      border-left: 4px solid var(--accent-blue);
+      border-radius: 0 8px 8px 0;
+      padding: 16px 20px;
+      margin-bottom: 14px;
+      scroll-margin-top: 20px;
+    }
+    .term-card:hover { border-left-color: #2563EB; }
+
+    .term-name {
+      font-family: var(--font-display);
+      font-size: 1.2rem;
+      font-weight: 700;
+      color: var(--text-dark);
+      margin-bottom: 6px;
+    }
+    .term-short {
+      display: inline-block;
+      background: #EEF2FF;
+      color: #2563EB;
+      font-family: var(--font-mono);
+      font-size: 0.75rem;
+      padding: 2px 8px;
+      border-radius: 12px;
+      margin-bottom: 10px;
+    }
+    .term-body {
+      font-size: 0.92rem;
+      line-height: 1.75;
+      color: var(--text-medium);
+    }
+    .term-body p { margin-bottom: 8px; }
+    .term-body p:last-child { margin-bottom: 0; }
+    .term-body strong { color: var(--text-dark); font-weight: 700; }
+
+    /* Example boxes */
+    .term-example {
+      background: #F9FAFB;
+      border: 1px solid var(--border-light);
+      border-radius: 6px;
+      padding: 10px 14px;
+      margin-top: 10px;
+      font-family: var(--font-mono);
+      font-size: 0.82rem;
+      color: var(--text-medium);
+      line-height: 1.6;
+    }
+    .term-example .ex-label {
+      font-family: var(--font-display);
+      font-size: 0.68rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--text-light);
+      display: block;
+      margin-bottom: 4px;
+    }
+
+    /* Notation diagram */
+    .notation-diagram {
+      display: flex;
+      align-items: flex-start;
+      gap: 20px;
+      flex-wrap: wrap;
+      margin-top: 12px;
+    }
+    .notation-box {
+      background: #F0F4FF;
+      border: 1px solid #C7D7F8;
+      border-radius: 8px;
+      padding: 14px 18px;
+      font-family: var(--font-mono);
+      font-size: 1.1rem;
+      color: #1E3A8A;
+      text-align: center;
+      min-width: 160px;
+    }
+    .notation-box .nb-label {
+      font-family: var(--font-display);
+      font-size: 0.65rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--text-light);
+      display: block;
+      margin-top: 6px;
+    }
+
+    /* Color key for element categories */
+    .cat-key {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 10px;
+    }
+    .cat-key-item {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-family: var(--font-display);
+      font-size: 0.8rem;
+      font-weight: 600;
+      color: var(--text-dark);
+    }
+    .cat-swatch {
+      width: 14px;
+      height: 14px;
+      border-radius: 3px;
+      flex-shrink: 0;
+      border: 1px solid rgba(0,0,0,0.15);
+    }
+
+    @media (max-width: 680px) {
+      .glossary-layout { flex-direction: column; }
+      .gloss-nav { width: 100%; position: static; }
+    }
+  </style>
+</head>
+<body>
+
+  <header class="page-header">
+    <a href="index.html" class="nav-back" id="gloss-back-btn">&#8592; Periodic Table</a>
+    <h1>ELEMENT GLOSSARY</h1>
+  </header>
+
+  <div class="glossary-layout">
+
+    <!-- JUMP NAVIGATION -->
+    <nav class="gloss-nav" aria-label="Jump to term">
+      <h3>Jump To</h3>
+      <ul>
+        <li class="nav-section">Table Structure</li>
+        <li><a href="#atomic-number">Atomic Number</a></li>
+        <li><a href="#period">Period</a></li>
+        <li><a href="#group">Group</a></li>
+        <li><a href="#category">Element Category</a></li>
+
+        <li class="nav-section">Atomic Properties</li>
+        <li><a href="#atomic-mass">Atomic Mass</a></li>
+        <li><a href="#isotopes">Isotopes</a></li>
+        <li><a href="#radioactivity">Radioactivity</a></li>
+        <li><a href="#synthetic">Synthetic Elements</a></li>
+
+        <li class="nav-section">Electronic Structure</li>
+        <li><a href="#electron-config">Electron Configuration</a></li>
+        <li><a href="#valence">Valence Electrons</a></li>
+        <li><a href="#orbitals">Orbitals (s, p, d, f)</a></li>
+
+        <li class="nav-section">Physical Properties</li>
+        <li><a href="#standard-state">Standard State</a></li>
+        <li><a href="#melting-point">Melting Point</a></li>
+        <li><a href="#boiling-point">Boiling Point</a></li>
+        <li><a href="#density">Density</a></li>
+        <li><a href="#atomic-radius">Atomic Radius</a></li>
+
+        <li class="nav-section">Chemical Properties</li>
+        <li><a href="#electronegativity">Electronegativity</a></li>
+      </ul>
+    </nav>
+
+    <!-- CONTENT -->
+    <main class="gloss-content">
+
+      <div class="gloss-intro">
+        <strong>What is this page?</strong> Each element detail page shows a set of scientific measurements and classifications. This glossary explains what each one means, how it is measured, and why it matters &mdash; in plain language.
+      </div>
+
+      <!-- ══ TABLE STRUCTURE ══ -->
+      <section class="gloss-group">
+        <div class="gloss-group-title">Table Structure</div>
+
+        <div class="term-card" id="atomic-number">
+          <div class="term-name">Atomic Number</div>
+          <div class="term-short">Symbol: Z</div>
+          <div class="term-body">
+            <p>The atomic number is the <strong>number of protons</strong> in the nucleus of an atom. It is the single most important property of an element because it uniquely defines what element you are dealing with. Every atom of oxygen has exactly 8 protons — if it had 7 it would be nitrogen, and if it had 9 it would be fluorine.</p>
+            <p>In a neutral atom (no electric charge), the atomic number also equals the <strong>number of electrons</strong> orbiting the nucleus. Electrons are what determine how an atom bonds and reacts with others.</p>
+            <p>The periodic table is arranged in order of increasing atomic number, from hydrogen (Z=1) to oganesson (Z=118).</p>
+            <div class="term-example">
+              <span class="ex-label">Example</span>
+              Carbon has atomic number 6 → 6 protons in every carbon nucleus,
+              6 electrons in a neutral carbon atom.
+            </div>
+          </div>
+        </div>
+
+        <div class="term-card" id="period">
+          <div class="term-name">Period</div>
+          <div class="term-short">Horizontal row 1 &ndash; 7</div>
+          <div class="term-body">
+            <p>A <strong>period</strong> is a horizontal row of the periodic table. All elements in the same period have the same number of electron shells (also called energy levels). Period 1 has 1 shell, Period 2 has 2 shells, and so on up to Period 7.</p>
+            <p>Moving left to right across a period, each element gains one more proton and one more electron. This causes a pattern: elements on the left tend to be reactive metals; those on the right tend to be reactive nonmetals; and the far right is always a chemically inert noble gas.</p>
+            <p>Periods 1&ndash;3 are "short periods" (2 or 8 elements). Periods 4&ndash;5 are "long periods" (18 elements, including the d-block transition metals). Periods 6&ndash;7 are "very long periods" (32 elements each, including the f-block lanthanides and actinides).</p>
+            <div class="term-example">
+              <span class="ex-label">Example</span>
+              Period 2: Li, Be, B, C, N, O, F, Ne — all have 2 electron shells.
+              Atomic radius shrinks and electronegativity rises from left to right.
+            </div>
+          </div>
+        </div>
+
+        <div class="term-card" id="group">
+          <div class="term-name">Group</div>
+          <div class="term-short">Vertical column 1 &ndash; 18</div>
+          <div class="term-body">
+            <p>A <strong>group</strong> (also called a family) is a vertical column of the periodic table. Elements in the same group have the same number of <em>valence electrons</em> (outer-shell electrons), which means they tend to have very similar chemical properties and react in similar ways.</p>
+            <p>Group 1 elements (alkali metals) all have 1 valence electron and are all highly reactive metals. Group 18 elements (noble gases) all have a full outer shell and are almost completely inert. This is why Mendeleev could predict undiscovered elements — he knew the pattern of the columns.</p>
+            <p>Groups 3 through 12 are the transition metals (d-block). The f-block elements (lanthanides and actinides) are extracted below the main table and technically belong at Group 3.</p>
+            <div class="term-example">
+              <span class="ex-label">Example</span>
+              Group 17 (Halogens): F, Cl, Br, I, At — all have 7 valence electrons,
+              all form -1 ions, all react vigorously with alkali metals to form salts.
+            </div>
+          </div>
+        </div>
+
+        <div class="term-card" id="category">
+          <div class="term-name">Element Category</div>
+          <div class="term-short">Color-coded classification</div>
+          <div class="term-body">
+            <p>Elements are grouped into <strong>categories</strong> based on shared physical and chemical properties. On this periodic table, each category has a distinct color. The categories are:</p>
+            <div class="cat-key">
+              <div class="cat-key-item"><div class="cat-swatch" style="background:#FF6B6B"></div>Alkali Metals</div>
+              <div class="cat-key-item"><div class="cat-swatch" style="background:#FFA94D"></div>Alkaline Earth Metals</div>
+              <div class="cat-key-item"><div class="cat-swatch" style="background:#4FC3F7"></div>Transition Metals</div>
+              <div class="cat-key-item"><div class="cat-swatch" style="background:#69DB7C"></div>Post-Transition Metals</div>
+              <div class="cat-key-item"><div class="cat-swatch" style="background:#CC99FF"></div>Metalloids</div>
+              <div class="cat-key-item"><div class="cat-swatch" style="background:#FFD43B"></div>Other Nonmetals</div>
+              <div class="cat-key-item"><div class="cat-swatch" style="background:#AAEE55"></div>Halogens</div>
+              <div class="cat-key-item"><div class="cat-swatch" style="background:#66CCCC"></div>Noble Gases</div>
+              <div class="cat-key-item"><div class="cat-swatch" style="background:#FF99BB"></div>Lanthanides</div>
+              <div class="cat-key-item"><div class="cat-swatch" style="background:#FFCC44"></div>Actinides</div>
+              <div class="cat-key-item"><div class="cat-swatch" style="background:#C8CDD2"></div>Inner-Transition Metals</div>
+            </div>
+            <p style="margin-top:10px">Click any <strong>GROUPS</strong> button at the top of the periodic table for a full description of each category.</p>
+          </div>
+        </div>
+
+      </section><!-- /table structure -->
+
+      <!-- ══ ATOMIC PROPERTIES ══ -->
+      <section class="gloss-group">
+        <div class="gloss-group-title">Atomic Properties</div>
+
+        <div class="term-card" id="atomic-mass">
+          <div class="term-name">Atomic Mass</div>
+          <div class="term-short">Unit: u (atomic mass unit) &nbsp;|&nbsp; also called atomic weight</div>
+          <div class="term-body">
+            <p>Atomic mass is the <strong>average mass of one atom</strong> of an element, measured in atomic mass units (u, also written amu or Da for Dalton). One atomic mass unit is defined as exactly 1/12 the mass of a carbon-12 atom.</p>
+            <p>The mass of an atom comes almost entirely from its nucleus. Protons and neutrons each weigh approximately 1 u. Electrons are about 1,836 times lighter and contribute almost nothing to the total mass.</p>
+            <p>The reason atomic mass is rarely a whole number is that most elements exist as a mixture of <em>isotopes</em> — atoms with different numbers of neutrons. The atomic mass shown on the periodic table is the <strong>weighted average</strong> of all naturally occurring isotopes, weighted by how abundant each is in nature.</p>
+            <div class="term-example">
+              <span class="ex-label">Example — Chlorine (Cl)</span>
+              Cl-35 (75.77% abundant) + Cl-37 (24.23% abundant)
+              Weighted average = (35 × 0.7577) + (37 × 0.2423) = 35.45 u
+              That is why the periodic table shows 35.453 — not 35 or 37.
+            </div>
+          </div>
+        </div>
+
+        <div class="term-card" id="isotopes">
+          <div class="term-name">Isotopes</div>
+          <div class="term-short">Same element, different neutron count</div>
+          <div class="term-body">
+            <p>Isotopes are atoms of the <strong>same element</strong> (same number of protons) that have <strong>different numbers of neutrons</strong> in their nuclei. Because they have the same number of protons and electrons, isotopes of the same element behave almost identically in chemical reactions — but they have different masses and different nuclear stability.</p>
+            <p>Isotopes are written as: <strong>Element-MassNumber</strong>. For example, Carbon-12 (C-12) has 6 protons and 6 neutrons. Carbon-14 (C-14) has 6 protons and 8 neutrons — it is radioactive and is the basis of radiocarbon dating.</p>
+            <p>Some elements have only one stable isotope (e.g. fluorine has only F-19). Others have many — tin has 10 stable isotopes, the most of any element.</p>
+            <div class="term-example">
+              <span class="ex-label">Hydrogen Isotopes</span>
+              H-1  (Protium)   — 1 proton, 0 neutrons — 99.98% of all hydrogen
+              H-2  (Deuterium) — 1 proton, 1 neutron  — heavy water uses this
+              H-3  (Tritium)   — 1 proton, 2 neutrons  — radioactive, half-life 12.3 years
+            </div>
+          </div>
+        </div>
+
+        <div class="term-card" id="radioactivity">
+          <div class="term-name">Radioactivity</div>
+          <div class="term-short">Unstable nuclei that decay over time</div>
+          <div class="term-body">
+            <p>A nucleus is <strong>radioactive</strong> when it is unstable — meaning it will spontaneously emit particles or energy (radiation) to reach a more stable state. This process is called <em>radioactive decay</em>. The time it takes for half of a sample to decay is called its <strong>half-life</strong>, which can range from a fraction of a second to billions of years.</p>
+            <p>There are three main types of radiation emitted during decay: <strong>alpha particles</strong> (2 protons + 2 neutrons, stopped by paper), <strong>beta particles</strong> (fast electrons, stopped by aluminum), and <strong>gamma rays</strong> (high-energy photons, require thick lead or concrete to stop).</p>
+            <p>All elements heavier than bismuth (atomic number 83) have no stable isotopes — all their forms are radioactive. Elements with very short half-lives, like francium (22 minutes) or oganesson (0.89 milliseconds), are essentially undetectable in nature.</p>
+            <div class="term-example">
+              <span class="ex-label">Half-life examples</span>
+              U-238 (Uranium)  — 4.47 billion years  (older than Earth)
+              C-14  (Carbon)   — 5,730 years          (used in dating fossils)
+              Fr-223 (Francium)— 22.3 minutes
+              Og-294 (Oganesson)— 0.89 milliseconds
+            </div>
+          </div>
+        </div>
+
+        <div class="term-card" id="synthetic">
+          <div class="term-name">Synthetic Elements</div>
+          <div class="term-short">Made only in laboratories &mdash; shown with RED symbols</div>
+          <div class="term-body">
+            <p>Synthetic elements are those that <strong>do not occur in nature</strong> in any significant quantity and must be produced artificially, typically by bombarding heavy nuclei with smaller particles in a particle accelerator or nuclear reactor.</p>
+            <p>On this table, synthetic element symbols are shown in <span style="color:#CC0000;font-weight:700">red</span>. They include technetium (Tc, #43) — the first element to be produced synthetically, in 1937 — promethium (Pm, #61), and all elements from neptunium (#93) onward.</p>
+            <p>The heaviest synthetic elements, sometimes called "superheavy" elements (roughly #104 and above), exist for only milliseconds to seconds after being created. Only a handful of atoms of each have ever been detected. Their chemical properties are largely unknown.</p>
+            <div class="term-example">
+              <span class="ex-label">Notable synthetic elements</span>
+              Tc-99m (Technetium) — most widely used medical imaging isotope
+              Pu-239 (Plutonium) — nuclear reactor fuel and weapons
+              Am-241 (Americium) — inside household smoke detectors
+              Og-118 (Oganesson) — only 5 atoms ever detected
+            </div>
+          </div>
+        </div>
+
+      </section><!-- /atomic properties -->
+
+      <!-- ══ ELECTRONIC STRUCTURE ══ -->
+      <section class="gloss-group">
+        <div class="gloss-group-title">Electronic Structure</div>
+
+        <div class="term-card" id="electron-config">
+          <div class="term-name">Electron Configuration</div>
+          <div class="term-short">How electrons are arranged in an atom</div>
+          <div class="term-body">
+            <p>The electron configuration describes <strong>where all the electrons of an atom are located</strong>, organized by shell (energy level) and subshell (orbital type). Electrons fill the lowest available energy levels first.</p>
+            <p>The notation uses numbers for shells and letters for subshell types, with superscripts for the count of electrons in each subshell: <strong>shell&nbsp;subshell&nbsp;&sup;electrons</strong>.</p>
+            <div class="notation-diagram">
+              <div class="notation-box">
+                2p&#x2074;
+                <span class="nb-label">Shell 2 &bull; p-subshell &bull; 4 electrons</span>
+              </div>
+              <div class="notation-box">
+                [He] 2s&#xB2; 2p&#x2074;
+                <span class="nb-label">Full config for Oxygen (#8)</span>
+              </div>
+            </div>
+            <p style="margin-top:12px">The <strong>[He]</strong> shorthand means "same as helium's configuration plus the following." This makes long configurations readable. The last subshell listed tells you the most about the element's chemistry — those are the valence electrons.</p>
+            <div class="term-example">
+              <span class="ex-label">Reading examples</span>
+              H  (#1)  : 1s&#xB9;              — 1 electron in the 1s subshell
+              O  (#8)  : [He] 2s&#xB2; 2p&#x2074;   — helium core + 6 more electrons
+              Au (#79) : [Xe] 4f&#xB9;&#x2074; 5d&#xB9;&#x2070; 6s&#xB9; — gold's complex relativistic config
+            </div>
+          </div>
+        </div>
+
+        <div class="term-card" id="valence">
+          <div class="term-name">Valence Electrons</div>
+          <div class="term-short">The outermost electrons — the ones that bond</div>
+          <div class="term-body">
+            <p>Valence electrons are the electrons in the <strong>outermost shell</strong> of an atom. They are the only electrons that participate in chemical bonding — forming the connections between atoms in molecules and compounds. The number of valence electrons is the single most important factor in determining an element's chemical behavior.</p>
+            <p>For main-group elements (Groups 1, 2, and 13&ndash;18), the group number directly tells you the number of valence electrons: Group 1 = 1 valence electron, Group 2 = 2, Group 13 = 3, and so on up to Group 18 = 8 (full shell, very stable — noble gases).</p>
+            <p>Atoms with almost-full shells (like halogens with 7 valence electrons) strongly want to gain 1 electron. Atoms with almost-empty shells (like alkali metals with 1) strongly want to lose 1. This tendency drives chemical reactions.</p>
+            <div class="term-example">
+              <span class="ex-label">Example</span>
+              Sodium (Na): [Ne] 3s&#xB9; — 1 valence electron, wants to lose it → Na⁺ ion
+              Chlorine (Cl): [Ne] 3s&#xB2; 3p&#x2075; — 7 valence electrons, wants 1 more → Cl⁻ ion
+              Na⁺ + Cl⁻ → NaCl (table salt) — stable compound
+            </div>
+          </div>
+        </div>
+
+        <div class="term-card" id="orbitals">
+          <div class="term-name">Orbital Types: s, p, d, f</div>
+          <div class="term-short">The shapes of electron probability clouds</div>
+          <div class="term-body">
+            <p>Electrons do not orbit the nucleus like planets. Instead, each electron occupies an <strong>orbital</strong> — a region of space where there is a high probability of finding that electron. Orbitals come in four shapes, labeled s, p, d, and f.</p>
+            <p><strong>s orbitals</strong> — spherical. One per subshell, holds up to 2 electrons. Found in every shell (1s, 2s, 3s&hellip;)</p>
+            <p><strong>p orbitals</strong> — dumbbell-shaped (two lobes). Three per subshell (along x, y, z axes), holds up to 6 electrons. Start at shell 2 (2p, 3p&hellip;)</p>
+            <p><strong>d orbitals</strong> — four-leaf clover shapes. Five per subshell, holds up to 10 electrons. Start at shell 3 (3d, 4d&hellip;). These are what make transition metals distinctive.</p>
+            <p><strong>f orbitals</strong> — complex six-lobe shapes. Seven per subshell, holds up to 14 electrons. Start at shell 4 (4f, 5f). These fill in the lanthanides and actinides.</p>
+            <div class="term-example">
+              <span class="ex-label">Maximum electrons per subshell</span>
+              s → 2 electrons    (1 orbital × 2)
+              p → 6 electrons    (3 orbitals × 2)
+              d → 10 electrons   (5 orbitals × 2)
+              f → 14 electrons   (7 orbitals × 2)
+            </div>
+          </div>
+        </div>
+
+      </section><!-- /electronic structure -->
+
+      <!-- ══ PHYSICAL PROPERTIES ══ -->
+      <section class="gloss-group">
+        <div class="gloss-group-title">Physical Properties</div>
+
+        <div class="term-card" id="standard-state">
+          <div class="term-name">Standard State</div>
+          <div class="term-short">Physical form at 25&deg;C and 1 atmosphere of pressure</div>
+          <div class="term-body">
+            <p>The standard state of an element is its <strong>physical form under standard conditions</strong>: a temperature of 25°C (77°F) and a pressure of exactly 1 atmosphere (sea level air pressure). It answers the simple question: is this element a solid, liquid, or gas at room temperature?</p>
+            <p><strong>Solid</strong> — atoms/molecules are tightly packed in a fixed structure. Most elements are solids at room temperature, including all metals.</p>
+            <p><strong>Liquid</strong> — atoms/molecules flow freely but stay in contact. Only two elements are liquid at standard conditions: mercury (Hg) and bromine (Br).</p>
+            <p><strong>Gas</strong> — atoms/molecules move freely and spread to fill any container. Eleven elements are gases at room temperature: H, N, O, F, Cl (as diatomic molecules), and the six noble gases He, Ne, Ar, Kr, Xe, Rn.</p>
+            <div class="term-example">
+              <span class="ex-label">The two room-temperature liquids</span>
+              Mercury (Hg, #80) — the only liquid metal; melting point -38.8°C
+              Bromine (Br, #35) — the only liquid nonmetal; melting point -7.2°C
+            </div>
+          </div>
+        </div>
+
+        <div class="term-card" id="melting-point">
+          <div class="term-name">Melting Point</div>
+          <div class="term-short">Temperature at which solid becomes liquid</div>
+          <div class="term-body">
+            <p>The melting point is the <strong>temperature at which a solid element transforms into a liquid</strong> (at standard pressure). At exactly the melting point, solid and liquid can coexist in equilibrium. Below it, the element is solid; above it, liquid.</p>
+            <p>Melting point reflects how strongly atoms are held together in the solid structure. Tungsten (W) has the highest melting point of all elements at 3,422°C — its atoms are held together so tightly it is used in light bulb filaments and rocket nozzles. Helium has the lowest, never becoming solid under normal pressure at any temperature.</p>
+            <p>Temperatures on element pages are given in <strong>degrees Celsius (°C)</strong>. To convert: °F = (°C × 9/5) + 32. To convert to Kelvin (used in science): K = °C + 273.15.</p>
+            <div class="term-example">
+              <span class="ex-label">Extremes</span>
+              Highest melting point: Tungsten (W)  — 3,422°C  (6,192°F)
+              Lowest melting point:  Mercury (Hg)  — -38.8°C  (-37.9°F)
+              Helium (He) has no melting point at normal pressure — stays liquid to absolute zero
+            </div>
+          </div>
+        </div>
+
+        <div class="term-card" id="boiling-point">
+          <div class="term-name">Boiling Point</div>
+          <div class="term-short">Temperature at which liquid becomes gas</div>
+          <div class="term-body">
+            <p>The boiling point is the <strong>temperature at which a liquid element transforms into a gas</strong> (at standard pressure, 1 atm). At the boiling point, the vapor pressure of the liquid equals atmospheric pressure, allowing bubbles to form throughout the liquid.</p>
+            <p>The gap between melting point and boiling point tells you how wide the liquid range is. Mercury has a liquid range of only about 357°C (from -39°C to 357°C). Tungsten's liquid range spans over 2,000°C. Elements that are gases at room temperature typically have both melting points and boiling points well below 0°C.</p>
+            <div class="term-example">
+              <span class="ex-label">Noble gas boiling points (all gases, all very cold)</span>
+              Helium (He)  — -268.9°C  (just 4 degrees above absolute zero)
+              Neon   (Ne)  — -246.1°C
+              Argon  (Ar)  — -185.9°C
+              Xenon  (Xe)  — -108.1°C  (used in anesthesia and photography)
+            </div>
+          </div>
+        </div>
+
+        <div class="term-card" id="density">
+          <div class="term-name">Density</div>
+          <div class="term-short">Mass per unit volume &mdash; g/cm&sup3; or g/L for gases</div>
+          <div class="term-body">
+            <p>Density is <strong>how much mass is packed into a given volume</strong>. It is calculated as: <em>Density = Mass &divide; Volume</em>. For solid and liquid elements, density is measured in grams per cubic centimeter (g/cm³). For gases at standard conditions, it is usually given in grams per liter (g/L).</p>
+            <p>For solids and liquids, density is measured in <strong>grams per cubic centimeter (g/cm³)</strong>. For gases, it is measured in <strong>grams per liter (g/L)</strong> since gases are far more spread out. Water has a density of 1.0 g/cm³ — this is a useful reference point. Any element with a density below 1.0 g/cm³ floats on water (lithium, sodium, and potassium all do, though they react violently). Elements with higher density sink. Osmium (Os) is the densest element at 22.59 g/cm³ — a cube of osmium the size of a golf ball would weigh about 2 kg (4.4 lbs).</p>
+            <p>Gas densities appear very small because gas molecules are spread far apart. Hydrogen gas (H₂) has a density of only 0.0000899 g/cm³ — about 800 times less dense than water.</p>
+            <div class="term-example">
+              <span class="ex-label">Density extremes</span>
+              Densest element:   Osmium (Os)   — 22.59 g/cm³
+              Least dense solid: Lithium (Li)  —  0.534 g/cm³  (floats on water)
+              Least dense gas:   Hydrogen (H₂) —  0.0000899 g/cm³
+            </div>
+          </div>
+        </div>
+
+
+        <div class="term-card" id="atomic-radius">
+          <div class="term-name">Atomic Radius</div>
+          <div class="term-short">Unit: pm (picometers) &mdash; 1 pm = one trillionth of a meter</div>
+          <div class="term-body">
+            <p>Atomic radius is a measure of the <strong>size of an atom</strong> &mdash; specifically, half the distance between the nuclei of two identical atoms that are just touching. Because atoms do not have a hard edge (the electron cloud fades out gradually), radius is always a practical measurement that depends on context.</p>
+            <p>There are two common versions used on this site. The <strong>covalent radius</strong> is used for atoms that form chemical bonds: it is half the distance between two identical bonded atoms (e.g., half the C&mdash;C bond length in diamond gives carbon's covalent radius of 73 pm). The <strong>van der Waals radius</strong> is used for atoms that do not normally form bonds, primarily noble gases: it is half the distance between two non-bonded atoms gently touching.</p>
+            <p>Atomic radius follows a clear and predictable pattern:</p>
+            <p>&bull; <strong>Across a period left to right:</strong> radius <em>shrinks</em>. Each element gains one more proton, pulling all electrons tighter, even though they stay in the same shell. Fluorine is much smaller than lithium despite both being in Period 2.</p>
+            <p>&bull; <strong>Down a group top to bottom:</strong> radius <em>grows</em>. Each new period adds a whole new electron shell, physically expanding the atom. Cesium is far larger than lithium despite both being alkali metals.</p>
+            <div class="term-example">
+              <span class="ex-label">Period 2 covalent radii &mdash; shrinks left to right</span>
+              Li: 128 pm &rarr; Be: 96 pm &rarr; B: 84 pm &rarr; C: 73 pm
+              &rarr; N: 71 pm &rarr; O: 66 pm &rarr; F: 57 pm
+            </div>
+            <div class="term-example">
+              <span class="ex-label">Group 1 alkali metals &mdash; grows top to bottom</span>
+              Li: 128 pm &rarr; Na: 166 pm &rarr; K: 203 pm &rarr; Rb: 220 pm &rarr; Cs: 244 pm
+            </div>
+          </div>
+        </div>
+
+      </section><!-- /physical properties -->
+
+      <!-- CHEMICAL PROPERTIES -->
+      <section class="gloss-group">
+        <div class="gloss-group-title">Chemical Properties</div>
+
+        <div class="term-card" id="electronegativity">
+          <div class="term-name">Electronegativity &mdash; Pauling Scale</div>
+          <div class="term-short">Range: ~0.7 (Fr) to 3.98 (F) &mdash; dimensionless</div>
+          <div class="term-body">
+            <p>Electronegativity measures an atom's <strong>tendency to attract electrons toward itself</strong> when it is part of a chemical bond. The higher the value, the more strongly an atom pulls shared electrons away from its bonding partner.</p>
+            <p>The most widely used scale was devised by Linus Pauling in 1932. It is dimensionless (no units) and ranges from roughly 0.7 for francium (least electronegative) to <strong>3.98 for fluorine</strong> (most electronegative element of all). Pauling derived the values from experimental bond energies: he assigned fluorine a reference value of ~4.0 and calculated all others relative to it.</p>
+            <p>Electronegativity determines the <strong>type of chemical bond</strong> that forms between two atoms based on the difference in their values:</p>
+            <p>&bull; <strong>Difference &gt; 1.7 &rarr; ionic bond:</strong> the more electronegative atom essentially steals the electron(s). Example: NaCl (Na=0.93, Cl=3.16, difference=2.23) &mdash; sodium gives its electron to chlorine.</p>
+            <p>&bull; <strong>Difference 0.4&ndash;1.7 &rarr; polar covalent bond:</strong> electrons are shared unequally, creating a partial positive and negative end. Example: water (H&mdash;O difference &asymp;1.24).</p>
+            <p>&bull; <strong>Difference &lt; 0.4 &rarr; nonpolar covalent bond:</strong> electrons are shared equally. Example: H&mdash;H (difference = 0), O=O (difference = 0).</p>
+            <p>The trend mirrors atomic radius but in reverse: <strong>electronegativity increases left to right across a period</strong> (more protons pull electrons harder) and <strong>decreases going down a group</strong> (outer electrons are farther from the nucleus and more shielded by inner shells).</p>
+            <div class="term-example">
+              <span class="ex-label">Pauling values &mdash; Period 2 (rises left to right)</span>
+              Li: 0.98 &rarr; Be: 1.57 &rarr; B: 2.04 &rarr; C: 2.55
+              &rarr; N: 3.04 &rarr; O: 3.44 &rarr; F: 3.98
+            </div>
+            <div class="term-example">
+              <span class="ex-label">Why noble gases have no Pauling value</span>
+              Noble gases (He, Ne, Ar ...) do not normally form bonds, so there
+              is no bond-energy data from which to calculate an electronegativity.
+              The Pauling scale simply does not apply to them.
+            </div>
+          </div>
+        </div>
+
+      </section><!-- /chemical properties -->
+
+    </main><!-- /gloss-content -->
+  </div><!-- /glossary-layout -->
+
+  <footer class="site-footer">
+    CS50 Final Project &mdash; Materials Information Platform &mdash; HTML &bull; CSS &bull; JavaScript
+  </footer>
+
+  <!--
+    Load element data so we can show the element name in the back button.
+    When opened from an element page via glossary.html?from=8, the back
+    button dynamically changes from "← Periodic Table" to "← Back to Oxygen".
+  -->
+  <script src="elements-data.js"></script>
+  <script>
+    (function() {
+      var params = new URLSearchParams(window.location.search);
+      var fromNum = parseInt(params.get('from'), 10);
+      if (!fromNum || fromNum < 1 || fromNum > 118) return;
+
+      var btn = document.getElementById('gloss-back-btn');
+      if (!btn) return;
+
+      /* Find element name in the ELEMENTS array */
+      var i;
+      for (i = 0; i < ELEMENTS.length; i++) {
+        if (ELEMENTS[i][0] === fromNum) {
+          btn.href = 'element.html?n=' + fromNum;
+          btn.innerHTML = '&#8592; Back to ' + ELEMENTS[i][2];
+          break;
+        }
+      }
+    })();
+  </script>
+</body>
+</html>

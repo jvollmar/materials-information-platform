@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Element &mdash; Materials Information Platform</title>
+  <!-- Shared stylesheet for all pages in the project -->
+  <link rel="stylesheet" href="styles.css">
+  <!-- Google Fonts: Rajdhani (display), Share Tech Mono (data), Barlow (body) -->
+  <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;500;600;700&family=Share+Tech+Mono&family=Barlow:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <!--
+    element.html — Single element detail page
+    Reads atomic number from URL query string: element.html?n=8
+    All scripts are at the same root level — no cross-folder path issues.
+
+    To navigate here: element.html?n=1 through element.html?n=118
+    elementpage.js builds all page content dynamically from elements-data.js.
+  -->
+
+  <!-- Root container — content is injected here by renderElementPage() -->
+  <main id="element-root">
+    <p style="padding:40px;font-family:sans-serif;color:#666">Loading element data&hellip;</p>
+  </main>
+
+  <!-- Core data: ELEMENTS array, ELEMENT_INFO object, SYNTHETIC_ELEMENTS lookup -->
+  <script src="elements-data.js"></script>
+  <!-- Page renderer: renderElementPage(), pc(), ab(), cap() -->
+  <script src="elementpage.js"></script>
+
+  <script>
+    /* Read atomic number from URL query string: element.html?n=8 */
+    var params = new URLSearchParams(window.location.search);
+    var ATOMIC_NUM = parseInt(params.get('n'), 10);
+
+    /* Render the element page if atomic number is in valid range (1-118) */
+    if (ATOMIC_NUM >= 1 && ATOMIC_NUM <= 118) {
+      renderElementPage(ATOMIC_NUM);
+    } else {
+      /* Show a friendly error if the query string is missing or out of range */
+      document.getElementById('element-root').innerHTML =
+        '<div style="padding:40px;font-family:sans-serif">' +
+        '<h2>Element not found</h2>' +
+        '<p><a href="index.html">&larr; Back to Periodic Table</a></p>' +
+        '</div>';
+    }
+  </script>
+</body>
+</html>

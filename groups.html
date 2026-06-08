@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Element Groups &mdash; Materials Information Platform</title>
+  <link rel="stylesheet" href="styles.css">
+  <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;500;600;700&family=Share+Tech+Mono&family=Barlow:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header class="page-header">
+    <a href="index.html" class="nav-back">&#8592; Periodic Table</a>
+    <h1>ELEMENT GROUPS</h1>
+  </header>
+  <main class="groups-container" id="groups-root">
+    <h2>Loading&hellip;</h2>
+  </main>
+  <footer class="site-footer">CS50 Final Project &mdash; Materials Information Platform</footer>
+
+  <script src="elements-data.js"></script>
+  <script>
+    var GROUPS = [
+      { id:'alkali-metals',      cat:'alkali-metal',      color:'#FF6B6B',
+        name:'Alkali Metals',
+        desc:'Alkali metals occupy Group 1 (excluding hydrogen). They are soft, silvery metals with exactly one valence electron, which they readily donate to form +1 ions. All are highly reactive — they must be stored under oil to prevent contact with air and moisture. Reactivity increases down the group: lithium reacts gently with water while cesium reacts explosively.',
+        extra:'Alkali metals have the lowest ionization energies of all metals and the lowest electronegativities. Their low melting points and densities (lithium, sodium, and potassium all float on water) make them unlike most metals.'
+      },
+      { id:'alkaline-earth',     cat:'alkaline-earth',    color:'#FFA94D',
+        name:'Alkaline Earth Metals',
+        desc:'Alkaline earth metals occupy Group 2. They have two valence electrons and are harder, denser, and less reactive than alkali metals, though still quite reactive. They are never found as free elements in nature. Calcium and magnesium are essential biological elements: calcium builds bones and teeth; magnesium is the central atom in chlorophyll.',
+        extra:'The name "alkaline earth" comes from the fact that their oxides have very high melting points and are basic (alkaline). Beryllium is toxic; radium is highly radioactive and was historically used in luminous watch dials.'
+      },
+      { id:'transition-metals',  cat:'transition-metal',  color:'#4FC3F7',
+        name:'Transition Metals',
+        desc:'Transition metals fill Groups 3 through 12. They have partially filled d-orbitals, which gives them distinctive properties: high melting and boiling points, excellent electrical and thermal conductivity, multiple oxidation states, and the ability to form colorful compounds. Many are critical industrial catalysts.',
+        extra:'This group includes iron (backbone of steel), copper (electrical wiring), gold and platinum (precious metals), and titanium (aerospace alloys). Transition metals form the largest and most commercially important group in the periodic table.'
+      },
+      { id:'post-transition',    cat:'post-transition',   color:'#69DB7C',
+        name:'Post-Transition Metals',
+        desc:'Post-transition metals occupy the p-block to the right of the transition metals. They are softer with lower melting points than transition metals and tend to be less electrically conductive. Their properties are intermediate between transition metals and metalloids.',
+        extra:'Includes aluminum (most abundant metal in Earth\'s crust), tin (used in bronze alloys for millennia), lead (dense, soft, historically used in pipes), and bismuth (lowest toxicity of all heavy metals, used in some medications).'
+      },
+      { id:'metalloids',         cat:'metalloid',         color:'#CC99FF',
+        name:'Metalloids',
+        desc:'Metalloids (semimetals) have properties intermediate between metals and nonmetals. They generally appear metallic but are brittle and conduct electricity only moderately — making them semiconductors. This property is the foundation of all modern electronics: silicon and germanium are the primary materials in transistors and computer chips.',
+        extra:'There is no universally agreed list of metalloids, but boron, silicon, germanium, arsenic, antimony, and tellurium are most commonly included. Silicon alone underpins the entire computer and solar-energy industries.'
+      },
+      { id:'other-nonmetals',    cat:'reactive-nonmetal', color:'#FFD43B',
+        name:'Other Nonmetals',
+        desc:'Other nonmetals (sometimes called reactive nonmetals) are poor conductors of heat and electricity and tend to gain electrons in chemical reactions. This group contains hydrogen and carbon — the two elements most responsible for life as we know it — as well as nitrogen, oxygen, phosphorus, sulfur, and selenium.',
+        extra:'Oxygen drives aerobic respiration in all animals. Nitrogen makes up 78% of our atmosphere. Carbon forms the backbone of over 10 million known organic compounds. Note: the halogens (F, Cl, Br, I, At) are listed separately below as their own group.'
+      },
+      { id:'halogens',           cat:'halogen',           color:'#AAEE55',
+        name:'Halogens',
+        desc:'Halogens occupy Group 17 and are the most reactive nonmetals. They all have seven valence electrons and strongly tend to gain one more to form -1 ions. All halogens are toxic in their pure elemental form. They form salts when reacting with metals (the name "halogen" means "salt-former" in Greek).',
+        extra:'Fluorine is the most electronegative and reactive of all elements. Chlorine is essential for water purification. Bromine is one of only two elements that is liquid at room temperature. Iodine is essential for thyroid hormone production. Astatine is extremely rare and radioactive.'
+      },
+      { id:'noble-gases',        cat:'noble-gas',         color:'#66CCCC',
+        name:'Noble Gases',
+        desc:'Noble gases occupy Group 18 with completely full outer electron shells, making them extraordinarily stable and almost entirely unreactive. All are colorless, odorless gases at room temperature obtained commercially by distillation of liquid air.',
+        extra:'Each noble gas produces a distinctive glow when electricity passes through it: neon glows orange-red, argon gives blue-violet, krypton gives white, and xenon gives blue. Helium remains liquid even at absolute zero under normal pressure — a unique quantum property.'
+      },
+      { id:'lanthanides',        cat:'lanthanide',        color:'#FF99BB',
+        name:'Lanthanides',
+        desc:'The lanthanides (elements 57-71, lanthanum through lutetium) form the first row of the f-block. Also called "rare earth elements," they have nearly identical chemical properties making them difficult to separate. All are silvery, reactive metals that tarnish in air.',
+        extra:'Lanthanides are critical in modern technology: neodymium makes the strongest permanent magnets (used in electric motors and wind turbines); europium and terbium produce red and green in display phosphors; gadolinium is used as an MRI contrast agent. China produces approximately 85% of the global supply.'
+      },
+      { id:'actinides',          cat:'actinide',          color:'#FFCC44',
+        name:'Actinides',
+        desc:'The actinides (elements 89-103, actinium through lawrencium) form the second row of the f-block. All actinides are radioactive — only thorium and uranium occur in significant quantities in nature. The others are produced artificially in nuclear reactors or accelerators.',
+        extra:'Uranium and plutonium fuel nuclear reactors generating about 10% of the world\'s electricity. Americium-241 is found in household smoke detectors. Plutonium-239 is used in nuclear weapons. Most actinides have half-lives far shorter than Earth\'s age.'
+      },
+      { id:'inner-transition',   cat:'inner-transition',  color:'#C8CDD2',
+        name:'Inner-Transition Metals',
+        desc:'Inner-transition metals in this classification refer to the heaviest synthetic elements beyond the main transition metal block — elements 109 (Meitnerium) through 118 (Oganesson), along with Flerovium (114). All are produced only in particle accelerators and have been detected in quantities of only a few atoms. Their chemical properties are largely unknown due to their extremely short half-lives.',
+        extra:'These elements are named after scientists (Meitnerium after Lise Meitner), places (Flerovium after Flerov Laboratory, Russia; Moscovium after Moscow), or are still under formal IUPAC study. Oganesson (118), the heaviest known element, has a half-life of less than 1 millisecond.'
+      }
+    ];
+
+    window.addEventListener('DOMContentLoaded', function() {
+      var root = document.getElementById('groups-root');
+      var html = '<h2>Eleven Element Categories</h2>';
+      var g;
+      for (g = 0; g < GROUPS.length; g++) {
+        var grp = GROUPS[g];
+        var members = [];
+        var e;
+        for (e = 0; e < ELEMENTS.length; e++) {
+          if (ELEMENTS[e][3] === grp.cat) members.push(ELEMENTS[e]);
+        }
+        members.sort(function(a,b){ return a[0]-b[0]; });
+
+        html += '<section class="group-section" id="' + grp.id + '">';
+        html += '<div class="group-section-header">';
+        html += '<div class="group-color-swatch" style="background:' + grp.color + '"></div>';
+        html += '<h2>' + grp.name + '</h2>';
+        html += '</div>';
+        html += '<div class="group-section-body">';
+        html += '<p class="group-description">' + grp.desc + '</p>';
+        html += '<p class="group-description">' + grp.extra + '</p>';
+        html += '<div class="group-elements">';
+        var m;
+        for (m = 0; m < members.length; m++) {
+          var el = members[m];
+          html += '<div class="elem-chip ' + el[3] + '" title="' + el[2] + ' #' + el[0] + '">';
+          html += '<span class="chip-num">' + el[0] + '</span>';
+          html += '<span class="chip-sym">' + el[1] + '</span>';
+          html += '<span class="chip-name">' + el[2] + '</span>';
+          html += '</div>';
+        }
+        html += '</div></div></section>';
+      }
+      root.innerHTML = html;
+      if (window.location.hash) {
+        var target = document.querySelector(window.location.hash);
+        if (target) setTimeout(function(){ target.scrollIntoView({behavior:'smooth',block:'start'}); }, 120);
+      }
+    });
+  </script>
+</body>
+</html>
