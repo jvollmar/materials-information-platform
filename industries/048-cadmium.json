@@ -1,0 +1,52 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "batteries",
+      "name": "Nickel-Cadmium Batteries",
+      "icon": "🔋",
+      "share": "~70% of cadmium use",
+      "uses": [
+        "Nickel-cadmium (NiCd) rechargeable batteries: cadmium anode in potassium hydroxide electrolyte paired with nickel oxyhydroxide cathode — the dominant rechargeable battery chemistry for portable tools, emergency lighting, and aviation before lithium-ion",
+        "NiCd remains the preferred chemistry for aircraft emergency lighting systems and avionics backup power due to reliable performance across extreme temperatures (-40°C to +60°C) and ability to deliver high current pulses",
+        "Industrial NiCd batteries for locomotive starting, uninterruptible power supplies (UPS), and railway signaling — sintered-plate NiCd cells provide long service life (25+ years) in harsh industrial environments",
+        "NiCd has been banned in consumer portable devices in the EU since 2006 under the Battery Directive — lithium-ion has almost completely replaced NiCd in consumer electronics globally",
+        "Cordless power tools still use NiCd in price-sensitive segments and for high-drain applications, though lithium-ion is rapidly taking over even this market"
+      ],
+      "companies": [
+        { "name": "Saft (TotalEnergies)", "hq": "France", "tier": "major", "volume": null, "share": "~20% of industrial NiCd battery market", "use": "World's largest manufacturer of industrial NiCd batteries. Produces Saft NiCd cells for aviation emergency power, locomotive, railway signaling, and industrial UPS applications. Also produces NiMH and lithium batteries." },
+        { "name": "EnerSys", "hq": "USA", "tier": "major", "volume": null, "share": "~15% of industrial battery market", "use": "Major industrial battery manufacturer supplying NiCd and lead-acid batteries for motive power (forklifts), standby power (UPS, telecom), and aerospace applications. Produces Cyclon and Hawker NiCd battery systems." }
+      ]
+    },
+    {
+      "id": "coatings",
+      "name": "Electroplating & Pigments",
+      "icon": "🎨",
+      "share": "~20% of cadmium use",
+      "uses": [
+        "Cadmium electroplating on steel aerospace fasteners, landing gear components, and military hardware — cadmium provides sacrificial corrosion protection in salt spray environments and lubricates threaded fastener installation; being replaced by zinc-nickel in most applications under RoHS and REACH regulations",
+        "Cadmium sulfide (CdS) yellow and cadmium sulfoselenide (CdSₓSe₁₋ₓ) orange and red pigments: heat-stable inorganic pigments for plastics, ceramics, and glass that must withstand processing temperatures above 200°C where organic pigments would degrade",
+        "CdS and CdSe quantum dots for display technology: quantum dot-enhanced LCD displays (QLED, using cadmium-free alternatives increasingly) and quantum dot LEDs (QD-OLED) exploit size-tunable emission for wider color gamut",
+        "Cadmium telluride (CdTe) thin-film solar cells: First Solar's dominant thin-film technology uses CdTe as the p-type absorber — ~4g Cd per 100W module; accounts for ~5% of cadmium consumption globally"
+      ],
+      "companies": [
+        { "name": "First Solar", "hq": "USA", "tier": "major", "volume": "~20 GW CdTe modules/yr", "share": "~5% of global solar market by GW", "use": "World's largest CdTe thin-film solar module manufacturer. Each module uses ~4g of cadmium telluride as the semiconductor absorber layer. Operates a closed-loop cadmium recycling program, recovering CdTe from end-of-life modules." },
+        { "name": "Ferro Corporation (Prince International)", "hq": "USA", "tier": "large", "volume": null, "share": "~15% of inorganic pigment market", "use": "Major CdS and CdSe inorganic pigment producer for high-temperature plastics, ceramics, and glass applications where heat and UV stability are required. Supplies cadmium pigments to engineering plastic compounders and ceramic manufacturers." }
+      ]
+    },
+    {
+      "id": "nuclear",
+      "name": "Nuclear Reactor Control",
+      "icon": "⚛️",
+      "share": "~10% of cadmium use",
+      "uses": [
+        "Cadmium control rods and neutron absorbers in nuclear reactors: cadmium has a very high thermal neutron absorption cross-section (2,520 barns for ¹¹³Cd) — used in Boiling Water Reactor (BWR) control rods as Cd-In-Hf alloy",
+        "Cadmium shielding in nuclear laboratories and hot cells to filter thermal neutrons while allowing gamma rays to pass, enabling selective neutron beam experiments",
+        "Cadmium neutron capture is exploited in neutron activation analysis (NAA) to selectively irradiate epithermal neutron-sensitive samples by shielding thermal neutrons with cadmium covers"
+      ],
+      "companies": [
+        { "name": "GE-Hitachi Nuclear Energy", "hq": "USA / Japan", "tier": "major", "volume": null, "share": "~30% of BWR nuclear fuel and components market", "use": "Supplies BWR control rod blades containing cadmium-indium-hafnium neutron-absorbing alloy sections to boiling water reactor operators globally." }
+      ]
+    }
+  ]
+}

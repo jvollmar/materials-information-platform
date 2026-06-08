@@ -1,0 +1,76 @@
+{
+  "dataTier": 1,
+  "industries": [
+    {
+      "id": "electronics",
+      "name": "Electronics & Electrical Contacts",
+      "icon": "⚡",
+      "share": "~50% of silver use",
+      "uses": [
+        "Silver paste in silicon solar cells: silver screen-printed front contact grids collect current from the silicon wafer — each crystalline silicon solar cell uses ~80–100mg of silver paste; at 500 GW/yr global solar production, this consumes ~15% of world silver supply",
+        "Electrical contacts in switches, relays, and circuit breakers: silver's highest electrical conductivity of all metals and resistance to arc erosion make it the standard material for load-breaking contacts in everything from light switches to industrial switchgear",
+        "Multilayer ceramic capacitor (MLCC) internal electrodes: silver-palladium (Ag-Pd, 70/30 to 90/10) paste used in premium MLCCs for automotive and aerospace electronics requiring high reliability",
+        "Silver-filled conductive adhesives for die-attach and surface-mount assembly in electronics packaging — silver flake-filled epoxy bonds components to PCBs and provides both mechanical and electrical connection",
+        "RFID antennas, membrane touch switches, and flexible printed electronics use silver inkjet-printed or screen-printed conductors on plastic films and paper substrates"
+      ],
+      "companies": [
+        { "name": "Heraeus", "hq": "Germany", "tier": "major", "volume": null, "share": "~25% of solar silver paste market", "use": "World's largest silver paste manufacturer for solar cells. Produces SOL9600 and Heliox series silver contact pastes for crystalline silicon solar cells. Also major silver refiner, producing silver powder, flake, and granule for electronics." },
+        { "name": "DuPont (Photovoltaic Solutions)", "hq": "USA", "tier": "major", "volume": null, "share": "~20% of solar silver paste market", "use": "Major solar silver paste producer under the Solamet brand. Supplies silver front-contact paste to solar cell manufacturers globally. Also produces silver-based conductive materials for RFID, membrane switches, and flexible electronics." },
+        { "name": "Fresnillo plc", "hq": "Mexico / UK", "tier": "major", "volume": "~55 Moz Ag/yr", "share": "~5% of world silver production", "use": "World's largest primary silver producer. Operates silver-gold mines at Fresnillo, Saucito, Herradura, and Ciénega in Mexico. Primary silver (where silver is the main revenue source, not a byproduct) is a small fraction of total supply." }
+      ]
+    },
+    {
+      "id": "jewelry",
+      "name": "Jewelry, Silverware & Investment",
+      "icon": "💍",
+      "share": "~20% of silver use",
+      "uses": [
+        "Sterling silver (92.5% Ag, 7.5% Cu) for jewelry, flatware, hollowware, and decorative objects — the universal standard for silver jewelry in Western markets with hallmarking requirements in most countries",
+        "Silver coins as legal tender and investment: US Silver Eagle (1 oz, 99.9% Ag), Canadian Maple Leaf, Austrian Philharmonic — government-minted bullion coins consumed 300+ million oz of silver annually at peak demand",
+        "Silver bars and rounds for retail investment: 1 oz to 1,000 oz silver bars as investment vehicles; silver ETFs (iShares Silver Trust, SLV) hold physical silver in allocated vaults",
+        "Fine silver (99.9%+) for electroplated silverware (EPNS — electroplated nickel silver) and decorative objects",
+        "Silver nitrate for mirror manufacturing: Tollen's reagent and similar silver-ammonia solutions deposit metallic silver on glass to create reflective coatings for architectural and automotive mirrors"
+      ],
+      "companies": [
+        { "name": "PAMP (MKS Group)", "hq": "Switzerland", "tier": "major", "volume": null, "share": "~10% of global silver bar market", "use": "World's leading silver and gold refinery and bar manufacturer. Produces PAMP Suisse silver bars and coins recognized as the global benchmark for silver investment products. Refines silver from mining and industrial sources." },
+        { "name": "US Mint", "hq": "USA", "tier": "major", "volume": "~30–50 Moz Ag/yr", "share": "~3% of world silver demand", "use": "Produces American Silver Eagle bullion and collector coins — the world's best-selling silver investment coin. Demand from coin buyers has grown dramatically since 2020, consuming significant portions of available silver supply." },
+        { "name": "Pandora", "hq": "Denmark", "tier": "large", "volume": null, "share": "~3% of global silver jewelry market", "use": "World's largest jewelry brand by volume. Produces charm bracelets and jewelry primarily in sterling silver at its Bangkok manufacturing facility. Announced transition to 100% recycled silver by 2025." }
+      ]
+    },
+    {
+      "id": "industrial",
+      "name": "Industrial & Photography",
+      "icon": "⚗️",
+      "share": "~20% of silver use",
+      "uses": [
+        "Silver brazing alloys (Ag-Cu-Zn-Cd or Ag-Cu-In): used to join dissimilar metals in HVAC refrigerant circuits, electrical equipment, and aerospace components where high-strength, corrosion-resistant joints are required at moderate temperatures",
+        "Silver-oxide and silver-zinc batteries for hearing aids, watches, and military/aerospace applications where high energy density and flat discharge voltage are more important than cost",
+        "Water purification: silver-impregnated activated carbon filters and silver-coated ceramic filter elements in point-of-use water purifiers in developing markets — silver's broad-spectrum antimicrobial activity prevents bacterial regrowth",
+        "Silver halide photographic film and paper: still produced for artistic, motion picture (Kodak Vision3), and archival use — a small fraction of peak demand but silver sensitivity remains unmatched for certain applications",
+        "Silver catalysts for ethylene oxide (EO) production: silver supported on alpha-alumina at 200–300°C selectively oxidizes ethylene to ethylene oxide (EO) — EO is converted to ethylene glycol for PET plastic and antifreeze, and to surfactants"
+      ],
+      "companies": [
+        { "name": "Eastman Kodak", "hq": "USA", "tier": "large", "volume": null, "share": "~10% of remaining photographic film market", "use": "Produces Kodak Vision3 motion picture film and TMAX/Tri-X professional photographic films using silver halide emulsions. Also produces X-ray film for industrial NDT. A fraction of peak silver demand but still significant." },
+        { "name": "Shell Catalysts & Technologies", "hq": "Netherlands", "tier": "major", "volume": null, "share": "~30% of global EO catalyst market", "use": "Major supplier of silver ethylene oxide (EO) catalysts to chemical plants globally. Its METEOR and CRS series silver/α-Al₂O₃ catalysts are used to produce EO for ethylene glycol (antifreeze, PET polyester) and surfactant production." },
+        { "name": "Lucas-Milhaupt (Handy & Harman)", "hq": "USA", "tier": "large", "volume": null, "share": "~15% of North American silver brazing alloy market", "use": "Major silver brazing alloy manufacturer. Produces Sil-Fos, Safety-Silv, and other Ag-Cu-P and Ag-Cu-Zn brazing filler metals for HVAC, refrigeration, and industrial metal joining applications." }
+      ]
+    },
+    {
+      "id": "antimicrobial",
+      "name": "Antimicrobial & Medical",
+      "icon": "🏥",
+      "share": "~10% of silver use",
+      "uses": [
+        "Silver sulfadiazine cream (1% AgSD) as the standard topical treatment for burn wound infection — silver ions kill gram-positive and gram-negative bacteria and Pseudomonas aeruginosa in burn eschar",
+        "Silver-coated wound dressings (Aquacel Ag, Mepilex Ag, Acticoat) for chronic wounds, diabetic foot ulcers, and surgical site infections — sustained silver ion release from dressing maintains antimicrobial activity for 7 days",
+        "Nanosilver particles in textiles (athletic wear, socks, underwear) for odor control by inhibiting odor-causing bacteria — regulatory scrutiny increasing due to nanosilver environmental persistence and aquatic toxicity",
+        "Silver-coated urinary catheters and endotracheal tubes to reduce catheter-associated urinary tract infections (CAUTI) and ventilator-associated pneumonia (VAP) in hospital settings",
+        "Silver-impregnated bone cement and implant coatings for infection prevention in revision joint replacement surgery where infection rates are high"
+      ],
+      "companies": [
+        { "name": "Smith & Nephew", "hq": "UK", "tier": "major", "volume": null, "share": "~20% of advanced wound care market", "use": "Major advanced wound care company producing ACTICOAT silver-coated wound dressings and ALLEVYN Ag foam dressings. Silver-based antimicrobial wound products are a core part of its wound management portfolio for burns and chronic wounds." },
+        { "name": "Mölnlycke Health Care", "hq": "Sweden", "tier": "large", "volume": null, "share": "~15% of advanced wound care market", "use": "Produces Mepilex Border Ag and Mepitel Ag silver-containing wound dressings for infection prevention in surgical wounds, pressure ulcers, and traumatic wounds. Major supplier to hospital wound care teams globally." }
+      ]
+    }
+  ]
+}

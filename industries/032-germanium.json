@@ -1,0 +1,57 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "fiber-optics",
+      "name": "Fiber Optic Cables & Infrared Optics",
+      "icon": "🔦",
+      "share": "~30% of germanium use",
+      "uses": [
+        "Germanium dioxide (GeO₂) dopes the silica core of single-mode optical fiber, increasing its refractive index slightly above the cladding to create the waveguide — every kilometer of telecom fiber contains ~1g of germanium",
+        "Global fiber optic cable deployments for 5G backhaul, datacenter interconnects, and FTTH (fiber to the home) programs collectively consume hundreds of tonnes of germanium annually as dopant",
+        "Germanium lenses and windows for thermal infrared (8–12 μm) imaging systems: FLIR thermal cameras, night vision goggles, missile seeker heads, and industrial thermal inspection equipment — germanium is transparent in the thermal IR band invisible to silicon optics",
+        "Germanium is the dominant lens material for uncooled microbolometer thermal cameras (VOx detector arrays) in automotive night vision, security cameras, and handheld thermal imagers",
+        "Anti-reflection coatings on germanium IR optics using layers of ZnS, ZnSe, or diamond-like carbon to maximize transmission across the 8–14 μm atmospheric window"
+      ],
+      "companies": [
+        { "name": "Umicore", "hq": "Belgium", "tier": "major", "volume": null, "share": "~20% of global refined germanium", "use": "Major germanium refiner and specialty product producer. Processes germanium from zinc smelter residues and recycled scrap. Produces GeO₂ for fiber optic preform manufacturers and germanium metal for IR optics and semiconductor applications." },
+        { "name": "Vitrus (II-VI, now Coherent)", "hq": "USA", "tier": "major", "volume": null, "share": "~30% of germanium IR optics market", "use": "World's largest producer of germanium IR optical components. Manufactures germanium lenses, windows, domes, and prisms for thermal imaging cameras, FLIR systems, and missile seekers supplied to defense and commercial markets." },
+        { "name": "Yunnan Germanium (Chihong)", "hq": "China", "tier": "major", "volume": null, "share": "~60% of world germanium production", "use": "World's largest germanium producer. Recovers germanium from zinc smelting slag at its Chihong zinc-lead smelter in Yunnan province. China controls ~80% of world germanium reserves; export restrictions imposed August 2023 alongside gallium." }
+      ]
+    },
+    {
+      "id": "solar",
+      "name": "Solar Cells & Space Power",
+      "icon": "☀️",
+      "share": "~25% of germanium use",
+      "uses": [
+        "Germanium wafers as the bottom subcell substrate in triple-junction solar cells (InGaP/GaAs/Ge) for satellite and spacecraft power — these cells achieve 32–35% efficiency versus 22% for silicon, critical where panel area is constrained",
+        "Concentrated photovoltaic (CPV) systems: triple-junction cells on germanium substrates under 500–1000× concentrated sunlight achieve record 47%+ efficiency in controlled conditions",
+        "Ge-on-Si epitaxial layers in next-generation silicon photonics chips — germanium photodetectors on silicon integrate optical receivers directly on CMOS chips for datacom transceivers",
+        "Germanium transistors were the original semiconductor device (Bardeen, Brattain, Shockley, Bell Labs 1947) — now superseded by silicon except in specialized cryogenic and very-high-frequency applications"
+      ],
+      "companies": [
+        { "name": "Azur Space Solar Power", "hq": "Germany", "tier": "large", "volume": null, "share": "~30% of space solar cell market", "use": "European manufacturer of triple-junction GaAs/Ge solar cells for satellite power systems. Supplies space-qualified solar cell assemblies to ESA, Airbus Defence & Space, and Thales Alenia Space." },
+        { "name": "Spectrolab (Boeing)", "hq": "USA", "tier": "major", "volume": null, "share": "~40% of space solar cell market", "use": "World's largest space solar cell manufacturer. Produces XTJ Prime and IMM (inverted metamorphic multi-junction) cells on germanium substrates for NASA, ESA, and commercial satellite programs. Has powered more spacecraft than any other solar cell maker." }
+      ]
+    },
+    {
+      "id": "electronics",
+      "name": "Electronics, Catalysts & Specialty",
+      "icon": "⚗️",
+      "share": "~45% of germanium use",
+      "uses": [
+        "Polyethylene terephthalate (PET) polymerization catalyst: germanium dioxide (GeO₂) as alternative to antimony trioxide catalyst for food-contact PET bottles and packaging — produces clearer, antimony-free PET preferred in Japan and premium packaging markets",
+        "SiGe (silicon-germanium) heterojunction bipolar transistors (HBTs) in RF chipsets for 4G/5G smartphones — SiGe HBTs outperform silicon at microwave frequencies with lower noise figure for LNA (low-noise amplifier) applications",
+        "Germanium-on-insulator (GeOI) substrates for next-generation high-mobility CMOS transistors — germanium's higher electron and hole mobility (2× and 4× silicon) enables faster transistors at lower voltage",
+        "Night vision goggle objective lenses: germanium aspheric lenses focus thermal IR in military image intensifier and thermal weapon sight systems",
+        "Germanium recovery from recycling: secondary germanium from scrapped IR optical systems, fiber preform manufacturing waste, and PET catalyst residues is an important supply source as primary production is constrained"
+      ],
+      "companies": [
+        { "name": "Infineon Technologies", "hq": "Germany", "tier": "major", "volume": null, "share": "~20% of SiGe HBT chip market", "use": "Major producer of SiGe BiCMOS chipsets for 4G/5G RF front-end modules in smartphones. Its SiGe technology enables low-noise amplifiers and mixers operating at millimeter wave frequencies for 5G NR." },
+        { "name": "GlobalFoundries", "hq": "USA", "tier": "major", "volume": null, "share": "~30% of SiGe foundry market", "use": "Major SiGe foundry offering BiCMOS9 and BiCMOS9MW process nodes for RF, automotive radar, and communications chipsets requiring SiGe HBTs alongside CMOS logic. Supplies SiGe wafers to Qualcomm, Skyworks, and Murata." },
+        { "name": "Tosoh Corporation", "hq": "Japan", "tier": "large", "volume": null, "share": "~20% of Asian germanium dioxide market", "use": "Produces high-purity germanium dioxide for PET bottle production (catalyst-grade) and for optical fiber preform manufacturing. Major supplier to Japanese PET resin producers and fiber optic preform makers." }
+      ]
+    }
+  ]
+}

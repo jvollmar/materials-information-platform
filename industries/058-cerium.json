@@ -1,0 +1,71 @@
+{
+  "dataTier": 1,
+  "industries": [
+    {
+      "id": "catalysts",
+      "name": "Automotive Catalysis & FCC",
+      "icon": "🚗",
+      "share": "~40% of cerium use",
+      "uses": [
+        "Cerium oxide (CeO₂, ceria) as oxygen storage component (OSC) in three-way automotive catalysts — ceria reversibly stores and releases oxygen under lean and rich exhaust conditions, maintaining the near-stoichiometric air-fuel ratio needed for simultaneous CO, HC, and NOₓ conversion",
+        "Ceria-zirconia mixed oxides (CeO₂-ZrO₂) with superior thermal stability and oxygen storage capacity are the standard OSC material in all modern TWC catalysts — every gasoline vehicle manufactured since the 1990s contains ceria in its catalytic converter",
+        "Diesel oxidation catalysts (DOC) use cerium to promote soot combustion and HC/CO oxidation — ceria's redox activity makes it active for soot combustion at lower temperatures than precious metals alone",
+        "FCC catalysts for petroleum refining use cerium alongside lanthanum to stabilize zeolite Y and promote vanadium passivation — vanadium poisons FCC catalysts and cerium acts as a vanadium trap",
+        "Cerium oxide nanoparticles as fuel-borne catalyst additive — added to diesel fuel to promote combustion of soot particles in diesel particulate filters (DPF), enabling lower-temperature DPF regeneration"
+      ],
+      "companies": [
+        { "name": "Johnson Matthey", "hq": "UK", "tier": "major", "volume": null, "share": "~25% of automotive catalyst market", "use": "World's largest automotive catalyst supplier. Major consumer of cerium-zirconia mixed oxide for TWC oxygen storage components. Supplies TWC and DOC catalysts containing ceria-zirconia to virtually every major automotive OEM." },
+        { "name": "Umicore", "hq": "Belgium", "tier": "major", "volume": null, "share": "~20% of automotive catalyst market", "use": "Major automotive catalyst manufacturer. Produces ceria-zirconia mixed oxide washcoat materials and complete TWC catalyst systems for gasoline and hybrid vehicles. Also a major rare earth refiner processing cerium from separation plants." },
+        { "name": "Solvay (formerly Rhodia)", "hq": "Belgium", "tier": "major", "volume": null, "share": "~30% of ceria-zirconia OSC market", "use": "World's largest producer of ceria-zirconia mixed oxide for automotive catalysis. Supplies OSC powder to catalyst manufacturers including Johnson Matthey, BASF, and Umicore for incorporation into TWC washcoat formulations." }
+      ]
+    },
+    {
+      "id": "polishing",
+      "name": "Glass Polishing & CMP",
+      "icon": "🪟",
+      "share": "~30% of cerium use",
+      "uses": [
+        "Cerium oxide (CeO₂) polishing powder is the world's dominant glass polishing abrasive — used to polish optical lenses, telescope mirrors, flat glass, CRT screens, LCD glass substrates, and architectural glass. CeO₂ polishes glass by a combined mechanical and chemical mechanism faster and with fewer scratches than traditional rouge (Fe₂O₃)",
+        "Chemical mechanical planarization (CMP) slurries for semiconductor wafer polishing use cerium oxide particles to planarize silicon dioxide, shallow trench isolation (STI) oxide, and interlayer dielectrics in chip manufacturing",
+        "Ophthalmic lens polishing: ceria powder slurry polishes prescription eyeglass lenses to optical quality — the dominant process for high-volume lens manufacturing globally",
+        "Solar panel glass and touch screen cover glass polishing uses ceria to achieve the surface smoothness required for optical clarity and touchscreen sensitivity"
+      ],
+      "companies": [
+        { "name": "Ferro Corporation (Prince International)", "hq": "USA", "tier": "large", "volume": null, "share": "~15% of cerium polishing market", "use": "Major cerium oxide polishing compound producer. Supplies CeO₂ glass polishing powders to optical, flat glass, and automotive glass manufacturers globally. Also produces CMP slurries for semiconductor oxide planarization." },
+        { "name": "Cabot Microelectronics (CMC Materials)", "hq": "USA", "tier": "major", "volume": null, "share": "~30% of CMP slurry market", "use": "World's largest CMP slurry manufacturer. Produces ceria-based slurries for STI and oxide CMP in semiconductor wafer manufacturing at TSMC, Samsung, Intel, and GlobalFoundries." }
+      ]
+    },
+    {
+      "id": "glass",
+      "name": "Glass Decolorizing & UV Absorption",
+      "icon": "🔆",
+      "share": "~15% of cerium use",
+      "uses": [
+        "Cerium oxide added to glass formulations absorbs UV radiation — used in automotive windshields, photographic filter glass, and UV-protective ophthalmic lenses to block UV-A and UV-B radiation",
+        "Cerium neutralizes green tint in glass caused by iron impurities: cerium oxidizes Fe²⁺ (green) to Fe³⁺ (yellow-brown), and the complementary colors partially cancel — more economical than removing iron from glass batch",
+        "Rare earth glass colorants: cerium combined with titanium produces yellow glass; cerium in oxidizing conditions produces faint yellow tints used in decorative glass",
+        "Radiation-resistant glass for nuclear and space applications: cerium stabilizes glass against radiation-induced browning (solarization) by trapping electrons that would otherwise create color centers"
+      ],
+      "companies": [
+        { "name": "AGC Inc.", "hq": "Japan", "tier": "major", "volume": null, "share": "~15% of global flat glass market", "use": "Major flat glass and specialty glass producer consuming cerium oxide for UV-absorbing automotive glass, decolorizing, and specialty optical glass applications." },
+        { "name": "Essilor (EssilorLuxottica)", "hq": "France", "tier": "major", "volume": null, "share": "~30% of global ophthalmic lens market", "use": "World's largest ophthalmic lens manufacturer. Uses cerium oxide polishing compounds to finish prescription lenses and incorporates cerium into UV-blocking photochromic lens formulations." }
+      ]
+    },
+    {
+      "id": "steel",
+      "name": "Steel & Metallurgy",
+      "icon": "⚙️",
+      "share": "~15% of cerium use",
+      "uses": [
+        "Misch metal (mixed rare earth metal, primarily Ce+La+Pr+Nd) added to steel as a desulfurizer and inclusion shape modifier — rare earth elements form stable sulfides and oxysulfides, converting elongated manganese sulfide stringers to globular inclusions that improve transverse ductility and toughness",
+        "Cerium added to aluminum alloys improves high-temperature strength and oxidation resistance — Ce forms Al-Ce intermetallic phases that remain stable at elevated temperatures; used in lightweight automotive and aerospace castings",
+        "Cerium in cast iron: rare earth additions modify graphite morphology in cast iron similarly to magnesium in ductile iron — used as a supplement or alternative to magnesium in producing nodular graphite",
+        "Cerium oxide as welding rod coating ingredient — improves arc stability and reduces tungsten contamination in TIG welding electrodes (Ce-W electrodes as alternative to thoriated tungsten)"
+      ],
+      "companies": [
+        { "name": "Sandvik", "hq": "Sweden", "tier": "large", "volume": null, "share": null, "use": "Produces cerium-tungsten TIG welding electrodes (WC20 — 2% CeO₂) as a non-radioactive alternative to thoriated tungsten electrodes for TIG welding of stainless steel, titanium, and specialty alloys." },
+        { "name": "MP Materials", "hq": "USA", "tier": "large", "volume": null, "share": "~15% of Western rare earth production", "use": "Operates Mountain Pass rare earth mine in California — the only significant US rare earth producer. Produces mixed rare earth carbonate and separated rare earth products including cerium oxide. Working to establish a US domestic rare earth supply chain." }
+      ]
+    }
+  ]
+}

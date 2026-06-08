@@ -1,0 +1,221 @@
+{
+  "dataTier": 1,
+  "industries": [
+    {
+      "id": "be-defense",
+      "name": "Defense, Aerospace & Space Structures",
+      "icon": "🛡️",
+      "share": "~70% of beryllium consumption",
+      "uses": [
+        "Beryllium metal offers an extraordinary stiffness-to-weight ratio — approximately 6× stiffer than steel at only 25% of steel's density — making it indispensable for gyroscopes in inertial navigation systems (INS — used in aircraft, submarines, and guided missiles) where dimensional stability over temperature directly determines accuracy",
+        "BeCu (beryllium-copper alloy — typically 1.7–2.0% beryllium by weight) achieves twice the tensile strength of standard copper alloys while retaining 25% of copper's electrical conductivity; used in aerospace connectors, precision springs, and non-sparking tools for explosive-atmosphere environments",
+        "JWST (James Webb Space Telescope) primary mirror: all 18 hexagonal segments are machined from beryllium — beryllium's near-zero coefficient of thermal expansion at cryogenic temperatures (−233°C) and very high specific stiffness (stiffness divided by density) make it uniquely suited for space telescope optics",
+        "BeO (beryllium oxide) ceramic has thermal conductivity equal to copper while being electrically insulating — used as substrates for GaAs (gallium arsenide) and GaN (gallium nitride) power amplifier modules in radar transmitters and electronic warfare systems"
+      ],
+      "companies": [
+        {
+          "name": "Materion Corporation",
+          "hq": "USA",
+          "tier": "major",
+          "volume": "~180 t Be/yr",
+          "share": "~75% of US beryllium production",
+          "use": "World's dominant beryllium company. Operates Spor Mountain mine in Utah (world's largest known beryllium deposit) and the Delta, Utah conversion complex. Supplies beryllium metal, BeCu (beryllium-copper) alloy strip, beryllium pebbles, and BeO (beryllium oxide) ceramic to defense, aerospace, and telecommunications globally."
+        },
+        {
+          "name": "IBC Advanced Alloys",
+          "hq": "Canada/USA",
+          "tier": "medium",
+          "volume": null,
+          "share": null,
+          "use": "Produces AlBeMet (aluminum-beryllium metal matrix composite — lighter than aluminum with better stiffness) structural materials and BeCu (beryllium-copper) alloy castings. Operates a precision beryllium casting facility in Wilmington, Indiana for US prime defense contractors."
+        },
+        {
+          "name": "Lockheed Martin",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Major beryllium consumer across classified satellite programs, GPS Block III navigation satellite structural members, and F-35 Lightning II IMU (inertial measurement unit) frames — where beryllium's dimensional stability eliminates navigation error accumulation."
+        },
+        {
+          "name": "L3Harris Technologies",
+          "hq": "USA",
+          "tier": "medium",
+          "volume": null,
+          "share": null,
+          "use": "Uses beryllium in IR (infrared) optical systems, gyroscope housings, and precision sensor assemblies for airborne targeting pods, missile guidance systems, and EW (electronic warfare) equipment."
+        },
+        {
+          "name": "Ball Aerospace (BAE Systems)",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Manufactured all 18 primary mirror segments of the JWST (James Webb Space Telescope) from beryllium — each segment gold-coated and cryogenically figured to sub-nanometer surface accuracy. A landmark application of beryllium's unique properties."
+        },
+        {
+          "name": "Northrop Grumman",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "JWST prime contractor and major consumer of beryllium in classified satellite structures, airborne sensor systems, and strategic weapon guidance components requiring dimensional stability across a wide temperature range."
+        }
+      ]
+    },
+    {
+      "id": "be-nuclear",
+      "name": "Nuclear & Radiation Applications",
+      "icon": "⚛️",
+      "share": "~15% of beryllium consumption",
+      "uses": [
+        "Beryllium-9 has a very low thermal neutron capture cross-section (0.009 barns) — among the lowest of any structural material — combined with good neutron reflection properties; used in research reactor reflectors to return escaping neutrons to the core and reduce critical mass",
+        "BeO (beryllium oxide) ceramic moderator is used in TRIGA (Training, Research, Isotopes, General Atomics) research reactors at 70+ universities and research centers worldwide, slowing fast neutrons to thermal energies for isotope production and neutron experiments",
+        "Beryllium is specified as the neutron multiplier in ITER (International Thermonuclear Experimental Reactor) and future fusion blanket designs: ⁹Be + n → 2⁴He + 2n (beryllium captures one fast neutron and emits two, multiplying the neutron population needed to breed tritium fuel)",
+        "AmBe (americium-beryllium) and PuBe (plutonium-beryllium) neutron sources exploit beryllium's (α,n) reaction — an alpha particle from the radioactive isotope strikes beryllium and ejects a neutron — used in oilfield wireline tools, portable radiation gauges, and research neutron sources"
+      ],
+      "companies": [
+        {
+          "name": "Materion Corporation",
+          "hq": "USA",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "Supplies nuclear-grade beryllium metal, BeO (beryllium oxide) moderator pellets, and beryllium neutron reflector blocks to TRIGA research reactors, national laboratories (Oak Ridge, Argonne, NIST), and fusion experiments globally."
+        },
+        {
+          "name": "Schlumberger (SLB)",
+          "hq": "France/USA",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Uses AmBe (americium-beryllium) neutron sources encapsulated in beryllium housings in wireline logging tools for neutron porosity and formation density measurement in oil and gas exploration — a critical tool for evaluating subsurface reservoir rock properties."
+        },
+        {
+          "name": "Halliburton",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Deploys beryllium-encapsulated neutron sources in LWD (logging-while-drilling — measurement tools integrated into the drill string) tools for real-time formation evaluation while drilling oil and gas wells."
+        },
+        {
+          "name": "ITER Organization",
+          "hq": "France (international)",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "The ITER (International Thermonuclear Experimental Reactor) first-wall uses beryllium tiles facing the plasma inside the vacuum vessel. Beryllium's low atomic number minimizes plasma contamination from sputtered wall atoms — a critical materials selection for fusion reactors."
+        },
+        {
+          "name": "BWX Technologies",
+          "hq": "USA",
+          "tier": "medium",
+          "volume": null,
+          "share": null,
+          "use": "Major nuclear technology company manufacturing reactor components, beryllium neutron reflector assemblies, and TRIGA research reactor fuel elements for US government laboratories and commercial nuclear programs."
+        }
+      ]
+    },
+    {
+      "id": "be-telecom",
+      "name": "Telecommunications & Precision Electronics (BeCu Alloys)",
+      "icon": "📡",
+      "share": "~10% of beryllium consumption as BeCu alloys",
+      "uses": [
+        "BeCu (beryllium-copper) spring contacts retain elastic springback over 100+ million mating cycles without stress relaxation or fatigue — essential for electrical connector contacts in smartphones, laptops, automotive ECUs (engine control units), and industrial equipment where billions of connection-disconnection cycles are required",
+        "BeCu alloy pins and spring contacts in high-density board-to-board and board-to-cable connectors for 5G base station equipment and data center servers require both high conductivity and stable spring force precision over extended service life",
+        "Beryllium tweeter domes in audiophile loudspeakers achieve accurate reproduction of frequencies above 40 kHz — beryllium's exceptional stiffness-to-mass ratio allows the tweeter dome to move as a perfect rigid piston, avoiding the resonance break-up modes that color sound in aluminum, titanium, and polymer tweeters",
+        "BeCu mold tooling inserts in plastic injection molds: beryllium-copper's thermal conductivity (twice that of aluminum alloy) allows rapid heat extraction from mold cavities, reducing cycle times and enabling tighter dimensional tolerances in precision plastic parts"
+      ],
+      "companies": [
+        {
+          "name": "Materion Corporation",
+          "hq": "USA",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "World's dominant BeCu alloy supplier. Produces Alloy 25 strip (1.8% Be — highest performance) and Alloy 190 for connector springs, relay contacts, and precision instruments. Products used in smartphone battery contacts, relay springs, and MIL-SPEC (military specification) aerospace connectors."
+        },
+        {
+          "name": "NGK Metals Corporation (NGK Insulators subsidiary)",
+          "hq": "USA/Japan",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Major BeCu (beryllium-copper) strip and wire processor at its Reading, Pennsylvania facility. Produces spring-temper BeCu for automotive ECU (engine control unit) connector terminals, smartphone battery contacts, and precision industrial control switches."
+        },
+        {
+          "name": "Amphenol Corporation",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "World's largest connector manufacturer. Uses BeCu spring contacts extensively in MIL-DTL-38999 circular military connectors, fiber optic push-pull mechanisms, and high-speed data connectors for aerospace and data center applications."
+        },
+        {
+          "name": "TE Connectivity",
+          "hq": "Switzerland",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Major connector and sensor manufacturer. Uses BeCu in automotive connector terminals, industrial relay contacts, and aerospace connectors requiring long contact life, low insertion force, and stable electrical resistance over thousands of mating cycles."
+        },
+        {
+          "name": "Focal (Vervent Audio)",
+          "hq": "France",
+          "tier": "small",
+          "volume": null,
+          "share": null,
+          "use": "High-end loudspeaker manufacturer using pure beryllium tweeter domes in the Utopia and Sopra series. Beryllium's unique stiffness-to-mass ratio allows piston-like movement above 40 kHz — no other commercially workable material matches this property for tweeter performance."
+        }
+      ]
+    },
+    {
+      "id": "be-xray",
+      "name": "Medical & Scientific X-Ray Optics",
+      "icon": "🔬",
+      "share": "~5% of beryllium consumption",
+      "uses": [
+        "Beryllium X-ray transmission windows: beryllium has high atomic number relative to its low density, transmitting X-rays efficiently while maintaining an airtight seal between vacuum and atmosphere — used in X-ray tubes, synchrotron beam ports, and EDX (energy-dispersive X-ray spectroscopy) detectors",
+        "Thin beryllium foils (25–250 µm thick) as X-ray exit windows in clinical mammography tubes — beryllium transmits the soft X-rays needed for breast tissue contrast while filtering infrared and visible radiation that would heat the patient",
+        "Synchrotron X-ray beamline beryllium windows and compound refractive lenses at major light sources (ESRF, APS, Spring-8) provide transparent optical interfaces between ultra-high vacuum beam pipes and experimental hutches for diffraction, imaging, and spectroscopy",
+        "EDX (energy-dispersive X-ray spectroscopy — a technique identifying elemental composition by measuring characteristic X-ray energies) detector windows use ultra-thin beryllium foil to detect light-element X-ray emissions (carbon, nitrogen, oxygen) in scanning electron microscopes"
+      ],
+      "companies": [
+        {
+          "name": "Materion Corporation",
+          "hq": "USA",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "World's leading beryllium X-ray window and foil supplier. Produces PF-60 and EW-3 series X-ray transmission windows for mammography tubes, X-ray fluorescence (XRF) spectrometers, synchrotron beamlines, and EDX (energy-dispersive X-ray spectroscopy) detector housings."
+        },
+        {
+          "name": "Rigaku Corporation",
+          "hq": "Japan",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "World's largest X-ray analytical instrument company. Uses beryllium windows in XRD (X-ray diffraction), XRF (X-ray fluorescence) spectrometers, and industrial CT (computed tomography) scanners for materials characterization in research and quality control laboratories."
+        },
+        {
+          "name": "Malvern Panalytical (Spectris)",
+          "hq": "Netherlands/UK",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Major XRF (X-ray fluorescence) and XRD (X-ray diffraction) instrument manufacturer. Uses beryllium windows in spectrometer X-ray tube assemblies and diffractometer optics for elemental analysis and crystal structure determination."
+        },
+        {
+          "name": "Carl Zeiss",
+          "hq": "Germany",
+          "tier": "medium",
+          "volume": null,
+          "share": null,
+          "use": "Produces precision X-ray optics and beryllium-windowed components for synchrotron beamlines, laboratory X-ray microscopes (XRM — X-ray microscopy systems), and semiconductor wafer inspection tools requiring X-ray transmission."
+        }
+      ]
+    }
+  ]
+}

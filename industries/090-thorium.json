@@ -1,0 +1,51 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "nuclear",
+      "name": "Nuclear Fuel (Potential) & Research",
+      "icon": "⚛️",
+      "share": "~40% of thorium use",
+      "uses": [
+        "Thorium-232 (²³²Th, t½ = 14.05 billion years) is fertile — it absorbs a neutron to become ²³³U (uranium-233), a fissile fuel. Thorium fuel cycles produce far less long-lived transuranic waste than uranium cycles and are more proliferation-resistant",
+        "India's three-stage nuclear program is built around thorium: India has vast thorium reserves (monazite sands) and plans to use PHWR reactors (stage 1) → fast breeder reactors with Pu fuel (stage 2) → thorium-based advanced heavy water reactors (stage 3)",
+        "Molten Salt Reactors (MSRs) using liquid thorium fuel: several startups (Terrestrial Energy, Flibe Energy, Copenhagen Atomics) are developing MSRs that dissolve ThF₄ in molten fluoride salt as both fuel and coolant — restarting interest in the Oak Ridge Molten Salt Reactor Experiment (1965–1969)",
+        "CANDU reactors can use thorium oxide fuel without major design changes — demonstration thorium fuel bundles have been tested in Indian PHWRs"
+      ],
+      "companies": [
+        { "name": "India's Department of Atomic Energy (DAE)", "hq": "India", "tier": "major", "volume": null, "share": null, "use": "The world's most committed institutional actor in thorium nuclear energy. India holds ~25% of world thorium reserves in monazite beach sands (Kerala, Tamil Nadu). BARC (Bhabha Atomic Research Centre) actively develops thorium fuel fabrication and AHWR (Advanced Heavy Water Reactor) designs." },
+        { "name": "Terrestrial Energy", "hq": "Canada", "tier": "small", "volume": null, "share": null, "use": "Developing the Integral Molten Salt Reactor (IMSR) — a Generation IV reactor using molten fluoride salt with dissolved thorium and uranium fuel. Has received Canadian Nuclear Safety Commission pre-licensing review. Targeting commercial deployment in the 2030s." }
+      ]
+    },
+    {
+      "id": "gas-mantles",
+      "name": "Gas Mantles & Refractories",
+      "icon": "🔥",
+      "share": "~35% of thorium use",
+      "uses": [
+        "Thoriated gas mantles: thorium oxide (ThO₂, 1–2%) in incandescent gas mantles dramatically improves luminous efficiency — ThO₂ catalyzes the combustion reaction and raises the effective emission temperature. Thoriated mantles produce ~30% more light than cerium-only alternatives",
+        "Thoriated gas mantles are mildly radioactive due to ²³²Th content and its decay products — regulatory restrictions vary by country; some jurisdictions have banned sale, others permit it for camping and outdoor use",
+        "Thorium oxide (ThO₂) as a refractory: melting point 3300°C — the highest of any oxide. Used in high-temperature crucibles, furnace liners, and specialty refractory applications where zirconia and magnesia reach their limits",
+        "ThO₂ as catalyst support: historically used in the Wacker process for acetaldehyde production and in steam reforming catalysts — now largely replaced by more sustainable alternatives"
+      ],
+      "companies": [
+        { "name": "Humphrey (Coghlan's Ltd.)", "hq": "Canada", "tier": "large", "volume": null, "share": "~20% of North American gas mantle market", "use": "Major camping equipment supplier including gas mantles for lanterns. Produces both thoriated and non-thoriated (cerium oxide only) gas mantles for propane and white gas camping lanterns — the thoriated version produces superior light output." }
+      ]
+    },
+    {
+      "id": "alloys",
+      "name": "Specialty Alloys & Optics",
+      "icon": "⚗️",
+      "share": "~25% of thorium use",
+      "uses": [
+        "Thoriated tungsten TIG welding electrodes (W-ThO₂, 1–2% ThO₂): the traditional high-performance TIG electrode — thorium lowers the electrode work function, improving arc starting and stability for welding of stainless steel, titanium, copper, and nickel alloys. Being replaced by CeO₂ and La₂O₃ electrodes for regulatory compliance",
+        "Thorium-magnesium alloys (Mag-Thor): Mg-Th alloys with improved creep resistance at elevated temperatures, historically used in aerospace applications (Rolls-Royce Viper jet engine components) — now replaced by Mg-rare earth alloys due to thorium's radioactivity",
+        "Thoriated optical glass (lanthanum-thorium glass): thorium oxide historically used in high-refractive-index optical glass for camera and microscope lenses — replaced by rare earth-containing glass (La₂O₃, Y₂O₃) after radiation concerns from yellowing of thoriated glass under UV and gamma exposure",
+        "Monazite processing: monazite sand (Ce,La,Nd,Th)PO₄ contains 6–12% ThO₂ — processed for rare earth separation produces thorium as a byproduct that must be safely stored, creating a regulatory challenge for rare earth producers"
+      ],
+      "companies": [
+        { "name": "Sylvania / Osram (ams-OSRAM)", "hq": "USA / Germany", "tier": "large", "volume": null, "share": null, "use": "Historically major producer of thoriated tungsten wire and electrodes for lighting and welding. Still produces some thoriated TIG electrodes (EWTh-2) for the welding market where arc performance requirements justify thorium over alternatives." }
+      ]
+    }
+  ]
+}

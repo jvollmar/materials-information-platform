@@ -1,0 +1,53 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "superalloys",
+      "name": "Single-Crystal Nickel Superalloys",
+      "icon": "✈️",
+      "share": "~80% of rhenium use",
+      "uses": [
+        "Rhenium at 3–6% in single-crystal nickel superalloys (CMSX-4: 3%Re, CMSX-10: 6%Re, René N6: 5.4%Re) dramatically improves creep resistance at temperatures above 1000°C — Re partitions to the gamma matrix and slows dislocation climb, enabling higher turbine inlet temperatures and greater engine efficiency",
+        "Each GE GE90, GE9X, Pratt & Whitney PW4000, and Rolls-Royce Trent engine turbine blade contains rhenium — advanced turbofan engines use 2nd and 3rd generation single-crystal alloys with 3–6% Re in the highest-temperature stages",
+        "Rhenium allows turbine blades to operate 50–100°C hotter than Re-free alloys — each 10°C increase in turbine inlet temperature improves thermal efficiency by ~0.5%, justifying rhenium's very high price (~$1,500–3,000/kg)",
+        "Military jet engines: F119 (F-22), F135 (F-35), and other advanced fighter engines use higher Re-content alloys for maximum performance — military engines push closer to material limits than commercial engines",
+        "Turbine blade recycling recovers rhenium: end-of-life aircraft engine blades are remelted and rhenium is recovered — secondary rhenium from superalloy recycling provides ~20% of supply"
+      ],
+      "companies": [
+        { "name": "GE Aerospace", "hq": "USA", "tier": "major", "volume": null, "share": "~30% of large commercial turbofan market", "use": "Major rhenium consumer in single-crystal turbine blade casting. Its GE9X (777X) uses CMSX-10 (6%Re) 3rd generation single-crystal blades in the highest-temperature turbine stages. One of the world's largest individual rhenium end-users." },
+        { "name": "Pratt & Whitney (RTX)", "hq": "USA", "tier": "major", "volume": null, "share": "~25% of large commercial turbofan market", "use": "Major rhenium consumer in its GTF (geared turbofan) engines for A320neo and A220. Uses René N6 and other Re-containing single-crystal alloys in HPT blades. Major rhenium demand driver alongside GE and Rolls-Royce." },
+        { "name": "Freeport-McMoRan", "hq": "USA", "tier": "major", "volume": "~25,000 kg Re/yr", "share": "~15% of world rhenium production", "use": "Major rhenium producer — rhenium is recovered from molybdenite roasting at copper-molybdenum mines. Its Henderson molybdenum mine and Climax mine are significant rhenium sources. Chile (CODELCO, Molymet) dominates world rhenium supply at ~50%." }
+      ]
+    },
+    {
+      "id": "catalysts",
+      "name": "Petroleum Reforming Catalysts",
+      "icon": "🛢️",
+      "share": "~15% of rhenium use",
+      "uses": [
+        "Platinum-rhenium (Pt-Re/Al₂O₃) bimetallic catalyst for catalytic reforming of naphtha to high-octane gasoline and aromatic petrochemicals (benzene, toluene, xylene) — Re dramatically reduces catalyst coking and extends catalyst cycle life between regenerations",
+        "Pt-Re reforming catalysts operate at 490–540°C and 10–35 bar hydrogen pressure — the Re allows lower H₂ partial pressure operation (semi-regenerative and continuous reforming) improving reformate yield and octane",
+        "Rhenium catalysts for selective reduction reactions in fine chemical and pharmaceutical synthesis — Re₂O₇/Al₂O₃ for metathesis and selective oxidation reactions"
+      ],
+      "companies": [
+        { "name": "UOP (Honeywell)", "hq": "USA", "tier": "major", "volume": null, "share": "~40% of catalytic reforming technology market", "use": "World's largest licensor of catalytic reforming technology (CCR Platforming process). Supplies Pt-Re/Al₂O₃ reforming catalysts to oil refineries globally for producing high-octane gasoline blendstock and aromatic petrochemical feedstocks." },
+        { "name": "Axens (IFP Energies Nouvelles)", "hq": "France", "tier": "large", "volume": null, "share": "~25% of catalytic reforming technology market", "use": "Major reforming technology and catalyst supplier. Produces Pt-Re reforming catalysts for its Octanizing and Dualforming continuous catalytic reforming processes licensed to refineries worldwide." }
+      ]
+    },
+    {
+      "id": "specialty",
+      "name": "Specialty Alloys & Electronics",
+      "icon": "⚗️",
+      "share": "~5% of rhenium use",
+      "uses": [
+        "Tungsten-rhenium (W-Re) thermocouple wire: W5%Re/W26%Re thermocouple (Type C) for temperature measurement to 2320°C in inert and reducing atmospheres — the highest-temperature thermocouple in common use for furnace monitoring and aerospace testing",
+        "W-Re alloys for X-ray tube rotating anodes: rhenium addition to tungsten improves ductility and thermal shock resistance of X-ray tube anodes, reducing cracking under repeated thermal cycling",
+        "Rhenium filaments in mass spectrometer ion sources and scanning electron microscope (SEM) electron guns — rhenium wire emits electrons efficiently and withstands oxidizing conditions better than tungsten",
+        "Rhenium-molybdenum and rhenium-niobium superconducting alloys for specialized cryogenic applications"
+      ],
+      "companies": [
+        { "name": "Omega Engineering (Spectris)", "hq": "USA", "tier": "large", "volume": null, "share": "~20% of thermocouple market", "use": "Major thermocouple and temperature sensor manufacturer. Produces W/Re Type C and Type D thermocouples for ultra-high-temperature measurement in aerospace, nuclear, and semiconductor furnace applications." }
+      ]
+    }
+  ]
+}

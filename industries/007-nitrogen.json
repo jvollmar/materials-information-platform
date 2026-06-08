@@ -1,0 +1,229 @@
+{
+  "dataTier": 1,
+  "industries": [
+    {
+      "id": "n-fertilizer",
+      "name": "Nitrogen Fertilizers (Haber-Bosch)",
+      "icon": "🌾",
+      "share": "~80% of all industrially fixed nitrogen",
+      "uses": [
+        "The Haber-Bosch process converts N₂ (atmospheric nitrogen) to NH₃ (ammonia) over an iron catalyst at 150–300 bar and 400–500°C — the most consequential industrial process of the 20th century, supporting food production for roughly half of all people alive today",
+        "Urea (CO(NH₂)₂ — a solid containing 46% nitrogen produced by reacting NH₃ with CO₂ — carbon dioxide — under pressure) is the world's most widely applied nitrogen fertilizer; prilled or granulated for broadcast or banded soil application",
+        "NH₄NO₃ (ammonium nitrate — 34% nitrogen), UAN (urea ammonium nitrate solution — a 28–32% nitrogen liquid blend), and CAN (calcium ammonium nitrate) are major complementary nitrogen fertilizer forms for diverse global cropping systems",
+        "Nitrogen use efficiency in crops averages only 40–50% globally — the remainder is lost as N₂O (nitrous oxide — a greenhouse gas 265× more potent than CO₂), ammonia volatilization, or nitrate leaching — driving demand for enhanced-efficiency fertilizers with urease and nitrification inhibitors"
+      ],
+      "companies": [
+        {
+          "name": "Yara International",
+          "hq": "Norway",
+          "tier": "major",
+          "volume": "~17M t nitrogen fertilizer/yr",
+          "share": "~10% of global nitrogen fertilizer capacity",
+          "use": "World's largest nitrogen fertilizer and NH₃ (ammonia) producer. Operates 17 ammonia plants globally and a leading digital precision agriculture platform (Yara ATFARM). Pioneer of green ammonia from renewable hydrogen at its Porsgrunn, Norway facility."
+        },
+        {
+          "name": "Nutrien",
+          "hq": "Canada",
+          "tier": "major",
+          "volume": "~13M t nitrogen fertilizer/yr",
+          "share": "~7% of global nitrogen capacity",
+          "use": "World's largest crop nutrient company. Operates 7 nitrogen manufacturing facilities across North America. Nutrien Ag Solutions direct retail network serves 500,000+ farmers. Also the world's largest potash producer by capacity."
+        },
+        {
+          "name": "CF Industries",
+          "hq": "USA",
+          "tier": "major",
+          "volume": "~10M t nitrogen fertilizer/yr",
+          "share": "~6% of global nitrogen capacity",
+          "use": "Largest North American nitrogen fertilizer producer. Operates the world's single-largest NH₃ (ammonia) plant at Donaldsonville, Louisiana. Developing blue ammonia with CO₂ (carbon dioxide) capture for low-carbon fertilizer export markets."
+        },
+        {
+          "name": "EuroChem Group",
+          "hq": "Switzerland",
+          "tier": "large",
+          "volume": "~8M t nitrogen fertilizer/yr",
+          "share": "~5% of global nitrogen capacity",
+          "use": "Global nitrogen and phosphate fertilizer producer with operations in Russia, Belgium, Kazakhstan, and Brazil. Mines natural gas feedstock for NH₃ (ammonia) production and is building new US nitrogen production capacity."
+        },
+        {
+          "name": "PhosAgro",
+          "hq": "Russia",
+          "tier": "large",
+          "volume": "~6M t nitrogen fertilizer/yr",
+          "share": "~4% of global nitrogen capacity",
+          "use": "Russia's largest phosphate company and a major nitrogen producer at its Cherepovets complex. Integrates nitrogen and phosphate into compound NPK (nitrogen-phosphorus-potassium) fertilizers for European and global markets."
+        },
+        {
+          "name": "Koch Fertilizer (Koch Industries)",
+          "hq": "USA",
+          "tier": "large",
+          "volume": "~5M t nitrogen fertilizer/yr",
+          "share": "~3% of global nitrogen capacity",
+          "use": "Major US NH₃ (ammonia) and UAN (urea ammonium nitrate) producer operating plants in the US, Canada, and Trinidad. Koch Fertilizer's Enid, Oklahoma plant is one of North America's largest single nitrogen facilities."
+        },
+        {
+          "name": "IFFCO (Indian Farmers Fertiliser Cooperative)",
+          "hq": "India",
+          "tier": "large",
+          "volume": "~4M t nitrogen fertilizer/yr",
+          "share": "~3% of global nitrogen capacity",
+          "use": "India's largest fertilizer producer and cooperative. Operates urea and NPK (nitrogen-phosphorus-potassium) complex fertilizer plants supplying millions of Indian smallholder farmers — a critical contributor to India's agricultural self-sufficiency."
+        }
+      ]
+    },
+    {
+      "id": "n-industrial",
+      "name": "Industrial Inert Gas (Inerting, Cryogenics & Purging)",
+      "icon": "🌡️",
+      "share": "~15% of nitrogen production",
+      "uses": [
+        "Liquid nitrogen (LN₂ — at −196°C, 77 Kelvin) is used for IQF (individual quick freezing) of shrimp, vegetables, prepared meals, and fruit pieces — cryogenic freezing preserves cellular structure and nutritional quality better than slow mechanical freezing",
+        "Nitrogen blanketing (sweeping or pressurizing with N₂ — nitrogen gas) of chemical reactors, oil storage tanks, pharmaceutical clean rooms, and electronics assembly areas prevents oxidation, moisture uptake, and fire risk by excluding atmospheric oxygen",
+        "Ultra-pure N₂ (6N grade — 99.9999% purity) serves as a carrier, dilution medium, and purging agent in semiconductor wafer fabrication and OLED (organic light-emitting diode) display panel deposition where trace oxygen causes irreversible device failure",
+        "Nitrogen tire inflation provides more stable pressure across temperature extremes than air (which contains water vapor causing pressure variability), used in commercial aircraft, Formula 1 racing tires, and some premium automotive applications"
+      ],
+      "companies": [
+        {
+          "name": "Linde plc",
+          "hq": "UK/Ireland",
+          "tier": "major",
+          "volume": "~40M t N₂/yr distributed",
+          "share": "~28% of global industrial gas market",
+          "use": "World's largest industrial gas company. Produces nitrogen from ASU (air separation units — cryogenic plants that fractionally distill liquefied air) co-located at steel mills, semiconductor fabs, and chemical plants. Supplies 6N ultra-pure nitrogen to TSMC, Samsung, and Intel."
+        },
+        {
+          "name": "Air Liquide",
+          "hq": "France",
+          "tier": "major",
+          "volume": "~35M t N₂/yr distributed",
+          "share": "~25% of global industrial gas market",
+          "use": "Major global nitrogen producer and distributor. Supplies IQF (individual quick freezing) tunnel and spiral freezers for food processing (Nestlé, Bonduelle), inerting systems for chemical plants, and ultra-pure nitrogen for semiconductor and OLED display manufacturing."
+        },
+        {
+          "name": "Air Products",
+          "hq": "USA",
+          "tier": "major",
+          "volume": "~25M t N₂/yr distributed",
+          "share": "~18% of global industrial gas market",
+          "use": "Supplies ultra-pure nitrogen to semiconductor fabs, food processors, metal fabricators, and chemical manufacturers globally. Designs and builds on-site ASU (air separation unit) nitrogen plants for large industrial customers."
+        },
+        {
+          "name": "Messer Group",
+          "hq": "Germany",
+          "tier": "medium",
+          "volume": null,
+          "share": null,
+          "use": "European and American industrial gas supplier distributing nitrogen for food IQF (individual quick freezing), metalworking heat treatment, electronics manufacturing inerting, and pharmaceutical clean room applications."
+        },
+        {
+          "name": "Matheson (Nippon Sanso Holdings)",
+          "hq": "USA/Japan",
+          "tier": "medium",
+          "volume": null,
+          "share": null,
+          "use": "Major specialty and bulk gas distributor. Supplies ultra-high-purity nitrogen and specialty nitrogen blends to semiconductor fabs, research institutions, and analytical instrument manufacturers across North America and Asia."
+        }
+      ]
+    },
+    {
+      "id": "n-chemical",
+      "name": "Nitrogen-Based Chemical Manufacturing",
+      "icon": "🧪",
+      "share": "~5% of nitrogen use",
+      "uses": [
+        "HNO₃ (nitric acid — produced by catalytic oxidation of NH₃ — ammonia — over platinum-rhodium gauze at 800–900°C) is the precursor for NH₄NO₃ (ammonium nitrate fertilizer), TNT (trinitrotoluene — a military and industrial explosive), and aniline (the MDI — methylene diphenyl diisocyanate — polyurethane foam precursor)",
+        "Caprolactam (produced from cyclohexanone via Beckmann rearrangement using H₂SO₄ — sulfuric acid) is the ring-opening monomer for nylon-6 (polyhexamethylene caprolactamide) used in carpets, clothing, automotive parts, and food packaging films",
+        "Acrylonitrile (CH₂=CH-CN — produced from propylene + NH₃ — ammonia + O₂ — oxygen over a molybdenum bismuth catalyst) is the monomer for acrylic fibers, ABS (acrylonitrile butadiene styrene — a common engineering thermoplastic), and PAN (polyacrylonitrile — the precursor fiber for carbon fiber manufacturing)",
+        "Melamine (C₃H₆N₆ — produced from urea by thermolysis) polymerizes with formaldehyde to make MF (melamine-formaldehyde resin) used in Formica-type laminate surfaces, dinnerware, wood-panel adhesives, and fire-retardant coatings"
+      ],
+      "companies": [
+        {
+          "name": "BASF SE",
+          "hq": "Germany",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "World's largest chemical company. Major producer of HNO₃ (nitric acid), caprolactam (for nylon-6), TDI (toluene diisocyanate — a polyurethane foam precursor), and MDI (methylene diphenyl diisocyanate) — all nitrogen-intensive intermediates produced at Verbund integrated sites."
+        },
+        {
+          "name": "Honeywell (Resins & Chemicals)",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Major North American producer of caprolactam and adipic acid — the two monomers for nylon-6,6 (polyhexamethylene adipamide — a high-performance engineering thermoplastic). Supplies nylon precursors to carpet, automotive, and engineering plastics industries."
+        },
+        {
+          "name": "DSM-Firmenich",
+          "hq": "Netherlands",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Major caprolactam and NH₄₂SO₄ (ammonium sulfate co-product) producer at its Chemelot chemical complex in the Netherlands. Supplies the global nylon-6 fiber and engineering plastics supply chain."
+        },
+        {
+          "name": "Invista (Koch Industries)",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "World's largest nylon-6,6 integrated producer (Lycra, Cordura, ANTRON carpet fiber brands). Produces adipic acid and HMD (hexamethylenediamine — a diamine monomer for nylon-6,6) for automotive airbags, tire cord, carpets, and performance textiles globally."
+        },
+        {
+          "name": "INEOS",
+          "hq": "UK",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Major acrylonitrile and HNO₃ (nitric acid) producer. Operates large acrylonitrile facilities at Seal Sands (UK) and Lavéra (France) producing acrylonitrile for ABS (acrylonitrile butadiene styrene) engineering plastics, acrylic fibers, and PAN (polyacrylonitrile) carbon fiber precursor supply chains."
+        }
+      ]
+    },
+    {
+      "id": "n-food",
+      "name": "Food Processing & Preservation",
+      "icon": "🍾",
+      "share": "~3% of nitrogen production",
+      "uses": [
+        "MAP (modified atmosphere packaging — replacing oxygen inside sealed food packages with N₂ or N₂/CO₂ blends) prevents oxidation and aerobic microbial growth — extending shelf life of fresh meat, salad leaves, snack foods, and roasted coffee by 2–5× compared to air packaging",
+        "IQF (individual quick freezing) in LN₂ (liquid nitrogen) tunnel or spiral freezers freezes shrimp, cut vegetables, fruit pieces, and prepared meals in seconds vs. hours in mechanical freezers — preserving texture, color, and nutrients that slow freezing damages by allowing large ice crystal formation",
+        "N₂ (nitrogen gas) pressurizes Guinness stout kegs and canned Guinness widget cans to produce the characteristic fine-bubble nitrogen head — nitrogen is far less soluble in beer than CO₂ (carbon dioxide) and produces smaller, creamier bubbles ideal for dark ales and stouts",
+        "Cryogenic milling uses LN₂ (liquid nitrogen) to cool heat-sensitive materials — spices, cocoa, pharmaceuticals, rubber, and plastics — below their glass transition temperature before grinding, producing finer, more uniform particles without thermal degradation of volatile compounds"
+      ],
+      "companies": [
+        {
+          "name": "Air Liquide",
+          "hq": "France",
+          "tier": "major",
+          "volume": null,
+          "share": "~25% of food-grade gas market",
+          "use": "World's largest food-grade gas company. Provides LN₂ (liquid nitrogen) for IQF (individual quick freezing) tunnel freezers at Nestlé and Bonduelle, MAP (modified atmosphere packaging) gas blends for meat and produce packaging, and nitrogen sparging for wine preservation."
+        },
+        {
+          "name": "Linde plc",
+          "hq": "UK/Ireland",
+          "tier": "major",
+          "volume": null,
+          "share": "~28% of food-grade gas market",
+          "use": "Major food nitrogen supplier. Provides cryogenic IQF (individual quick freezing) systems (Cryoline brand), MAP (modified atmosphere packaging) gas blends for extended shelf life, and nitrogen inerting systems for food manufacturing across Americas, Europe, and Asia-Pacific."
+        },
+        {
+          "name": "Nestlé",
+          "hq": "Switzerland",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "World's largest food company. Major nitrogen consumer for Nespresso and Nescafé coffee nitrogen flushing after roasting (preventing oxidation of volatile aromatics), and frozen food (Stouffer's, Lean Cuisine, Maggi) cryogenic IQF (individual quick freezing) processing."
+        },
+        {
+          "name": "Sealed Air Corporation",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "World's largest food packaging company (Cryovac brand). Produces MAP (modified atmosphere packaging) systems and barrier films using N₂/CO₂ (nitrogen-carbon dioxide) gas blends to extend shelf life of fresh and processed meat, poultry, and seafood."
+        }
+      ]
+    }
+  ]
+}

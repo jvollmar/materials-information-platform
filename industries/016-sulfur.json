@@ -1,0 +1,79 @@
+{
+  "dataTier": 1,
+  "industries": [
+    {
+      "id": "sulfuricacid",
+      "name": "Sulfuric Acid Production",
+      "icon": "⚗️",
+      "share": "~90% of all sulfur ends up as sulfuric acid — the world's largest-volume industrial chemical",
+      "uses": [
+        "Contact process converts SO₂ to SO₃ over vanadium pentoxide catalyst, then absorbed in water to form H₂SO₄ — world production exceeds 250 million tonnes per year, more than any other manufactured chemical",
+        "Phosphate fertilizer production consumes ~60% of all sulfuric acid — attacks phosphate rock to liberate phosphoric acid: Ca₃(PO₄)₂ + 3H₂SO₄ → 2H₃PO₄ + 3CaSO₄",
+        "Petroleum refining uses sulfuric acid as alkylation catalyst to produce high-octane isooctane from isobutane and butylene for gasoline blending",
+        "Metal ore leaching: sulfuric acid heap-leach dissolves copper oxide ores, followed by solvent extraction and electrowinning (SX-EW) to recover cathode copper without smelting",
+        "Battery acid: 30–40% H₂SO₄ electrolyte in lead-acid automotive batteries — still the dominant battery chemistry for engine starting, uninterruptible power supplies, and forklift trucks"
+      ],
+      "companies": [
+        { "name": "BASF", "hq": "Germany", "tier": "major", "volume": null, "share": null, "use": "Major sulfuric acid producer and consumer at its Verbund integrated sites. Produces sulfuric acid from smelter off-gases and elemental sulfur for captive use in chemical synthesis and for merchant sale." },
+        { "name": "Aurubis", "hq": "Germany", "tier": "major", "volume": "~1.4 Mt H₂SO₄/yr", "share": "~40% of European copper smelter acid production", "use": "Europe's largest copper smelter. Produces sulfuric acid as a byproduct of copper smelting — SO₂ from roasting copper concentrates is captured and converted to H₂SO₄, making Aurubis one of Europe's largest acid producers." },
+        { "name": "Mosaic Company", "hq": "USA", "tier": "major", "volume": "~10 Mt H₂SO₄ consumed/yr", "share": null, "use": "World's largest phosphate fertilizer producer and one of the world's largest sulfuric acid consumers. Runs large dedicated sulfuric acid plants at its Florida and Louisiana fertilizer complexes." },
+        { "name": "Koch Fertilizer (Koch Industries)", "hq": "USA", "tier": "large", "volume": null, "share": null, "use": "Major nitrogen and phosphate fertilizer producer. Operates sulfuric acid plants supplying phosphoric acid production for MAP and DAP fertilizer manufacturing at its US facilities." }
+      ]
+    },
+    {
+      "id": "petroleum",
+      "name": "Petroleum Refining & Natural Gas Processing",
+      "icon": "🛢️",
+      "share": "All commercially produced sulfur originates here — elemental sulfur is a byproduct of desulfurization",
+      "uses": [
+        "Hydrodesulfurization (HDS) removes sulfur from crude oil fractions (gasoline, diesel, jet fuel, fuel oil) by reacting with H₂ over CoMo or NiMo catalyst to form H₂S gas — driven by ultra-low sulfur fuel regulations (10 ppm limit in EU/US diesel)",
+        "Claus process in refineries and gas plants converts recovered H₂S to elemental sulfur: 2H₂S + O₂ → 2S + 2H₂O — producing the >80 million tonnes of elemental sulfur supplied to market annually",
+        "Sour gas (natural gas with >5.7 mg/m³ H₂S) must be sweetened by amine absorption before pipeline injection — Canada, Saudi Arabia, Russia, and UAE are largest sour gas sulfur producers",
+        "Alberta oil sands processing generates vast quantities of sulfur as a byproduct — Canada stockpiles millions of tonnes of solid sulfur blocks awaiting market demand",
+        "Sulfur recovery is both an environmental necessity (H₂S is lethally toxic) and an economic recovery — converting waste gas to a marketable commodity"
+      ],
+      "companies": [
+        { "name": "Saudi Aramco", "hq": "Saudi Arabia", "tier": "major", "volume": "~7 Mt S/yr", "share": "~8% of world sulfur production", "use": "World's largest crude oil producer and one of the world's largest elemental sulfur producers. Recovers sulfur at its Shaybah, Hawiyah, and Khursaniyah gas plants from processing sour Arabian crude and associated gas." },
+        { "name": "Shell", "hq": "Netherlands", "tier": "major", "volume": null, "share": null, "use": "Major global sulfur producer through hydrodesulfurization at its refineries and Claus units at gas processing plants. Shell's Pearl GTL plant in Qatar produces significant sulfur as a gas-to-liquids byproduct." },
+        { "name": "Canadian Natural Resources (CNRL)", "hq": "Canada", "tier": "major", "volume": "~2 Mt S/yr", "share": "~2% of world sulfur production", "use": "Major oil sands producer and sulfur producer at its Horizon and Albian Sands operations. Produces elemental sulfur blocks stored at dedicated forming facilities in Alberta." },
+        { "name": "ExxonMobil", "hq": "USA", "tier": "major", "volume": null, "share": null, "use": "Major sulfur producer at its global refinery network and LNG plants. Operates Claus units converting H₂S from hydrodesulfurization and gas sweetening to elemental sulfur at its Baton Rouge, Beaumont, and Singapore refineries." }
+      ]
+    },
+    {
+      "id": "mining",
+      "name": "Mining & Metals Processing",
+      "icon": "⛏️",
+      "share": "~10% of sulfuric acid use for leaching; additional sulfur in mineral flotation",
+      "uses": [
+        "Sulfuric acid heap leaching of copper oxide ores (chalcocite, malachite, azurite) at low-grade deposits — dissolves copper as copper sulfate solution recovered by SX-EW electrowinning",
+        "Froth flotation uses sulfur-based collectors (xanthates, dithiocarbamates) to selectively hydrophobize sulfide mineral surfaces (chalcopyrite, galena, sphalerite) for separation from gangue",
+        "Pressure oxidation (POX) of refractory gold ores: sulfuric acid and high-pressure oxygen oxidize sulfide minerals encapsulating gold, liberating it for cyanide leaching",
+        "Sodium sulfide (Na₂S) and sodium hydrosulfide (NaHS) depress zinc sulfide (sphalerite) during selective lead flotation in lead-zinc ore processing",
+        "Zinc electrowinning from ZnSO₄ solution uses sulfuric acid electrolyte; nickel, cobalt, and manganese similarly refined from sulfate solutions"
+      ],
+      "companies": [
+        { "name": "Freeport-McMoRan", "hq": "USA", "tier": "major", "volume": "~2 Mt H₂SO₄ consumed/yr", "share": null, "use": "World's largest publicly traded copper producer. Operates SX-EW heap leach operations at Morenci, Arizona and other sites consuming large volumes of sulfuric acid for copper oxide ore leaching." },
+        { "name": "BHP", "hq": "Australia", "tier": "major", "volume": null, "share": null, "use": "Major copper, nickel, and zinc producer consuming sulfuric acid at its Olympic Dam copper-uranium mine and Escondida copper operations. Also produces sulfuric acid as byproduct of Olympic Dam smelter." },
+        { "name": "Glencore", "hq": "Switzerland", "tier": "major", "volume": null, "share": null, "use": "Produces and consumes sulfuric acid at its integrated copper and zinc smelters in Canada, Australia, and Europe. Major seller of excess smelter acid to fertilizer and chemical markets." }
+      ]
+    },
+    {
+      "id": "rubber",
+      "name": "Rubber Vulcanization & Materials",
+      "icon": "🔧",
+      "share": "~2% of sulfur use — small by volume but historically critical",
+      "uses": [
+        "Vulcanization: elemental sulfur cross-links natural rubber polymer chains at 140–180°C, converting sticky latex into durable elastic rubber — Charles Goodyear's 1839 discovery that transformed industrial materials",
+        "Accelerated sulfur vulcanization uses sulfur with CBS, TBBS, or MBT accelerators to achieve cure in minutes rather than hours at lower sulfur loadings",
+        "Sulfur-cured natural rubber in truck tires, conveyor belts, hoses, seals, and vibration isolators where high resilience and heat resistance are required",
+        "Carbon disulfide (CS₂) produced from sulfur and methane used as solvent in viscose rayon and cellophane production and as a fumigant",
+        "Sulfur concrete (polymer sulfur binder + aggregate) for highly acid-resistant flooring in chemical plants, battery rooms, and wastewater structures"
+      ],
+      "companies": [
+        { "name": "Bridgestone", "hq": "Japan", "tier": "major", "volume": null, "share": "~15% of global tire market", "use": "World's largest tire manufacturer. Uses sulfur vulcanization in all natural and synthetic rubber tire compounds. Consumes sulfur and accelerators at tire plants across Asia, Americas, and Europe." },
+        { "name": "Michelin", "hq": "France", "tier": "major", "volume": null, "share": "~14% of global tire market", "use": "Major tire producer using sulfur vulcanization. Pioneered silica-sulfur compound technology in the Green Tire (1992), replacing carbon black with silica and silane coupling agents to reduce rolling resistance." },
+        { "name": "Lanxess (formerly Bayer Rubber)", "hq": "Germany", "tier": "large", "volume": null, "share": null, "use": "Major rubber chemicals producer supplying sulfur-based vulcanization accelerators (CBS, TBBS, MBTS) and antioxidants to tire and industrial rubber manufacturers globally." }
+      ]
+    }
+  ]
+}

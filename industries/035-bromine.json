@@ -1,0 +1,71 @@
+{
+  "dataTier": 1,
+  "industries": [
+    {
+      "id": "flame-retardants",
+      "name": "Flame Retardants",
+      "icon": "🔥",
+      "share": "~35% of bromine use",
+      "uses": [
+        "Brominated flame retardants (BFRs) added to polymer resins and textiles to inhibit ignition and slow flame spread — bromine radical chemistry interrupts the combustion chain reaction in the gas phase",
+        "Tetrabromobisphenol A (TBBPA): the highest-volume brominated flame retardant, primarily used as reactive flame retardant in epoxy resin for FR-4 printed circuit board laminates — virtually every PCB in computers, smartphones, and appliances contains TBBPA",
+        "Decabromodiphenyl ether (DecaBDE) historically used in TV and computer housings, carpet backings, and textiles; being phased out globally under Stockholm Convention due to persistence and bioaccumulation concerns",
+        "Hexabromocyclododecane (HBCDD) used in expanded polystyrene (EPS) insulation boards — restricted under Stockholm Convention; being replaced by polymeric flame retardants",
+        "Novel polymeric brominated flame retardants (PolyFR, PDBS) designed to be non-bioaccumulative alternatives to legacy BFRs in polymers, electronics, and textiles"
+      ],
+      "companies": [
+        { "name": "ICL Group (ICL Bromine)", "hq": "Israel", "tier": "major", "volume": "~200,000 t Br/yr", "share": "~35% of world bromine production", "use": "World's largest bromine producer. Extracts bromine from Dead Sea brines at Neot Hovav, Israel. Produces TBBPA, brominated epoxy resins, and specialty bromine compounds for electronics flame retardants and other applications." },
+        { "name": "Albemarle Corporation", "hq": "USA", "tier": "major", "volume": "~150,000 t Br/yr", "share": "~25% of world bromine production", "use": "Second-largest bromine producer. Extracts bromine from brine wells in Arkansas (Smackover Formation) and Jordan. Major producer of SAYTEX and SAYTEX HP brominated flame retardants for electronics, construction, and transportation." },
+        { "name": "Lanxess", "hq": "Germany", "tier": "large", "volume": null, "share": "~10% of brominated FR market", "use": "Major specialty chemicals producer manufacturing brominated flame retardants, biocides, and specialty bromine compounds. Produces EMERALD Innovation 3000 polymeric flame retardant as a safer alternative to legacy BFRs." }
+      ]
+    },
+    {
+      "id": "drilling",
+      "name": "Oil & Gas Drilling Fluids",
+      "icon": "🛢️",
+      "share": "~25% of bromine use",
+      "uses": [
+        "Zinc bromide (ZnBr₂), calcium bromide (CaBr₂), and sodium bromide (NaBr) as clear, dense completion and workover fluids in oil and gas well completions — high density (up to 19.2 lb/gal for ZnBr₂) provides wellbore pressure control without suspended solids that could damage the reservoir",
+        "Bromide brines used as packer fluids in the annulus of completed wells, preventing reservoir fluids from migrating up the wellbore during production",
+        "Bromide workover fluids allow well intervention (equipment installation, logging, stimulation) while maintaining pressure control using clear fluid rather than weighted solids-laden muds that risk formation damage",
+        "Sodium bromide (NaBr) used to produce bromine on-site for water treatment and biocide applications in offshore platforms and onshore oil field water handling"
+      ],
+      "companies": [
+        { "name": "ICL Group (TETRA Technologies)", "hq": "Israel / USA", "tier": "major", "volume": null, "share": "~40% of oilfield bromide brine market", "use": "Dominant supplier of calcium bromide, zinc bromide, and sodium bromide completion fluids to offshore and onshore oil and gas well operators globally. ICL produces the bromine; TETRA Technologies formulates and delivers completion fluids." },
+        { "name": "Albemarle Corporation", "hq": "USA", "tier": "major", "volume": null, "share": "~30% of oilfield bromide brine market", "use": "Major producer of oilfield bromide brines and completion fluids from its Arkansas brine operations. Supplies CaBr₂ and NaBr fluids to oil and gas operators in the Gulf of Mexico, North Sea, and Middle East." }
+      ]
+    },
+    {
+      "id": "biocides",
+      "name": "Water Treatment Biocides & Agriculture",
+      "icon": "💧",
+      "share": "~20% of bromine use",
+      "uses": [
+        "Bromine-based biocides (BCDMH, DBDMH) for industrial cooling water treatment — more effective than chlorine at higher pH and against biofilm-forming bacteria; used in power plant cooling towers, paper mills, and HVAC systems",
+        "Sodium bromide + oxidant (Cl₂ or ClO₂) generates bromine in situ for swimming pool and spa disinfection — bromine is less irritating to eyes and more effective at higher pH than chlorine",
+        "Methyl bromide (CH₃Br) as soil fumigant for pre-plant treatment of strawberry fields, tomato nurseries, and ornamental plant production — being phased out under Montreal Protocol (ozone-depleting substance); critical use exemptions still allowed in some countries",
+        "Brominated biocides for ballast water treatment in ships — preventing transfer of invasive species across ocean basins in ship ballast water is mandated by IMO Ballast Water Convention"
+      ],
+      "companies": [
+        { "name": "Albemarle Corporation", "hq": "USA", "tier": "major", "volume": null, "share": "~25% of bromine biocide market", "use": "Major producer of BCDMH (1-bromo-3-chloro-5,5-dimethylhydantoin) and other bromine-based biocides for industrial water treatment and pool/spa sanitization. Also produces silver-based antimicrobial zeolites." },
+        { "name": "ICL Group", "hq": "Israel", "tier": "major", "volume": null, "share": "~30% of bromine biocide market", "use": "Major producer of bromine-based industrial biocides, pool chemicals, and agricultural fumigants. Its DBNPA, DBDMH, and NaBr products are widely used in industrial water treatment and recreational water sanitization." }
+      ]
+    },
+    {
+      "id": "pharma",
+      "name": "Pharmaceuticals & Photography",
+      "icon": "💊",
+      "share": "~20% of bromine use",
+      "uses": [
+        "Bromine is a key building block in pharmaceutical synthesis — approximately 30+ marketed drugs contain bromine including loratadine (Claritin), rocuronium bromide (anesthetic), and bromhexine (expectorant)",
+        "Lithium bromide and potassium bromide as historically important sedatives and anticonvulsants; potassium bromide still used in veterinary medicine for epilepsy in dogs",
+        "Silver bromide (AgBr) as the primary light-sensitive material in traditional photographic film and paper — photons reduce Ag⁺ to metallic silver clusters forming the latent image in silver halide emulsion",
+        "Hydrobromic acid (HBr) as reagent in pharmaceutical synthesis for alkyl bromide preparation, salt formation of basic drugs, and as a catalyst in specialty chemical processes"
+      ],
+      "companies": [
+        { "name": "Pfizer", "hq": "USA", "tier": "large", "volume": null, "share": null, "use": "Major pharmaceutical company using bromine intermediates in synthesis of active pharmaceutical ingredients. Rocuronium bromide (anesthetic) and several other Pfizer drugs contain bromine as part of their molecular structure." },
+        { "name": "Organon (Merck spinoff)", "hq": "Netherlands", "tier": "large", "volume": null, "share": null, "use": "Pharmaceutical company producing brominated active pharmaceutical ingredients including ipratropium bromide (Atrovent, COPD inhaler) and tiotropium bromide (Spiriva), both bromine-containing anticholinergic bronchodilators." }
+      ]
+    }
+  ]
+}

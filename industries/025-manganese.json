@@ -1,0 +1,59 @@
+{
+  "dataTier": 1,
+  "industries": [
+    {
+      "id": "steel",
+      "name": "Steel Manufacturing",
+      "icon": "🏭",
+      "share": "~90% of manganese use — there is no substitute for manganese in steelmaking",
+      "uses": [
+        "Deoxidation and desulfurization: manganese reacts with dissolved oxygen (forming MnO to slag) and sulfur (forming MnS, preventing red-shortness) in every grade of steel — minimum ~0.25% Mn in virtually all commercial steel",
+        "Solid solution strengthening: manganese in steel increases hardenability and tensile strength without significantly reducing ductility or weldability",
+        "High-manganese austenitic steel (Hadfield steel, ~13% Mn): extraordinary work-hardening capacity makes it ideal for crushing jaws, grinding mill liners, railroad switches, and excavator bucket teeth — surface hardens dramatically under impact",
+        "TWIP steel (twinning-induced plasticity, 15–25% Mn): ultra-high-strength automotive steel combining 600+ MPa strength with 50%+ elongation for crash-energy-absorbing body structures — reduces vehicle weight without sacrificing safety",
+        "Silicomanganese (SiMn) and ferromanganese (FeMn) are the commercial forms — produced by carbothermic reduction of manganese ore in submerged arc furnaces and added to steel ladles"
+      ],
+      "companies": [
+        { "name": "South32 (GEMCO)", "hq": "Australia", "tier": "major", "volume": "~4.5 Mt Mn ore/yr", "share": "~15% of global Mn ore production", "use": "Operates Groote Eylandt Mining Company (GEMCO) in the Northern Territory — the world's largest single manganese ore operation. Ships high-grade Mn ore to steelmakers and ferroalloy smelters across Asia, Europe, and the Americas." },
+        { "name": "Eramet", "hq": "France", "tier": "major", "volume": "~4 Mt Mn ore/yr", "share": "~13% of global Mn ore production", "use": "Major manganese miner and ferroalloy producer. Operates the Moanda mine in Gabon (world's highest-grade large Mn ore deposit) and silicomanganese smelters in Norway, France, and China." },
+        { "name": "Assmang (African Rainbow Minerals)", "hq": "South Africa", "tier": "major", "volume": "~3.5 Mt Mn ore/yr", "share": "~12% of global Mn ore production", "use": "Operates Black Rock manganese mines in the Kalahari Manganese Field — the world's largest known manganese ore body, holding ~80% of global reserves. Produces ore and ferromanganese for export." },
+        { "name": "Compagnie Minière de l'Ogooué (COMILOG)", "hq": "Gabon", "tier": "major", "volume": "~4 Mt Mn ore/yr", "share": "~13% of global Mn ore production", "use": "Eramet subsidiary operating the Moanda mine, producing battery-grade and metallurgical manganese ore. Gabon is the world's second-largest manganese exporter, supplying global steel and battery industries." },
+        { "name": "Vale", "hq": "Brazil", "tier": "major", "volume": "~2.5 Mt Mn ore/yr", "share": "~8% of global Mn ore production", "use": "Major manganese ore producer at Azul mine (Pará, Brazil) and ferroalloy smelter operator. Supplies Brazilian and global steelmakers with metallurgical manganese ore and ferromanganese." }
+      ]
+    },
+    {
+      "id": "batteries",
+      "name": "Batteries & Energy Storage",
+      "icon": "🔋",
+      "share": "~7% of manganese use — rapidly growing with EV adoption",
+      "uses": [
+        "Electrolytic manganese dioxide (EMD) as cathode material in alkaline batteries (AA, AAA, C, D cells) — every alkaline battery contains 3–5g MnO₂; global alkaline battery market consumes ~400,000 t EMD/yr",
+        "Lithium manganese oxide (LMO, LiMn₂O₄ spinel): cathode in lithium-ion batteries. Safe, thermally stable, low-cost alternative to cobalt-containing cathodes. Used in power tools, e-bikes, and some EV battery packs (Nissan Leaf early generations)",
+        "NMC (nickel manganese cobalt oxide) cathodes for EV batteries: NMC 811 (80% Ni, 10% Mn, 10% Co), NMC 622, NMC 532 — manganese improves structural stability and reduces cost relative to pure nickel or cobalt cathodes",
+        "LMFP (lithium manganese iron phosphate) — emerging high-voltage cathode combining LFP safety with higher energy density by substituting ~30% manganese for iron; BYD and CATL advancing this chemistry for EVs",
+        "High-purity manganese sulfate (HPMSM, battery-grade, >99.9% MnSO₄) is the refined precursor for NMC and LMO cathode manufacturing — distinct from metallurgical-grade Mn ore"
+      ],
+      "companies": [
+        { "name": "CATL (Contemporary Amperex Technology)", "hq": "China", "tier": "major", "volume": null, "share": "~37% of global EV battery market", "use": "World's largest EV battery manufacturer. Major consumer of manganese in NMC and LMFP cathode chemistries. Developing sodium-ion batteries using manganese-based cathodes as a low-cost, lithium-free alternative." },
+        { "name": "Umicore", "hq": "Belgium", "tier": "major", "volume": null, "share": "~10% of global NMC cathode material market", "use": "Major NMC cathode material producer for EV batteries. Purchases high-purity manganese sulfate as precursor for NMC 622, NMC 811, and next-generation cathode materials supplied to Samsung SDI, LG Energy Solution, and automotive OEMs." },
+        { "name": "Duracell (Berkshire Hathaway)", "hq": "USA", "tier": "major", "volume": null, "share": "~25% of global alkaline battery market", "use": "World's largest alkaline battery brand. Each battery contains ~3–5g of electrolytic manganese dioxide (EMD) as the cathode material. Consumes tens of thousands of tonnes of EMD annually from global suppliers." }
+      ]
+    },
+    {
+      "id": "chemicals",
+      "name": "Chemicals & Specialty Products",
+      "icon": "⚗️",
+      "share": "~3% of manganese use",
+      "uses": [
+        "Potassium permanganate (KMnO₄) as a powerful oxidizing agent for water treatment (iron, manganese, and H₂S removal), wastewater treatment, chemical synthesis, and medical antiseptic (Condy's crystals)",
+        "Manganese dioxide (MnO₂) as oxidant in organic chemistry, as a depolarizer in zinc-carbon dry cells, and as a pigment (manganese brown) in ceramics and glass",
+        "Methylcyclopentadienyl manganese tricarbonyl (MMT) as antiknock fuel additive for gasoline — used as an octane booster in countries where tetraethyllead is banned; controversial due to potential neurotoxicity",
+        "Manganese sulfate as micronutrient fertilizer — manganese deficiency common in high-pH soils; also used as animal feed supplement for livestock bone development and enzyme function"
+      ],
+      "companies": [
+        { "name": "Carus Chemical", "hq": "USA", "tier": "large", "volume": null, "share": "~20% of North American KMnO₄ market", "use": "Major North American producer of potassium permanganate for municipal water treatment, industrial wastewater remediation, and chemical synthesis applications." },
+        { "name": "Brenntag", "hq": "Germany", "tier": "major", "volume": null, "share": null, "use": "World's largest chemical distributor. Distributes manganese sulfate, manganese dioxide, and potassium permanganate to agricultural, water treatment, and industrial chemical markets across 78 countries." }
+      ]
+    }
+  ]
+}

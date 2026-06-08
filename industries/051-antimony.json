@@ -1,0 +1,54 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "flame-retardants",
+      "name": "Flame Retardants",
+      "icon": "🔥",
+      "share": "~50% of antimony use",
+      "uses": [
+        "Antimony trioxide (Sb₂O₃) is used exclusively as a synergist with halogenated flame retardants — it does not retard flame alone but reacts with bromine or chlorine released during combustion to form antimony oxyhalide and antimony trihalide gases that interrupt the combustion chain reaction",
+        "Sb₂O₃ + brominated flame retardants in ABS, HIPS, and polypropylene for TV housings, computer cases, electrical enclosures, and automotive components — the combination is far more effective than either ingredient alone",
+        "Flame-retardant textiles for upholstered furniture, mattresses, and children's sleepwear incorporate Sb₂O₃ with decabromodiphenyl ether or alternative brominated compounds",
+        "Aircraft seat fabrics, carpet underlays, and overhead bin liners use Sb₂O₃-halogen FR systems meeting FAA and EASA aviation flammability requirements"
+      ],
+      "companies": [
+        { "name": "Hunan Gold Corporation (Xikuangshan)", "hq": "China", "tier": "major", "volume": null, "share": "~50% of world antimony production", "use": "China dominates world antimony production — ~55% of global supply. The Xikuangshan antimony mine in Hunan province is the world's largest antimony deposit. Produces antimony trioxide and antimony metal for flame retardant and lead-acid battery markets." },
+        { "name": "Campine", "hq": "Belgium", "tier": "large", "volume": null, "share": "~10% of European Sb₂O₃ market", "use": "Major European antimony trioxide producer and lead recycler. Produces Sb₂O₃ from antimony-bearing lead alloys recovered from recycled lead-acid batteries. Supplies flame retardant synergist to plastics and textile manufacturers in Europe." },
+        { "name": "Lanxess", "hq": "Germany", "tier": "large", "volume": null, "share": null, "use": "Major flame retardant chemical supplier. Produces and formulates Sb₂O₃-brominated FR masterbatch systems for ABS, HIPS, and polyolefin applications in electronics and automotive markets." }
+      ]
+    },
+    {
+      "id": "batteries",
+      "name": "Lead-Acid Batteries",
+      "icon": "🔋",
+      "share": "~30% of antimony use",
+      "uses": [
+        "Antimony (2–6%) alloyed with lead in battery grid alloys: hardens the soft lead grid, improves castability, and reduces creep under load — critical for deep-cycle and traction (forklift) lead-acid batteries",
+        "Low-antimony alloys (1–2% Sb) for starting-lighting-ignition (SLI) automotive batteries — antimony reduces water loss and gassing, but calcium-lead alloys have largely replaced antimony in maintenance-free automotive batteries",
+        "Antimony migration from positive to negative plates in flooded lead-acid batteries causes self-discharge — driving the shift to calcium-lead alloys in automotive batteries while antimony remains in deep-cycle applications",
+        "Recycled antimony from secondary lead smelters: antimony is recovered during lead-acid battery recycling, providing a significant secondary source that supplies ~30% of antimony demand"
+      ],
+      "companies": [
+        { "name": "EnerSys", "hq": "USA", "tier": "major", "volume": null, "share": "~15% of industrial lead-acid battery market", "use": "Major deep-cycle and industrial lead-acid battery manufacturer. Uses antimony-lead alloy grids in its deep-cycle batteries for golf carts, floor scrubbers, and standby power applications where deep discharge cycle life is paramount." },
+        { "name": "Exide Technologies", "hq": "USA", "tier": "major", "volume": null, "share": "~10% of global lead-acid battery market", "use": "Major automotive and industrial lead-acid battery manufacturer. Uses antimony-lead alloys in deep-cycle and traction batteries for forklifts, golf carts, and stationary UPS applications." }
+      ]
+    },
+    {
+      "id": "specialty",
+      "name": "Glass, Ceramics & Specialty",
+      "icon": "⚗️",
+      "share": "~20% of antimony use",
+      "uses": [
+        "Antimony trioxide as glass fining agent — removes bubbles from molten optical and specialty glass by oxidizing at high temperature, releasing oxygen to absorb remaining dissolved gas; used in CRT glass, optical glass, and specialty glass where clarity is critical",
+        "Antimony sulfide (Sb₂S₃) in friction materials (brake pads and linings) as a friction modifier and lubricant — reduces brake squeal and maintains consistent friction coefficient across temperature range",
+        "Antimony-doped tin oxide (ATO) as a transparent conducting oxide and UV-absorbing coating on glass and plastics — used in anti-static coatings, IR-reflecting window films, and energy-saving glass",
+        "Sodium antimonate (NaSbO₃) as a white opacifier in ceramic glazes — competes with zirconium silicate for tile opacification in markets where antimony is locally available"
+      ],
+      "companies": [
+        { "name": "Akebono Brake Industry", "hq": "Japan", "tier": "large", "volume": null, "share": "~10% of global brake pad market", "use": "Major automotive brake pad manufacturer. Uses antimony sulfide as a friction modifier in its semi-metallic and non-asbestos organic (NAO) brake formulations for passenger car and truck brake systems." },
+        { "name": "Federal-Mogul (Tenneco)", "hq": "USA", "tier": "major", "volume": null, "share": "~12% of global friction materials market", "use": "Major brake lining and friction material manufacturer using antimony sulfide in friction formulations for automotive disc pads and drum brake linings. Supplies to OEM and aftermarket channels globally." }
+      ]
+    }
+  ]
+}

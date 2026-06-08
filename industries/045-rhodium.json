@@ -1,0 +1,55 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "autocatalyst",
+      "name": "Automotive Catalytic Converters",
+      "icon": "🚗",
+      "share": "~80% of rhodium use — by far the most concentrated single-use dependency of any platinum group metal",
+      "uses": [
+        "Rhodium is the essential three-way catalyst (TWC) component for NOₓ reduction in gasoline engine exhaust — rhodium reduces nitric oxide (NO) and nitrogen dioxide (NO₂) to nitrogen (N₂) and oxygen, a reaction that platinum and palladium cannot efficiently perform",
+        "Three-way catalysts (TWC) contain all three PGMs: platinum and palladium oxidize CO and unburned hydrocarbons to CO₂ and H₂O; rhodium simultaneously reduces NOₓ to N₂ — eliminating all three regulated pollutants in one catalytic converter",
+        "Typical gasoline TWC loading: 2–7 grams total PGM per vehicle with rhodium typically at 0.3–1.5g per vehicle depending on engine size and emission standard; diesel catalysts (DOC + SCR) use no rhodium",
+        "Euro 6, China 6, and US Tier 3 emission standards have driven rhodium demand as tighter NOₓ limits require higher PGM loadings — and rhodium cannot be substituted for NOₓ reduction in TWC without fundamental changes to emission control chemistry",
+        "Hybrid electric vehicles (HEVs) require more rhodium per vehicle than pure ICE cars — the engine runs intermittently and the catalyst must perform during cold starts more frequently, requiring higher PGM loadings to meet standards"
+      ],
+      "companies": [
+        { "name": "Anglo American Platinum (Amplats)", "hq": "South Africa", "tier": "major", "volume": "~350,000 oz Rh/yr", "share": "~35% of world rhodium production", "use": "World's largest platinum group metal producer and largest rhodium supplier. Mines platinum-group metals from the Bushveld Igneous Complex in South Africa — which contains ~80% of world PGM reserves — at Mogalakwena, Amandelbult, and Unki operations." },
+        { "name": "Impala Platinum (Implats)", "hq": "South Africa", "tier": "major", "volume": "~200,000 oz Rh/yr", "share": "~20% of world rhodium production", "use": "Second-largest PGM and rhodium producer. Operates Impala mine at Rustenburg (the world's largest platinum mine), Zimplats in Zimbabwe, and Marula in Limpopo. Rhodium is refined as co-product of platinum and palladium mining." },
+        { "name": "Norilsk Nickel (Nornickel)", "hq": "Russia", "tier": "large", "volume": "~100,000 oz Rh/yr", "share": "~10% of world rhodium production", "use": "Russia's major PGM producer recovering rhodium as a byproduct of nickel-copper sulfide ore smelting at Norilsk. Rhodium content of Norilsk ore is lower than South African Bushveld — Nornickel is a smaller but significant rhodium source." },
+        { "name": "BASF Catalysts", "hq": "Germany", "tier": "major", "volume": null, "share": "~20% of global automotive catalyst market", "use": "Major automotive catalyst manufacturer. Purchases rhodium, platinum, and palladium from PGM producers to manufacture three-way catalytic converter substrates and coatings supplied to Ford, GM, Toyota, Volkswagen, and other OEMs." }
+      ]
+    },
+    {
+      "id": "chemicals",
+      "name": "Industrial Catalysis & Chemical Synthesis",
+      "icon": "⚗️",
+      "share": "~15% of rhodium use",
+      "uses": [
+        "Oxo synthesis (hydroformylation): rhodium-phosphine catalysts (Wilkinson's catalyst, low-pressure oxo process) convert alkenes + synthesis gas (CO + H₂) to aldehydes and alcohols — used to produce plasticizer alcohols (2-ethylhexanol for PVC), detergent alcohols, and pharmaceutical intermediates",
+        "Low-pressure oxo process (Shell, Mitsubishi, BASF) using Rh-TPPTS or Rh-TPPP catalyst systems has largely replaced the older cobalt-based high-pressure hydroformylation — 60% of global C3–C15 alcohol production uses rhodium oxo catalysis",
+        "Monsanto/Cativa acetic acid process: iridium (primarily) and rhodium-based carbonylation of methanol to acetic acid — the world's dominant route to acetic acid (vinegar, PET polymer precursor, solvent)",
+        "Rhodium-catalyzed C-H activation and cross-coupling reactions in pharmaceutical synthesis for constructing complex carbon frameworks without pre-functionalization"
+      ],
+      "companies": [
+        { "name": "Dow (formerly Celanese Oxo chemicals)", "hq": "USA", "tier": "major", "volume": null, "share": "~15% of global oxo alcohol production", "use": "Major producer of oxo alcohols using rhodium-based low-pressure hydroformylation. Produces 2-ethylhexanol (plasticizer for PVC), n-butanol (solvent), and isobutanol from propylene using Rh-phosphine catalyst systems." },
+        { "name": "BASF", "hq": "Germany", "tier": "major", "volume": null, "share": "~12% of global oxo alcohol production", "use": "Major oxo alcohol producer using Rh-catalyzed hydroformylation of olefins. Produces plasticizer and detergent range alcohols at Ludwigshafen and other Verbund sites. Also a major automotive catalyst manufacturer consuming rhodium." }
+      ]
+    },
+    {
+      "id": "glass",
+      "name": "Glass Fiber & Specialty",
+      "icon": "🪟",
+      "share": "~5% of rhodium use",
+      "uses": [
+        "Rhodium-platinum alloy (10–30% Rh) bushings for drawing glass fiber — the bushing tips through which molten glass is drawn into continuous filaments must resist oxidation and creep at 1200–1400°C. Rh-Pt alloy provides the required high-temperature strength and oxidation resistance",
+        "E-glass and S-glass fiber for fiberglass insulation, composite reinforcement, and optical fiber preforms are all drawn through Rh-Pt alloy bushings — the global fiberglass industry's capital equipment contains a significant inventory of rhodium-platinum alloy",
+        "Rhodium-platinum thermocouples (Types R and S: Pt-13%Rh/Pt and Pt-10%Rh/Pt) for high-temperature measurement in glass melting furnaces, steel plants, and gas turbine testing up to 1600°C"
+      ],
+      "companies": [
+        { "name": "Owens Corning", "hq": "USA", "tier": "major", "volume": null, "share": "~25% of global glass fiber market", "use": "World's largest fiberglass insulation and composite reinforcement manufacturer. Uses rhodium-platinum alloy bushings at all glass fiber drawing operations. The PGM inventory in its bushing assets represents a significant capital investment in rhodium and platinum." },
+        { "name": "Johns Manville (Berkshire Hathaway)", "hq": "USA", "tier": "large", "volume": null, "share": "~12% of global glass fiber market", "use": "Major glass fiber and insulation manufacturer using Rh-Pt alloy bushings for E-glass and specialty glass fiber production at plants in North America, Europe, and Asia." }
+      ]
+    }
+  ]
+}

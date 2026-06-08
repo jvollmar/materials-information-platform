@@ -1,0 +1,68 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "solar",
+      "name": "Cadmium Telluride Thin-Film Solar",
+      "icon": "☀️",
+      "share": "~40% of tellurium use — fastest growing",
+      "uses": [
+        "Cadmium telluride (CdTe) is the semiconductor absorber layer in First Solar's thin-film PV modules — CdTe has a near-ideal bandgap of 1.45 eV for solar energy conversion and can be deposited by close-space sublimation at high throughput",
+        "CdTe modules achieve 19–22% commercial module efficiency and have the lowest carbon footprint and water use of any PV technology in life-cycle analysis",
+        "Each GW of CdTe solar capacity requires approximately 60–90 tonnes of tellurium — at current installation rates this is a meaningful fraction of world tellurium supply (~500 t/yr)",
+        "Tellurium supply is critically constrained: it is recovered almost exclusively as a byproduct of electrolytic copper refining (from anode slimes) — global supply is structurally limited by copper refining capacity, not by mining",
+        "Tellurium supply scarcity is a key strategic risk for CdTe solar scale-up — driving First Solar to continuously reduce tellurium use per watt and invest in anode slime processing partnerships"
+      ],
+      "companies": [
+        { "name": "First Solar", "hq": "USA", "tier": "major", "volume": "~20 GW CdTe/yr capacity", "share": "~5% of global solar market", "use": "World's only large-scale CdTe thin-film solar manufacturer and by far the largest tellurium consumer. Operates gigawatt-scale CdTe module factories in Ohio (US), Malaysia, and Vietnam. Operates a closed-loop tellurium recycling program from end-of-life modules." },
+        { "name": "5N Plus", "hq": "Canada", "tier": "large", "volume": null, "share": "~30% of CdTe semiconductor materials", "use": "Major producer of cadmium telluride semiconductor compound and refined tellurium metal for First Solar's thin-film solar production. Also produces other II-VI semiconductor compounds for infrared detection and specialty applications." }
+      ]
+    },
+    {
+      "id": "thermoelectrics",
+      "name": "Thermoelectric Devices",
+      "icon": "⚡",
+      "share": "~25% of tellurium use",
+      "uses": [
+        "Bismuth telluride (Bi₂Te₃) is the highest-performing room-temperature thermoelectric material — used in Peltier coolers (thermoelectric coolers, TECs) for CPU cooling, laser diode thermal management, portable refrigerators, and DNA thermocycler instruments",
+        "Bi₂Te₃-based thermoelectric generators convert waste heat to electricity in automotive exhaust systems, industrial processes, and remote power applications — BMW and Ford have demonstrated Bi₂Te₃ exhaust TEGs recovering 200–600W from exhaust heat",
+        "Lead telluride (PbTe) thermoelectric modules for mid-temperature (400–700°C) waste heat recovery in industrial furnaces, and in NASA's radioisotope thermoelectric generators (RTGs) powering Voyager 1 & 2, Cassini, and New Horizons spacecraft",
+        "GeTe and TAGS (telluride of antimony, germanium, and silver) high-performance thermoelectrics for spacecraft power systems where long life and high efficiency at intermediate temperatures are critical"
+      ],
+      "companies": [
+        { "name": "Laird Technologies (Laird Thermal Systems)", "hq": "UK / USA", "tier": "major", "volume": null, "share": "~20% of global TEC module market", "use": "Major thermoelectric cooler (TEC) manufacturer. Produces Bi₂Te₃-based Peltier modules for laser diode cooling, laboratory instruments, medical diagnostics, and consumer electronics thermal management." },
+        { "name": "Ferrotec", "hq": "Japan / USA", "tier": "large", "volume": null, "share": "~15% of global TEC module market", "use": "Major Bi₂Te₃ thermoelectric module manufacturer supplying Peltier coolers for CPU cooling, DNA thermocyclers, portable refrigerators, and precision temperature-controlled optical and laser systems." }
+      ]
+    },
+    {
+      "id": "metallurgy",
+      "name": "Metallurgy & Specialty Alloys",
+      "icon": "⚙️",
+      "share": "~25% of tellurium use",
+      "uses": [
+        "Tellurium addition to copper (0.3–0.7% Te) produces free-machining copper — tellurium forms copper telluride inclusions that act as chip breakers during machining, increasing cutting speeds by 50% vs. pure copper while retaining 90%+ of conductivity. Used for electrical connector contacts, bus bars, and precision machined electrical components",
+        "Lead telluride additions to free-machining lead steels and leaded brasses improve machinability without increasing lead content — tellurium modifies sulfide inclusion shape for better chip breaking",
+        "Tellurium improves rubber vulcanization: accelerates cure rates and improves aging resistance in chloroprene (neoprene) and natural rubber — used in high-performance seals, hoses, and cable jackets",
+        "Cadmium mercury telluride (CMT or HgCdTe): the dominant material for cooled infrared detectors in the 3–5 μm and 8–12 μm bands — used in military thermal imaging, missile seekers, space telescope focal planes (Hubble, James Webb NICMOS), and scientific infrared cameras"
+      ],
+      "companies": [
+        { "name": "Aurubis", "hq": "Germany", "tier": "major", "volume": null, "share": "~8% of global copper refining", "use": "Europe's largest copper refiner and a major tellurium producer — tellurium is recovered from copper anode slimes generated during electrolytic copper refining. Supplies tellurium metal to CdTe solar, thermoelectric, and specialty alloy markets." },
+        { "name": "Umicore", "hq": "Belgium", "tier": "major", "volume": null, "share": "~15% of global tellurium refining", "use": "Major tellurium refiner recovering tellurium from copper anode slimes and electronic scrap. Produces refined tellurium for CdTe solar, thermoelectric materials, and cadmium mercury telluride IR detector applications." }
+      ]
+    },
+    {
+      "id": "data-storage",
+      "name": "Optical Data Storage",
+      "icon": "💿",
+      "share": "~10% of tellurium use (declining)",
+      "uses": [
+        "Phase-change optical media (CD-RW, DVD-RW, Blu-ray RW) use tellurium-based alloys (GeTeSb, typically Ge₂Sb₂Te₅ or GST) as the recording layer — laser heating switches the alloy between amorphous (low reflectivity) and crystalline (high reflectivity) phases to record and erase data",
+        "Phase-change memory (PCM/PCRAM) using GST as the switching material for non-volatile semiconductor memory — Intel Optane XPoint used a phase-change material (likely GST or similar) for its 3D XPoint memory products",
+        "GST and related alloys in embedded phase-change memory for automotive microcontrollers, where high temperature retention and endurance outperform flash memory"
+      ],
+      "companies": [
+        { "name": "STMicroelectronics", "hq": "Switzerland / France", "tier": "large", "volume": null, "share": "~30% of embedded PCM market", "use": "Leading producer of embedded phase-change memory (ePCM) for automotive microcontrollers and IoT applications. Uses Ge-Sb-Te alloy switching layers in its 90nm and 40nm ePCM processes for high-temperature automotive-grade non-volatile memory." }
+      ]
+    }
+  ]
+}

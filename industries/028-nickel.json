@@ -1,0 +1,77 @@
+{
+  "dataTier": 1,
+  "industries": [
+    {
+      "id": "stainless-steel",
+      "name": "Stainless Steel",
+      "icon": "🔩",
+      "share": "~70% of nickel use",
+      "uses": [
+        "Nickel stabilizes the austenitic (face-centered cubic) crystal structure of 300-series stainless steels — 304 (8% Ni), 316 (10% Ni), 310 (19% Ni) — giving them toughness, ductility, and formability versus ferritic grades",
+        "Austenitic stainless steel is non-magnetic, readily weldable, and maintains ductility at cryogenic temperatures (-200°C) — making it essential for LNG storage, cryogenic vessels, and food processing equipment",
+        "Duplex stainless steels (2205: 5% Ni, 2507: 7% Ni) combine austenitic and ferritic phases for high strength and chloride stress corrosion resistance in offshore oil, chemical plant, and desalination",
+        "Superaustenitic grades (254 SMO, AL-6XN: 18–25% Ni) for extreme seawater and acidic service in pulp bleaching, seawater heat exchangers, and FGD scrubber systems",
+        "Nickel alloying also used in maraging steels (18% Ni) for ultra-high-strength tool steel, pressure vessel plate, and rocket motor casings — nickel enables age-hardening without carbon"
+      ],
+      "companies": [
+        { "name": "Norilsk Nickel (Nornickel)", "hq": "Russia", "tier": "major", "volume": "~230,000 t Ni/yr", "share": "~17% of global nickel production", "use": "World's largest nickel and palladium producer. Operates smelters at Norilsk, Siberia and Kola Peninsula from sulfide ore deposits. Major supplier of Class 1 nickel to stainless steel, battery, and specialty alloy industries globally." },
+        { "name": "Vale", "hq": "Brazil", "tier": "major", "volume": "~160,000 t Ni/yr", "share": "~12% of global nickel production", "use": "World's second-largest nickel producer. Operates Ontario (Sudbury), Manitoba (Thompson), and Caledonia (Voisey's Bay) sulfide mines in Canada, and Onça Puma laterite operation in Brazil. Major supplier of nickel pellets and powder." },
+        { "name": "Glencore", "hq": "Switzerland", "tier": "major", "volume": "~100,000 t Ni/yr", "share": "~7% of global nickel production", "use": "Major nickel producer from operations in Canada (Sudbury), Australia (Murrin Murrin), and New Caledonia (Koniambo). Supplies nickel cathode, briquettes, and ferronickel to stainless steel mills and battery manufacturers." },
+        { "name": "Tsingshan Holding Group", "hq": "China", "tier": "major", "volume": "~500,000 t NPI/yr", "share": "~15% of global nickel-in-products", "use": "World's largest stainless steel and nickel pig iron (NPI) producer. Pioneered NPI technology — using lower-grade Indonesian laterite ore in rotary kiln-electric furnace (RKEF) process — that collapsed nickel prices in 2021." }
+      ]
+    },
+    {
+      "id": "batteries",
+      "name": "EV Batteries & Energy Storage",
+      "icon": "🔋",
+      "share": "~12% of nickel use — fastest growing segment",
+      "uses": [
+        "NMC (nickel manganese cobalt) cathodes: NMC 811 contains ~48% nickel by cathode weight. Higher nickel content increases energy density (range) but requires more careful thermal management. Used by LG, SK, Panasonic",
+        "NCA (nickel cobalt aluminum oxide): ~80% Ni. Tesla's preferred chemistry in 4680 cells and Model 3/Y Long Range — maximum energy density per kilogram for long-range EVs",
+        "Class 1 nickel (>99.8% purity, in forms of cathode, briquette, or sulfate) required for battery manufacturing — LME-grade nickel or nickel sulfate dissolved from Class 1 products",
+        "Nickel sulfate (NiSO₄·6H₂O) is the actual precursor for battery cathode manufacturing — produced by dissolving nickel metal or precipitating from leach solution of nickel laterite (HPAL process)",
+        "Indonesia dominates emerging nickel-for-batteries supply chain: HPAL (high-pressure acid leach) plants process laterite ore to mixed hydroxide precipitate (MHP) → nickel sulfate → battery cathode"
+      ],
+      "companies": [
+        { "name": "Panasonic Energy", "hq": "Japan", "tier": "major", "volume": null, "share": "~10% of global EV battery market", "use": "Major NCA battery cell manufacturer and Tesla's primary cell supplier. Operates Gigafactory Nevada jointly with Tesla. Its 4680 cells use high-nickel NCA cathode chemistry requiring battery-grade nickel sulfate." },
+        { "name": "LG Energy Solution", "hq": "South Korea", "tier": "major", "volume": null, "share": "~14% of global EV battery market", "use": "Second-largest EV battery manufacturer. Produces high-nickel NMC 811 and NCMA (adding aluminum) cells for GM Ultium, Volkswagen, Hyundai/Kia, and Stellantis electric vehicles." },
+        { "name": "PT Vale Indonesia", "hq": "Indonesia / Brazil (Vale)", "tier": "major", "volume": "~75,000 t Ni/yr", "share": null, "use": "Operates Sorowako nickel-in-matte smelter in Sulawesi, Indonesia — one of the world's largest nickel operations. Indonesia now hosts the world's largest nickel reserves and is rapidly developing HPAL refining for battery-grade nickel sulfate." }
+      ]
+    },
+    {
+      "id": "superalloys",
+      "name": "Superalloys & Specialty Alloys",
+      "icon": "✈️",
+      "share": "~9% of nickel use",
+      "uses": [
+        "Nickel-based superalloys (Inconel 718, René 88DT, CMSX-4 single crystal) operate at 85–90% of their melting point in jet engine turbine sections — no other material class approaches this capability",
+        "Inconel 625 and 825 for seawater and acidic service: subsea umbilicals, chemical injection lines, flue gas desulfurization scrubbers, and heat exchanger tubes in highly corrosive environments",
+        "Monel (Ni-Cu alloys) for seawater piping, pump shafts, and marine hardware — excellent corrosion resistance in reducing and hydrofluoric acid environments",
+        "Invar (64% Ni-Fe): near-zero thermal expansion coefficient used in precision instruments, CRT shadow masks, LNG membrane tanks, and composite tooling masters",
+        "Permalloy and Mu-metal (high-Ni soft magnetic alloys) for magnetic shielding of sensitive instruments, audio transformers, and data storage read heads"
+      ],
+      "companies": [
+        { "name": "Precision Castparts (Berkshire Hathaway)", "hq": "USA", "tier": "major", "volume": null, "share": "~25% of aerospace nickel superalloy castings", "use": "World's largest manufacturer of nickel superalloy investment castings and forgings. Produces turbine blades, vanes, discs, and structural castings for GE Aviation, Pratt & Whitney, Rolls-Royce, and Safran engines." },
+        { "name": "Special Metals (PCC)", "hq": "USA", "tier": "major", "volume": null, "share": null, "use": "Inventor of Inconel, Incoloy, Nimonic, and Udimet nickel superalloy families. Produces wrought nickel alloy bar, sheet, and plate for aerospace, chemical processing, and power generation applications. Owned by Precision Castparts." },
+        { "name": "ATI (Allegheny Technologies)", "hq": "USA", "tier": "major", "volume": null, "share": null, "use": "Major producer of nickel-based superalloy billet, bar, and forgings for jet engine rotating components. Supplies Inconel 718, Waspaloy, and René-series alloy forgings to engine OEMs and Tier 1 aerospace forgers." }
+      ]
+    },
+    {
+      "id": "plating",
+      "name": "Electroplating & Surface Finishing",
+      "icon": "✨",
+      "share": "~9% of nickel use",
+      "uses": [
+        "Electroplated nickel as corrosion-resistant undercoat beneath chromium decorative plating — nickel provides the corrosion barrier; thin chrome layer provides the bright appearance on automotive trim, plumbing, and hardware",
+        "Electroless nickel plating: auto-catalytic deposition of Ni-P or Ni-B alloy deposits uniform coating inside bores, on complex shapes, and on non-conductive substrates — used for hardening bearing surfaces, molds, and precision components",
+        "Nickel sulfamate plating for dimensional restoration of worn aerospace components and electroforming of precision nickel parts such as CD/DVD stampers and rocket motor nozzle components",
+        "Bright nickel plating on steel parts: bicycle components, tools, kitchen fixtures, and consumer electronics hardware — combining corrosion protection with aesthetic finish",
+        "Nickel strike layers on aluminum and stainless steel before further plating — provides adhesion for subsequent copper, chrome, or gold electrodeposits on otherwise difficult-to-plate substrates"
+      ],
+      "companies": [
+        { "name": "Atotech (MKS Instruments)", "hq": "Germany / USA", "tier": "major", "volume": null, "share": "~20% of global surface finishing chemistry", "use": "World's largest specialty plating chemistry supplier. Provides nickel sulfamate, nickel sulfate, and nickel acetate formulations for decorative, functional, and electronics plating applications globally." },
+        { "name": "MacDermid Enthone (Element Solutions)", "hq": "USA", "tier": "large", "volume": null, "share": null, "use": "Major supplier of electroless nickel, bright nickel, and nickel alloy plating chemistries for automotive, aerospace, electronics, and general metal finishing applications worldwide." }
+      ]
+    }
+  ]
+}

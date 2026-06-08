@@ -1,0 +1,55 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "aluminum-alloys",
+      "name": "Aluminum-Scandium Alloys",
+      "icon": "✈️",
+      "share": "~60% of scandium use",
+      "uses": [
+        "Scandium addition of 0.1–0.5% to aluminum alloys dramatically refines grain size and prevents recrystallization during welding — producing weld joints with near-parent-metal strength in 5xxx and 7xxx series alloys",
+        "Al-Sc alloys used in MiG and Sukhoi fighter aircraft structures, Russian Ilyushin transport frames, and sports equipment (bicycle frames, baseball bats, lacrosse sticks) where weight savings justify premium cost",
+        "SCALMALLOY® (Al-Mg-Sc, developed by Airbus subsidiary APWorks) for selective laser melting (SLM) additive manufacturing of aerospace structural components — highest-strength aluminum alloy printable by 3D printing",
+        "Potential high-volume automotive and aerospace adoption is constrained entirely by scandium supply — current world production is only ~20–25 tonnes/year, insufficient for large-scale rollout",
+        "Scandium-stabilized zirconia (ScSZ) as electrolyte in solid oxide fuel cells — higher ionic conductivity than yttria-stabilized zirconia (YSZ) enables lower operating temperatures"
+      ],
+      "companies": [
+        { "name": "Rusal", "hq": "Russia", "tier": "major", "volume": null, "share": "~30% of world scandium supply", "use": "World's largest aluminum producer and primary scandium supplier. Recovers scandium as byproduct of alumina refining in Ukraine (historically) and Russia. Produces Al-Sc master alloys and Scalmalloy precursor." },
+        { "name": "Scandium International Mining", "hq": "Canada", "tier": "small", "volume": null, "share": null, "use": "Developing the Nyngan scandium deposit in New South Wales, Australia — one of the largest known primary scandium deposits. Aims to become a non-Chinese, non-Russian scandium supply source for Western aerospace." },
+        { "name": "Clean TeQ (Sunrise Energy Metals)", "hq": "Australia", "tier": "small", "volume": null, "share": null, "use": "Developing the Sunrise cobalt-nickel-scandium project in New South Wales. Scandium would be recovered as a co-product of nickel and cobalt refining, potentially making Australia a significant scandium supplier." }
+      ]
+    },
+    {
+      "id": "lighting",
+      "name": "Metal Halide Lighting & Electronics",
+      "icon": "💡",
+      "share": "~30% of scandium use",
+      "uses": [
+        "Scandium iodide (ScI₃) added to mercury-arc lamps produces a high-color-rendering, daylight-balanced light source used in stadium lighting, film and television studio lighting, and high-end retail displays",
+        "Scandium oxide (Sc₂O₃) as stabilizer in yttria-stabilized zirconia ceramics for thermal barrier coatings on gas turbine blades",
+        "Scandium used in high-intensity discharge (HID) lamps — ScI₃ produces the correct color temperature and color rendering index (CRI >90) for professional applications",
+        "Thin-film bulk acoustic resonator (FBAR) filters for 5G smartphones: aluminum nitride doped with ~35% scandium (Al₀.₆₅Sc₀.₃₅N) dramatically increases piezoelectric coefficient, enabling smaller, more efficient RF filters"
+      ],
+      "companies": [
+        { "name": "Osram (ams-OSRAM)", "hq": "Germany / Austria", "tier": "large", "volume": null, "share": null, "use": "Major lighting manufacturer using scandium iodide in professional metal halide lamps for broadcast studios, film production, and stadium applications. Also developing ScAlN piezoelectric materials for RF filters." },
+        { "name": "Qorvo", "hq": "USA", "tier": "large", "volume": null, "share": "~25% of mobile RF filter market", "use": "Leading RF semiconductor company developing scandium-doped aluminum nitride (ScAlN) bulk acoustic wave (BAW) filters for 5G smartphones — potentially a significant new demand source for scandium." },
+        { "name": "Skyworks Solutions", "hq": "USA", "tier": "large", "volume": null, "share": null, "use": "Major mobile RF component supplier investing in ScAlN filter technology for 5G frequency bands. ScAlN filters outperform conventional AlN in bandwidth and efficiency for sub-6GHz 5G applications." }
+      ]
+    },
+    {
+      "id": "fuel-cells",
+      "name": "Solid Oxide Fuel Cells",
+      "icon": "⚡",
+      "share": "~10% of scandium use",
+      "uses": [
+        "Scandium-stabilized zirconia (10Sc1CeSZ) electrolyte in solid oxide fuel cells (SOFCs) achieves high ionic conductivity at 700–850°C — lower operating temperature than YSZ extends cell lifetime and reduces balance-of-plant costs",
+        "SOFC systems using ScSZ electrolytes developed for stationary distributed power generation, combined heat and power (CHP), and auxiliary power units in trucks and aircraft",
+        "Scandium stabilization of zirconia also used in thermal barrier coatings for gas turbine blades — higher temperature stability than yttria-stabilized variants extends engine overhaul intervals"
+      ],
+      "companies": [
+        { "name": "Bloom Energy", "hq": "USA", "tier": "large", "volume": null, "share": "~40% of US commercial SOFC market", "use": "Leading solid oxide fuel cell manufacturer. Its Energy Server uses zirconia-based electrolyte cells for on-site power generation at data centers, hospitals, and commercial facilities." },
+        { "name": "Kyocera", "hq": "Japan", "tier": "large", "volume": null, "share": null, "use": "Japanese ceramics and electronics company developing residential SOFC systems (Ene-Farm) using scandium-containing zirconia electrolytes for combined heat and power in Japanese households." }
+      ]
+    }
+  ]
+}

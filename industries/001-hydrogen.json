@@ -1,0 +1,331 @@
+{
+  "dataTier": 1,
+  "industries": [
+    {
+      "id": "h-ammonia",
+      "name": "Ammonia & Fertilizer Production",
+      "icon": "🌾",
+      "share": "~55% of all industrial hydrogen consumption",
+      "uses": [
+        "The Haber-Bosch process combines hydrogen with atmospheric nitrogen over an iron catalyst at 150–300 bar to produce ammonia (NH₃) — the foundation of virtually all synthetic fertilizers, and arguably the most consequential chemical reaction of the 20th century",
+        "Ammonia is processed into urea (46% nitrogen — the world's most widely applied nitrogen fertilizer), ammonium nitrate (34% nitrogen), and DAP (diammonium phosphate) for global crop production",
+        "Without Haber-Bosch hydrogen, global crop yields would fall 40–50%; an estimated 4 billion people depend on food grown with synthetic nitrogen fertilizers derived from this process",
+        "Green ammonia, produced using electrolytic hydrogen from renewable energy (wind or solar), is the leading low-carbon fertilizer production pathway and an emerging carbon-neutral shipping fuel for long-distance maritime transport"
+      ],
+      "companies": [
+        {
+          "name": "Yara International",
+          "hq": "Norway",
+          "tier": "major",
+          "volume": "~3.5M t H₂/yr equiv.",
+          "share": "~8% of global ammonia capacity",
+          "use": "World's largest nitrogen fertilizer and ammonia company. Operates 17 ammonia plants globally. Investing in green ammonia from offshore wind hydrogen at Porsgrunn, Norway. Pioneering ammonia-fueled ship bunkering infrastructure."
+        },
+        {
+          "name": "CF Industries",
+          "hq": "USA",
+          "tier": "major",
+          "volume": "~2M t H₂/yr equiv.",
+          "share": "~5% of global ammonia capacity",
+          "use": "Largest North American nitrogen fertilizer producer. Operates the world's single largest ammonia plant at Donaldsonville, Louisiana (2.1M t/yr capacity). Co-developing blue ammonia (with CO₂ — carbon dioxide — capture) with ExxonMobil."
+        },
+        {
+          "name": "Nutrien",
+          "hq": "Canada",
+          "tier": "major",
+          "volume": "~2.5M t H₂/yr equiv.",
+          "share": "~6% of global ammonia capacity",
+          "use": "World's largest crop nutrient company. Operates 7 nitrogen plants across North America. Direct retail network (Nutrien Ag Solutions) serves 500,000+ farmers. Also the world's largest potash producer."
+        },
+        {
+          "name": "OCI N.V.",
+          "hq": "Netherlands",
+          "tier": "large",
+          "volume": "~1.5M t H₂/yr equiv.",
+          "share": "~4% of global ammonia capacity",
+          "use": "Major global ammonia and methanol producer operating in the US, Netherlands, Egypt, and Algeria. Operates the Beaumont, Texas ammonia plant — one of the world's largest single-train facilities. Pioneer of green ammonia for maritime shipping fuel."
+        },
+        {
+          "name": "EuroChem Group",
+          "hq": "Switzerland",
+          "tier": "large",
+          "volume": "~800k t H₂/yr equiv.",
+          "share": "~4% of global ammonia capacity",
+          "use": "Leading global nitrogen and phosphate fertilizer producer with plants in Russia, Belgium, Kazakhstan, and Brazil. Mining its own natural gas feedstock and building new US greenfield nitrogen capacity."
+        },
+        {
+          "name": "Koch Fertilizer (Koch Industries)",
+          "hq": "USA",
+          "tier": "large",
+          "volume": "~700k t H₂/yr equiv.",
+          "share": "~3% of global ammonia capacity",
+          "use": "Major US ammonia and UAN (urea ammonium nitrate solution) producer. Operates plants in the US, Canada, and Trinidad. Koch Fertilizer's Enid, Oklahoma plant is one of North America's largest nitrogen facilities."
+        },
+        {
+          "name": "BASF SE",
+          "hq": "Germany",
+          "tier": "large",
+          "volume": "~1M t H₂/yr equiv.",
+          "share": null,
+          "use": "World's largest chemical company; a major hydrogen consumer for ammonia, methanol, and chemical hydrogenation at its Verbund integrated sites. Researching methane pyrolysis (producing hydrogen and solid carbon without CO₂ — carbon dioxide) for low-carbon hydrogen."
+        }
+      ]
+    },
+    {
+      "id": "h-refining",
+      "name": "Petroleum Refining (Hydroprocessing)",
+      "icon": "🛢️",
+      "share": "~25% of all industrial hydrogen consumption",
+      "uses": [
+        "HDS (hydrodesulfurization) removes sulfur compounds from crude oil fractions using hydrogen over CoMo or NiMo catalysts — modern diesel and gasoline must meet ultra-low sulfur standards (below 10 ppm sulfur in European markets) to protect catalytic converters and reduce SO₂ — sulfur dioxide — emissions",
+        "Hydrocracking converts heavy, low-value crude fractions into lighter, higher-value fuels (diesel, jet fuel, naphtha) using hydrogen at 350–450°C and 100–200 bar over zeolite catalysts — producing the clean transportation fuels modern economies require",
+        "Catalytic reforming uses hydrogen to convert low-octane naphtha to high-octane gasoline aromatics; SMR (steam methane reforming — reacting natural gas with steam over a nickel catalyst) is the current primary hydrogen production method for refineries",
+        "Renewable diesel and sustainable aviation fuel (SAF — sustainable aviation fuel) produced by HEFA (hydrotreated esters and fatty acids — a process using hydrogen to convert biofeedstocks such as used cooking oil into drop-in fuels) require significant hydrogen for hydroprocessing"
+      ],
+      "companies": [
+        {
+          "name": "ExxonMobil",
+          "hq": "USA",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "World's largest publicly traded refiner. Developing low-carbon hydrogen via ATR (autothermal reforming — a process combining steam methane reforming and partial oxidation) with CO₂ capture at its Baytown, Texas complex — one of the world's potentially largest blue hydrogen facilities."
+        },
+        {
+          "name": "Shell",
+          "hq": "Netherlands/UK",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "Major global refiner. Operates Holland Hydrogen I (200 MW PEM — polymer electrolyte membrane — electrolyzer at Rotterdam) — the world's largest industrial renewable hydrogen plant — supplying its Pernis refinery and local mobility customers."
+        },
+        {
+          "name": "Sinopec",
+          "hq": "China",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "China's largest refiner and the world's largest single-company industrial hydrogen producer. Operates 1,000+ hydrogen refueling stations and has a corporate hydrogen energy strategy targeting massive green hydrogen scale-up."
+        },
+        {
+          "name": "Valero Energy",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Largest independent US refiner. Major hydrogen consumer for HDS (hydrodesulfurization) and hydrocracking at 15 US refineries. Co-owns Diamond Green Diesel — the world's largest renewable diesel plant — which requires hydrogen for HEFA (hydrotreated esters and fatty acids) processing."
+        },
+        {
+          "name": "Saudi Aramco",
+          "hq": "Saudi Arabia",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "World's largest oil company. Operates massive refining complexes consuming vast hydrogen quantities. Developing blue hydrogen export programs — producing hydrogen by SMR (steam methane reforming) with CCS (carbon capture and storage) for Asian and European markets."
+        },
+        {
+          "name": "Chevron",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Major global refiner developing hydrogen supply chains for both industrial refining and transportation fuel. Partnering with Toyota on H₂ (hydrogen) commercial fueling infrastructure in California through the Chevron New Energies division."
+        },
+        {
+          "name": "BP",
+          "hq": "UK",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Major global refiner developing H2Teesside — one of the UK's largest planned blue hydrogen facilities targeting 1.5 GW capacity by 2030 to decarbonize UK refining and petrochemical operations."
+        }
+      ]
+    },
+    {
+      "id": "h-chemical",
+      "name": "Chemical Manufacturing",
+      "icon": "🧪",
+      "share": "~10% of all industrial hydrogen consumption",
+      "uses": [
+        "Methanol synthesis: CO (carbon monoxide) + 2H₂ → CH₃OH (methanol) — methanol is the feedstock for formaldehyde, acetic acid, and MTBE (methyl tert-butyl ether — a fuel oxygenate), and is increasingly evaluated as a shipping fuel and hydrogen carrier",
+        "Edible oil hydrogenation converts liquid unsaturated vegetable oils (soybean, palm, sunflower) to semi-solid fats for margarine, shortening, and food manufacturing applications — a major global use of hydrogen",
+        "H₂O₂ (hydrogen peroxide) synthesis via the anthraquinone oxidation process (cycling between anthraquinone and anthrahydroquinone with oxygen and hydrogen) — H₂O₂ is used in paper bleaching, textile processing, semiconductor wafer cleaning, and wastewater treatment",
+        "Reduction of metal oxides to high-purity powders: tungsten, molybdenum, cobalt, and nickel oxides are reduced by hydrogen at 600–1,100°C to produce the fine metal powders used in powder metallurgy, cemented carbide cutting tools, and electronic components"
+      ],
+      "companies": [
+        {
+          "name": "Methanex",
+          "hq": "Canada",
+          "tier": "major",
+          "volume": null,
+          "share": "~14% of global methanol capacity",
+          "use": "World's largest methanol producer. Operates plants in Chile, New Zealand, Egypt, and the US. All methanol production requires hydrogen. Exploring green methanol via renewable electrolytic hydrogen to reduce scope 1 and 2 carbon intensity."
+        },
+        {
+          "name": "BASF SE",
+          "hq": "Germany",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "Major hydrogen consumer for hydrogenation of pharmaceutical intermediates, vitamins, and specialty chemicals. Produces H₂O₂ (hydrogen peroxide) at multiple Verbund sites using the anthraquinone process and operates the world's largest chemical complex."
+        },
+        {
+          "name": "Solvay",
+          "hq": "Belgium",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Major H₂O₂ (hydrogen peroxide) producer via the anthraquinone oxidation process — hydrogen is the reducing agent. Supplies H₂O₂ for paper bleaching, textile processing, semiconductor cleaning, and advanced oxidation water treatment."
+        },
+        {
+          "name": "Bunge",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "One of the world's largest oilseed processors. Hydrogenates vegetable oils (soybean, canola, sunflower) with hydrogen to produce solid fats and margarines for global food manufacturers including Unilever and Nestlé."
+        },
+        {
+          "name": "Evonik Industries",
+          "hq": "Germany",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Major specialty chemicals company producing amino acids and vitamins via catalytic hydrogenation using hydrogen. Also produces H₂O₂ (hydrogen peroxide) and uses hydrogen extensively across its specialty chemical manufacturing network."
+        },
+        {
+          "name": "Dow",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Major chemicals company consuming hydrogen for propylene oxide production via the HPPO (hydrogen peroxide to propylene oxide — a cleaner process using H₂O₂ as the oxidant) route and for specialty chemical and polymer synthesis globally."
+        }
+      ]
+    },
+    {
+      "id": "h-fuelcell",
+      "name": "Fuel Cell Technology & Green Hydrogen",
+      "icon": "⚡",
+      "share": "~3% of current use — fastest-growing segment",
+      "uses": [
+        "PEM (polymer electrolyte membrane) fuel cells combine hydrogen and oxygen electrochemically to produce electricity — with water vapor as the only exhaust — achieving 50–60% electrical efficiency vs 25–30% for internal combustion engines",
+        "Commercial hydrogen fuel cell vehicles in production: Toyota Mirai (650 km range on 5.6 kg H₂), Hyundai NEXO (666 km range), Honda Clarity FCEV; hydrogen fuel cell heavy trucks: Hyundai XCIENT, Nikola Tre FCEV, and various CAFC (Chinese) bus programs",
+        "SOFC (solid oxide fuel cell) systems running on hydrogen or natural gas provide 50–65% electrical efficiency for stationary power — serving data centers, hospitals, and commercial buildings requiring uninterruptible backup or baseload generation",
+        "Hydrogen produced by electrolysis using renewable electricity (green hydrogen) represents a future large-scale storage medium and energy carrier for seasonal storage of surplus wind and solar power"
+      ],
+      "companies": [
+        {
+          "name": "Toyota Motor",
+          "hq": "Japan",
+          "tier": "large",
+          "volume": null,
+          "share": "~35% of global FCV passenger vehicle market",
+          "use": "Pioneer of commercial hydrogen fuel cell vehicles. Toyota Mirai Gen 2 achieves 650 km range. Sold 25,000+ FCVs globally. Licenses fuel cell technology to Daimler Truck, Kenworth, and others to expand the hydrogen ecosystem beyond passenger cars."
+        },
+        {
+          "name": "Hyundai Motor Group",
+          "hq": "South Korea",
+          "tier": "large",
+          "volume": null,
+          "share": "~30% of global FCV passenger vehicle market",
+          "use": "Produces the NEXO FCV SUV and XCIENT Fuel Cell heavy trucks deployed in Switzerland, South Korea, and California. Target: 500,000 fuel cell systems per year by 2030 across passenger vehicles, buses, trucks, trains, and ships."
+        },
+        {
+          "name": "Bloom Energy",
+          "hq": "USA",
+          "tier": "medium",
+          "volume": null,
+          "share": null,
+          "use": "Leading SOFC (solid oxide fuel cell) manufacturer for commercial stationary power. 600+ MW of installed capacity at data centers (Apple, Google, AT&T), hospitals, and manufacturing. Can run on natural gas, biogas, or pure hydrogen."
+        },
+        {
+          "name": "Nel ASA",
+          "hq": "Norway",
+          "tier": "medium",
+          "volume": null,
+          "share": null,
+          "use": "Major hydrogen electrolyzer manufacturer producing both alkaline and PEM (polymer electrolyte membrane) electrolyzers. Supplies green hydrogen production equipment for fueling stations, industrial decarbonization, and power-to-gas storage."
+        },
+        {
+          "name": "Ballard Power Systems",
+          "hq": "Canada",
+          "tier": "medium",
+          "volume": null,
+          "share": null,
+          "use": "Produces PEM fuel cell modules for buses, trucks, trains, and marine vessels. Supplies fuel cells for major hydrogen bus fleets in California and Northern Europe under long-term supply agreements."
+        },
+        {
+          "name": "ITM Power",
+          "hq": "UK",
+          "tier": "small",
+          "volume": null,
+          "share": null,
+          "use": "UK-based PEM electrolyzer manufacturer operating the world's largest single-site electrolyzer factory (1 GW annual production capacity) in Sheffield. Developing large-scale green hydrogen projects for European industrial decarbonization."
+        },
+        {
+          "name": "AFC Energy",
+          "hq": "UK",
+          "tier": "small",
+          "volume": null,
+          "share": null,
+          "use": "Develops alkaline fuel cell (AFC — alkaline fuel cell) generators for construction sites, outdoor events, and off-grid applications — replacing diesel generators with zero-emission hydrogen-powered units without noise or particulate emissions."
+        }
+      ]
+    },
+    {
+      "id": "h-greenSteel",
+      "name": "Green Steel (Hydrogen Direct Reduction of Iron)",
+      "icon": "🏭",
+      "share": "<1% today — potentially 15–20% of H₂ demand by 2040",
+      "uses": [
+        "H₂-DRI (hydrogen direct reduction of iron): Fe₂O₃ (iron oxide — iron ore) + 3H₂ (hydrogen) → 2Fe (iron sponge) + 3H₂O (water) — replacing the coal-fired blast furnace pathway with a water-only byproduct and near-zero carbon steel production",
+        "H₂-DRI combined with an EAF (electric arc furnace — an electric furnace that melts the DRI with scrap steel using electricity) produces green steel when both the hydrogen and electricity are from renewable sources",
+        "Each million tonnes of green steel requires approximately 55,000 tonnes of green hydrogen — making steel one of the largest potential future hydrogen demand sectors, equivalent to hundreds of gigawatts of electrolysis capacity by 2050",
+        "HYBRIT (Hydrogen Breakthrough Ironmaking Technology) delivered the world's first commercial fossil-free steel to Volvo in 2021 — a milestone that demonstrated technical feasibility of H₂-DRI at industrial scale"
+      ],
+      "companies": [
+        {
+          "name": "SSAB / LKAB / Vattenfall (HYBRIT)",
+          "hq": "Sweden",
+          "tier": "medium",
+          "volume": null,
+          "share": null,
+          "use": "HYBRIT consortium (steel company SSAB, iron ore miner LKAB, and energy company Vattenfall) produced the world's first fossil-free steel in 2021. Building a commercial H₂-DRI plant in Gällivare, Sweden targeting 2026 startup — using renewable hydrogen from Nordic hydropower and wind."
+        },
+        {
+          "name": "ArcelorMittal",
+          "hq": "Luxembourg",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "World's second-largest steelmaker. Building a 2.5 million tonne/yr H₂-DRI plant at Dunkirk, France, backed by EU Innovation Fund. Also operating a hydrogen injection pilot at its Eisenhüttenstadt blast furnace in Germany under the XCarb® decarbonization program."
+        },
+        {
+          "name": "Salzgitter AG",
+          "hq": "Germany",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Developing the SALCOS (Salzgitter Low CO₂ Steelmaking) program to replace all blast furnaces with H₂-DRI and EAF (electric arc furnace) steelmaking by 2033, targeting 95% CO₂ reduction with €1 billion in German federal funding."
+        },
+        {
+          "name": "H2 Green Steel",
+          "hq": "Sweden",
+          "tier": "medium",
+          "volume": null,
+          "share": null,
+          "use": "Purpose-built green steel company developing a 5 million tonne/yr H₂-DRI steel plant in Boden, northern Sweden. Backed by €3.5 billion from investors including Volkswagen, Scania, and Marcegaglia as committed off-take partners."
+        },
+        {
+          "name": "thyssenkrupp Steel",
+          "hq": "Germany",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Developing tkH₂Steel — replacing blast furnace tuyere coal injection with hydrogen at Duisburg. Completed world's first hydrogen injection into a blast furnace in 2019. Planning full conversion to DRI-EAF (direct reduced iron — electric arc furnace) production by 2030."
+        }
+      ]
+    }
+  ]
+}

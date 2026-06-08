@@ -1,0 +1,54 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "fiber-optics",
+      "name": "Fiber Optic Amplifiers (EDFA)",
+      "icon": "🔦",
+      "share": "~60% of erbium use",
+      "uses": [
+        "Erbium-doped fiber amplifiers (EDFA): the invention that enabled the modern internet. Erbium ions in silica fiber amplify 1530–1565nm (C-band) light signals without electronic conversion — a 980nm pump laser excites Er³⁺ ions to a metastable excited state, which amplifies passing signal photons by stimulated emission",
+        "Every long-haul fiber optic cable (submarine and terrestrial) uses EDFA amplifiers every 50–80 km to overcome fiber attenuation — thousands of EDFAs are used in each trans-oceanic cable system",
+        "Dense wavelength division multiplexing (DWDM) with EDFAs allows 80–160 wavelength channels simultaneously in one fiber, each at 100–400 Gbps — the backbone of global internet capacity",
+        "L-band EDFAs (1565–1625nm) expand capacity beyond the C-band in high-traffic submarine cable systems — the second amplification window for ultra-high-capacity systems",
+        "Erbium-doped waveguide amplifiers (EDWA) on silicon photonic chips for on-chip optical amplification in data center photonic interconnects"
+      ],
+      "companies": [
+        { "name": "II-VI (Coherent)", "hq": "USA", "tier": "major", "volume": null, "share": "~30% of EDFA module market", "use": "World's largest producer of EDFA modules for undersea and terrestrial fiber optic networks. Produces pump laser diodes (980nm), erbium-doped fiber (EDF), and complete EDFA subsystems for Alcatel Submarine Networks, SubCom, and TE SubCom cable systems." },
+        { "name": "Lumentum", "hq": "USA", "tier": "major", "volume": null, "share": "~20% of EDFA pump laser market", "use": "Major EDFA pump laser manufacturer. Produces 980nm and 1480nm pump laser diodes that excite erbium ions in EDFA modules. Supplies pump lasers to EDFA module integrators serving submarine cable and terrestrial DWDM network operators." },
+        { "name": "OFS Fitel (Furukawa Electric)", "hq": "USA / Japan", "tier": "large", "volume": null, "share": "~25% of erbium-doped fiber market", "use": "Major erbium-doped optical fiber manufacturer. Produces EDF (erbium-doped fiber) with precisely controlled erbium ion concentration and background loss for high-performance EDFA construction in long-haul and submarine cable amplifiers." }
+      ]
+    },
+    {
+      "id": "lasers",
+      "name": "Medical & Industrial Lasers",
+      "icon": "⚕️",
+      "share": "~25% of erbium use",
+      "uses": [
+        "Er:YAG laser (2940nm): the wavelength of maximum water absorption — ablates tissue with minimal thermal damage due to extremely shallow penetration depth (~1 μm). Used for dental cavity preparation (no-drill dentistry), skin resurfacing, wrinkle treatment, and precise surgical ablation",
+        "Er:glass laser (1535nm): eye-safe wavelength used in rangefinders, target designators, and LiDAR systems — 1535nm radiation is absorbed by the eye's water before reaching the retina, making it safer than Nd:YAG at 1064nm",
+        "Er-fiber lasers at 1550nm for materials processing, telecom pump sources, and precision manufacturing",
+        "Er:YSGG laser (2790nm) for dental and dermatological procedures — slightly different water absorption peak optimized for dentin cutting and skin treatment with less char than CO₂ lasers"
+      ],
+      "companies": [
+        { "name": "Fotona", "hq": "Slovenia", "tier": "large", "volume": null, "share": "~15% of medical Er:YAG laser market", "use": "Major medical laser manufacturer producing Er:YAG and Nd:YAG laser systems for dermatology, dentistry, gynecology, and aesthetic medicine. Its SP Spectro system combines Er:YAG and Nd:YAG for comprehensive skin treatment." },
+        { "name": "Syneron-Candela (Apax Partners)", "hq": "Israel / USA", "tier": "large", "volume": null, "share": "~12% of aesthetic laser market", "use": "Major aesthetic and medical laser company. Produces Er:YAG laser systems (Pixel ER) for skin resurfacing, scar treatment, and rejuvenation alongside other energy-based aesthetic devices." }
+      ]
+    },
+    {
+      "id": "alloys",
+      "name": "Alloys, Pigments & Specialty",
+      "icon": "⚗️",
+      "share": "~15% of erbium use",
+      "uses": [
+        "Erbium oxide (Er₂O₃) produces a distinctive pink color in glass and ceramic glazes — used in decorative glass, art glass, and specialty optical glass where a stable pink or rose tint is desired",
+        "Erbium addition to vanadium alloys as grain refiner — used in vanadium reactor structural alloys for improved mechanical properties",
+        "Erbium-doped yttrium aluminum garnet (Er:YAG) phosphors for photon upconversion: Er³⁺ converts near-infrared (NIR) photons to visible green emission under 980nm excitation — used in bioimaging, solar cell light management, and anti-counterfeiting inks",
+        "Erbium as neutron absorber: Er₂O₃ used as burnable poison in some advanced nuclear fuel designs due to erbium's specific neutron cross-section profile"
+      ],
+      "companies": [
+        { "name": "Schott AG", "hq": "Germany", "tier": "large", "volume": null, "share": null, "use": "Produces erbium-tinted specialty and decorative glass for artistic and scientific applications. Erbium oxide provides the characteristic pink color in Schott's specialty glass formulations for art glass and optical filter applications." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "research",
+      "name": "Fundamental Nuclear & Atomic Research",
+      "icon": "🔬",
+      "share": "100% — no commercial applications exist",
+      "uses": [
+        "Named after Albert Einstein. In 2021, researchers at Lawrence Berkeley performed the first detailed characterization of einsteinium's chemical properties — including its bond length and luminescence — using only 200 nanograms of material. Einsteinium is also used as a target to produce heavier elements including mendelevium.",
+        "Longest-lived practical isotope: 253Es, t½ = 20.5 days. First synthesized: 1952, Lawrence Berkeley National Laboratory — from debris of the Ivy Mike thermonuclear test.",
+        "Microgram quantities available for research; gram quantities theoretically producible with prolonged reactor irradiation.",
+        "All research conducted at specialized facilities: Oak Ridge National Laboratory (USA), Lawrence Berkeley National Laboratory (USA), JINR Dubna (Russia), GSI/FAIR (Germany), RIKEN (Japan), and JAEA (Japan).",
+        "Study of these elements advances understanding of relativistic quantum chemistry, nuclear shell structure near the heaviest stable nuclei, and the fundamental limits of atomic matter."
+      ],
+      "companies": [
+        {
+          "name": "Oak Ridge National Laboratory",
+          "hq": "USA",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "Primary producer of einsteinium-253 via prolonged neutron irradiation of plutonium in the High Flux Isotope Reactor (HFIR). Produces milligram quantities over months of irradiation for distribution to research programs. The ORNL isotope program is the world's most important source of heavy actinide elements including Es."
+        },
+        {
+          "name": "Lawrence Berkeley National Laboratory",
+          "hq": "USA",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "Performed the landmark 2021 study of einsteinium's chemical properties using ORNL-supplied Es-254. The first direct measurements of an einsteinium compound's bond length and luminescence spectrum were achieved at LBNL's Glenn T. Seaborg Center for Actinide Science, using only 200 nanograms of material."
+        },
+        {
+          "name": "JINR Dubna",
+          "hq": "Russia",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Uses einsteinium as a target material for synthesizing mendelevium (element 101) by bombarding Es-253 with alpha particles in the U400 cyclotron. Dubna's actinide chemistry program handles einsteinium for nuclear reaction cross-section measurements and as feedstock for heavier element production."
+        }
+      ]
+    }
+  ]
+}

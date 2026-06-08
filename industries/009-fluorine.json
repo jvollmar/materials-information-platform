@@ -1,0 +1,337 @@
+{
+  "dataTier": 1,
+  "industries": [
+    {
+      "id": "f-polymers",
+      "name": "Fluoropolymers (PTFE, PVDF & Specialty Fluoroplastics)",
+      "icon": "🧪",
+      "share": "~20% of all fluorine chemical use",
+      "uses": [
+        "PTFE (polytetrafluoroethylene — the polymer consisting entirely of carbon-fluorine bonds, sold as Teflon by Chemours) is completely chemically inert from −200°C to +260°C and has the lowest coefficient of friction of any known solid — used in non-stick cookware, chemical pipe linings, valve seats, pump components, and expanded ePTFE (expanded polytetrafluoroethylene) membranes for Gore-Tex waterproof-breathable fabrics",
+        "PVDF (polyvinylidene fluoride — a semi-crystalline fluoropolymer combining fluorine and hydrogen on alternating carbons) used as the electrode binder in Li-ion battery cathodes and anodes, as piezoelectric sensor film, and as chemical-resistant piping and ultrafiltration membrane material",
+        "FEP (fluorinated ethylene propylene) and PFA (perfluoroalkoxy alkane — a melt-processable PTFE variant) provide near-PTFE chemical resistance in injection-moldable forms — used for ultra-high-purity semiconductor chemical delivery tubing, labware, and clean room equipment",
+        "Nafion (sulfonated tetrafluoroethylene copolymer — a fluoropolymer with sulfonic acid side groups providing proton conductivity) is the proton exchange membrane in PEM (polymer electrolyte membrane) fuel cells and water electrolyzers; fluorine's chemical stability enables millions of electrochemical duty cycles"
+      ],
+      "companies": [
+        {
+          "name": "Chemours (DuPont spinoff)",
+          "hq": "USA",
+          "tier": "major",
+          "volume": null,
+          "share": "~30% of global fluoropolymer market",
+          "use": "World's largest fluoropolymer producer. Makes Teflon PTFE, Teflon FEP, Tefzel ETFE (ethylene tetrafluoroethylene — a radiation-resistant fluoropolymer), Viton FKM fluoroelastomers, and Nafion proton exchange membrane at Fayetteville, NC and Dordrecht, Netherlands. Faces ongoing PFAS (per- and polyfluoroalkyl substances) litigation from historical releases."
+        },
+        {
+          "name": "Daikin Industries",
+          "hq": "Japan",
+          "tier": "major",
+          "volume": null,
+          "share": "~25% of global fluoropolymer market",
+          "use": "World's largest fluorochemical company. Produces Polyflon PTFE, PVDF (polyvinylidene fluoride), FEP, and FKM (fluorocarbon elastomer) products. Also the world's largest air conditioner manufacturer, using HFC (hydrofluorocarbon) and HFO (hydrofluoroolefin) refrigerants in its own equipment."
+        },
+        {
+          "name": "AGC Inc. (Asahi Glass)",
+          "hq": "Japan",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Major fluoropolymer maker. Produces Fluon PTFE, CYTOP (amorphous perfluoropolymer — transparent, low refractive index; used for fiber optic cladding and anti-reflection coatings), and Flemion ion exchange membranes for the chlor-alkali (NaCl electrolysis) industry."
+        },
+        {
+          "name": "Solvay",
+          "hq": "Belgium",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Produces Solef PVDF (polyvinylidene fluoride) for Li-ion battery electrode binders (supplying CATL, LG ES, Samsung SDI), Tecnoflon FKM (fluorocarbon elastomer) seals, and Hyflon PFA (perfluoroalkoxy alkane) for semiconductor chemical delivery systems. World's largest HF (hydrofluoric acid) producer."
+        },
+        {
+          "name": "3M",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Produces Dyneon PTFE, FEP, and THV (terpolymer of tetrafluoroethylene, hexafluoropropylene, and vinylidene fluoride — a flexible, transparent fluoropolymer) for semiconductor, automotive seal, and industrial applications. Phasing out PFAS (per- and polyfluoroalkyl substances) chemistry by 2025."
+        },
+        {
+          "name": "Kureha Corporation",
+          "hq": "Japan",
+          "tier": "medium",
+          "volume": null,
+          "share": null,
+          "use": "World's largest battery-grade PVDF (polyvinylidene fluoride) binder producer under the KF Polymer brand. Supplies electrode binder to CATL, LG ES, Samsung SDI, and Panasonic. China is aggressively building domestic PVDF capacity to reduce dependence on Kureha."
+        }
+      ]
+    },
+    {
+      "id": "f-pharma",
+      "name": "Pharmaceutical Active Ingredients",
+      "icon": "💊",
+      "share": "~20% of all fluorine chemical use",
+      "uses": [
+        "~20–25% of all approved pharmaceutical drugs contain at least one C-F (carbon-fluorine) bond — fluorine dramatically increases metabolic stability (the C-F bond resists enzymatic oxidation), membrane permeability (log P lipophilicity increase), and receptor binding affinity vs non-fluorinated analogs",
+        "Fluorine-containing blockbuster drugs: fluoxetine (Prozac — antidepressant), atorvastatin (Lipitor — cholesterol-lowering statin), ciprofloxacin (Cipro — a fluoroquinolone antibiotic), sorafenib (Nexavar — cancer), efavirenz (Sustiva — HIV antiviral), and the majority of modern HIV antiretroviral drugs",
+        "Fluorinated inhalation anesthetics — sevoflurane, desflurane, and isoflurane (all polyhalogenated fluorinated ethers, non-flammable and rapidly exhaled) — are the standard volatile agents for surgical general anesthesia globally, valued for fast induction and recovery",
+        "¹⁸F-FDG (fluorine-18 fluorodeoxyglucose — 2-[¹⁸F]fluoro-2-deoxy-D-glucose — a radioactive glucose analog used in PET — positron emission tomography — imaging) maps tumor glucose metabolism; millions of cancer and cardiac PET scans performed annually use this fluorine-18 radiotracer"
+      ],
+      "companies": [
+        {
+          "name": "Solvay",
+          "hq": "Belgium",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "World's largest HF (hydrofluoric acid) producer and major fluorine reagent supplier. Supplies pharmaceutical-grade fluorinating reagents, SF₄ (sulfur tetrafluoride — a fluorinating agent), and specialty fluorine intermediates as building blocks for API (active pharmaceutical ingredient — the biologically active drug molecule) synthesis at pharmaceutical manufacturers worldwide."
+        },
+        {
+          "name": "Orbia (Mexichem)",
+          "hq": "Mexico",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Major fluorochemical producer supplying anhydrous AHF (anhydrous hydrofluoric acid — 100% HF, an extremely corrosive fluorinating agent) and fluorinated chemical intermediates to pharmaceutical API (active pharmaceutical ingredient) manufacturers through its Fluor chemicals business."
+        },
+        {
+          "name": "Lonza Group",
+          "hq": "Switzerland",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "World's largest pharmaceutical CDMO (contract development and manufacturing organization — companies that develop and produce drugs for innovator pharmaceutical companies). Performs large-scale fluorination reactions under GMP (good manufacturing practice) conditions for major pharmaceutical clients."
+        },
+        {
+          "name": "Honeywell",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Produces sevoflurane anesthetic gas under the Soarane brand and supplies anhydrous HF (hydrofluoric acid) for pharmaceutical fluorination chemistry. Also a major HFC (hydrofluorocarbon) and HFO (hydrofluoroolefin) refrigerant producer."
+        },
+        {
+          "name": "Cambrex Corporation",
+          "hq": "USA",
+          "tier": "medium",
+          "volume": null,
+          "share": null,
+          "use": "Major pharmaceutical CDMO (contract development and manufacturing organization) performing electrophilic and nucleophilic fluorination chemistry for drug API (active pharmaceutical ingredient) manufacturing at its European and US facilities."
+        }
+      ]
+    },
+    {
+      "id": "f-refrigerants",
+      "name": "Refrigerants & HVAC",
+      "icon": "❄️",
+      "share": "~25% of all fluorine use",
+      "uses": [
+        "HFCs (hydrofluorocarbons — fluorine and hydrogen on a carbon skeleton, zero ozone-depleting potential) replaced CFC (chlorofluorocarbon) and HCFC (hydrochlorofluorocarbon) refrigerants under the Montreal Protocol; now being phased down under the Kigali Amendment due to high GWP (global warming potential — a measure of greenhouse gas warming effect relative to CO₂)",
+        "Next-generation HFOs (hydrofluoroolefins — unsaturated hydrofluorocarbons containing at least one carbon-carbon double bond): R-1234yf (automotive AC — now the global standard for new vehicle air conditioning) and R-1234ze (commercial refrigeration chillers) have GWP (global warming potential) of 4–7 vs. 1,430 for R-134a",
+        "R-32 (difluoromethane — CH₂F₂, a single-component HFC with GWP of 675 vs 2,088 for R-410A) is the leading intermediate transition refrigerant in residential air conditioning as HFO infrastructure is being built out under the Kigali phase-down schedule",
+        "Natural refrigerants NH₃ (ammonia — R-717), CO₂ (carbon dioxide — R-744 transcritical cycle), and C₃H₈ (propane — R-290) are gaining share in industrial refrigeration, supermarket cases, and heat pumps as ultra-low-GWP alternatives where safety codes permit"
+      ],
+      "companies": [
+        {
+          "name": "Daikin Industries",
+          "hq": "Japan",
+          "tier": "major",
+          "volume": null,
+          "share": "~30% of global refrigerant market",
+          "use": "World's largest refrigerant manufacturer and the world's largest air conditioner maker. Produces R-32 (difluoromethane), R-410A (HFC blend), and HFO products including R-1234yf. Vertically integrated from HF (hydrofluoric acid) production through fluoropolymers and refrigerants to finished HVAC (heating, ventilation, and air conditioning) equipment."
+        },
+        {
+          "name": "Chemours",
+          "hq": "USA",
+          "tier": "major",
+          "volume": null,
+          "share": "~25% of global refrigerant market",
+          "use": "Produces Freon HFC refrigerants (R-134a, R-404A) and next-generation Opteon HFO (hydrofluoroolefin) series including R-1234yf — now mandated in all new automotive air conditioning systems globally under MAC Directive (mobile air conditioning). Co-inventor of R-1234yf with Honeywell."
+        },
+        {
+          "name": "Honeywell",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": "~20% of global refrigerant market",
+          "use": "Produces Solstice HFO (hydrofluoroolefin) refrigerants: R-1234yf, R-1234ze, and R-514A. Also produces Genetron legacy HFC refrigerants. Co-inventor and licensor of the R-1234yf technology platform for automotive and stationary refrigeration applications."
+        },
+        {
+          "name": "Arkema",
+          "hq": "France",
+          "tier": "large",
+          "volume": null,
+          "share": "~15% of global refrigerant market",
+          "use": "French fluorochemicals company. Produces Forane HFC refrigerants (R-22, R-407C, R-410A) and next-generation HFO products (R-1234yf, R-1234ze) under the Forane brand for European residential and commercial refrigeration and heat pump markets."
+        },
+        {
+          "name": "Juhua Group",
+          "hq": "China",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "China's largest fluorochemical company and a major HFC (hydrofluorocarbon) refrigerant producer for the enormous Chinese domestic HVAC market and for export. Developing HFO (hydrofluoroolefin) manufacturing capability under the Kigali Amendment phase-down timeline."
+        }
+      ]
+    },
+    {
+      "id": "f-semiconductor",
+      "name": "Semiconductor Chip Manufacturing (Etching & Cleaning)",
+      "icon": "💻",
+      "share": "~10% of all fluorine use",
+      "uses": [
+        "NF₃ (nitrogen trifluoride — a gas producing highly reactive F-radicals in plasma) is the standard CVD (chemical vapor deposition) chamber cleaning gas — F-radicals remove SiN (silicon nitride), SiO₂ (silicon dioxide), and W (tungsten) film residues from chamber walls between wafer runs without disassembling equipment",
+        "SF₆ (sulfur hexafluoride — a non-toxic gas that dissociates in plasma to produce reactive F-atoms) and CF₄ (carbon tetrafluoride) are used to etch silicon, SiO₂ (silicon dioxide), Si₃N₄ (silicon nitride), and other dielectrics in defining gate structures and interconnect trenches at 3nm–28nm feature sizes",
+        "F₂ (molecular fluorine — extremely reactive, produced by electrolysis of HF — hydrofluoric acid) used in ALE (atomic layer etching — a technique removing exactly one atomic layer at a time using alternating self-limiting reaction steps) for the sub-5nm feature precision required in FinFET and GAA (gate-all-around) transistors",
+        "Aqueous HF (hydrofluoric acid) solutions and vapor HF used for silicon native oxide removal before gate dielectric deposition and for wet etching of sacrificial SiO₂ (silicon dioxide) layers in MEMS (microelectromechanical systems) and semiconductor device fabrication"
+      ],
+      "companies": [
+        {
+          "name": "Kanto Denka Kogyo",
+          "hq": "Japan",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Japan's leading producer of NF₃ (nitrogen trifluoride), SF₆ (sulfur hexafluoride), and WF₆ (tungsten hexafluoride — used in CVD tungsten metal gate deposition) specialty gases. Supplies critical etch and clean gases to TSMC, Samsung, Intel, and virtually all major chip fabs globally."
+        },
+        {
+          "name": "SK Specialty (SK Materials)",
+          "hq": "South Korea",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Produces NF₃ (nitrogen trifluoride) and WF₆ (tungsten hexafluoride) for Samsung and SK Hynix Korean fabs. A major supplier of fluorinated semiconductor process gases for memory chip CVD (chemical vapor deposition) chamber cleaning and tungsten gate deposition."
+        },
+        {
+          "name": "Air Products",
+          "hq": "USA",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "Supplies UHP (ultra-high purity — 99.9999%+) fluorine specialty gases including NF₃ (nitrogen trifluoride), SF₆ (sulfur hexafluoride), and F₂ (molecular fluorine) to leading-edge chip fabs. Provides on-site bulk NF₃ storage and distribution systems at TSMC, Samsung, and Intel sites."
+        },
+        {
+          "name": "Lam Research",
+          "hq": "USA",
+          "tier": "major",
+          "volume": null,
+          "share": "~30% of global etch equipment market",
+          "use": "Designs and manufactures the plasma etch systems that consume fluorine-based process gases in chip manufacturing. The Kiyo conductors etch and Flex dielectrics etch systems use SF₆ (sulfur hexafluoride), CF₄ (carbon tetrafluoride), and CHF₃ (fluoroform) chemistries to pattern billions of chips annually."
+        },
+        {
+          "name": "Honeywell Electronic Materials",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Supplies electronic-grade HF (hydrofluoric acid), AHF (anhydrous hydrofluoric acid), and specialty fluorine process chemicals for semiconductor wafer cleaning, SiO₂ (silicon dioxide) oxide etching, and silicon surface passivation in chip manufacturing."
+        }
+      ]
+    },
+    {
+      "id": "f-battery",
+      "name": "Battery Electrolyte Salts & PVDF Binders",
+      "icon": "🔋",
+      "share": "~5% of fluorine use — rapidly growing with EV adoption",
+      "uses": [
+        "LiPF₆ (lithium hexafluorophosphate — the lithium salt with a PF₆⁻ hexafluorophosphate anion) is the dominant electrolyte salt in virtually all commercial Li-ion batteries — dissolved at ~1M in organic carbonate solvents to conduct Li⁺ ions between electrodes across the 4V electrochemical window",
+        "LiFSI (lithium bis(fluorosulfonyl)imide — a next-generation electrolyte salt with an FSI⁻ anion) offers superior ionic conductivity, better thermal stability up to 200°C, and lower moisture sensitivity vs LiPF₆ — being adopted in high-performance EV cells for longer range and faster charging",
+        "FEC (fluoroethylene carbonate — a fluorinated cyclic carbonate additive) forms a stable SEI (solid electrolyte interphase — a protective passivation layer that forms on anode surfaces during first charge) on silicon anodes, enabling Si-C (silicon-carbon) composite anodes to cycle without catastrophic capacity loss",
+        "PVDF (polyvinylidene fluoride) binder dispersed in NMP (N-methylpyrrolidone — an organic solvent) is slot-die coated onto aluminum (cathode) and copper (anode) current collector foils — the fluorine backbone provides adhesion, chemical stability, and electrical insulation between electrode layers"
+      ],
+      "companies": [
+        {
+          "name": "Stella Chemifa",
+          "hq": "Japan",
+          "tier": "major",
+          "volume": null,
+          "share": "~30% of global LiPF₆ market",
+          "use": "World's largest LiPF₆ (lithium hexafluorophosphate) producer. Manufactures battery electrolyte salt for Li-ion batteries, supplying CATL, Panasonic, Samsung SDI, and LG Energy Solution through electrolyte solution makers such as Ube Industries and Capchem."
+        },
+        {
+          "name": "Morita Chemical Industries",
+          "hq": "Japan",
+          "tier": "large",
+          "volume": null,
+          "share": "~15% of global LiPF₆ market",
+          "use": "Major LiPF₆ (lithium hexafluorophosphate) and LiF (lithium fluoride — a key raw material for making LiPF₆) producer for battery electrolytes. Supplies Japanese battery manufacturers (Panasonic, Murata) and Korean makers with electrolyte salt."
+        },
+        {
+          "name": "Foosung Corporation",
+          "hq": "South Korea",
+          "tier": "large",
+          "volume": null,
+          "share": "~12% of global LiPF₆ market",
+          "use": "South Korea's leading battery electrolyte chemical producer. Makes LiPF₆ (lithium hexafluorophosphate), FEC (fluoroethylene carbonate), and DFEC (difluoroethylene carbonate — a related fluorinated electrolyte additive) for LG ES, Samsung SDI, and SK On."
+        },
+        {
+          "name": "Kureha Corporation",
+          "hq": "Japan",
+          "tier": "large",
+          "volume": null,
+          "share": "~40% of global battery-grade PVDF market",
+          "use": "World's dominant battery-grade PVDF (polyvinylidene fluoride) binder producer under the KF Polymer brand. Supplies electrode binder to CATL, LG ES, Samsung SDI, and Panasonic. China is aggressively developing domestic PVDF capacity to reduce strategic dependence on Kureha."
+        },
+        {
+          "name": "Solvay",
+          "hq": "Belgium",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Produces Solef PVDF (polyvinylidene fluoride) battery binder grades for both NMC (nickel-manganese-cobalt oxide) and LFP (lithium iron phosphate) cathode electrode manufacturing, and researching next-generation water-based electrode coating technologies to replace NMP solvent."
+        }
+      ]
+    },
+    {
+      "id": "f-uranium",
+      "name": "Uranium Enrichment (UF₆ — Uranium Hexafluoride)",
+      "icon": "⚛️",
+      "share": "~5% of fluorine use",
+      "uses": [
+        "UF₆ (uranium hexafluoride — a solid that sublimes at 56.5°C into a dense colorless gas, the only uranium compound with useful volatility for isotope separation) is the process gas for uranium enrichment — natural uranium (0.71% ²³⁵U — uranium-235) must be enriched to 3.5–5% ²³⁵U for LWR (light water reactor) nuclear fuel",
+        "Gas centrifuge enrichment spins UF₆ at very high rotational speeds — heavier ²³⁸UF₆ (uranium-238 hexafluoride) migrates to the outer wall while lighter ²³⁵UF₆ (uranium-235 hexafluoride) concentrates near the axis — cascades of thousands of centrifuges achieve required enrichment levels",
+        "UF₄ (uranium tetrafluoride — green salt — the intermediate compound produced by reacting UO₂ — uranium dioxide — with HF — hydrofluoric acid) is the key intermediate step converting uranium ore concentrate to UF₆ for enrichment plants",
+        "HALEU (high-assay low-enriched uranium — 5–20% ²³⁵U enrichment vs 3–5% for standard reactor fuel) requires significantly more HF (hydrofluoric acid) and fluorine chemistry per kg of product and is the fuel type required by most advanced SMR (small modular reactor) designs"
+      ],
+      "companies": [
+        {
+          "name": "Urenco",
+          "hq": "UK/Netherlands/Germany",
+          "tier": "major",
+          "volume": null,
+          "share": "~30% of global enrichment market",
+          "use": "Major uranium enrichment consortium owned by UK, Dutch, and German governments. Operates gas centrifuge UF₆ (uranium hexafluoride) enrichment plants in the UK, Netherlands, Germany, and New Mexico (USA). Supplies enriched uranium fuel to nuclear power plants in the US, Europe, and globally."
+        },
+        {
+          "name": "Orano (formerly Areva)",
+          "hq": "France",
+          "tier": "major",
+          "volume": null,
+          "share": "~25% of global enrichment market",
+          "use": "French nuclear fuel company. Operates the Georges Besse II centrifuge plant at Tricastin — one of the world's largest enrichment facilities. Also performs UF₆ (uranium hexafluoride) conversion from U₃O₈ (uranium ore concentrate — yellowcake) at its Malvési facility."
+        },
+        {
+          "name": "Rosatom (TVEL)",
+          "hq": "Russia",
+          "tier": "major",
+          "volume": null,
+          "share": "~40% of global enrichment market",
+          "use": "Russia's state nuclear corporation. The world's largest single uranium enrichment provider via its TVEL subsidiary — controlling ~40% of global UF₆ (uranium hexafluoride) enrichment capacity at plants in Novouralsk, Zelenogorsk, Angarsk, and Seversk."
+        },
+        {
+          "name": "Centrus Energy (formerly USEC)",
+          "hq": "USA",
+          "tier": "medium",
+          "volume": null,
+          "share": null,
+          "use": "US nuclear fuel company developing the American Centrifuge Plant (ACP) at Piketon, Ohio. Producing HALEU (high-assay low-enriched uranium — 5–20% ²³⁵U) under DOE (US Department of Energy) contracts for advanced reactor demonstrations."
+        },
+        {
+          "name": "ConverDyn (Honeywell)",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": "~25% of global uranium conversion market",
+          "use": "Honeywell's uranium conversion facility at Metropolis, Illinois converts U₃O₈ (uranium ore concentrate — yellowcake) to UF₆ (uranium hexafluoride) using HF (hydrofluoric acid) in the fluorination step — the sole US-based UF₆ conversion facility."
+        }
+      ]
+    }
+  ]
+}

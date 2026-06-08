@@ -1,0 +1,76 @@
+{
+  "dataTier": 1,
+  "industries": [
+    {
+      "id": "solder",
+      "name": "Solder & Electronics Assembly",
+      "icon": "💻",
+      "share": "~50% of tin use",
+      "uses": [
+        "Tin-based lead-free solders (SAC alloys: Sn-Ag-Cu, typically 96.5Sn-3Ag-0.5Cu) replaced leaded solder (Sn-Pb) under EU RoHS directive (2006) — SAC305 is now the universal electronics assembly solder for surface-mount technology (SMT) in consumer electronics, automotive, and industrial PCB assembly",
+        "Wave soldering of through-hole PCB components uses tin-based alloys (Sn-Cu-Ni, Sn-Ag-Cu) at 260–270°C — tens of millions of PCBs soldered annually in consumer electronics, automotive ECUs, and industrial control boards",
+        "Selective soldering, hand soldering, and rework soldering uses tin-silver-copper cored solder wire — standard in electronics manufacturing and repair globally",
+        "Tin-bismuth (Sn-Bi) low-temperature solders for heat-sensitive components, flexible PCBs, and step-soldering processes where second reflow must not melt first joints",
+        "Ball grid array (BGA) and chip-scale package solder balls in SAC or SnAg alloys: the hundreds to thousands of solder joints connecting flip-chip ICs to PCBs in computers, smartphones, and servers all use tin-based solder"
+      ],
+      "companies": [
+        { "name": "Alpha (MacDermid Alpha Electronics Solutions)", "hq": "USA", "tier": "major", "volume": null, "share": "~20% of global electronics solder market", "use": "World's largest electronics solder manufacturer. Produces SAC305, SAC387, and specialty solder pastes, wires, and preforms for PCB assembly. Supplies to contract electronics manufacturers (Foxconn, Jabil, Flex) and OEMs globally." },
+        { "name": "Indium Corporation", "hq": "USA", "tier": "large", "volume": null, "share": "~10% of global electronics solder market", "use": "Major solder manufacturer producing SAC, SnBi, and specialty alloy solder pastes, wires, and balls for electronics assembly. Known for high-reliability solders for automotive, aerospace, and medical electronics applications." },
+        { "name": "Yunnan Tin Group", "hq": "China", "tier": "major", "volume": "~70,000 t Sn/yr", "share": "~25% of world tin production", "use": "World's largest tin producer. Operates tin mines and smelters in Yunnan province, China. China produces ~40% of world refined tin. Yunnan Tin supplies tin metal to solder manufacturers, tin chemical producers, and tinplate mills." }
+      ]
+    },
+    {
+      "id": "tinplate",
+      "name": "Tinplate & Food Packaging",
+      "icon": "🥫",
+      "share": "~20% of tin use",
+      "uses": [
+        "Tinplate (electrolytic tin-coated cold-rolled steel, ~0.2–0.8 μm tin coating) for food and beverage cans, aerosol cans, and metal packaging — tin coating provides corrosion protection and food-safe surface without iron contamination of contents",
+        "Three-piece welded steel cans for soups, vegetables, pet food, and industrial products; two-piece drawn-and-ironed (DI) cans for beer and beverages — tinplate remains competitive with aluminum cans for food applications",
+        "Aerosol cans for personal care (deodorant, hairspray), household products, and industrial coatings use tinplate for the body and top/bottom domes — high-pressure rated tinplate cans handle propellant systems",
+        "Tin-free steel (TFS, chromium-coated) has replaced tinplate in some applications, but food contact, corrosion performance, and solderability requirements keep tinplate dominant for canned food",
+        "Tin cans for paint, coatings, solvents, and chemicals — rectangular and round tinplate containers for architectural and industrial coatings"
+      ],
+      "companies": [
+        { "name": "ArcelorMittal", "hq": "Luxembourg", "tier": "major", "volume": null, "share": "~15% of European tinplate market", "use": "Major tinplate producer at its Liège, Belgium (Packaging Products) operations. Produces electrolytic tinplate and tin-free steel for European food can, aerosol can, and general-line packaging manufacturers." },
+        { "name": "US Steel", "hq": "USA", "tier": "large", "volume": null, "share": "~20% of North American tinplate market", "use": "Major US tinplate producer at its Irvin Works tinning lines. Produces electrolytic tinplate for food cans, paint cans, and general-line packaging sold to can manufacturers and packaging companies in North America." },
+        { "name": "Crown Holdings", "hq": "USA", "tier": "major", "volume": null, "share": "~20% of global metal can market", "use": "Major tinplate food and beverage can manufacturer. Produces steel food cans, aerosol cans, and specialty packaging from tinplate steel purchased from ArcelorMittal, US Steel, and other tinplate producers globally." }
+      ]
+    },
+    {
+      "id": "chemicals",
+      "name": "Tin Chemicals & Specialty",
+      "icon": "⚗️",
+      "share": "~15% of tin use",
+      "uses": [
+        "Organotin compounds as PVC heat stabilizers: dibutyltin (DBT), dioctyltin (DOT), and methyltin stabilizers prevent PVC degradation during high-temperature processing (185–210°C extrusion and calendering) by scavenging HCl released by thermal decomposition",
+        "Stannous chloride (SnCl₂) as reducing agent in chemical synthesis, electroless tin plating activation, and as food additive antioxidant (E512) in canned asparagus and fruit",
+        "Tin(II) fluoride (SnF₂) in toothpaste as an antibacterial and remineralizing agent — Crest Pro-Health uses stannous fluoride as active ingredient providing both fluoride protection and antibacterial gum protection",
+        "Monobutyltin and dibutyltin oxide as catalysts for polyurethane foam production, transesterification reactions, and silicone cure systems",
+        "Float glass manufacture: molten glass floated on a bath of liquid tin at 1050°C in the Pilkington float glass process — tin provides the flat, smooth surface against which glass solidifies. All flat glass (windows, automotive, mirrors) produced by this method"
+      ],
+      "companies": [
+        { "name": "Pilkington (NSG Group)", "hq": "UK / Japan", "tier": "major", "volume": null, "share": "~15% of global flat glass market", "use": "Inventor of the float glass process (Sir Alastair Pilkington, 1959). Operates float glass lines consuming liquid tin in the float bath globally. Licenses the float glass process to other manufacturers — all flat glass manufacturers are Pilkington licensees." },
+        { "name": "Baerlocher", "hq": "Germany", "tier": "major", "volume": null, "share": "~20% of PVC stabilizer market", "use": "Major PVC heat stabilizer producer making organotin, calcium-zinc, and lead-free stabilizer systems. Supplies tin-based and tin-free PVC stabilizers to pipe, profile, film, and cable compound manufacturers globally." },
+        { "name": "Procter & Gamble", "hq": "USA", "tier": "major", "volume": null, "share": null, "use": "Major consumer of stannous fluoride (SnF₂) in its Crest Pro-Health toothpaste formulations — stannous fluoride provides combined fluoride remineralization and antibacterial action against gingivitis and plaque bacteria." }
+      ]
+    },
+    {
+      "id": "alloys",
+      "name": "Alloys, Bearings & Bronze",
+      "icon": "⚙️",
+      "share": "~15% of tin use",
+      "uses": [
+        "Bronze (Cu-Sn alloys, 5–20% Sn): the original engineering alloy. Used for bearings, bushings, gears, marine propellers, bells, and sculpture — tin increases hardness, corrosion resistance, and castability of copper without sacrificing ductility",
+        "Babbitt bearing metal (Sn-Sb-Cu white metal): tin-based Babbitt alloy (83%Sn-11%Sb-6%Cu) lined into large bearings for turbines, electric motors, compressors, and marine propulsion shafts — self-lubricating in boundary lubrication conditions",
+        "Pewter (Sn-Sb-Cu, typically 91-95% Sn): lead-free pewter for tableware, decorative items, and pewter jewelry — tin's workability, bright appearance, and non-toxicity make it the preferred white metal for hollow and flat ware",
+        "Tin-lead (Sn-Pb) alloys for organ pipe construction: traditional alloy composition for church organ pipe flue pipes, prized for acoustic properties and workability — one of the few remaining uses of tin-lead alloy",
+        "Fusible alloys incorporating tin (Woods metal, Field's metal, Cerrobend): low-melting-point alloys for pipe bending, fire sprinkler fusible links, and precision casting of complex shapes"
+      ],
+      "companies": [
+        { "name": "Wieland Group", "hq": "Germany", "tier": "major", "volume": null, "share": "~10% of European copper alloy market", "use": "Major copper and bronze alloy producer. Manufactures phosphor bronze (Cu-Sn-P) strip for connectors and springs, bearing bronze (Cu-Sn-Pb) for bushings, and specialty tin bronzes for marine and engineering applications." },
+        { "name": "Materion (formerly Brush Engineered Materials)", "hq": "USA", "tier": "large", "volume": null, "share": null, "use": "Specialty alloy company producing tin-containing copper alloys including phosphor bronze and specialty bronze for electrical connectors, springs, and precision machined parts in aerospace, defense, and electronics applications." }
+      ]
+    }
+  ]
+}

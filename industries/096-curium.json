@@ -1,0 +1,44 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "nuclear",
+      "name": "Nuclear Science, Space Power & Element Synthesis",
+      "icon": "⚛️",
+      "share": "100% of curium use",
+      "uses": [
+        "Curium-244 (²⁴⁴Cm, t½ = 18.1 years) has a very high thermal power density (~2.8 W/g) from alpha decay — studied as an RTG heat source for short-duration, high-power space missions, though its shorter half-life versus ²³⁸Pu limits mission duration to ~10 years at useful power levels",
+        "Curium-248 (²⁴⁸Cm, t½ = 340,000 years) is the essential target material for synthesizing californium, berkelium, and heavier elements — bombarding ²⁴⁸Cm with carbon, nitrogen, or oxygen ions in accelerators produces the heaviest actinides",
+        "Curium-245 and curium-247 are studied as potential fissile fuels in advanced fast reactor concepts due to favorable neutron cross-sections — transmuting curium in fast reactors is part of advanced fuel cycle strategies for reducing long-lived nuclear waste",
+        "²⁴⁴Cm in nuclear transmutation research: fast reactor irradiation converts curium to shorter-lived fission products, potentially reducing the radiotoxic hazard period of nuclear waste from hundreds of thousands to a few hundred years",
+        "Curium is produced in nuclear reactors by successive neutron captures on plutonium and americium — it accumulates in spent fuel at concentrations of ~20 grams per tonne of initial heavy metal after high burnup irradiation"
+      ],
+      "companies": [
+        {
+          "name": "Oak Ridge National Laboratory (DOE)",
+          "hq": "USA",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "Primary US producer and processor of curium isotopes. Irradiates actinide targets in the HFIR to produce curium-244, curium-248, and other isotopes, then separates and purifies them in hot cells. Supplies curium-248 targets to accelerator laboratories worldwide for superheavy element synthesis experiments."
+        },
+        {
+          "name": "RIAR (Research Institute of Atomic Reactors)",
+          "hq": "Russia",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "Russian curium producer at Dimitrovgrad. Irradiates americium and plutonium targets in the SM-3 and BOR-60 high-flux reactors to produce curium isotopes for Russian research programs and for export to international heavy element synthesis experiments. Key partner in the JINR superheavy element program."
+        },
+        {
+          "name": "JINR Dubna",
+          "hq": "Russia",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Major consumer of curium-248 targets for superheavy element synthesis. Bombards Cm-248 with calcium-48 and other ion beams to produce elements 114 (flerovium), 116 (livermorium), and beyond. JINR's U400 cyclotron and DGFRS separator use curium targets from RIAR in its ongoing superheavy element discovery program."
+        }
+      ]
+    }
+  ]
+}

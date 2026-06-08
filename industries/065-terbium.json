@@ -1,0 +1,52 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "magnets",
+      "name": "NdFeB Magnet Grain Boundary Diffusion",
+      "icon": "🧲",
+      "share": "~45% of terbium use",
+      "uses": [
+        "Terbium (with dysprosium) added to NdFeB sintered magnets significantly increases coercivity (resistance to demagnetization at elevated temperatures) — essential for EV traction motors and wind turbine generators where operating temperatures reach 150–180°C",
+        "Grain boundary diffusion (GBD) process: terbium fluoride or terbium oxide applied to magnet surface and diffused along grain boundaries at 800–900°C — achieves same coercivity enhancement as bulk substitution with 50–70% less Tb usage",
+        "Terbium content in high-coercivity NdFeB magnets for automotive applications: 0.5–2% Tb replacing or supplementing dysprosium, which is more abundant but less effective per unit weight at improving coercivity",
+        "Critical material designation: terbium is listed as a critical mineral by the US, EU, and Japan due to supply concentration in China (~99% of world production from ionic clay deposits in South China)"
+      ],
+      "companies": [
+        { "name": "Shin-Etsu Chemical", "hq": "Japan", "tier": "major", "volume": null, "share": "~25% of sintered NdFeB magnet market", "use": "World's largest NdFeB magnet producer and major consumer of terbium for high-coercivity magnet grades. Uses terbium in grain boundary diffusion and bulk substitution to produce EV motor magnets meeting high-temperature performance specifications." },
+        { "name": "Vacuumschmelze (VAC)", "hq": "Germany", "tier": "large", "volume": null, "share": "~10% of European NdFeB magnet market", "use": "Major German NdFeB magnet manufacturer. Produces terbium-containing high-coercivity magnet grades for industrial servo motors, automotive applications, and wind turbine pitch control systems." }
+      ]
+    },
+    {
+      "id": "phosphors",
+      "name": "Phosphors & Displays",
+      "icon": "💡",
+      "share": "~35% of terbium use",
+      "uses": [
+        "Terbium(III) green phosphor (LaPO₄:Ce,Tb; (Ce,Tb)MgAl₁₁O₁₉, CAT): the essential green component in fluorescent lamp tricolor phosphors — Tb³⁺ f-f emission at 543nm produces the saturated green that completes the RGB triad alongside Eu³⁺ red and Eu²⁺ blue",
+        "Terbium green phosphor in compact fluorescent lamps (CFLs) and T5/T8 fluorescent tubes for commercial and industrial lighting — every tricolor fluorescent lamp contains terbium",
+        "Tb³⁺-activated phosphors for white LED lighting: terbium contributes to green emission in some LED phosphor formulations for high-color-rendering applications",
+        "Tb-doped scintillator crystals and films for X-ray imaging: Tb-doped Gd₂O₂S (GOS) phosphor is the standard scintillator screen material in X-ray cassettes and digital radiography flat panels — Tb³⁺ provides high-efficiency green emission matching the sensitivity of CCD and CMOS imagers"
+      ],
+      "companies": [
+        { "name": "Kasei Optonix (Konica Minolta)", "hq": "Japan", "tier": "major", "volume": null, "share": "~20% of X-ray phosphor screen market", "use": "Major X-ray scintillator and phosphor manufacturer. Produces Tb-doped gadolinium oxysulfide (GOS) scintillator screens and powders for digital radiography, CR imaging plates, and CT detector afterglow materials." },
+        { "name": "Phosphor Technology (Tailored Lighting)", "hq": "UK", "tier": "large", "volume": null, "share": null, "use": "Specialty phosphor manufacturer producing terbium-activated green phosphors for fluorescent lamps, X-ray screens, and specialty display applications. Supplies Tb-phosphors to lamp and screen manufacturers globally." }
+      ]
+    },
+    {
+      "id": "specialty",
+      "name": "Magnetostrictive Materials & Other",
+      "icon": "⚗️",
+      "share": "~20% of terbium use",
+      "uses": [
+        "Terfenol-D (Tb₀.₃Dy₀.₇Fe₂): the highest-performance magnetostrictive material — changes shape significantly (up to 2000 ppm strain) when exposed to a magnetic field. Used in sonar transducers, ultrasonic cleaners, active vibration control, and precision actuators",
+        "Terbium iron alloy (TbFe) as a component in magneto-optical recording media — TbFe and TbFeCo films used in magneto-optical disks (MO disks) popular in Japan for archival storage",
+        "Tb₃Ga₅O₁₂ (TGG, terbium gallium garnet) as Faraday rotator material in optical isolators for high-power lasers — TGG rotates the plane of polarization under a magnetic field, preventing back-reflections that could damage laser sources",
+        "Terbium activated GSO (Gd₂SiO₅:Tb) and YAG:Tb scintillators for electron microscopy detectors and synchrotron X-ray beamline imaging systems"
+      ],
+      "companies": [
+        { "name": "Etrema Products (TdVib)", "hq": "USA", "tier": "large", "volume": null, "share": "~50% of Terfenol-D market", "use": "World's primary Terfenol-D manufacturer. Produces Terfenol-D rods and transducers for sonar arrays, ultrasonic cleaners, active vibration control in aerospace structures, and precision actuator applications requiring high-force, high-frequency actuation." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "wood-preservation",
+      "name": "Wood Preservation (Historical & Industrial)",
+      "icon": "🌲",
+      "share": "~50% of arsenic use (declining rapidly in consumer markets)",
+      "uses": [
+        "Chromated copper arsenate (CCA) was the dominant wood preservative for decades — pressure-treated lumber for decks, playgrounds, utility poles, and marine pilings. Banned for residential use in the US and EU by 2004 due to arsenic leaching concerns; still permitted for industrial applications",
+        "CCA-treated wood remains in service in millions of existing utility poles, railroad ties, and marine structures — long service life means legacy arsenic-treated wood persists in infrastructure for decades",
+        "Industrial CCA treatment still used for utility poles, highway guardrail posts, and agricultural fencing in many countries where residential restrictions don't apply",
+        "Alternative preservatives (copper azole, alkaline copper quaternary) have largely replaced CCA in consumer lumber but require more copper — driving increased copper demand in preservative treatment"
+      ],
+      "companies": [
+        { "name": "Koppers Holdings", "hq": "USA", "tier": "major", "volume": null, "share": "~25% of North American treated wood market", "use": "Major wood treatment company using copper-based (non-CCA) preservatives for railroad ties, utility poles, and structural lumber. Historically used CCA; now focused on creosote and copper-based alternatives for industrial wood treatment." },
+        { "name": "Lonza Wood Protection (now Arxada)", "hq": "Switzerland", "tier": "major", "volume": null, "share": "~20% of global wood preservative market", "use": "Major wood preservative chemical supplier. Produces copper azole (CA-B) and alkaline copper quaternary (ACQ) preservatives that replaced CCA in residential lumber. Supplies pressure-treating plants across North America, Europe, and Asia." }
+      ]
+    },
+    {
+      "id": "semiconductors",
+      "name": "Compound Semiconductors",
+      "icon": "💻",
+      "share": "~30% of arsenic use",
+      "uses": [
+        "Arsenic (as arsine gas, AsH₃) is the n-type dopant in gallium arsenide (GaAs) compound semiconductor devices — GaAs RF chips, solar cells, and laser diodes all require precise arsenic incorporation during MOCVD epitaxial growth",
+        "Arsenic implantation as n-type dopant in silicon CMOS at 75As⁺ ion implantation — arsenic's low diffusivity in silicon makes it preferred over phosphorus for shallow source/drain junctions in sub-100nm transistors",
+        "Indium arsenide (InAs) for infrared photodetectors in the 1–3.5 μm range; InAs quantum dots for telecom wavelength lasers and single-photon sources in quantum computing research",
+        "Arsenic trisulfide (As₂S₃) and arsenic selenide (As₂Se₃) chalcogenide glasses for mid-infrared fiber optics transmitting 2–12 μm wavelengths — used in medical laser delivery and chemical sensing"
+      ],
+      "companies": [
+        { "name": "Umicore", "hq": "Belgium", "tier": "large", "volume": null, "share": null, "use": "Produces high-purity arsenic metal and arsenic compounds for compound semiconductor and specialty chemical applications. Recovers arsenic from copper and lead smelting residues." },
+        { "name": "5N Plus", "hq": "Canada", "tier": "large", "volume": null, "share": null, "use": "Producer of high-purity (5N, 99.999%) arsenic metal and arsenic compounds for GaAs semiconductor, solar cell, and specialty chemical applications. Also produces InAs, GaAs, and other III-V compounds." }
+      ]
+    },
+    {
+      "id": "agrochemicals",
+      "name": "Agrochemicals & Glass",
+      "icon": "🌿",
+      "share": "~20% of arsenic use",
+      "uses": [
+        "Monosodium methanearsonate (MSMA) organic arsenical herbicide: still registered for use on cotton, golf courses, and highway right-of-ways in the US after inorganic arsenicals were withdrawn — controls annual grasses and nutsedge",
+        "Arsenic trioxide (As₂O₃) in glass manufacturing as a fining agent — removes bubbles from molten glass by oxidizing and releasing oxygen at high temperature; used in optical glass, CRT glass, and specialty glass where clarity is paramount",
+        "Arsenic trioxide (Trisenox) as cancer therapeutic: FDA-approved for treatment of acute promyelocytic leukemia (APL) — induces differentiation and apoptosis in leukemic cells at therapeutic doses",
+        "Lead arsenate historically the primary insecticide in US apple and citrus orchards until replaced by organophosphates in the 1950s — legacy arsenic contamination remains in many former orchard soils"
+      ],
+      "companies": [
+        { "name": "Tronox Holdings", "hq": "USA / Australia", "tier": "large", "volume": null, "share": null, "use": "Major producer of arsenic trioxide recovered as a byproduct of gold and copper smelting operations. Supplies As₂O₃ to glass manufacturers and specialty chemical producers." },
+        { "name": "Teva Pharmaceutical", "hq": "Israel", "tier": "large", "volume": null, "share": null, "use": "Major producer of arsenic trioxide (Trisenox) pharmaceutical injection for treatment of relapsed/refractory acute promyelocytic leukemia (APL). An important niche medical use of an otherwise industrial chemical." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,353 @@
+{
+  "dataTier": 1,
+  "industries": [
+    {
+      "id": "c-coke",
+      "name": "Metallurgical Coke & Steel Production",
+      "icon": "🏭",
+      "share": "~40% of industrial carbon demand by tonnage",
+      "uses": [
+        "Metallurgical coke (produced by heating coking coal in slot ovens to 1,000°C without air for 18 hours) provides both the carbon reductant CO (carbon monoxide) and the physical support structure in blast furnaces: Fe₂O₃ (iron oxide — iron ore) + 3CO → 2Fe (pig iron) + 3CO₂ (carbon dioxide)",
+        "Carbon content precisely controls steel properties: ultra-low carbon (<0.01%) for deep-draw automotive body sheet; medium carbon (0.3–0.6%) for structural beams and machine components; high carbon (0.6–1.4%) for springs, rail steel, and cutting tools",
+        "UHP graphite electrodes (ultra-high-power graphite — made from petroleum needle coke calcined at 2,800°C) are consumed in EAF (electric arc furnace) scrap melting at 2–5 kg per tonne of steel produced, maintaining arc temperatures above 3,000°C",
+        "Petroleum coke (pet coke — a refinery byproduct of coking or hydrocracking heavy oil) provides carbon anode material for aluminum smelting — each tonne of primary aluminum requires approximately 400–450 kg of baked carbon anode"
+      ],
+      "companies": [
+        {
+          "name": "China Baowu Steel",
+          "hq": "China",
+          "tier": "major",
+          "volume": "~130M t crude steel/yr",
+          "share": "~14% of global crude steel",
+          "use": "World's largest steelmaker. Operates massive BF-BOF (blast furnace — basic oxygen furnace) complexes at Wuhan, Shanghai, and Zhangjiagang consuming enormous metallurgical coke quantities. Investing in H₂-DRI (hydrogen direct reduced iron) routes for future low-carbon production."
+        },
+        {
+          "name": "ArcelorMittal",
+          "hq": "Luxembourg",
+          "tier": "major",
+          "volume": "~70M t crude steel/yr",
+          "share": "~7% of global crude steel",
+          "use": "World's second-largest steelmaker. Operates integrated BF-BOF plants across Europe, Americas, and Africa. Running H₂ (hydrogen) DRI pilots at Dunkirk, France and carbon capture trials at Ghent, Belgium under its XCarb® low-carbon steel program."
+        },
+        {
+          "name": "GrafTech International",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": "~20% of global graphite electrode market",
+          "use": "Major UHP (ultra-high-power) graphite electrode producer for EAF (electric arc furnace) steelmaking. Vertically integrated with petroleum needle coke production at its Seadrift, Texas facility — the critical feedstock for manufacturing graphite electrodes that survive 3,000°C arc temperatures."
+        },
+        {
+          "name": "SGL Carbon",
+          "hq": "Germany",
+          "tier": "large",
+          "volume": null,
+          "share": "~15% of global graphite electrode market",
+          "use": "Produces UHP (ultra-high-power) graphite electrodes for EAF steel mills and specialty graphite for semiconductor CZ (Czochralski) crystal growing furnaces. Also a major carbon fiber producer through its SGL-BMW automotive CFRP (carbon fiber reinforced polymer) joint venture."
+        },
+        {
+          "name": "Showa Denko (Resonac)",
+          "hq": "Japan",
+          "tier": "large",
+          "volume": null,
+          "share": "~10% of global graphite electrode market",
+          "use": "Major Japanese graphite electrode manufacturer for EAF (electric arc furnace) steelmaking. Merged with Hitachi Chemical to form Resonac Holdings in 2023. Also produces aluminum, carbide chemicals, and electronic materials."
+        },
+        {
+          "name": "Nippon Steel",
+          "hq": "Japan",
+          "tier": "major",
+          "volume": "~45M t crude steel/yr",
+          "share": "~5% of global crude steel",
+          "use": "Japan's largest steelmaker. Developing near-zero-carbon steelmaking using hydrogen under the COURSE50 program. Acquirer of US Steel (2024). Produces premium automotive steel, electrical steel for EV motors, and high-strength pipeline and structural steel."
+        }
+      ]
+    },
+    {
+      "id": "c-fiber",
+      "name": "Carbon Fiber Composites (CFRP)",
+      "icon": "✈️",
+      "share": "~2% of carbon by tonnage — but extremely high value-per-kilogram",
+      "uses": [
+        "PAN (polyacrylonitrile — an acrylic polymer fiber) precursor is stabilized by oxidation at 200–300°C then carbonized at 1,000–3,000°C to produce carbon fiber with 10× the tensile strength of steel at only 25% of steel's density — the highest-strength commercial structural fiber",
+        "CFRP (carbon fiber reinforced polymer — carbon fiber woven or laid up and embedded in epoxy, PEEK, or thermoplastic resin) applications: Boeing 787 (50% CFRP by weight), Airbus A350 (53% CFRP), 60-meter wind blade spar caps, and BMW i-series EV body structures",
+        "Pitch-based carbon fiber (from coal tar pitch or petroleum pitch precursor rather than PAN) achieves ultra-high modulus up to 900 GPa elastic modulus (vs 230 GPa for standard PAN fiber) — used in satellite bus panels and precision mirror mounts requiring near-zero thermal expansion",
+        "C/C (carbon-carbon composites — carbon fiber reinforced with a carbon matrix via CVD — chemical vapor deposition — of pyrolytic carbon) withstand temperatures above 3,000°C, used in aircraft brake discs, rocket nozzles, and hypersonic vehicle leading edges"
+      ],
+      "companies": [
+        {
+          "name": "Toray Industries",
+          "hq": "Japan",
+          "tier": "major",
+          "volume": "~34,000 t CF/yr",
+          "share": "~35% of global carbon fiber market",
+          "use": "World's largest carbon fiber producer. Holds long-term supply agreements with Boeing (787 fuselage, 777X wing skins) and Airbus (A350 primary structures). Produces T300 through T1100G high-performance fiber grades and the standard PAN (polyacrylonitrile) precursor fiber used by other converters."
+        },
+        {
+          "name": "Hexcel Corporation",
+          "hq": "USA",
+          "tier": "large",
+          "volume": "~15,000 t CF/yr",
+          "share": "~15% of global CF market",
+          "use": "Major aerospace CFRP (carbon fiber reinforced polymer) prepreg and composite structure producer. Primary prepreg supplier to Airbus (A350 XWB fuselage barrel panels) and Boeing defense. Operates carbon fiber plants in Salt Lake City (US), Duxford (UK), and Illescas (Spain)."
+        },
+        {
+          "name": "SGL Carbon",
+          "hq": "Germany",
+          "tier": "large",
+          "volume": "~12,000 t CF/yr",
+          "share": "~12% of global CF market",
+          "use": "Partners with BMW for CFRP (carbon fiber reinforced polymer) body structures in BMW i3, i8, and iX EV models. Also produces graphite electrodes for EAF (electric arc furnace) steelmaking and specialty graphite for semiconductor crystal growing."
+        },
+        {
+          "name": "Teijin",
+          "hq": "Japan",
+          "tier": "large",
+          "volume": "~10,000 t CF/yr",
+          "share": "~10% of global CF market",
+          "use": "Major carbon fiber (Tenax brand) and para-aramid fiber (Twaron) producer. Supplies carbon fiber to Boeing, Dassault Aviation, and Toyota. Developing carbon fiber thermoplastic composite manufacturing for high-rate automotive production lines."
+        },
+        {
+          "name": "Solvay",
+          "hq": "Belgium",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Produces CFRP (carbon fiber reinforced polymer) composite structures and epoxy prepregs for Airbus A320neo engine nacelles, A380 center wing box, and European defense aircraft programs. Also supplies thermoplastic PEEK (polyether ether ketone) composite matrices."
+        },
+        {
+          "name": "Mitsubishi Chemical Group",
+          "hq": "Japan",
+          "tier": "large",
+          "volume": "~8,000 t CF/yr",
+          "share": "~8% of global CF market",
+          "use": "Produces Pyrofil carbon fiber and CFRP composites for aerospace, automotive (including the Mitsubishi Regional Jet), and industrial applications. Developing thermoplastic CFRP for high-volume automotive production in partnership with Mitsubishi Motors."
+        }
+      ]
+    },
+    {
+      "id": "c-anodes",
+      "name": "Lithium-Ion Battery Anodes (Graphite)",
+      "icon": "🔋",
+      "share": "~5% of industrial carbon use by tonnage — fastest-growing application",
+      "uses": [
+        "Natural and synthetic graphite account for over 95% of commercial lithium-ion battery anodes — lithium ions intercalate between graphene layers during charging at approximately 372 mAh/g theoretical capacity for a fully lithiated LiC₆ (lithium-carbon compound)",
+        "Each kWh of battery capacity requires 800–1,000 g of anode graphite — an 80 kWh EV battery contains approximately 75–80 kg of graphite, more than 3× the lithium content by weight, making graphite the most voluminous active battery material",
+        "Synthetic graphite (graphitized from petroleum or coal pitch coke at 2,800–3,000°C) offers controlled particle morphology, higher purity, and better first-cycle coulombic efficiency than natural graphite; natural flake graphite is lower-cost with a smaller manufacturing carbon footprint",
+        "Si-C (silicon-carbon composite anodes — silicon nanoparticles blended with graphite in a carbon matrix) offer 20–40% higher energy density per kilogram than pure graphite, enabling longer-range EVs; mass production of Si-C anodes is now entering commercial scale"
+      ],
+      "companies": [
+        {
+          "name": "BTR New Material Group",
+          "hq": "China",
+          "tier": "major",
+          "volume": "~100,000 t anode material/yr",
+          "share": "~30% of global anode material market",
+          "use": "World's largest battery anode material producer. Supplies natural and synthetic graphite anodes to CATL, Samsung SDI, LG Energy Solution, and other leading EV battery manufacturers globally. Expanding into Canadian natural graphite mining and North American processing."
+        },
+        {
+          "name": "Shanshan Technology",
+          "hq": "China",
+          "tier": "large",
+          "volume": "~70,000 t anode material/yr",
+          "share": "~20% of global anode market",
+          "use": "One of China's earliest and largest commercial anode manufacturers. Pioneered Si-C (silicon-carbon) composite anode mass production. Supplies Panasonic, BYD, and multiple Chinese EV battery makers with natural graphite, synthetic graphite, and composite anode materials."
+        },
+        {
+          "name": "Posco Future M (Posco Chemical)",
+          "hq": "South Korea",
+          "tier": "large",
+          "volume": "~30,000 t anode material/yr",
+          "share": null,
+          "use": "South Korea's largest anode material producer. Partnering with Nouveau Monde Graphite to develop natural graphite anode material from Quebec, Canada — building a North American supply chain for European and US EV battery gigafactories."
+        },
+        {
+          "name": "Novonix",
+          "hq": "Canada/USA",
+          "tier": "medium",
+          "volume": null,
+          "share": null,
+          "use": "Produces PureGrade synthetic graphite anode material via an all-dry, ultra-long-life proprietary process at its Chattanooga, Tennessee facility. Multi-year commercial supply agreement with Samsung SDI for EV battery cells in the US market."
+        },
+        {
+          "name": "Syrah Resources",
+          "hq": "Australia",
+          "tier": "medium",
+          "volume": "~350,000 t graphite ore/yr",
+          "share": null,
+          "use": "Operates the Balama natural graphite mine in Mozambique — one of the world's largest natural graphite operations. Developing a natural graphite AAM (active anode material) processing facility in Vidalia, Louisiana to supply the North American EV battery supply chain."
+        },
+        {
+          "name": "Talga Resources",
+          "hq": "Australia",
+          "tier": "small",
+          "volume": null,
+          "share": null,
+          "use": "Developing a natural graphite mine and anode material processing plant in northern Sweden. Aims to supply European battery gigafactories with low-carbon anode material produced entirely within Europe, reducing dependence on Chinese anode supply chains."
+        }
+      ]
+    },
+    {
+      "id": "c-black",
+      "name": "Carbon Black (Rubber Reinforcement & Pigment)",
+      "icon": "🚗",
+      "share": "~20% of structured carbon use by tonnage",
+      "uses": [
+        "Carbon black (amorphous nano-carbon with 10–300 nm particles, produced by partial combustion of petroleum feedstock or natural gas in a furnace reactor) reinforces vulcanized rubber by 5–10× in tensile strength and 100× in abrasion resistance compared to unfilled rubber — the primary use in tire manufacturing",
+        "Each passenger car tire contains approximately 3 kg of carbon black; a heavy truck tire contains 10+ kg — critical for tread wear life, rolling resistance, and structural integrity at speed and load",
+        "Specialty carbon blacks used as: jet-black pigment in printing inks, automotive coatings, and industrial plastics; UV stabilizer in polyethylene agricultural mulch films and geomembrane liners; conductive additive in EV battery electrode coatings and antistatic packaging films",
+        "Global carbon black production exceeds 16 million tonnes per year, making it one of the most widely produced industrial carbon materials by volume and one of the largest consumers of petroleum feedstock in the chemical industry"
+      ],
+      "companies": [
+        {
+          "name": "Birla Carbon (Aditya Birla Group)",
+          "hq": "India",
+          "tier": "major",
+          "volume": "~2M t CB/yr",
+          "share": "~25% of global carbon black market",
+          "use": "World's largest carbon black manufacturer. Operates 16 plants across Europe, Americas, Asia, and Egypt following acquisition of Columbian Chemicals. Supplies reinforcing carbon blacks to Michelin, Bridgestone, Continental, and Goodyear for tire manufacturing globally."
+        },
+        {
+          "name": "Cabot Corporation",
+          "hq": "USA",
+          "tier": "major",
+          "volume": "~700,000 t CB/yr",
+          "share": "~18% of global carbon black market",
+          "use": "Major carbon black and specialty carbon producer. Makes Vulcan, Black Pearls, and Sterling brand carbon blacks for tire reinforcement and specialty conductive blacks for Li-ion battery electrode conductivity, UV-stabilized plastics, and high-value coatings."
+        },
+        {
+          "name": "Orion Engineered Carbons",
+          "hq": "Germany",
+          "tier": "large",
+          "volume": "~1.2M t CB/yr",
+          "share": "~15% of global carbon black market",
+          "use": "Specialty carbon black producer with 14 plants globally. Focuses on high-value specialty blacks for printing inks, automotive OEM (original equipment manufacturer) coatings, conductive plastic films for flexible electronics, and Li-ion battery electrode applications."
+        },
+        {
+          "name": "Tokai Carbon",
+          "hq": "Japan",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Major Japanese carbon black producer for tire and rubber reinforcement. Also manufactures UHP (ultra-high-power) graphite electrodes for EAF (electric arc furnace) steelmaking and SiC (silicon carbide) fine ceramics for semiconductor processing equipment."
+        },
+        {
+          "name": "Phillips Carbon Black (PCBL)",
+          "hq": "India",
+          "tier": "medium",
+          "volume": null,
+          "share": null,
+          "use": "India's largest carbon black manufacturer. Produces reinforcing and specialty carbon blacks for tire, mechanical rubber goods, and pigment applications at facilities across India and Europe. Listed on Indian stock exchanges as PCBL Limited."
+        }
+      ]
+    },
+    {
+      "id": "c-activated",
+      "name": "Activated Carbon (Purification & Filtration)",
+      "icon": "💧",
+      "share": "~3% of structured carbon use",
+      "uses": [
+        "Activated carbon (BET — Brunauer–Emmett–Teller specific surface area of 500–1,500 m²/g, created by steam or CO₂ — carbon dioxide — activation at 800–1,000°C) adsorbs organic contaminants, chlorine, taste, odor, heavy metals, and PFAS (per- and polyfluoroalkyl substances) from water and air by physical adsorption",
+        "GAC (granular activated carbon) beds in municipal drinking water treatment remove chloramine disinfection byproducts, industrial solvents, and emerging contaminants (PFAS, pharmaceuticals) — increasingly mandated under US EPA and EU Drinking Water Directive regulations",
+        "Gold recovery by the CIC (carbon-in-column) and CIP (carbon-in-pulp) processes: activated carbon selectively adsorbs the gold-cyanide complex from dilute heap leach solutions (0.5–2 mg/L gold) — the dominant gold recovery method used in virtually all modern large-scale gold mines worldwide",
+        "PAC (powdered activated carbon) for emergency dosing during river contamination events; also used in pharmaceutical API (active pharmaceutical ingredient) purification and edible oil decolorization to remove pigments, odors, and trace contaminants"
+      ],
+      "companies": [
+        {
+          "name": "Cabot Corporation (Norit brand)",
+          "hq": "USA",
+          "tier": "major",
+          "volume": null,
+          "share": "~20% of global activated carbon market",
+          "use": "World's largest activated carbon manufacturer following acquisition of Norit in 2012. Produces coal, coconut shell, and wood-based activated carbons under the Norit and Darco brands for water treatment, pharmaceutical purification, gold recovery, and industrial gas processing."
+        },
+        {
+          "name": "Jacobi Carbons (Osaka Gas Chemicals)",
+          "hq": "Sweden/Japan",
+          "tier": "large",
+          "volume": null,
+          "share": "~15% of global activated carbon market",
+          "use": "Global activated carbon producer operating on 6 continents. Specializes in coconut shell carbon for drinking water treatment and gold recovery CIP (carbon-in-pulp) circuits, and coal-based carbon for industrial gas and VOC (volatile organic compound) air purification."
+        },
+        {
+          "name": "Kuraray Chemical",
+          "hq": "Japan",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Produces high-performance activated carbon from sawdust and coal for solvent recovery, edible oil refining, gas mask canisters, and EDLC (electric double-layer capacitor — supercapacitor) electrode material requiring very high and controlled surface area."
+        },
+        {
+          "name": "Ingevity Corporation",
+          "hq": "USA",
+          "tier": "medium",
+          "volume": null,
+          "share": null,
+          "use": "Produces activated carbon canister (ACC — activated carbon canister) media for automotive gasoline vapor evaporative emission control — required in every new gasoline vehicle globally under EPA Tier 3, Euro 6, and China 6 emission standards."
+        },
+        {
+          "name": "Haycarb (Hayleys Group)",
+          "hq": "Sri Lanka",
+          "tier": "medium",
+          "volume": null,
+          "share": null,
+          "use": "Major coconut shell activated carbon producer. Supplies global water treatment, gold mining CIP (carbon-in-pulp) circuits, and air purification markets with activated carbon derived from Sri Lanka's abundant coconut shell agricultural byproduct."
+        }
+      ]
+    },
+    {
+      "id": "c-diamond",
+      "name": "Industrial Diamond (Cutting, Drilling & Abrasives)",
+      "icon": "💎",
+      "share": "~1% of carbon use by tonnage — highest value per unit mass of any carbon form",
+      "uses": [
+        "HPHT (high-pressure high-temperature synthesis — converting graphite to diamond at >5.5 GPa and >1,300°C in a metal catalyst melt of iron, nickel, or cobalt) produces diamond abrasive grit and PCD (polycrystalline diamond — sintered diamond compact) cutting tool inserts",
+        "CVD (chemical vapor deposition — depositing diamond from a methane-hydrogen plasma) grows thin diamond films on silicon, tungsten, or cemented carbide substrates for precision cutting tool coatings, thermal heat spreader applications, and specialty optical windows",
+        "PCD (polycrystalline diamond) cutting inserts machine aluminum, copper, CFRP (carbon fiber reinforced polymer), and other non-ferrous materials at cutting speeds and feed rates 5–10× higher than cemented carbide — essential for high-volume aluminum automotive part manufacturing",
+        "Diamond wire saws (steel wire beaded with diamond abrasive crystals bonded by electroplating or resin) slice silicon solar cell ingots, sapphire boules (for LED substrates), and natural stone blocks with less material loss than the older abrasive slurry wire saw method"
+      ],
+      "companies": [
+        {
+          "name": "Element Six (De Beers subsidiary)",
+          "hq": "UK/Luxembourg",
+          "tier": "major",
+          "volume": null,
+          "share": "~30% of synthetic diamond superabrasive market",
+          "use": "World's largest synthetic diamond producer (HPHT and CVD). Produces diamond abrasive powders, PCD (polycrystalline diamond) cutting inserts for machining aluminum engine blocks and CFRP aerospace structures, and CVD diamond heat spreaders for GaN (gallium nitride) RF (radio frequency) power amplifiers."
+        },
+        {
+          "name": "Sumitomo Electric (Diamond & CBN Products)",
+          "hq": "Japan",
+          "tier": "major",
+          "volume": null,
+          "share": "~20% of synthetic diamond superabrasive market",
+          "use": "Major synthetic diamond and CBN (cubic boron nitride — the second-hardest known material, used for cutting ferrous metals) superabrasive producer for grinding wheels, cutting tool inserts, and wire drawing dies for copper and tungsten wire manufacturing."
+        },
+        {
+          "name": "Sandvik (Hyperion Materials)",
+          "hq": "Sweden",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Produces PCD (polycrystalline diamond) and PCBN (polycrystalline cubic boron nitride) cutting tool blanks and finished inserts for machining automotive aluminum castings, transmission housings, aerospace titanium components, and CFRP structures."
+        },
+        {
+          "name": "Zhengzhou Sino Crystal",
+          "hq": "China",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "China's largest synthetic diamond manufacturer by volume. Produces HPHT (high-pressure high-temperature) diamond abrasive grit for grinding wheels, diamond wire saw beads for solar silicon and stone cutting, and PCD (polycrystalline diamond) blanks."
+        },
+        {
+          "name": "Coherent (II-VI) CVD Diamond",
+          "hq": "USA",
+          "tier": "medium",
+          "volume": null,
+          "share": null,
+          "use": "Produces CVD (chemical vapor deposition) diamond windows and optical elements for high-power CO₂ (carbon dioxide) laser beam delivery, synchrotron X-ray beamline windows, and diamond heat spreader substrates for high-power RF (radio frequency) and microwave power electronics."
+        }
+      ]
+    }
+  ]
+}

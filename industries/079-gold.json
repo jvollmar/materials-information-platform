@@ -1,0 +1,470 @@
+{
+  "dataTier": 1,
+  "industries": [
+    {
+      "id": "jewelry",
+      "name": "Jewelry & Decorative Arts",
+      "icon": "💎",
+      "share": "~47% of all gold consumption",
+      "uses": [
+        "Alloyed at varying karats: 10k (41.7%), 14k (58.3%), 18k (75%), 22k (91.7%) for durability and color",
+        "Rings, necklaces, earrings, bracelets, and decorative pendants worldwide",
+        "Luxury watch cases, bezels, crowns, and dials (solid gold and plated)",
+        "Gold-filled and vermeil pieces bonded or electroplated over base metals",
+        "Decorative gilding on furniture, frames, ceramics, and architectural elements"
+      ],
+      "companies": [
+        {
+          "name": "Chow Tai Fook Jewellery",
+          "hq": "Hong Kong / China",
+          "tier": "major",
+          "volume": "~70 t Au/yr",
+          "share": "~16% of global jewelry gold",
+          "use": "World's largest jewelry retailer by store count. Sells 999.9-fine pure gold products alongside gem-set jewelry across 7,000+ mainland China stores."
+        },
+        {
+          "name": "LVMH Group",
+          "hq": "France",
+          "tier": "major",
+          "volume": "~40 t Au/yr",
+          "share": "~9% of global jewelry gold",
+          "use": "Gold is central to Bulgari fine jewelry, Hublot and TAG Heuer watches, and Tiffany & Co. Also used in Louis Vuitton accessories and Dior Joaillerie."
+        },
+        {
+          "name": "Richemont Group",
+          "hq": "Switzerland",
+          "tier": "major",
+          "volume": "~35 t Au/yr",
+          "share": "~8% of global jewelry gold",
+          "use": "Manufactures gold jewelry and watches under Cartier, Van Cleef & Arpels, IWC, Piaget, and Vacheron Constantin."
+        },
+        {
+          "name": "Signet Jewelers",
+          "hq": "USA",
+          "tier": "large",
+          "volume": "~15 t Au/yr",
+          "share": "~3% of global jewelry gold",
+          "use": "North America's largest specialty jewelry retailer, operating Kay Jewelers, Zales, and Jared. Gold rings and chains are the majority of merchandise by value."
+        },
+        {
+          "name": "Pandora",
+          "hq": "Denmark",
+          "tier": "large",
+          "volume": "~15 t Au/yr",
+          "share": "~3% of global jewelry gold",
+          "use": "Committed to 100% recycled gold. Produces gold charms, rings, and bracelets at scale through its Bangkok crafting facility. 14.5 t confirmed in 2022 sustainability report."
+        },
+        {
+          "name": "Kalyan Jewellers",
+          "hq": "India",
+          "tier": "large",
+          "volume": "~10 t Au/yr",
+          "share": "~2% of global jewelry gold",
+          "use": "One of India's largest jewelry chains; gold accounts for over 80% of revenue."
+        },
+        {
+          "name": "Luk Fook Holdings",
+          "hq": "Hong Kong / China",
+          "tier": "large",
+          "volume": "~12 t Au/yr",
+          "share": "~3% of global jewelry gold",
+          "use": "Major gold and gem-set jewelry retailer across China, Hong Kong, and Southeast Asia. Specializes in high-purity 999 gold for the Chinese consumer market."
+        }
+      ]
+    },
+    {
+      "id": "investment",
+      "name": "Investment & Central Banking",
+      "icon": "🏦",
+      "share": "~22% of all gold consumption",
+      "uses": [
+        "Good Delivery gold bars (400 troy oz, 995+ fine) held as central bank reserves worldwide",
+        "Retail investment bars (1 g to 1 kg) and rounds sold to private investors",
+        "Legal tender gold coins: American Gold Eagle, Canadian Maple Leaf, South African Krugerrand",
+        "Physical gold backing for exchange-traded funds (ETFs) held in secure vaults",
+        "Gold allocated accounts representing direct ownership of physical metal"
+      ],
+      "companies": [
+        {
+          "name": "SPDR Gold Shares — State Street",
+          "hq": "USA",
+          "tier": "major",
+          "volume": "~850 t Au holdings",
+          "share": "~35% of gold ETF market",
+          "use": "World's largest gold ETF (GLD). Holds approximately 850–1,000 tonnes of physical gold in HSBC vaults in London, representing billions in investor capital."
+        },
+        {
+          "name": "iShares Gold Trust — BlackRock",
+          "hq": "USA",
+          "tier": "major",
+          "volume": "~520 t Au holdings",
+          "share": "~20% of gold ETF market",
+          "use": "Second-largest gold ETF (IAU). Holds physical gold in JPMorgan Chase vaults. Lower cost-ratio alternative for retail gold investors globally."
+        },
+        {
+          "name": "Valcambi",
+          "hq": "Switzerland",
+          "tier": "major",
+          "volume": "~400 t Au refined/yr",
+          "share": "~15% of Swiss refining",
+          "use": "One of the world's largest gold refineries. Produces the CombiBars — a single bar that can be broken into 50 individual 1-gram units."
+        },
+        {
+          "name": "Perth Mint",
+          "hq": "Australia",
+          "tier": "major",
+          "volume": "~400 t Au processed/yr",
+          "share": "~10% of global refining",
+          "use": "Government-owned refinery producing gold bars certified to 9999 purity and the Australian Kangaroo gold coin series, sold to investors globally."
+        },
+        {
+          "name": "United States Mint",
+          "hq": "USA",
+          "tier": "medium",
+          "volume": "~20 t Au/yr",
+          "share": null,
+          "use": "Produces the American Gold Eagle (22-karat) and American Buffalo (24-karat) bullion coins from domestically mined gold."
+        },
+        {
+          "name": "Royal Canadian Mint",
+          "hq": "Canada",
+          "tier": "medium",
+          "volume": "~15 t Au/yr",
+          "share": null,
+          "use": "Produces the world-renowned Maple Leaf gold coin (9999 fine). Known for advanced anti-counterfeiting Bullion DNA technology on coin surfaces."
+        },
+        {
+          "name": "World Gold Council",
+          "hq": "UK",
+          "tier": "medium",
+          "volume": null,
+          "share": null,
+          "use": "Industry body representing leading gold mining companies. Maintains the LBMA Good Delivery standard and publishes authoritative gold demand statistics."
+        }
+      ]
+    },
+    {
+      "id": "electronics",
+      "name": "Electronics & Semiconductor Manufacturing",
+      "icon": "⚡",
+      "share": "~8% of all gold consumption",
+      "uses": [
+        "Gold bonding wire (1–50 µm) connecting semiconductor chip die to lead frames",
+        "Gold-plated PCB edge connectors and high-cycle switch contacts (corrosion-free)",
+        "Gold-tin (80/20) solder for hermetic sealing of high-reliability packages",
+        "Gold thick-film pastes and inks for hybrid circuits and LTCC (low-temperature co-fired ceramics) ceramic substrates",
+        "Gold-germanium eutectic die-attach for high-power transistors and diodes"
+      ],
+      "companies": [
+        {
+          "name": "Heraeus Electronics",
+          "hq": "Germany",
+          "tier": "major",
+          "volume": "~30 t Au/yr",
+          "share": "~20% of bonding wire market",
+          "use": "World's leading supplier of gold bonding wire to the semiconductor industry. Produces thousands of km of gold wire annually, plus gold pastes and thick-film materials."
+        },
+        {
+          "name": "Tanaka Kikinzoku Kogyo",
+          "hq": "Japan",
+          "tier": "major",
+          "volume": "~20 t Au/yr",
+          "share": "~15% of electronics gold materials",
+          "use": "Major producer of gold bonding wire, gold-plating solutions, gold paste for electronics, and gold brazing alloys. Supplies foundries, OEMs, and PCB manufacturers."
+        },
+        {
+          "name": "Samsung Electronics",
+          "hq": "South Korea",
+          "tier": "large",
+          "volume": "~18 t Au/yr",
+          "share": "~6% of electronics gold",
+          "use": "Gold wire bonding in DRAM memory modules, NAND flash packages, and mobile processors. Gold-plated contacts in display driver ICs and camera modules."
+        },
+        {
+          "name": "TSMC",
+          "hq": "Taiwan",
+          "tier": "large",
+          "volume": "~12 t Au/yr",
+          "share": "~4% of electronics gold",
+          "use": "Uses gold-based metallization layers and bonding wire in advanced node semiconductor fabrication at 3nm–7nm processes. Largest pure-play foundry in the world."
+        },
+        {
+          "name": "Intel Corporation",
+          "hq": "USA",
+          "tier": "large",
+          "volume": "~12 t Au/yr",
+          "share": "~4% of electronics gold",
+          "use": "Uses gold bonding wire in all CPU and GPU chip packages. Gold-plated LGA socket contacts on motherboards ensure reliability over thousands of insertion cycles."
+        },
+        {
+          "name": "Texas Instruments",
+          "hq": "USA",
+          "tier": "medium",
+          "volume": "~6 t Au/yr",
+          "share": "~2% of electronics gold",
+          "use": "Gold wire bonding in high-volume analog, power management, and mixed-signal semiconductor devices. Uses gold-tin solder for precision defense and industrial packaging."
+        },
+        {
+          "name": "Kyocera Corporation",
+          "hq": "Japan",
+          "tier": "medium",
+          "volume": "~4 t Au/yr",
+          "share": null,
+          "use": "Gold-plated connectors and ceramic IC packages for high-reliability electronics (medical, aerospace, industrial). Major user of gold thick-film pastes in LTCC (low-temperature co-fired ceramics) substrates."
+        }
+      ]
+    },
+    {
+      "id": "dentistry",
+      "name": "Dentistry",
+      "icon": "🦷",
+      "share": "~2% of all gold consumption (declining)",
+      "uses": [
+        "Type III and IV gold casting alloys for dental crowns, bridges, inlays, and onlays",
+        "Gold partial denture frameworks, clasps, and occlusal rests",
+        "Gold-titanium hybrid superstructures for implant-supported prosthetics",
+        "Gold electroforming for ultra-thin copings bonded to porcelain restorations",
+        "Orthodontic brackets and archwires using gold alloys for high strength"
+      ],
+      "companies": [
+        {
+          "name": "Metalor Technologies",
+          "hq": "Switzerland",
+          "tier": "large",
+          "volume": "~10 t Au/yr",
+          "share": "~20% of dental gold market",
+          "use": "One of the world's leading dental gold producers. Supplies gold alloys to dental labs globally, certified to ISO 22674 for dental metallic materials."
+        },
+        {
+          "name": "Dentsply Sirona",
+          "hq": "USA",
+          "tier": "large",
+          "volume": "~8 t Au/yr",
+          "share": "~15% of dental gold market",
+          "use": "World's largest dental products company. Makes gold casting alloys and porcelain-fused-to-metal systems. Gold remains preferred for posterior teeth with high occlusal loads."
+        },
+        {
+          "name": "Degudent (Dentsply subsidiary)",
+          "hq": "Germany",
+          "tier": "medium",
+          "volume": "~5 t Au/yr",
+          "share": "~10% of dental gold market",
+          "use": "Leading supplier of dental gold alloys to European dental laboratories. Produces type III and IV gold casting alloys for both traditional casting and CAD/CAM disc milling."
+        },
+        {
+          "name": "Ivoclar Vivadent",
+          "hq": "Liechtenstein",
+          "tier": "medium",
+          "volume": "~3 t Au/yr",
+          "share": "~6% of dental gold market",
+          "use": "Produces dental gold alloys and IPS systems that bond ceramic to gold frameworks. Gold-based materials remain preferred for posterior teeth with high occlusal loads."
+        },
+        {
+          "name": "GC Corporation",
+          "hq": "Japan",
+          "tier": "small",
+          "volume": "~2 t Au/yr",
+          "share": null,
+          "use": "Major supplier of dental gold alloys for Asian markets. Manufactures casting alloys compatible with both lost-wax casting and modern pressable ceramic systems."
+        },
+        {
+          "name": "Coltene Group",
+          "hq": "Switzerland",
+          "tier": "small",
+          "volume": "~1 t Au/yr",
+          "share": null,
+          "use": "Dental materials company producing gold-based investment casting alloys and dental lab materials. Serves dental laboratories and clinics in over 100 countries."
+        }
+      ]
+    },
+    {
+      "id": "aerospace",
+      "name": "Aerospace & Defense",
+      "icon": "🚀",
+      "share": "~2% of all gold consumption",
+      "uses": [
+        "Gold-coated polyimide (Kapton) thermal blankets on satellites (reflects 98% of infrared)",
+        "Gold-plated MIL-SPEC electrical connectors for corrosion-free reliability over decades",
+        "Gold coating on astronaut visor outer layer — filters UV and infrared radiation",
+        "Gold-tin brazing alloys in jet engine heat exchangers and precision assemblies",
+        "Gold-coated mirrors in infrared sensors, LIDAR systems, and space telescopes"
+      ],
+      "companies": [
+        {
+          "name": "NASA",
+          "hq": "USA",
+          "tier": "small",
+          "volume": "<1 t Au/yr",
+          "share": null,
+          "use": "Gold-coated all 18 beryllium mirror segments of the James Webb Space Telescope. Extensive use of gold Kapton thermal blankets on spacecraft. Astronaut helmet visors are gold-coated."
+        },
+        {
+          "name": "Lockheed Martin",
+          "hq": "USA",
+          "tier": "small",
+          "volume": "~1-2 t Au/yr",
+          "share": null,
+          "use": "Gold thermal insulation on Orion crew capsule and classified defense satellites. Gold-plated connectors throughout F-35 avionics; gold in infrared sensor arrays."
+        },
+        {
+          "name": "Boeing",
+          "hq": "USA",
+          "tier": "small",
+          "volume": "~1-2 t Au/yr",
+          "share": null,
+          "use": "Gold-coated thermal control blankets on Boeing commercial satellites (702 platform). Gold electrical contacts in 787 Dreamliner and 777X advanced avionics systems."
+        },
+        {
+          "name": "Raytheon Technologies",
+          "hq": "USA",
+          "tier": "small",
+          "volume": "~1 t Au/yr",
+          "share": null,
+          "use": "Gold-plated contacts in Patriot missile guidance electronics and radar systems. Gold in infrared focal plane arrays used in Stinger and Javelin missile seekers."
+        },
+        {
+          "name": "Airbus Defence & Space",
+          "hq": "EU",
+          "tier": "small",
+          "volume": "~1 t Au/yr",
+          "share": null,
+          "use": "Gold multi-layer insulation on Airbus communications satellites. Gold brazing alloys in Ariane launch vehicle propulsion components."
+        },
+        {
+          "name": "Thales Group",
+          "hq": "France",
+          "tier": "small",
+          "volume": "<1 t Au/yr",
+          "share": null,
+          "use": "Gold-plated connectors and gold wire bonding in radar, sonar, and avionics systems. Gold coatings on infrared detector arrays for Rafale fighter jet targeting pods."
+        }
+      ]
+    },
+    {
+      "id": "medical",
+      "name": "Medical Devices & Pharmaceuticals",
+      "icon": "⚕️",
+      "share": "~2% of all gold consumption",
+      "uses": [
+        "Radiopaque gold markers (4–6 per stent) for X-ray guidance during coronary artery placement",
+        "Gold electrodes in cochlear implants, pacemakers, and deep brain stimulators",
+        "Gold sodium thiomalate (Myocrisin) for rheumatoid arthritis treatment",
+        "Gold nanoparticles in rapid lateral flow diagnostic tests (pregnancy, COVID-19, HIV)",
+        "Gold nanoparticle photothermal cancer therapy — targeted heating of tumor cells"
+      ],
+      "companies": [
+        {
+          "name": "Boston Scientific",
+          "hq": "USA",
+          "tier": "small",
+          "volume": "<1 t Au/yr",
+          "share": "~15% of coronary stent markers",
+          "use": "Uses gold radiopaque markers on the SYNERGY and PROMUS coronary stent families. Gold markers enable cardiologists to precisely position stents under fluoroscopy guidance."
+        },
+        {
+          "name": "Medtronic",
+          "hq": "Ireland / USA",
+          "tier": "small",
+          "volume": "<1 t Au/yr",
+          "share": null,
+          "use": "Gold electrodes in EnRhythm pacemakers, Activa deep brain stimulators, and cochlear implants. Gold ensures long-term biocompatibility and stable electrical properties."
+        },
+        {
+          "name": "Abbott Laboratories",
+          "hq": "USA",
+          "tier": "small",
+          "volume": "<1 t Au/yr",
+          "share": null,
+          "use": "Gold markers on Xience coronary stent platform. Uses gold nanoparticles in i-STAT rapid diagnostic cartridges and lateral flow immunoassay products."
+        },
+        {
+          "name": "Stryker",
+          "hq": "USA",
+          "tier": "small",
+          "volume": "<1 t Au/yr",
+          "share": null,
+          "use": "Gold-marked neuro and spinal implants for imaging visibility. Gold in neurovascular coils used to treat brain aneurysms."
+        },
+        {
+          "name": "Cochlear Limited",
+          "hq": "Australia",
+          "tier": "small",
+          "volume": "<0.1 t Au/yr",
+          "share": null,
+          "use": "Gold-plated electrode arrays (22 electrodes) in cochlear implants placed inside the inner ear. Gold ensures electrical precision and corrosion resistance over decades."
+        },
+        {
+          "name": "Nanospectra Biosciences",
+          "hq": "USA",
+          "tier": "small",
+          "volume": "<0.01 t Au/yr",
+          "share": null,
+          "use": "Pioneered gold nanoshell photothermal therapy for prostate cancer. Gold nanoparticles accumulate in tumors and convert near-infrared light to heat, destroying cancer cells."
+        }
+      ]
+    },
+    {
+      "id": "catalysis",
+      "name": "Chemical Catalysis",
+      "icon": "⚗️",
+      "share": "~1% of all gold consumption",
+      "uses": [
+        "Supported gold nanoparticle catalysts for CO oxidation at room temperature",
+        "Gold-palladium bimetallic catalysts for vinyl acetate monomer (VAM) production",
+        "Pd-Au alloy catalysts for hydrogen peroxide synthesis (greener hydrogen peroxide (H₂O₂) production)",
+        "Gold catalysts for selective hydrogenation in pharmaceutical intermediate synthesis",
+        "Gold-silver alloy catalysts for formaldehyde and methanol partial oxidation"
+      ],
+      "companies": [
+        {
+          "name": "Johnson Matthey",
+          "hq": "UK",
+          "tier": "small",
+          "volume": "~2-3 t Au/yr",
+          "share": "~25% of gold catalyst market",
+          "use": "Leading commercial producer of gold-palladium catalysts for vinyl acetate monomer (VAM) production. Supplies gold CO-oxidation catalysts for industrial safety and emissions control."
+        },
+        {
+          "name": "Heraeus",
+          "hq": "Germany",
+          "tier": "medium",
+          "volume": "~3-5 t Au/yr",
+          "share": null,
+          "use": "Produces gold catalyst materials and supports research in gold catalysis through its Precious Metals Division. Supplies gold-based materials to chemical process industries worldwide."
+        },
+        {
+          "name": "Umicore",
+          "hq": "Belgium",
+          "tier": "small",
+          "volume": "~2 t Au/yr",
+          "share": null,
+          "use": "Precious metal catalyst specialist producing gold-based catalysts for industrial chemical processes. Also a major gold refiner and recycler."
+        },
+        {
+          "name": "BASF SE",
+          "hq": "Germany",
+          "tier": "small",
+          "volume": "~1-2 t Au/yr",
+          "share": null,
+          "use": "World's largest chemical company; uses gold-based catalysts in specialty chemical manufacturing. Active research in gold nanocatalyst applications for selective oxidation."
+        },
+        {
+          "name": "Evonik Industries",
+          "hq": "Germany",
+          "tier": "small",
+          "volume": "~1 t Au/yr",
+          "share": null,
+          "use": "Uses gold-palladium (Pd-Au) alloy catalysts in its HPPO process for hydrogen peroxide production — a greener synthesis route used in bleaching and chemical manufacturing."
+        },
+        {
+          "name": "World Gold Council (Catalyst R&D)",
+          "hq": "UK",
+          "tier": "small",
+          "volume": null,
+          "share": null,
+          "use": "Coordinates international research into new gold catalyst applications through partnerships with universities and industry. Publishes the definitive database of gold-catalyzed reactions."
+        }
+      ]
+    }
+  ]
+}

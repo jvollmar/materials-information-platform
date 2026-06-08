@@ -1,0 +1,23 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "medical",
+      "name": "Targeted Alpha Therapy (Emerging)",
+      "icon": "🏥",
+      "share": "~100% of actinium use — entirely oncology research and emerging therapy",
+      "uses": [
+        "Actinium-225 (²²⁵Ac, t½ = 9.9 days) is the most promising alpha-emitting radioisotope for targeted alpha therapy (TAT) — its 10-day half-life is long enough for manufacturing, distribution, and targeting, while its decay chain produces 4 alpha emissions per ²²⁵Ac atom (²²⁵Ac → ²²¹Fr → ²¹⁷At → ²¹³Bi → ²⁰⁹Tl → ²⁰⁹Pb → ²⁰⁹Bi)",
+        "²²⁵Ac-PSMA-617 (²²⁵Ac-labeled lutetium PSMA compound): clinical trials showing extraordinary efficacy in heavily pretreated metastatic castration-resistant prostate cancer (mCRPC) — responses seen in patients who progressed on ¹⁷⁷Lu-PSMA therapy, suggesting actinium can treat more resistant disease",
+        "²²⁵Ac-DOTATATE for neuroendocrine tumors: the alpha-emitting analog of ¹⁷⁷Lu-DOTATATE (Lutathera) showing promise in patients refractory to PRRT. Multiple Phase I/II clinical trials globally",
+        "²²⁵Ac supply is critically constrained — the primary source is decay of uranium-233 stockpiles at Oak Ridge National Laboratory (US) and Dimitrovgrad (Russia). Accelerator production methods (proton bombardment of Ra-226) are being developed to expand supply",
+        "Actinium-227 (²²⁷Ac, t½ = 21.8 years) is the parent of ²²³Ra (Xofigo) — used as a generator to produce Ra-223 for Bayer's cancer therapy"
+      ],
+      "companies": [
+        { "name": "Novartis (Advanced Accelerator Applications)", "hq": "Switzerland", "tier": "major", "volume": null, "share": "~40% of actinium development pipeline", "use": "Leading targeted radioligand therapy company. Conducting multiple clinical trials of ²²⁵Ac-PSMA-617 and ²²⁵Ac-DOTATATE for prostate and neuroendocrine cancers. Major investor in ²²⁵Ac supply chain development including accelerator production partnerships." },
+        { "name": "ORNL (Oak Ridge National Laboratory)", "hq": "USA", "tier": "major", "volume": null, "share": "~50% of Western ²²⁵Ac supply", "use": "Primary US source of actinium-225, extracted from legacy uranium-233 stockpiles in the ORNL research reactor. Supplies ²²⁵Ac to pharmaceutical companies and research institutions for clinical trial drug manufacturing under DOE Isotope Program." },
+        { "name": "SHINE Medical Technologies", "hq": "USA", "tier": "large", "volume": null, "share": null, "use": "Developing accelerator-based ²²⁵Ac production by proton irradiation of radium-226 targets — could dramatically expand ²²⁵Ac supply beyond what legacy U-233 decay can provide. Working to establish commercial-scale actinium production for the emerging TAT market." }
+      ]
+    }
+  ]
+}

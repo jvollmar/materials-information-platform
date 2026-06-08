@@ -1,0 +1,73 @@
+{
+  "dataTier": 1,
+  "industries": [
+    {
+      "id": "pharma",
+      "name": "Pharmaceuticals & Medical Imaging",
+      "icon": "🏥",
+      "share": "~35% of iodine use",
+      "uses": [
+        "Iodinated X-ray contrast agents (iohexol/Omnipaque, iodixanol/Visipaque, ioversol/Optiray): water-soluble organic iodine compounds injected intravenously to opacify blood vessels and organs during CT scanning, angiography, and urography — iodine's high atomic number provides X-ray opacity",
+        "Povidone-iodine (PVP-I, Betadine): iodine complexed with polyvinylpyrrolidone as a broad-spectrum antiseptic for wound care, surgical scrubs, and pre-operative skin preparation — kills bacteria, viruses, fungi, and spores",
+        "Radioactive iodine-131 (¹³¹I): produced in nuclear reactors; used to treat hyperthyroidism and differentiated thyroid cancer — thyroid gland selectively concentrates iodine, delivering localized beta radiation to destroy overactive or malignant thyroid tissue",
+        "Potassium iodide (KI) tablets as thyroid-blocking agent in nuclear emergencies — saturating the thyroid with stable iodine prevents uptake of radioactive ¹³¹I released in nuclear accidents (Chernobyl, Fukushima)",
+        "Amiodarone (Cordarone): widely used antiarrhythmic drug containing 37% iodine by weight — high iodine content causes thyroid side effects but makes it one of the most effective treatments for ventricular arrhythmia"
+      ],
+      "companies": [
+        { "name": "GE Healthcare", "hq": "USA", "tier": "major", "volume": null, "share": "~25% of iodinated contrast agent market", "use": "World's largest medical imaging company. Produces Omnipaque (iohexol) and Visipaque (iodixanol) iodinated contrast agents — among the world's largest-volume injectable pharmaceuticals. Major consumer of medical-grade iodine." },
+        { "name": "Guerbet", "hq": "France", "tier": "large", "volume": null, "share": "~15% of iodinated contrast agent market", "use": "Major contrast agent producer making Xenetix (iobitridol) and other iodinated agents for CT, angiography, and urography. Pure-play contrast media company supplying hospitals and imaging centers globally." },
+        { "name": "Mundipharma / Avrio Health (Betadine)", "hq": "UK / USA", "tier": "large", "volume": null, "share": "~25% of antiseptic iodine market", "use": "Major producer of Betadine (povidone-iodine) antiseptic solutions, ointments, and surgical scrubs. Betadine is the world's best-known iodine-based antiseptic brand, used in hospitals and households globally." }
+      ]
+    },
+    {
+      "id": "lcd",
+      "name": "LCD Polarizing Films",
+      "icon": "📺",
+      "share": "~30% of iodine use — the largest single application",
+      "uses": [
+        "Iodine-doped polyvinyl alcohol (PVA) films are the active polarizing element in all LCD displays — iodine molecules align within the stretched PVA film to absorb light in one polarization direction, creating a linear polarizer",
+        "Every LCD panel (smartphone, TV, laptop, monitor, automotive display) contains two polarizing films sandwiching the liquid crystal layer — both polarizers use iodine-PVA as the active component",
+        "A typical 65-inch 4K LCD TV uses approximately 3–4 grams of iodine in its polarizing films; a smartphone uses ~0.1g. Global LCD production consumes ~30% of world iodine supply annually",
+        "OLED displays do not use polarizing films in the same way — as OLED penetration grows, iodine demand from LCD will gradually decline, but LCD remains dominant in TV and monitor markets through the mid-2020s"
+      ],
+      "companies": [
+        { "name": "Nitto Denko", "hq": "Japan", "tier": "major", "volume": null, "share": "~30% of global polarizing film market", "use": "World's largest optical film manufacturer. Produces iodine-PVA polarizing films for LCD panels supplied to Samsung, LG, BOE, and virtually every LCD manufacturer. Major consumer of iodine for polarizer production at its Japanese and overseas plants." },
+        { "name": "Sumitomo Chemical", "hq": "Japan", "tier": "major", "volume": null, "share": "~25% of global polarizing film market", "use": "Major LCD polarizing film producer. Manufactures iodine-doped PVA polarizers for LCD televisions, monitors, and mobile devices. Supplies polarizing film to major Asian panel makers including BOE and CSOT in China." },
+        { "name": "LG Chem", "hq": "South Korea", "tier": "large", "volume": null, "share": "~15% of global polarizing film market", "use": "Major polarizing film manufacturer supplying iodine-PVA polarizers primarily to LG Display and Samsung Display for use in LCD television, monitor, and laptop display panels." }
+      ]
+    },
+    {
+      "id": "industrial",
+      "name": "Industrial Chemicals & Agriculture",
+      "icon": "⚗️",
+      "share": "~25% of iodine use",
+      "uses": [
+        "Acetic acid production: iodine-based Cativa process (iridium-iodide catalyst) and Monsanto process (rhodium-iodide) use methyl iodide as the reactive intermediate in methanol carbonylation — iodine is the essential co-catalyst ligand",
+        "Iodine as biocide in teat dipping solutions (iodophor) for dairy cow udder sanitation — pre- and post-milking teat dips containing iodine prevent mastitis infection in dairy herds globally",
+        "Ethylenediamine dihydriodide (EDDI) as iodine nutritional supplement in cattle and poultry feed — prevents iodine deficiency and goiter in livestock; also used as expectorant to treat bovine respiratory disease",
+        "Silver iodide (AgI) for cloud seeding weather modification — AgI particles nucleate ice crystal formation in supercooled clouds to induce precipitation; used in hail suppression programs and drought mitigation"
+      ],
+      "companies": [
+        { "name": "SQM (Sociedad Química y Minera)", "hq": "Chile", "tier": "major", "volume": "~12,000 t I₂/yr", "share": "~35% of world iodine production", "use": "World's largest iodine producer. Extracts iodine from caliche nitrate ore and from iodine-rich underground brine (bischofite) in the Atacama Desert, Chile — the world's richest iodine deposit. Chile produces ~65% of world iodine supply." },
+        { "name": "Iofina", "hq": "UK / USA", "tier": "large", "volume": "~800 t I₂/yr", "share": "~2% of world iodine production", "use": "Extracts iodine from produced water (brine) from natural gas wells in Oklahoma using its IOsorb technology — an innovative approach producing iodine from oilfield brine that would otherwise be waste. Also produces specialty iodine derivatives." },
+        { "name": "Toyota Tsusho (ACE/KANTO NATURAL GAS)", "hq": "Japan", "tier": "large", "volume": "~8,000 t I₂/yr", "share": "~22% of world iodine production", "use": "Japan is the world's second-largest iodine producer — extracted from iodine-rich natural brine associated with natural gas deposits in Chiba Prefecture. Toyota Tsusho and associated companies produce and export Japanese iodine globally." }
+      ]
+    },
+    {
+      "id": "nutrition",
+      "name": "Nutrition & Animal Feed",
+      "icon": "🧂",
+      "share": "~10% of iodine use",
+      "uses": [
+        "Iodized salt: potassium iodate (KIO₃) or potassium iodide (KI) added to table salt at ~20–40 mg/kg — the most successful public health nutrition intervention in history, eliminating iodine deficiency disorder (IDD) and endemic goiter from populations in 130+ countries",
+        "Iodine deficiency causes cretinism (severe intellectual disability from fetal hypothyroidism) and goiter — WHO estimates 50 million people are affected by iodine deficiency disorders globally, concentrated in South Asia, Central Africa, and remote mountain regions",
+        "Potassium iodide in multivitamins and prenatal supplements for populations not fully covered by salt iodization programs — adequate iodine is critical during pregnancy for fetal brain development",
+        "Iodine in infant formula: regulatory requirements mandate iodine fortification of all infant formula globally — infant formula is the primary iodine source for formula-fed infants"
+      ],
+      "companies": [
+        { "name": "Morton Salt (K+S Group)", "hq": "USA / Germany", "tier": "major", "volume": null, "share": "~35% of US iodized salt market", "use": "Largest US iodized table salt producer. Adds potassium iodide to Morton Iodized Table Salt at the FDA-mandated level. Iodized salt has been the primary vehicle for eliminating iodine deficiency in the US since the 1920s." },
+        { "name": "UNICEF / WHO Salt Iodization Programs", "hq": "International", "tier": "major", "volume": null, "share": null, "use": "Universal salt iodization (USI) programs coordinated by UNICEF, WHO, and GAIN have driven iodization of >90% of household salt in 120+ countries — the primary driver of iodine demand in developing markets and the reason for stable baseline iodine consumption globally." }
+      ]
+    }
+  ]
+}

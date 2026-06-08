@@ -1,0 +1,201 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "ho-lasers",
+      "name": "Medical & Surgical Lasers",
+      "icon": "🔬",
+      "share": "Largest commercial use of holmium",
+      "uses": [
+        "Ho:YAG (holmium:yttrium-aluminum-garnet) lasers (2,090 nm wavelength) for minimally invasive kidney stone fragmentation (lithotripsy)",
+        "Holmium laser enucleation of the prostate (HoLEP (holmium laser enucleation of the prostate)) — gold standard for benign prostatic hyperplasia",
+        "Ho:YAG (holmium:yttrium-aluminum-garnet) in orthopedic arthroscopy for cartilage and soft tissue ablation",
+        "Ophthalmic holmium lasers for laser thermokeratoplasty (LTK) vision correction",
+        "Veterinary Ho:YAG (holmium:yttrium-aluminum-garnet) lasers for equine and small animal urological procedures"
+      ],
+      "companies": [
+        {
+          "name": "Lumenis",
+          "hq": "Israel",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "World's leading manufacturer of Ho:YAG (holmium:yttrium-aluminum-garnet) medical lasers. The Pulse 120H and Moses platform are used in over 60 countries for urological and gynecological procedures."
+        },
+        {
+          "name": "Boston Scientific",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Sells the LithoVue single-use ureteroscope system with holmium laser compatibility. Major player in the stone disease management market using Ho:YAG (holmium:yttrium-aluminum-garnet) technology."
+        },
+        {
+          "name": "Olympus Corporation",
+          "hq": "Japan",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Manufactures holmium-compatible endoscopes and the URS (ureteroscope) line used in conjunction with Ho:YAG (holmium:yttrium-aluminum-garnet) lithotripsy worldwide."
+        },
+        {
+          "name": "Karl Storz",
+          "hq": "Germany",
+          "tier": "medium",
+          "volume": null,
+          "share": null,
+          "use": "Produces endoscopic instruments and laser systems for Ho:YAG (holmium:yttrium-aluminum-garnet) urological and gynecological procedures in European and global hospital markets."
+        },
+        {
+          "name": "Richard Wolf",
+          "hq": "Germany",
+          "tier": "medium",
+          "volume": null,
+          "share": null,
+          "use": "Manufactures holmium laser systems and compatible endoscopes for urology and arthroscopy. Significant presence in Central European hospital systems."
+        },
+        {
+          "name": "Asclepion Laser Technologies",
+          "hq": "Germany",
+          "tier": "small",
+          "volume": null,
+          "share": null,
+          "use": "Produces specialized Ho:YAG (holmium:yttrium-aluminum-garnet) and Tm:YAG laser systems for dermatological and urological applications in specialty clinical settings."
+        }
+      ]
+    },
+    {
+      "id": "ho-magnets",
+      "name": "High-Field Research Magnets",
+      "icon": "🔩",
+      "share": "Specialty use — holmium pole pieces for ultra-strong fields",
+      "uses": [
+        "Holmium pole pieces in hybrid electromagnet-permanent magnet assemblies for >10 Tesla fields",
+        "Ho metal has the highest magnetic moment of any element at cryogenic temperatures",
+        "Used as flux concentrators in NMR (nuclear magnetic resonance) (nuclear magnetic resonance) spectrometers",
+        "Holmium compounds in magnetocaloric refrigeration research (solid-state cooling)",
+        "Ho-doped garnets (HoIG (holmium iron garnet)) for magneto-optical applications and microwave devices"
+      ],
+      "companies": [
+        {
+          "name": "Bruker Corporation",
+          "hq": "USA",
+          "tier": "medium",
+          "volume": null,
+          "share": null,
+          "use": "World's largest NMR (nuclear magnetic resonance) instrument maker. Uses holmium in ultra-high field (>1 GHz) NMR (nuclear magnetic resonance) magnets for chemical and pharmaceutical structural analysis."
+        },
+        {
+          "name": "Oxford Instruments",
+          "hq": "UK",
+          "tier": "medium",
+          "volume": null,
+          "share": null,
+          "use": "Designs and manufactures superconducting research magnets for condensed matter physics. Holmium is used in field-shaping pole inserts for extreme-field experiments."
+        },
+        {
+          "name": "Cryomagnetics Inc.",
+          "hq": "USA",
+          "tier": "small",
+          "volume": null,
+          "share": null,
+          "use": "Specialist producer of custom research-grade superconducting magnets. Supplies holmium-enhanced magnets to national laboratories including Oak Ridge and Argonne."
+        },
+        {
+          "name": "American Elements",
+          "hq": "USA",
+          "tier": "small",
+          "volume": null,
+          "share": null,
+          "use": "Produces and supplies high-purity holmium metal, Ho₂O₃ (holmium oxide) oxide, and holmium compounds for research magnets, laser crystals, and specialty alloys globally."
+        }
+      ]
+    },
+    {
+      "id": "ho-nuclear",
+      "name": "Nuclear Reactor Technology",
+      "icon": "⚛️",
+      "share": "Specialty application — neutron absorber",
+      "uses": [
+        "Holmium-165 has an extremely high neutron-capture cross-section (64 barns) suitable for control rods",
+        "Ho-based neutron absorbers in research reactors and experimental fast-spectrum reactors",
+        "Holmium oxide burnable absorber rods in light water reactor fuel assemblies",
+        "Proposed as a neutron poison in thorium molten-salt reactor designs",
+        "Used in neutron shielding and flux-shaping inserts for medical neutron therapy facilities"
+      ],
+      "companies": [
+        {
+          "name": "Framatome",
+          "hq": "France",
+          "tier": "medium",
+          "volume": null,
+          "share": null,
+          "use": "Designs and manufactures nuclear fuel assemblies and control rod components for light water reactors. Has evaluated holmium-based burnable absorbers as an alternative to gadolinium."
+        },
+        {
+          "name": "Westinghouse Electric",
+          "hq": "USA",
+          "tier": "medium",
+          "volume": null,
+          "share": null,
+          "use": "Leading nuclear fuel and reactor technology supplier. Explores holmium absorbers in advanced fuel designs for AP1000 and AP300 small modular reactors."
+        },
+        {
+          "name": "Idaho National Laboratory",
+          "hq": "USA",
+          "tier": "small",
+          "volume": null,
+          "share": null,
+          "use": "US DOE research facility developing advanced reactor materials. Studying holmium neutron absorber performance under high-flux, high-temperature reactor conditions."
+        }
+      ]
+    },
+    {
+      "id": "ho-supply",
+      "name": "Rare Earth Supply (Ho as co-product)",
+      "icon": "⛏️",
+      "share": "Ho is always recovered as a co-product of other REE (rare earth elements) mining",
+      "uses": [
+        "Holmium is separated from heavy rare earth concentrates (HREE (heavy rare earth elements) fraction)",
+        "Primary sources: ion-adsorption clays in southern China, xenotime from monazite processing",
+        "Ho represents ~0.05% of typical REE (rare earth elements) ore — one of the least abundant lanthanides",
+        "Separated by solvent extraction as part of the full REE (rare earth elements) separation sequence",
+        "Stockpiling by some producers due to low current demand vs. ore co-production volumes"
+      ],
+      "companies": [
+        {
+          "name": "China Rare Earth Group",
+          "hq": "China",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "Controls the vast majority of southern China HREE (heavy rare earth elements) production — the primary global source of holmium. Holmium is separated as a co-product alongside Tb, Dy, Er, and Lu."
+        },
+        {
+          "name": "Lynas Rare Earths",
+          "hq": "Australia",
+          "tier": "medium",
+          "volume": null,
+          "share": null,
+          "use": "Mt Weld ore is rich in LREE (light rare earth elements) but contains some HREE (heavy rare earth elements) including holmium. Lynas is expanding its Malaysian separation plant to recover heavier lanthanides including Ho."
+        },
+        {
+          "name": "Neo Performance Materials",
+          "hq": "Canada",
+          "tier": "small",
+          "volume": null,
+          "share": null,
+          "use": "Separates and purifies HREE (heavy rare earth elements) fractions at its Sillamäe facility in Estonia, including holmium compounds for laser, medical, and research applications."
+        },
+        {
+          "name": "Stanford Advanced Materials",
+          "hq": "USA",
+          "tier": "small",
+          "volume": null,
+          "share": null,
+          "use": "Specialty supplier of holmium metal, Ho₂O₃ (holmium oxide), and holmium compounds for laboratory, industrial, and R&D applications. Sourced from Chinese separation facilities."
+        }
+      ]
+    }
+  ]
+}

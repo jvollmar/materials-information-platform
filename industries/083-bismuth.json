@@ -1,0 +1,54 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "pharmaceuticals",
+      "name": "Pharmaceuticals & Cosmetics",
+      "icon": "💊",
+      "share": "~40% of bismuth use",
+      "uses": [
+        "Bismuth subsalicylate (Pepto-Bismol): the active ingredient in the world's best-known antidiarrheal and antacid — bismuth has mild antibacterial properties and coats the GI tract. A leading over-the-counter GI remedy consumed in hundreds of millions of doses annually",
+        "Bismuth subcitrate and bismuth subnitrate in triple and quadruple therapy for Helicobacter pylori eradication — bismuth disrupts the bacterial cell wall and prevents H. pylori from adhering to gastric mucosa",
+        "Bismuth oxychloride (BiOCl) in cosmetics: produces the pearl luster in face powder, eyeshadow, lipstick, and nail polish — bismuth oxychloride crystals have a plate-like structure that creates iridescent shimmer",
+        "Bismuth vanadate (BiVO₄) as a brilliant yellow pigment for paints and plastics — a non-toxic alternative to lead chromate yellow with excellent lightfastness and heat stability"
+      ],
+      "companies": [
+        { "name": "Procter & Gamble", "hq": "USA", "tier": "major", "volume": null, "share": "~40% of US antidiarrheal market", "use": "Owns Pepto-Bismol brand — the world's most consumed bismuth product. Each bottle of liquid Pepto-Bismol contains bismuth subsalicylate as its active ingredient. Major consumer of pharmaceutical-grade bismuth compounds globally." },
+        { "name": "Revlon / L'Oréal / Coty", "hq": "USA / France", "tier": "major", "volume": null, "share": null, "use": "Major cosmetics manufacturers using bismuth oxychloride as a pearlescent pigment in face powders, blushers, eyeshadows, and highlighters. BiOCl provides the characteristic luminous shimmer in pressed and loose powder cosmetics." }
+      ]
+    },
+    {
+      "id": "alloys",
+      "name": "Low-Melting Alloys & Metallurgy",
+      "icon": "⚙️",
+      "share": "~35% of bismuth use",
+      "uses": [
+        "Bismuth expands on solidification (like water) — this unusual property makes bismuth alloys valuable for precise casting applications where dimensional accuracy is critical: dental casting, type metal, and fire sprinkler heads",
+        "Field's metal (Bi-In-Sn, melting point 62°C), Wood's metal (Bi-Pb-Sn-Cd, 70°C), and Cerrobase (Bi-Pb, 125°C) as fusible alloys for fire suppression sprinkler heads, tube bending mandrels, and holding fixtures",
+        "Free-machining alloys: bismuth additions (0.4–0.6%) to copper, aluminum, and steel alloys improve machinability by forming soft, dispersed bismuth inclusions that act as chip breakers — replacing lead in RoHS-compliant free-machining brass and aluminum",
+        "Non-toxic shot for waterfowl hunting: bismuth-tin alloy shot is approved as a non-toxic alternative to lead shot in wetlands — bismuth's density (9.8 g/cm³) approaches lead (11.3 g/cm³) for adequate ballistic performance",
+        "Bismuth-tin solder (Bi-Sn, 43% Bi, melting point 139°C) for step-soldering of heat-sensitive components where conventional SAC solder reflow would damage previously soldered joints"
+      ],
+      "companies": [
+        { "name": "Bismuth Cartridge Company", "hq": "USA", "tier": "large", "volume": null, "share": "~30% of non-toxic shotshell bismuth market", "use": "Major manufacturer of bismuth-tin alloy shotgun shells for waterfowl hunting. Produces bismuth shot that can be used in all shotgun chokes (including full choke) without damaging barrels — unlike steel shot." },
+        { "name": "RotoMetals", "hq": "USA", "tier": "large", "volume": null, "share": null, "use": "Major supplier of bismuth metal ingots, bismuth-tin alloys, and other low-melting fusible alloys for casting, machining fixturing, and specialty metallurgical applications." }
+      ]
+    },
+    {
+      "id": "nuclear",
+      "name": "Nuclear & Specialty Applications",
+      "icon": "⚛️",
+      "share": "~25% of bismuth use",
+      "uses": [
+        "Bismuth-209 is the heaviest stable nuclide — its nuclear stability makes bismuth useful where lead's slight radioactivity (Pb-210 from radon decay chain) would interfere with sensitive measurements",
+        "Liquid bismuth and lead-bismuth eutectic (LBE, 55.5%Bi-44.5%Pb, melting point 123.5°C) as coolant in fast neutron reactors and subcritical ADS (accelerator-driven systems) — Russia's BREST-300 and SVBR-100 lead-bismuth cooled reactors use LBE",
+        "Bismuth-213 (²¹³Bi, t½ = 45.6 minutes) as an alpha-emitting radioisotope for targeted alpha therapy (TAT) of cancer — highly potent cell-killing radiation with minimal range in tissue (50–80 μm)",
+        "Bismuth germanate (BGO, Bi₄Ge₃O₁₂) scintillator crystals for PET scanners and high-energy physics detectors — very high density (7.13 g/cm³) and high Z number give excellent gamma stopping power"
+      ],
+      "companies": [
+        { "name": "ROSATOM (Rosenergoatom)", "hq": "Russia", "tier": "major", "volume": null, "share": null, "use": "Russia's state nuclear corporation developing lead-bismuth eutectic (LBE) cooled fast reactors (BREST-OD-300 and SVBR-100). Major industrial user of bismuth for reactor coolant technology — if deployed commercially, would create significant new bismuth demand." },
+        { "name": "Saint-Gobain Crystals", "hq": "France", "tier": "major", "volume": null, "share": "~30% of BGO crystal market", "use": "Major BGO (bismuth germanate) scintillator crystal manufacturer for PET scanners and high-energy physics experiments. BGO is a bismuth-rich dense crystal used in brain PET scanners and particle physics calorimeters at CERN." }
+      ]
+    }
+  ]
+}

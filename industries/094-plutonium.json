@@ -1,0 +1,65 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "nuclear-weapons",
+      "name": "Nuclear Weapons",
+      "icon": "🛡️",
+      "share": "~60% of plutonium — military stockpiles",
+      "uses": [
+        "Plutonium-239 (²³⁹Pu, t½ = 24,110 years) is the primary fissile material in nuclear weapons — produced by neutron irradiation of ²³⁸U in nuclear reactors. Weapons-grade Pu is >93% ²³⁹Pu; a critical mass of ~5kg can sustain a fission chain reaction in an implosion device",
+        "The Fat Man bomb dropped on Nagasaki (1945) used a plutonium implosion design — ~6.4kg of ²³⁹Pu compressed by conventional explosives to supercriticality, releasing ~21 kilotons of energy",
+        "All five recognized nuclear weapons states (US, Russia, UK, France, China) maintain plutonium stockpiles and production/reprocessing capabilities. The US alone has ~87 metric tons of weapons-grade plutonium",
+        "Excess weapons plutonium disposal: the US-Russia Plutonium Management and Disposition Agreement (PMDA) called for converting 34 metric tons each of surplus weapons Pu to mixed oxide (MOX) fuel — program largely stalled due to cost and policy disagreements"
+      ],
+      "companies": [
+        {
+          "name": "US Department of Energy (NNSA)",
+          "hq": "USA",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "Manages US weapons plutonium stockpile at Pantex Plant (TX) and plutonium operations at Los Alamos National Laboratory (NM). Responsible for plutonium pit manufacturing (W87-1 warhead program) and long-term storage and disposition of excess weapons Pu."
+        },
+        {
+          "name": "ROSATOM",
+          "hq": "Russia",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "Russia's state nuclear corporation managing the world's largest plutonium stockpile (~170t weapons-grade) and operating the BN-800 and BN-1200 fast breeder reactors that can use plutonium as mixed oxide (MOX) fuel."
+        }
+      ]
+    },
+    {
+      "id": "nuclear-power",
+      "name": "Mixed Oxide Fuel & Power Generation",
+      "icon": "⚛️",
+      "share": "~35% of plutonium",
+      "uses": [
+        "Mixed oxide fuel (MOX, UO₂ + PuO₂): civilian reactor-grade plutonium (~60% ²³⁹Pu) from reprocessed spent fuel blended with depleted uranium to produce MOX fuel assemblies for light water reactors — closes the fuel cycle by using plutonium as fuel rather than storing it as waste",
+        "MOX fuel used in France (Orano La Hague reprocessing + MELOX MOX fabrication), Japan, and Belgium — France generates ~15% of its nuclear electricity from MOX fuel in 24 licensed reactors",
+        "Fast breeder reactors (FBRs): ²³⁹Pu used as fuel in liquid-metal cooled fast reactors (Russia's BN-800, India's PFBR) — FBRs can breed more ²³⁹Pu from ²³⁸U than they consume, theoretically extending uranium resources enormously",
+        "Plutonium-238 (²³⁸Pu, t½ = 87.7 years) as heat source in NASA RTGs — non-weapons Pu-238 generates ~0.54W/g of thermal power from alpha decay. Voyager 1 & 2, Cassini, New Horizons, Curiosity, and Perseverance rovers all use ²³⁸Pu RTGs"
+      ],
+      "companies": [
+        {
+          "name": "Orano (La Hague / MELOX)",
+          "hq": "France",
+          "tier": "major",
+          "volume": "~100 t Pu reprocessed/yr",
+          "share": "~50% of Western civilian Pu reprocessing",
+          "use": "Operates La Hague reprocessing plant (world's largest commercial reprocessing facility) and MELOX MOX fuel fabrication plant near Marcoule. Reprocesses spent fuel from EDF's French reactor fleet and produces MOX fuel assemblies."
+        },
+        {
+          "name": "NASA (Jet Propulsion Laboratory)",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Primary user of ²³⁸Pu RTGs for deep space and planetary exploration. The Multi-Mission RTG (MMRTG) on Perseverance rover contains ~4.8kg of ²³⁸PuO₂ producing ~110W thermal, 110W electrical at beginning of mission for the rover's systems and instruments."
+        }
+      ]
+    }
+  ]
+}

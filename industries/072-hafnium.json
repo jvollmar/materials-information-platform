@@ -1,0 +1,56 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "semiconductors",
+      "name": "Semiconductor High-k Dielectrics",
+      "icon": "💻",
+      "share": "~50% of hafnium use",
+      "uses": [
+        "Hafnium oxide (HfO₂) and hafnium silicate (HfSiO₄) as high-k gate dielectric in advanced CMOS transistors — Intel introduced HfO₂ gate dielectric at the 45nm node in 2007 (Penryn), replacing SiO₂ after 40 years. HfO₂'s dielectric constant (~25) allows a physically thicker layer with the same electrical capacitance as 1nm SiO₂, eliminating quantum tunneling current",
+        "Every advanced logic chip produced at 45nm and below — including all modern CPUs, GPUs, and mobile processors from Intel, AMD, Apple, Qualcomm, and others — contains hafnium in the transistor gate stack",
+        "HZO (hafnium zirconium oxide, Hf₁₋ₓZrₓO₂) ferroelectric film for FeRAM (ferroelectric RAM) and FeFET (ferroelectric field-effect transistor) non-volatile memory — hafnium-based ferroelectrics are CMOS-compatible, enabling integration of ferroelectric memory in standard chip processes",
+        "Hafnium oxide ALD (atomic layer deposition) using TDMAH or TEMAH hafnium precursors — deposited one atomic layer at a time for precise thickness control in gate stack and DRAM capacitor dielectric applications",
+        "HfO₂ as high-k dielectric in DRAM capacitors replacing ZrO₂ at sub-20nm DRAM — Samsung, SK Hynix, and Micron use hafnium-containing dielectrics in their most advanced DRAM products"
+      ],
+      "companies": [
+        { "name": "Intel", "hq": "USA", "tier": "major", "volume": null, "share": "~15% of global semiconductor market", "use": "Pioneer of HfO₂ high-k gate dielectric (2007, 45nm Penryn). Every Intel CPU from Core 2 Penryn onward contains hafnium in the transistor gate dielectric. Major hafnium precursor consumer through its fab operations globally." },
+        { "name": "TSMC", "hq": "Taiwan", "tier": "major", "volume": null, "share": "~54% of advanced foundry market", "use": "World's largest chip foundry and largest hafnium consumer in semiconductor manufacturing. Uses HfO₂-based gate dielectrics in all process nodes from 28nm to 2nm. Processes billions of transistors containing hafnium for Apple, AMD, Nvidia, and others." },
+        { "name": "Samsung Semiconductor", "hq": "South Korea", "tier": "major", "volume": null, "share": "~15% of global semiconductor market", "use": "Major logic and memory manufacturer using hafnium in gate dielectrics for Exynos and foundry chips, and in DRAM capacitor dielectrics. Pioneer of HZO ferroelectric hafnium for FeRAM and FeFET memory research." },
+        { "name": "ATI (Allegheny Technologies)", "hq": "USA", "tier": "major", "volume": null, "share": "~30% of Western hafnium production", "use": "Major hafnium metal producer — separated from zirconium sponge during nuclear-grade zirconium production. Produces hafnium crystal bar, hafnium sputtering targets, and hafnium metal for semiconductor and nuclear applications." }
+      ]
+    },
+    {
+      "id": "nuclear",
+      "name": "Nuclear Reactor Control Rods",
+      "icon": "⚛️",
+      "share": "~25% of hafnium use",
+      "uses": [
+        "Hafnium control rods in naval nuclear reactors (US Navy submarines and aircraft carriers) — hafnium's very high neutron absorption cross-section (102 barns), excellent corrosion resistance in high-temperature water, and compatibility with zirconium fuel cladding make it ideal for compact naval reactor control",
+        "Hafnium is always separated from zirconium in nuclear-grade Zr production (since Hf would absorb too many neutrons in reactor fuel cladding) — this separation is the primary source of commercial hafnium",
+        "Hafnium control elements in research reactors and test reactors where precise reactivity control without boron's radiation damage is advantageous",
+        "Hafnium alloys (Hf-Ta, Hf-W) for nuclear applications requiring higher strength than pure hafnium at elevated temperatures"
+      ],
+      "companies": [
+        { "name": "Bechtel Marine Propulsion (US Navy)", "hq": "USA", "tier": "major", "volume": null, "share": null, "use": "Manages the Naval Nuclear Propulsion Program's reactor design and material procurement. Hafnium control rods are specified in all US Navy submarine (SSN, SSBN) and aircraft carrier (CVN) nuclear reactor designs." },
+        { "name": "ATI (Allegheny Technologies)", "hq": "USA", "tier": "major", "volume": null, "share": "~30% of Western hafnium production", "use": "Primary US hafnium metal producer. Supplies hafnium crystal bar to naval and commercial nuclear reactor control rod manufacturers. Hafnium production is co-located with nuclear-grade zirconium sponge production." }
+      ]
+    },
+    {
+      "id": "superalloys",
+      "name": "Superalloys & Refractory Coatings",
+      "icon": "✈️",
+      "share": "~25% of hafnium use",
+      "uses": [
+        "Hafnium additions (0.05–1.5%) to nickel superalloys (IN-939, René 80H, MAR-M-247) significantly improve oxidation resistance and ductility of grain boundaries in single-crystal turbine blades — Hf segregates to grain boundaries and forms stable HfO₂ scales",
+        "Hafnium carbide (HfC) and hafnium nitride (HfN) have the highest melting points of any carbide (3958°C) and nitride (3305°C) respectively — used in ultra-high-temperature ceramic coatings for hypersonic vehicle leading edges and rocket nozzle inserts",
+        "HfC-TaC composite ceramics for scramjet combustor components and reentry vehicle thermal protection systems — capable of surviving 3000°C+ in oxidizing environments",
+        "Hafnium silicide (HfSi₂) as diffusion barrier and ohmic contact in silicon carbide (SiC) power electronics for high-temperature automotive and aerospace applications"
+      ],
+      "companies": [
+        { "name": "GE Aerospace", "hq": "USA", "tier": "major", "volume": null, "share": "~30% of commercial turbofan market", "use": "Major consumer of hafnium-containing nickel superalloys in its jet engine turbine blades. GE's LEAP, GE9X, and CF6 engines use hafnium-bearing single-crystal and directionally solidified superalloys for high-pressure turbine blade casting." },
+        { "name": "Materion Corporation", "hq": "USA", "tier": "large", "volume": null, "share": null, "use": "Produces hafnium metal sputtering targets, hafnium carbide powder, and hafnium alloys for semiconductor, aerospace, and defense applications. Supplies HfC and HfO₂ materials to high-temperature aerospace and nuclear customers." }
+      ]
+    }
+  ]
+}

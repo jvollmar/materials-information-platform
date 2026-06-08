@@ -1,0 +1,55 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "lasers",
+      "name": "Industrial & Scientific Lasers",
+      "icon": "⚡",
+      "share": "~55% of ytterbium use",
+      "uses": [
+        "Yb:YAG and Yb-fiber lasers at 1030–1080nm are the fastest-growing industrial laser technology — Yb³⁺ has a simple two-level-like laser scheme with high quantum efficiency (~91%), very low heat generation, and excellent slope efficiency. Delivers kilowatt to 100kW output for sheet metal cutting, welding, and additive manufacturing",
+        "Yb-fiber lasers have largely replaced CO₂ lasers in industrial metalworking — higher beam quality (M² ~1.05), fiber delivery to robotic cutting heads, and lower operating cost make Yb-fiber the default for sheet metal fabrication globally",
+        "Yb:KGW and Yb:KYW ultrashort pulse (femtosecond and picosecond) lasers for micromachining of glass, silicon, and ceramics without thermal damage — used in display glass cutting, semiconductor packaging, and precision medical device manufacturing",
+        "Yb:glass amplifiers in petawatt laser systems for inertial confinement fusion research and high-intensity laser-matter interaction experiments at NIF (National Ignition Facility) and ELI facilities",
+        "Yb-doped fiber as gain medium in chirped pulse amplification (CPA) systems for ultrafast laser research and industrial applications"
+      ],
+      "companies": [
+        { "name": "Trumpf", "hq": "Germany", "tier": "major", "volume": null, "share": "~30% of industrial laser market", "use": "World's largest industrial laser manufacturer. Produces TruFiber, TruDisk (Yb:YAG thin-disk), and TruPulse Yb-based laser systems for sheet metal cutting, welding, and additive manufacturing. Major consumer of ytterbium-doped gain media and fiber." },
+        { "name": "IPG Photonics", "hq": "USA", "tier": "major", "volume": null, "share": "~25% of fiber laser market", "use": "World's largest fiber laser manufacturer. Produces Yb-doped fiber lasers from 100W to 100kW for industrial cutting, welding, and 3D printing of metals. Also supplies Yb-fiber components to other laser manufacturers globally." },
+        { "name": "nLIGHT", "hq": "USA", "tier": "large", "volume": null, "share": "~8% of fiber laser market", "use": "Major Yb-fiber laser manufacturer supplying kilowatt-class lasers for defense (directed energy), materials processing, and aerospace applications. Produces Yb-doped fiber and complete laser systems." }
+      ]
+    },
+    {
+      "id": "atomic-clocks",
+      "name": "Optical Atomic Clocks & Quantum Sensing",
+      "icon": "⏱️",
+      "share": "~20% of ytterbium use",
+      "uses": [
+        "Ytterbium optical lattice clocks: Yb atoms cooled to microkelvin temperatures and trapped in a 3D optical lattice are interrogated at 578nm (¹S₀ → ³P₀ clock transition) achieving frequency stability of ~10⁻¹⁹ — 1000× more precise than cesium microwave clocks and the most accurate clocks ever built",
+        "Yb optical clocks at NIST, PTB, and RIKEN are redefining the second — the next SI redefinition of the second will likely be based on an optical transition, possibly in Yb or Sr",
+        "Yb-based optical atomic clocks for relativistic geodesy: clock comparisons between sites at different elevations can measure gravitational potential differences at centimeter height resolution — applications in geophysics, hydrology, and volcano monitoring",
+        "Yb tweezer arrays for neutral atom quantum computing — similar to Rb and Cs, Yb atoms in optical tweezers are a leading platform for quantum computation and quantum simulation"
+      ],
+      "companies": [
+        { "name": "NIST (National Institute of Standards and Technology)", "hq": "USA", "tier": "large", "volume": null, "share": null, "use": "Operates world-leading Yb optical lattice clocks achieving 10⁻¹⁹ systematic uncertainty — the most accurate clocks in the world. Yb clock research at NIST informs the future redefinition of the SI second and applications in relativistic geodesy." },
+        { "name": "Atom Computing", "hq": "USA", "tier": "small", "volume": null, "share": null, "use": "Quantum computing company developing ytterbium-171 neutral atom qubit arrays in optical tweezers — Yb's nuclear spin-1/2 and metastable clock state make it attractive for long-coherence-time quantum computation." }
+      ]
+    },
+    {
+      "id": "alloys",
+      "name": "Specialty Alloys & Phosphors",
+      "icon": "⚗️",
+      "share": "~25% of ytterbium use",
+      "uses": [
+        "Ytterbium addition to stainless steels and aluminum alloys as grain refiner — improves mechanical properties and surface finish in specialty alloy applications",
+        "Yb²⁺-doped phosphors for thermographic temperature sensing — Yb²⁺ emission shifts with temperature, enabling non-contact temperature measurement by luminescence spectroscopy",
+        "Ytterbium-doped upconverting nanoparticles (Yb/Er, Yb/Tm co-doped): Yb³⁺ acts as sensitizer absorbing 980nm NIR light and transferring energy to Er³⁺ or Tm³⁺ activators for upconversion bioimaging and anti-counterfeiting",
+        "Yb-doped optical fiber for distributed temperature and strain sensing using Brillouin and Raman backscattering — used in structural health monitoring of bridges, pipelines, and power cables"
+      ],
+      "companies": [
+        { "name": "Nanograde AG", "hq": "Switzerland", "tier": "small", "volume": null, "share": null, "use": "Produces ytterbium-doped upconverting nanoparticles (NaYF₄:Yb/Er, NaYF₄:Yb/Tm) for bioimaging, security printing, and photovoltaic light management applications." },
+        { "name": "Coherent (formerly II-VI)", "hq": "USA", "tier": "major", "volume": null, "share": "~20% of laser gain media market", "use": "Major producer of Yb-doped laser gain media including Yb:YAG crystals, Yb:KGW, and Yb-doped optical fiber for industrial and scientific laser systems. Supplies gain media to Trumpf, IPG, and other laser manufacturers." }
+      ]
+    }
+  ]
+}

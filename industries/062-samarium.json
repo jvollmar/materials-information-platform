@@ -1,0 +1,52 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "magnets",
+      "name": "Samarium-Cobalt Permanent Magnets",
+      "icon": "🧲",
+      "share": "~55% of samarium use",
+      "uses": [
+        "Samarium-cobalt (SmCo) magnets in two compositions — SmCo₅ and Sm₂Co₁₇ — are the highest-performance permanent magnets for elevated temperature applications, retaining strong magnetic properties to 300–350°C versus ~150°C for NdFeB",
+        "SmCo magnets used in aerospace and defense: jet engine fuel flow meters, gyroscopes, inertial navigation systems, missile guidance actuators, and military communication equipment where NdFeB's temperature limitations are unacceptable",
+        "High-performance electric motors for industrial servo drives, robotics, and machine tool spindles where operating temperature and reliability requirements justify SmCo's 3–5× price premium over NdFeB",
+        "SmCo in medical devices: implantable drug infusion pumps, surgical tools, and MRI-compatible actuators — SmCo's corrosion resistance and temperature stability suit demanding medical environments",
+        "Traveling wave tubes (TWT) and magnetrons in radar and satellite communication transmitters use SmCo magnets for their focusing magnetic fields — military and satellite applications where high temperature and reliability are non-negotiable"
+      ],
+      "companies": [
+        { "name": "Arnold Magnetic Technologies", "hq": "USA", "tier": "major", "volume": null, "share": "~20% of Western SmCo magnet market", "use": "Major SmCo magnet manufacturer supplying aerospace, defense, and industrial motor markets. Produces SmCo₅ and Sm₂Co₁₇ grade magnets for jet engine instruments, gyroscopes, and high-temperature servo motors." },
+        { "name": "Electron Energy Corporation", "hq": "USA", "tier": "large", "volume": null, "share": "~15% of US SmCo magnet market", "use": "Specialty SmCo magnet producer with US defense certifications. Manufactures high-temperature SmCo magnets for military and aerospace applications including guidance systems, radar, and electronic warfare equipment." }
+      ]
+    },
+    {
+      "id": "nuclear",
+      "name": "Nuclear Reactor Control & Research",
+      "icon": "⚛️",
+      "share": "~20% of samarium use",
+      "uses": [
+        "Samarium-149 (¹⁴⁹Sm) is a major fission product neutron poison in nuclear reactors — formed from ¹⁴⁹Pm decay, it has an enormous thermal neutron absorption cross-section (41,000 barns) and must be accounted for in reactor physics calculations",
+        "Samarium poisoning of nuclear reactors: ¹⁴⁹Sm builds up during low-power operation and can cause reactivity transients — nuclear engineers carefully manage Sm concentration during power changes and shutdowns",
+        "Samarium oxide (Sm₂O₃) as burnable absorber in nuclear fuel: incorporated into UO₂ fuel pellets to compensate for excess reactivity at beginning of fuel cycle — burns up (absorbs neutrons to form non-absorbing nuclides) as the reactor operates",
+        "Samarium-153 (¹⁵³Sm, t½ = 46.3 hours) radiopharmaceutical (Quadramet, Lexidronam) for palliative treatment of bone pain from metastatic cancer — targets hydroxyapatite in bone metastases, delivering beta radiation"
+      ],
+      "companies": [
+        { "name": "Lantheus Holdings", "hq": "USA", "tier": "large", "volume": null, "share": "~20% of therapeutic radiopharmaceutical market", "use": "Major radiopharmaceutical company. Produces ¹⁵³Sm-EDTMP (samarium lexidronam, Quadramet) for palliative treatment of bone pain in patients with osteoblastic metastatic bone lesions from prostate, breast, and lung cancer." }
+      ]
+    },
+    {
+      "id": "catalysts",
+      "name": "Catalysts & Specialty Chemicals",
+      "icon": "⚗️",
+      "share": "~25% of samarium use",
+      "uses": [
+        "Samarium iodide (SmI₂, Kagan's reagent) as a single-electron reductant in organic synthesis — widely used in pharmaceutical synthesis for ketone and aldehyde reductions, radical cyclizations, and pinacol couplings that are difficult or impossible with conventional reducing agents",
+        "Samarium oxide as catalyst for dehydrogenation of ethylbenzene to styrene and for dehydration of ethanol to ethylene — samarium's redox chemistry makes it active for selective oxidation and reduction reactions",
+        "Samarium compounds in phosphor applications: Sm³⁺-activated phosphors emit in the orange-red region — used in specialty fluorescent lamps and phosphorescent materials for security printing and anti-counterfeiting applications",
+        "Samarium cobalt targets for physical vapor deposition (PVD) sputtering of SmCo thin films for magneto-optical recording and magnetic sensor applications"
+      ],
+      "companies": [
+        { "name": "Sigma-Aldrich (Merck KGaA)", "hq": "USA / Germany", "tier": "major", "volume": null, "share": "~20% of specialty chemistry reagent market", "use": "Major specialty chemistry supplier producing samarium iodide (SmI₂) and other samarium reagents for pharmaceutical and fine chemical synthesis. Kagan's reagent (SmI₂) is a standard tool in complex molecule synthesis." }
+      ]
+    }
+  ]
+}

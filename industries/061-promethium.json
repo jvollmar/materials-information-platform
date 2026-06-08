@@ -1,0 +1,35 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "nuclear",
+      "name": "Radioluminescent Devices & Nuclear Batteries",
+      "icon": "⚡",
+      "share": "~70% of promethium use",
+      "uses": [
+        "Promethium-147 (¹⁴⁷Pm, t½ = 2.62 years, beta emitter) used in radioluminescent paint for aircraft instrument dials, watch hands, and military equipment — replaced radium-226 due to shorter half-life and lower gamma radiation",
+        "Betavoltaic nuclear batteries: ¹⁴⁷Pm beta particles slow in a semiconductor junction (silicon or gallium arsenide), generating a small but extremely long-lived electrical current — proposed for pacemakers, remote sensors, and spacecraft where battery replacement is impossible",
+        "Promethium X-ray source: ¹⁴⁷Pm beta particles striking a target produce low-energy bremsstrahlung X-rays for thickness gauging of thin materials (paper, plastic film, metal foil) in manufacturing quality control",
+        "Promethium is entirely synthetic — no stable isotopes exist. All ¹⁴⁷Pm is produced by neutron irradiation of neodymium-146 in nuclear reactors, or recovered from uranium fission product streams"
+      ],
+      "companies": [
+        { "name": "Oak Ridge National Laboratory", "hq": "USA", "tier": "large", "volume": null, "share": null, "use": "Primary US producer of promethium-147 via neutron irradiation in its High Flux Isotope Reactor (HFIR). Supplies ¹⁴⁷Pm for research, calibration sources, and specialty applications to government and commercial customers." },
+        { "name": "Nuclear Batteries Inc. / BetaBatt", "hq": "USA", "tier": "small", "volume": null, "share": null, "use": "Developing betavoltaic nuclear batteries using ¹⁴⁷Pm and other beta emitters for ultra-long-life power sources for implantable medical devices, remote environmental sensors, and space applications where decades of operation without maintenance are required." }
+      ]
+    },
+    {
+      "id": "measurement",
+      "name": "Industrial Gauging & Measurement",
+      "icon": "📏",
+      "share": "~30% of promethium use",
+      "uses": [
+        "Promethium-147 thickness gauges: beta radiation from ¹⁴⁷Pm is attenuated by material thickness — used in non-contact measurement of paper, plastic film, rubber sheet, and thin metal foil thickness in continuous manufacturing processes",
+        "Luminous paints for emergency exit signs and aircraft instrument backlighting — ¹⁴⁷Pm-activated zinc sulfide phosphor produces continuous green glow without external power source",
+        "Static elimination: ¹⁴⁷Pm ionizes air near charged surfaces, neutralizing static electricity in paper, plastic film, and textile manufacturing — a niche but reliable application in sensitive manufacturing environments"
+      ],
+      "companies": [
+        { "name": "Thermo Fisher Scientific", "hq": "USA", "tier": "major", "volume": null, "share": null, "use": "Supplies ¹⁴⁷Pm calibration sources and thickness gauge sources for industrial measurement applications. Also a major supplier of other beta and gamma radiation sources for industrial process control and laboratory use." }
+      ]
+    }
+  ]
+}

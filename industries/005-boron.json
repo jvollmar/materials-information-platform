@@ -1,0 +1,275 @@
+{
+  "dataTier": 1,
+  "industries": [
+    {
+      "id": "b-glass",
+      "name": "Glass & Fiberglass Manufacturing",
+      "icon": "🔬",
+      "share": "~50% of boron consumption",
+      "uses": [
+        "E-glass (electrical-grade fiberglass) contains 5–10% B₂O₃ (boron trioxide — boron oxide) which lowers glass viscosity and melting temperature while improving electrical insulation properties; E-glass fiber reinforces wind turbine blades, boat hulls, PCB (printed circuit board) laminates, and building insulation",
+        "Borosilicate glass (SiO₂ combined with 12–13% B₂O₃ — boron trioxide) has very low thermal expansion, resisting thermal shock from −70°C to +500°C; used in laboratory glassware (Pyrex), pharmaceutical vials and ampoules, oven-safe cookware, and telescope mirror blanks",
+        "BN (boron nitride — hexagonal crystal structure, sometimes called white graphite) is thermally conductive but electrically insulating; used as thermal interface filler in LED packages, power electronics, and high-temperature ceramic substrates",
+        "Boron additions to specialty optical glass shift refractive index and improve chemical durability in camera lenses, binoculars, and fiber optic preforms for scientific and commercial optics"
+      ],
+      "companies": [
+        {
+          "name": "Owens Corning",
+          "hq": "USA",
+          "tier": "major",
+          "volume": null,
+          "share": "~25% of global fiberglass market",
+          "use": "World's largest fiberglass manufacturer. Uses B₂O₃ (boron trioxide) in E-glass fiber for wind turbine blade structural reinforcement, residential insulation, automotive composites, and marine hull laminates. Also produces Owens Corning PINK insulation (boron-free) and FOAMULAR foam insulation."
+        },
+        {
+          "name": "Corning Incorporated",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Major borosilicate glass producer for pharmaceutical vials (Valor Glass), Pyrex laboratory glassware, and fiber optic preforms. Invented mass-production borosilicate glass formulations in 1915. Produces HPFS (high-purity fused silica) optical fiber preforms for global telecommunications."
+        },
+        {
+          "name": "Schott AG",
+          "hq": "Germany",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "World's leading pharmaceutical glass manufacturer, producing ~50 billion borosilicate glass vials, ampoules, syringes, and cartridges annually for Pfizer, Sanofi, Roche, and other pharmaceutical companies. Also makes DURAN borosilicate laboratory glassware."
+        },
+        {
+          "name": "Jushi Group",
+          "hq": "China",
+          "tier": "large",
+          "volume": null,
+          "share": "~20% of global fiberglass market",
+          "use": "China's largest and the world's second-largest fiberglass manufacturer. Produces boron-containing E-glass and high-strength S-glass for wind turbine blades, PCB (printed circuit board) laminates, and automotive composite applications globally."
+        },
+        {
+          "name": "Nippon Electric Glass (NEG)",
+          "hq": "Japan",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Major Japanese manufacturer of boron-containing flat panel display glass substrates for LCD and OLED panels, specialty optical glass, and E-glass (electrical-grade) fiberglass reinforcement for electronics and construction applications."
+        },
+        {
+          "name": "AGC Inc. (Asahi Glass)",
+          "hq": "Japan",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "World's largest flat glass producer. Uses boron in borosilicate pharmaceutical packaging glass, alkali-free display glass substrates for LCD panels, and specialty optical glasses for camera lens systems and scientific instruments."
+        },
+        {
+          "name": "PPG Industries",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Major glass and coatings company. Produces Hybon and Advantex E-glass (electrical-grade glass) and ECR (E-glass corrosion resistant — a boron-free corrosion-resistant glass variant for aggressive chemical environments) fiber for industrial and infrastructure composite applications."
+        }
+      ]
+    },
+    {
+      "id": "b-agriculture",
+      "name": "Agriculture (Boron Micronutrient)",
+      "icon": "🌱",
+      "share": "~23% of boron consumption",
+      "uses": [
+        "Boron is an essential plant micronutrient required for cell wall pectin cross-linking, pollen tube germination, sucrose transport through phloem tissue, and root elongation — deficiency causes hollow heart in sugar beets and turnips, poor fruit set in almonds, and crown death in celery and cereals",
+        "Boron deficiency affects soils in 80+ countries, particularly leached tropical soils, sandy soils, and high-calcium alkaline soils that bind boron in insoluble forms unavailable to plant roots — one of the most geographically widespread micronutrient deficiencies in world agriculture",
+        "Applied as borax (Na₂B₄O₇·10H₂O — sodium tetraborate decahydrate — the mineral mined from evaporite deposits), Solubor (sodium octaborate dissolved liquid for foliar spray), or Granubor (slow-release granular boron for soil broadcast application)",
+        "Oil palm (the world's highest-yielding oil crop) is particularly sensitive to boron deficiency — in Indonesian and Malaysian plantations, boron deficiency can eliminate up to 100% of fruit bunch yield in severely affected palms, costing hundreds of millions of dollars annually"
+      ],
+      "companies": [
+        {
+          "name": "Eti Maden",
+          "hq": "Turkey",
+          "tier": "major",
+          "volume": "~3M t boron minerals/yr",
+          "share": "~70% of global boron reserves",
+          "use": "Turkish state enterprise controlling the world's largest known boron mineral reserves in Eskişehir (tincalconite, ulexite, colemanite deposits) and Balıkesir provinces. World's largest boron producer, supplying refined borate products for agriculture, glass, and industrial applications globally."
+        },
+        {
+          "name": "Rio Tinto (US Borax)",
+          "hq": "UK/Australia",
+          "tier": "large",
+          "volume": "~500,000 t borax products/yr",
+          "share": "~30% of non-Turkish borate supply",
+          "use": "Operates the Boron open-pit mine in California — one of the world's largest single boron deposits. Produces borax pentahydrate, boric acid (H₃BO₃), and Granubor slow-release boron fertilizer under the US Borax brand for global agricultural and glass markets."
+        },
+        {
+          "name": "Quiborax",
+          "hq": "Chile/Bolivia",
+          "tier": "medium",
+          "volume": null,
+          "share": "~5% of global boron supply",
+          "use": "South America's primary borate producer from ulexite and inyoite deposits in the Atacama Desert. Supplies boric acid (H₃BO₃) and ulexite to agricultural and glass markets in Latin America and Europe as an alternative to Turkish borate sources."
+        },
+        {
+          "name": "Sinochem Group",
+          "hq": "China",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Major distributor of boron agricultural micronutrients across Chinese and Asian markets. Supplies granular and liquid boron fertilizers for high-value crops including cotton, soybeans, oil palm, sunflower, and fruit orchards."
+        },
+        {
+          "name": "Haifa Group",
+          "hq": "Israel",
+          "tier": "medium",
+          "volume": null,
+          "share": null,
+          "use": "Specialty plant nutrition company producing Haifa Bonus boron-containing fertigation solutions and foliar spray products for drip-irrigated and fertigated crops — enabling precise boron application matched to crop uptake requirements."
+        }
+      ]
+    },
+    {
+      "id": "b-cleaning",
+      "name": "Cleaning Products & Detergents",
+      "icon": "🧴",
+      "share": "~15% of boron consumption",
+      "uses": [
+        "Sodium perborate (NaBO₃·H₂O — sodium peroxoborate monohydrate) releases active oxygen at 60°C+ wash temperatures to bleach stains in powdered laundry detergents — the active oxygen bleach agent in European Ariel, Persil, and similar powder formulations for hot-wash cotton cycles",
+        "Borax (Na₂B₄O₇·10H₂O — sodium tetraborate decahydrate) functions as a water softener and alkalinity buffer in detergent formulations, chelating calcium and magnesium ions that reduce surfactant effectiveness in hard water regions",
+        "Boric acid (H₃BO₃) used as a preservative and pH buffer in ophthalmic solutions (contact lens saline, eye drops) and as a mild antiseptic in some wound care and veterinary products",
+        "Boron bleach declining in Western European and North American detergent markets (being replaced by TAED — tetraacetylethylenediamine — activators that work at 40°C) but remains significant in markets where 60–90°C hot-wash laundering is standard"
+      ],
+      "companies": [
+        {
+          "name": "Procter & Gamble",
+          "hq": "USA",
+          "tier": "major",
+          "volume": null,
+          "share": "~20% of global laundry detergent market",
+          "use": "World's largest consumer goods company. Uses sodium perborate (NaBO₃ — sodium peroxoborate) as the oxygen bleach system in Ariel and Tide powder formulations sold in European and Asian markets where 60–90°C hot-wash laundering is standard."
+        },
+        {
+          "name": "Henkel",
+          "hq": "Germany",
+          "tier": "large",
+          "volume": null,
+          "share": "~12% of global laundry detergent market",
+          "use": "Major detergent manufacturer (Persil, Purex brands). Uses sodium perborate oxygen bleach in European powder formulations for hot-wash cotton cycle stain removal — effective on protein, tannin, and plant-based stains on white fabrics."
+        },
+        {
+          "name": "Unilever",
+          "hq": "UK/Netherlands",
+          "tier": "large",
+          "volume": null,
+          "share": "~12% of global laundry detergent market",
+          "use": "Global consumer goods company (OMO, Surf, Skip, Radiant laundry brands). Uses boron-based bleach actives in powder detergent products for Africa, Asia, and South America markets where high-temperature laundering and powder detergents remain dominant."
+        },
+        {
+          "name": "Reckitt Benckiser",
+          "hq": "UK",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Produces Vanish oxygen bleach stain removers and Finish dishwasher detergents, some formulations of which incorporate boron-based bleach chemistry and boron water-softening compounds for cleaning performance in hard water."
+        }
+      ]
+    },
+    {
+      "id": "b-nuclear",
+      "name": "Nuclear Energy (Neutron Absorption)",
+      "icon": "⚛️",
+      "share": "~5% of boron consumption",
+      "uses": [
+        "¹⁰B (boron-10 — 20% of natural boron) has a thermal neutron capture cross-section of 3,840 barns — among the highest of any common element — making natural boron the most practically accessible neutron absorber for reactor control",
+        "B₄C (boron carbide — one of the hardest known materials, with the formula four boron atoms bonded to one carbon) control rod pellets are inserted into reactor cores in BWRs (boiling water reactors) and some PWRs (pressurized water reactors) to regulate neutron flux and power output",
+        "Boric acid (H₃BO₃) dissolved in PWR (pressurized water reactor) primary coolant provides chemical shim control — concentration is systematically reduced over the fuel cycle as ²³⁵U (uranium-235) is consumed — and also provides emergency shutdown capability via ECCS (emergency core cooling system) injection",
+        "BNCT (boron neutron capture therapy — an experimental cancer treatment) concentrates ¹⁰B in tumor cells; a slow neutron captured by ¹⁰B emits a short-range alpha particle destroying the tumor cell while sparing adjacent healthy tissue from radiation damage"
+      ],
+      "companies": [
+        {
+          "name": "Westinghouse Electric",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": "~30% of global PWR nuclear fuel market",
+          "use": "World's largest nuclear reactor technology supplier. Uses B₄C (boron carbide) in control rod absorber assemblies for AP1000 and legacy PWR (pressurized water reactor) designs. Supplies nuclear-grade H₃BO₃ (boric acid) for chemical shim and ECCS (emergency core cooling system) injection."
+        },
+        {
+          "name": "Framatome (EDF subsidiary)",
+          "hq": "France",
+          "tier": "large",
+          "volume": null,
+          "share": "~25% of global nuclear fuel market",
+          "use": "French nuclear technology company manufacturing B₄C (boron carbide) control rod assemblies for EDF's 56 French PWR (pressurized water reactor) plants and export customers. Operates boron carbide powder processing facilities for nuclear fuel fabrication."
+        },
+        {
+          "name": "EDF (Électricité de France)",
+          "hq": "France",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "Operates France's 56 PWR (pressurized water reactor) nuclear power plants — all using H₃BO₃ (boric acid) dissolved in primary coolant for chemical reactivity control. France's nuclear fleet is one of the world's largest consumers of nuclear-grade boric acid."
+        },
+        {
+          "name": "3M",
+          "hq": "USA",
+          "tier": "medium",
+          "volume": null,
+          "share": null,
+          "use": "Produces B₄C (boron carbide) neutron shielding panels and borated polyethylene sheet for spent nuclear fuel storage racks, transportation dry casks, and reactor pool shielding applications requiring reliable long-term neutron absorption."
+        },
+        {
+          "name": "BWX Technologies",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Produces nuclear reactor components including B₄C (boron carbide) control rod assemblies for US Navy nuclear submarines and aircraft carriers, and commercial BWR (boiling water reactor) and PWR reactors under US NRC (Nuclear Regulatory Commission) quality standards."
+        }
+      ]
+    },
+    {
+      "id": "b-semiconductors",
+      "name": "Semiconductor Doping & Advanced Electronics",
+      "icon": "💻",
+      "share": "~3% of boron consumption",
+      "uses": [
+        "Boron is the primary p-type dopant in silicon semiconductors — adding one boron atom per million silicon atoms creates mobile electron holes (positive charge carriers), enabling p-n junctions in diodes, MOSFET (metal-oxide-semiconductor field-effect transistor) transistors, and silicon solar cells",
+        "Boron ion implantation using B₁₀H₁₄ (decaborane — a boron hydride cluster molecule that delivers 10 boron atoms per ion for efficient doping) or BF₃ (boron trifluoride gas) selectively dopes source and drain regions of every CMOS (complementary metal-oxide-semiconductor) transistor at 3nm–28nm nodes",
+        "BCl₃ (boron trichloride) plasma is used to etch aluminum and aluminum-copper interconnect lines in semiconductor chip fabrication, defining wiring patterns in logic and memory device manufacturing",
+        "Hexagonal BN (h-BN — hexagonal boron nitride, sometimes called white graphite for its layered structure) is being investigated as an ultra-flat, electrically insulating substrate and gate dielectric for graphene and 2D semiconductor transistors beyond silicon scaling limits"
+      ],
+      "companies": [
+        {
+          "name": "Shin-Etsu Chemical",
+          "hq": "Japan",
+          "tier": "major",
+          "volume": null,
+          "share": "~30% of silicon wafer market",
+          "use": "World's largest silicon wafer manufacturer. Produces boron-doped p-type silicon wafers as the starting substrates for CMOS (complementary metal-oxide-semiconductor) chip fabrication at Intel, TSMC, Samsung, and other leading foundries."
+        },
+        {
+          "name": "Sumitomo Chemical",
+          "hq": "Japan",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Produces BF₃ (boron trifluoride gas) and B₁₀H₁₄ (decaborane) specialty dopant gases for boron ion implantation in silicon chip fabrication — used to dope p-type source, drain, and well regions in advanced FinFET transistors."
+        },
+        {
+          "name": "Entegris",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Major semiconductor materials company. Supplies ultra-high-purity BF₃ (boron trifluoride), BCl₃ (boron trichloride), and B₂H₆ (diborane) specialty process gases to leading-edge chip fabs for boron doping and plasma etch applications."
+        },
+        {
+          "name": "Honeywell Electronic Materials",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Produces high-purity boron-containing process gases and BPSG (borophosphosilicate glass — a boron-doped silicon oxide dielectric used as an interlayer insulator and planarization material) spin-on dopant materials for semiconductor device fabrication."
+        }
+      ]
+    }
+  ]
+}

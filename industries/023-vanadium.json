@@ -1,0 +1,58 @@
+{
+  "dataTier": 1,
+  "industries": [
+    {
+      "id": "steel",
+      "name": "Steel Alloying & High-Strength Steel",
+      "icon": "🏗️",
+      "share": "~90% of vanadium use",
+      "uses": [
+        "Microalloying steel with 0.01–0.15% vanadium forms fine vanadium carbonitride (V(C,N)) precipitates that pin grain boundaries and precipitate harden the steel matrix — increases yield strength by 100–300 MPa with no decrease in weldability or toughness",
+        "High-strength low-alloy (HSLA) steel for structural beams, rebar, heavy plate, and pressure vessels uses vanadium microalloying to meet specifications impossible with plain carbon steel",
+        "Vanadium rebar (V-rebar) is now standard in seismic building codes in China — a national standard requiring higher yield strength rebar for earthquake resistance drove China to consume ~55% of world vanadium production",
+        "Tool steels (H13, D2, M2 high-speed steel): vanadium at 0.5–5% forms very hard vanadium carbide (VC) particles that resist abrasion and red hardness in cutting tools, dies, and molds",
+        "Ferrovanadium (FeV, 50–80% V) is the commercial form added to steelmaking — produced by aluminothermic reduction of V₂O₅ or by electric arc reduction of vanadium-bearing slag"
+      ],
+      "companies": [
+        { "name": "EVRAZ", "hq": "Russia / UK", "tier": "major", "volume": "~18,000 t V/yr", "share": "~25% of world vanadium production", "use": "World's largest vanadium producer. Recovers vanadium from titaniferous magnetite iron ore at its Kachkanar mine and Nizhny Tagil steelworks in Russia. Produces vanadium slag processed to V₂O₅ and ferrovanadium." },
+        { "name": "Largo Resources", "hq": "Canada", "tier": "large", "volume": "~11,000 t V₂O₅/yr", "share": "~12% of world vanadium production", "use": "Operates the Maracás Menchen vanadium mine in Bahia, Brazil — one of the world's highest-grade primary vanadium deposits. Produces high-purity V₂O₅ flake for steel and vanadium redox battery markets." },
+        { "name": "AMG Advanced Metallurgical Group", "hq": "Netherlands", "tier": "large", "volume": null, "share": null, "use": "Produces ferrovanadium and vanadium master alloys from petroleum refinery spent catalysts (a significant secondary vanadium source) and from primary vanadium oxide. Supplies steel mills and specialty alloy producers globally." },
+        { "name": "Gulf Chemical (AMG subsidiary)", "hq": "USA", "tier": "large", "volume": null, "share": "~10% of world secondary vanadium", "use": "Major processor of spent petroleum hydrodesulfurization (HDS) catalysts — vanadium accumulates in these catalysts during refinery use and is recovered by pyrometallurgical processing to produce vanadium pentoxide (V₂O₅)." }
+      ]
+    },
+    {
+      "id": "batteries",
+      "name": "Vanadium Redox Flow Batteries (VRFB)",
+      "icon": "⚡",
+      "share": "~8% of vanadium use — fastest growing segment",
+      "uses": [
+        "Vanadium redox flow batteries store energy by cycling vanadium between V²⁺/V³⁺ (negative electrolyte) and V⁴⁺/V⁵⁺ (positive electrolyte) dissolved in sulfuric acid — unique among flow batteries in using only one element, eliminating cross-contamination",
+        "VRFB electrolyte acts as liquid energy storage — unlike lithium-ion, capacity (volume of electrolyte) and power (size of cell stack) are independently scalable, ideal for 4–12 hour grid storage",
+        "Unlimited cycle life (>20,000 cycles) with no capacity fade — vanadium ions are never deposited, just oxidized and reduced. Electrolyte retains full value at end of battery system life",
+        "Applications: grid-scale energy storage for renewable integration, peak shaving for industrial customers, and grid ancillary services (frequency regulation) where long duration and cycle durability outweigh lithium-ion",
+        "China has installed several large VRFB projects (200 MWh Dalian demonstration), and Australia, Japan, and Europe are developing utility-scale VRFB installations"
+      ],
+      "companies": [
+        { "name": "Invinity Energy Systems", "hq": "UK", "tier": "large", "volume": null, "share": null, "use": "Leading commercial VRFB manufacturer. Produces modular vanadium flow battery systems for utility, commercial, and microgrid energy storage projects globally. Uses high-purity vanadium electrolyte supplied by primary producers." },
+        { "name": "Rongke Power", "hq": "China", "tier": "major", "volume": null, "share": "~40% of global VRFB installations", "use": "China's largest VRFB manufacturer. Built the 200 MW / 800 MWh Dalian Peak-Shaving Power Station — the world's largest flow battery installation as of 2022. Produces complete VRFB systems for Chinese and international grid projects." },
+        { "name": "Largo Clean Energy (Largo Resources)", "hq": "Canada", "tier": "large", "volume": null, "share": null, "use": "Vanadium mine operator that has expanded into VRFB manufacturing. Produces VCHARGE± vanadium flow battery systems — vertically integrated from mining vanadium ore to delivering installed battery systems." }
+      ]
+    },
+    {
+      "id": "chemicals",
+      "name": "Catalysts & Specialty Chemicals",
+      "icon": "⚗️",
+      "share": "~2% of vanadium use",
+      "uses": [
+        "Vanadium pentoxide (V₂O₅) catalyst in the contact process for sulfuric acid production — converts SO₂ to SO₃ at 400–600°C over multiple catalyst beds; world sulfuric acid industry consumes thousands of tonnes of vanadium catalyst",
+        "Vanadium oxychloride (VOCl₃) as Ziegler-Natta polymerization catalyst for EPDM rubber (ethylene-propylene-diene monomer) and ethylene-propylene copolymer production",
+        "Vanadium-based selective catalytic reduction (SCR) catalysts (V₂O₅/TiO₂/WO₃) for NOₓ removal from power plant flue gas and diesel truck exhaust — converts NOₓ to N₂ and H₂O with ammonia reductant",
+        "Vanadium compounds used as drying catalysts in paints and inks, and as mordants in the textile dyeing industry"
+      ],
+      "companies": [
+        { "name": "Haldor Topsoe (Topsoe)", "hq": "Denmark", "tier": "major", "volume": null, "share": "~35% of global sulfuric acid catalyst market", "use": "World's leading supplier of vanadium-based sulfuric acid catalysts. Its VK series vanadium pentoxide catalysts are used in the majority of the world's sulfuric acid plants including the LEAP5™ high-activity low-temperature catalyst." },
+        { "name": "BASF Catalysts", "hq": "Germany", "tier": "major", "volume": null, "share": "~25% of global sulfuric acid catalyst market", "use": "Major vanadium catalyst producer for sulfuric acid, SCR NOₓ reduction, and specialty chemical applications. Supplies ring-pellet and Daisy-shaped V₂O₅ contact catalysts to fertilizer and chemical plant operators globally." }
+      ]
+    }
+  ]
+}

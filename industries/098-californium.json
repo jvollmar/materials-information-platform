@@ -1,0 +1,57 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "neutron-sources",
+      "name": "Portable Neutron Sources",
+      "icon": "⚡",
+      "share": "~70% of californium use",
+      "uses": [
+        "Californium-252 (²⁵²Cf, t½ = 2.65 years) spontaneously fissions at a rate of ~2.3×10⁶ neutrons/μg/s — the most intense portable neutron source available, far outperforming Am-Be sources per unit mass",
+        "Nuclear reactor startup sources: ²⁵²Cf neutron sources placed in reactor cores during initial startup and after long shutdowns to provide the neutron flux needed to bring the reactor critical controllably without relying on cosmic ray neutrons",
+        "Oil well neutron logging: ²⁵²Cf sources lowered into boreholes provide pulsed and continuous neutron flux for measuring formation porosity, hydrocarbon saturation, and lithology in petroleum exploration — higher intensity than Am-Be allows faster logging speeds",
+        "Prompt gamma neutron activation analysis (PGNAA): ²⁵²Cf neutrons activate elements in bulk materials — used online for cement plant raw material analysis, coal and mineral quality control, and industrial process monitoring",
+        "Neutron radiography: ²⁵²Cf sources for imaging of nuclear fuel assemblies, military ordnance, and art objects using neutrons that penetrate metals but are sensitive to light elements (H, B, Li) invisible to X-rays"
+      ],
+      "companies": [
+        {
+          "name": "Oak Ridge National Laboratory (DOE)",
+          "hq": "USA",
+          "tier": "major",
+          "volume": "~250 mg Cf-252/yr",
+          "share": "~60% of world Cf-252 production",
+          "use": "Primary US and Western world producer of californium-252. Produces Cf-252 by prolonged neutron irradiation of curium in HFIR, then fabricates sealed Cf-252 sources in hot cells. Supplies reactor startup sources, well logging sources, and PGNAA sources globally."
+        },
+        {
+          "name": "RIAR (Research Institute of Atomic Reactors)",
+          "hq": "Russia",
+          "tier": "large",
+          "volume": "~100 mg Cf-252/yr",
+          "share": "~40% of world Cf-252 production",
+          "use": "Russian Cf-252 producer at Dimitrovgrad. Irradiates curium targets in the SM-3 high-flux reactor to produce californium-252 for Russian and international nuclear industry and research customers."
+        }
+      ]
+    },
+    {
+      "id": "medical",
+      "name": "Cancer Brachytherapy",
+      "icon": "🏥",
+      "share": "~30% of californium use",
+      "uses": [
+        "Californium-252 intracavitary brachytherapy for cervical cancer: ²⁵²Cf neutron brachytherapy sources implanted directly in tumors — neutrons are more effective than gamma rays at killing radioresistant hypoxic tumor cells (low-oxygen regions of solid tumors resistant to conventional radiation)",
+        "²⁵²Cf brachytherapy has been used in Russia and Eastern Europe for treatment of cervical, endometrial, oral cavity, and other tumors — particularly effective for bulky, hypoxic tumors that respond poorly to photon radiation",
+        "Clinical studies show ²⁵²Cf brachytherapy provides superior local control for advanced cervical cancer compared to conventional gamma brachytherapy in published Russian and Chinese clinical series"
+      ],
+      "companies": [
+        {
+          "name": "Frontier Technology Corporation",
+          "hq": "USA",
+          "tier": "small",
+          "volume": null,
+          "share": null,
+          "use": "US manufacturer of ²⁵²Cf neutron brachytherapy sources and applicators for intracavitary cancer treatment. Supplies clinical californium-252 brachytherapy systems to cancer centers in the US, Russia, and internationally."
+        }
+      ]
+    }
+  ]
+}

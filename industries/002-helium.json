@@ -1,0 +1,275 @@
+{
+  "dataTier": 1,
+  "industries": [
+    {
+      "id": "he-upstream",
+      "name": "Natural Gas Production (Upstream Helium Source)",
+      "icon": "⛏️",
+      "share": "100% of helium comes from natural gas wells — no other commercial source",
+      "uses": [
+        "Helium is trapped alongside methane in natural gas reservoirs — primarily in the US (Wyoming, Kansas, Texas), Qatar, Algeria, Russia, and Tanzania — at concentrations of 0.04–0.5% by volume",
+        "Helium is separated during LNG (liquefied natural gas) processing by cryogenic distillation at −269°C, where helium becomes the last component to liquefy, allowing it to be captured from the boiloff stream",
+        "Global helium production is approximately 175–200 million cubic meters per year (roughly 32,000–36,000 tonnes), with the US and Qatar together accounting for over 60% of supply",
+        "Once released to the atmosphere, helium escapes Earth's gravity and is lost permanently — unlike other gases, it cannot be recovered from air economically, making supply security a strategic concern for medical and semiconductor industries"
+      ],
+      "companies": [
+        {
+          "name": "QatarEnergy (North Field)",
+          "hq": "Qatar",
+          "tier": "major",
+          "volume": "~45M m³ He/yr",
+          "share": "~25% of global helium production",
+          "use": "Qatar's state energy company. The North Field — the world's largest single natural gas reservoir — contains significant helium concentrations. The Ras Laffan LNG complex extracts and exports liquid helium under long-term supply agreements with Air Products and Linde."
+        },
+        {
+          "name": "ExxonMobil (LaBarge Field)",
+          "hq": "USA",
+          "tier": "major",
+          "volume": "~30M m³ He/yr",
+          "share": "~17% of global helium production",
+          "use": "Operates the LaBarge gas field in Wyoming — the world's largest single helium-producing well system. The Shute Creek gas processing plant separates helium from a CO₂ (carbon dioxide)-rich gas stream, supplying a significant share of global helium from a single Wyoming source."
+        },
+        {
+          "name": "Air Products (Qatar)",
+          "hq": "USA",
+          "tier": "large",
+          "volume": "~20M m³ He/yr produced",
+          "share": "~11% of global helium production",
+          "use": "Owns and operates helium extraction and liquefaction plants in Qatar in partnership with QatarEnergy. Also signed a 25-year offtake agreement for helium from Helium One's Rukwa project in Tanzania — a rare primary helium deposit not associated with natural gas."
+        },
+        {
+          "name": "Gazprom (Amur Helium)",
+          "hq": "Russia",
+          "tier": "large",
+          "volume": "~20M m³ He/yr",
+          "share": "~11% of global helium supply",
+          "use": "Operates the Amur Gas Processing Plant in eastern Russia — one of the world's largest new helium facilities. Russia's Chayanda and Kovykta gas fields contain exceptionally high helium concentrations (0.5–0.6% vs typical 0.05%), making them economically valuable for helium extraction."
+        },
+        {
+          "name": "Helium One Global",
+          "hq": "UK (operations Tanzania)",
+          "tier": "small",
+          "volume": null,
+          "share": null,
+          "use": "Developing the Rukwa helium project in Tanzania — a primary helium deposit (not a natural gas byproduct) estimated at 138 billion cubic feet of helium. If developed, it represents diversification away from the US and Qatar geographic concentration of global supply."
+        }
+      ]
+    },
+    {
+      "id": "he-industrial",
+      "name": "Industrial Gas Distribution (Welding, Leak Detection & Chromatography)",
+      "icon": "🏭",
+      "share": "~20% of helium consumed in industrial applications",
+      "uses": [
+        "Helium-argon shielding gas blends in TIG (tungsten inert gas) and MIG (metal inert gas) welding of aluminum, stainless steel, and reactive metals — helium increases arc penetration depth and welding speed vs pure argon, beneficial for thick-section aluminum in aerospace fabrication",
+        "Helium is the preferred leak detection gas due to its tiny molecular size and near-zero natural atmospheric background (5.2 ppm) — leak detectors using mass spectrometry can detect helium leaks as small as 10⁻¹² mbar·L/s in pressure vessels and cryogenic equipment",
+        "GC (gas chromatography) carrier gas — helium's high thermal conductivity enables sensitive thermal conductivity detector (TCD) response, and its chemical inertness prevents interaction with sample components in pharmaceutical QC, environmental, and food safety testing",
+        "Rocket propellant pressurization: each SpaceX Falcon 9 launch uses approximately 500 liters of liquid helium to pressurize LOX (liquid oxygen) tanks during ascent as propellant is consumed"
+      ],
+      "companies": [
+        {
+          "name": "Linde plc",
+          "hq": "UK/Ireland",
+          "tier": "major",
+          "volume": "~18,000 t He/yr distributed",
+          "share": "~30% of global helium market",
+          "use": "World's largest industrial gas company and helium distributor. Owns helium liquefaction plants at LaBarge, Wyoming and Ras Laffan, Qatar. Distributes helium for MRI cooling, semiconductor manufacturing, GC (gas chromatography) analysis, welding, and scientific research."
+        },
+        {
+          "name": "Air Products",
+          "hq": "USA",
+          "tier": "major",
+          "volume": "~14,000 t He/yr distributed",
+          "share": "~22% of global helium market",
+          "use": "Second-largest helium distributor globally. Owns production in Qatar and the US. Pioneered cryogenic liquid helium container technology. Key supplier to semiconductor fabs, research institutions, and medical imaging equipment manufacturers."
+        },
+        {
+          "name": "Air Liquide",
+          "hq": "France",
+          "tier": "major",
+          "volume": "~12,000 t He/yr distributed",
+          "share": "~18% of global helium market",
+          "use": "Major global helium distributor. Provides helium for MRI cooling, fiber optic manufacturing, DUV (deep ultraviolet) semiconductor lithography, and scientific applications. Operates helium liquefaction and cylinder-filling plants across Americas, Europe, and Asia-Pacific."
+        },
+        {
+          "name": "Messer Group",
+          "hq": "Germany",
+          "tier": "medium",
+          "volume": null,
+          "share": null,
+          "use": "European and American industrial gas company distributing helium for MRI cooling, welding, GC (gas chromatography) analysis, and analytical instrumentation across Central and Eastern Europe and parts of the US."
+        },
+        {
+          "name": "Matheson (Nippon Sanso Holdings)",
+          "hq": "USA/Japan",
+          "tier": "medium",
+          "volume": null,
+          "share": null,
+          "use": "Distributes helium and specialty gases for semiconductor, laboratory, and industrial applications across North America and Asia. Subsidiary of Japan's Nippon Sanso — Japan's largest industrial gas company."
+        }
+      ]
+    },
+    {
+      "id": "he-mri",
+      "name": "Medical Imaging (MRI — Magnetic Resonance Imaging)",
+      "icon": "🏥",
+      "share": "~30% of helium consumption",
+      "uses": [
+        "MRI (magnetic resonance imaging) superconducting magnets require liquid helium at −269°C (4 Kelvin) to maintain niobium-titanium (Nb-Ti — an alloy of niobium and titanium) coils in a superconducting state generating the 1.5–7 Tesla magnetic fields needed for clinical diagnostic imaging",
+        "Conventional MRI scanners contain 1,500+ liters of liquid helium in vacuum-insulated cryostats; newer closed-cycle cryocooler designs recondense evaporated helium and operate with less than 1 liter as a permanent sealed fill",
+        "Four major global helium supply shortages since 2011 have directly caused hospital MRI suites to close temporarily — highlighting healthcare's structural dependency on a single specialized gas and driving manufacturers to develop near-helium-free scanner designs",
+        "Hyperpolarized ³He (helium-3 — a rare isotope of helium) MRI allows imaging of lung airspaces and airways with extraordinary functional detail for pulmonary disease research and clinical evaluation of COPD (chronic obstructive pulmonary disease) and cystic fibrosis"
+      ],
+      "companies": [
+        {
+          "name": "Siemens Healthineers",
+          "hq": "Germany",
+          "tier": "major",
+          "volume": null,
+          "share": "~35% of global MRI market",
+          "use": "World's second-largest MRI manufacturer. Developed MAGNETOM Free.Max — the world's first production MRI using only 0.7 liters of helium (vs 1,500 in conventional systems) through a sealed cryostat design, eliminating the need for ongoing helium supply by the hospital operator."
+        },
+        {
+          "name": "GE Healthcare",
+          "hq": "USA",
+          "tier": "major",
+          "volume": null,
+          "share": "~30% of global MRI market",
+          "use": "World's largest medical imaging company. Produces the SIGNA MRI platform. Developing hermetically sealed zero-boiloff helium systems for new SIGNA models that require no helium replenishment over the scanner's operating lifetime."
+        },
+        {
+          "name": "Philips Healthcare",
+          "hq": "Netherlands",
+          "tier": "large",
+          "volume": null,
+          "share": "~20% of global MRI market",
+          "use": "MRI manufacturer. The Philips BlueSeal system uses a permanently sealed helium vessel — helium never vents over the scanner's lifetime — eliminating the hospital's ongoing helium supply chain entirely."
+        },
+        {
+          "name": "Canon Medical Systems",
+          "hq": "Japan",
+          "tier": "medium",
+          "volume": null,
+          "share": "~8% of global MRI market",
+          "use": "Produces Vantage MRI systems with Extreme Short Bore design and advanced cryostat engineering to minimize helium fill volumes and extend maintenance intervals for cost-sensitive hospital installations."
+        },
+        {
+          "name": "Bruker Corporation",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": "~60% of research NMR market",
+          "use": "World's largest NMR (nuclear magnetic resonance) spectrometer manufacturer. Operates ultra-high-field research magnets to 1.2 GHz (28.2 Tesla) requiring continuous liquid helium cooling. One of the largest helium consumers in academic and pharmaceutical research."
+        }
+      ]
+    },
+    {
+      "id": "he-semiconductor",
+      "name": "Semiconductor & Fiber Optic Manufacturing",
+      "icon": "💻",
+      "share": "~15% of helium consumption",
+      "uses": [
+        "EUV (extreme ultraviolet) and DUV (deep ultraviolet) lithography optical systems require continuous helium flow to maintain dimensional stability of the complex optical columns that pattern chip features at 3nm–28nm",
+        "CZ (Czochralski crystal growing — a process where a rotating seed crystal is slowly pulled from a molten silicon bath) furnaces use helium atmosphere to prevent oxidation of the molten silicon surface during 300mm monocrystalline ingot pulling",
+        "CVD (chemical vapor deposition — a process depositing thin films from gas-phase precursors) and ALD (atomic layer deposition — a variant depositing exactly one atomic layer at a time) processes in chip fabrication use helium as a carrier and dilution gas",
+        "Fiber optic preform drawing towers use helium atmosphere where helium's thermal conductivity (6× that of nitrogen) provides precise control of fiber cooling rate and diameter uniformity as glass is drawn at 2,000°C"
+      ],
+      "companies": [
+        {
+          "name": "ASML",
+          "hq": "Netherlands",
+          "tier": "major",
+          "volume": null,
+          "share": "100% of EUV lithography market",
+          "use": "Sole manufacturer of EUV (extreme ultraviolet) lithography machines. Each NXE:3600D EUV scanner requires continuous helium flow to maintain cryogenic optical column stability during chip patterning at 13.5nm wavelength."
+        },
+        {
+          "name": "TSMC",
+          "hq": "Taiwan",
+          "tier": "major",
+          "volume": null,
+          "share": "~54% of global foundry market",
+          "use": "World's largest chip foundry. Major helium consumer for EUV lithography cooling, CZ (Czochralski) crystal growing, and CVD (chemical vapor deposition) thin film processes at its 3nm and 5nm advanced node fabrication facilities."
+        },
+        {
+          "name": "Shin-Etsu Handotai",
+          "hq": "Japan",
+          "tier": "large",
+          "volume": null,
+          "share": "~30% of silicon wafer market",
+          "use": "World's largest silicon wafer manufacturer. Uses helium atmosphere in CZ (Czochralski) furnaces to produce ultra-pure 300mm monocrystalline silicon ingots — the starting material for virtually all advanced semiconductor chips."
+        },
+        {
+          "name": "Prysmian Group",
+          "hq": "Italy",
+          "tier": "large",
+          "volume": null,
+          "share": "~12% of global optical cable market",
+          "use": "World's largest cable manufacturer. Uses helium in fiber optic preform drawing towers where helium's high thermal conductivity controls the cooling rate of molten silica glass drawn into 125-micron fiber for telecommunications use."
+        },
+        {
+          "name": "Corning Incorporated",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": "~40% of global optical fiber market",
+          "use": "World's largest optical fiber producer. Manufactures glass preforms and draws optical fiber in helium-atmosphere towers for its SMF-28 single-mode fiber, which forms the backbone of 5G networks and global internet infrastructure."
+        }
+      ]
+    },
+    {
+      "id": "he-space",
+      "name": "Space Launch & Cryogenic Research",
+      "icon": "🚀",
+      "share": "~5% of helium consumption",
+      "uses": [
+        "Helium pressurizes rocket propellant tanks (LOX — liquid oxygen, and LH₂ — liquid hydrogen) during flight to maintain structural integrity as cryogenic propellants are consumed — without pressurization, the tanks would collapse under atmospheric pressure as they empty",
+        "Cryogenic purging with helium sweeps propellant loading lines and engine cavities before fueling to prevent moisture condensation and ice formation that could block propellant flow or cause ignition failures",
+        "Dilution refrigerators using ³He/⁴He (helium-3 / helium-4 isotope) mixing reach temperatures below 100 millikelvin — required for quantum computing qubit cooling (IBM, Google, IonQ) and gravitational wave detector mirror suspension cooling (LIGO)",
+        "Liquid helium cools infrared focal plane array (FPA) detectors in space telescopes and Earth observation satellites requiring temperatures near absolute zero for maximum detector sensitivity"
+      ],
+      "companies": [
+        {
+          "name": "SpaceX",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "World's largest commercial launch provider. Each Falcon 9 launch consumes approximately 500 liters of liquid helium for LOX (liquid oxygen) tank pressurization during ascent. Starship architecture uses autogenous pressurization to reduce helium dependency."
+        },
+        {
+          "name": "NASA",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Major helium consumer for the SLS (Space Launch System) rocket and Orion spacecraft cryogenic systems. Also uses liquid helium to cool detector arrays on the JWST (James Webb Space Telescope) science instruments."
+        },
+        {
+          "name": "Air Liquide",
+          "hq": "France",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "Primary supplier of liquid helium and cryogenic propellants (LOX — liquid oxygen, LH₂ — liquid hydrogen, LN₂ — liquid nitrogen) to European launch facilities. Supplies Ariane 5 and Ariane 6 helium at the Guiana Space Centre in Kourou, French Guiana."
+        },
+        {
+          "name": "Blue Origin",
+          "hq": "USA",
+          "tier": "medium",
+          "volume": null,
+          "share": null,
+          "use": "Developing the New Glenn heavy rocket using BE-4 LNG (liquefied natural gas) / LOX (liquid oxygen) engines. Uses helium pressurization systems in rocket design and cryogenic test facilities at its Kent, Washington and Huntsville, Alabama campuses."
+        },
+        {
+          "name": "IBM Quantum",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Operates 100+ quantum computing systems that use dilution refrigerators cooled to 15 millikelvin (0.015 K) using ³He/⁴He (helium-3 / helium-4 isotope) dilution refrigeration to maintain qubit coherence — a novel and growing helium consumer."
+        }
+      ]
+    }
+  ]
+}

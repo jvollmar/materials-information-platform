@@ -1,0 +1,22 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "medical",
+      "name": "Targeted Alpha Therapy (Emerging)",
+      "icon": "🏥",
+      "share": "~100% of astatine use — entirely medical research",
+      "uses": [
+        "Astatine-211 (²¹¹At, t½ = 7.2 hours, alpha emitter) is the most promising astatine isotope for targeted alpha therapy (TAT) in cancer treatment — alpha particles travel only 50–80 μm in tissue, depositing lethal doses precisely in tumor cells while sparing surrounding healthy tissue",
+        "²¹¹At behaves chemically similarly to iodine — it can be incorporated into organic molecules using radioiodination chemistry, enabling labeling of antibodies, peptides, and small molecules that target tumor antigens",
+        "Clinical trials: ²¹¹At-labeled compounds are in Phase I/II trials for brain tumors (glioblastoma), ovarian cancer, melanoma, and leukemia. The astatine-labeled anti-CD33 antibody BC8 is in trials for acute myeloid leukemia",
+        "Production bottleneck: ²¹¹At is produced exclusively by cyclotron bombardment of bismuth-209 with alpha particles (²⁰⁹Bi + α → ²¹¹At + 2n) — only ~20 cyclotrons worldwide can produce it, and the 7.2-hour half-life limits distribution radius to ~500 km from production site",
+        "Astatine is the rarest naturally occurring element — less than 30g exists in Earth's crust at any given time. All practical astatine is cyclotron-produced"
+      ],
+      "companies": [
+        { "name": "RadioMedix / Orano Med", "hq": "USA / France", "tier": "small", "volume": null, "share": null, "use": "Developing ²¹¹At-labeled radiopharmaceuticals for targeted alpha therapy. Orano Med is developing ²¹¹At production infrastructure and clinical-stage ²¹¹At radiopharmaceuticals for oncology applications across European and US clinical trials." },
+        { "name": "Duke University Medical Center", "hq": "USA", "tier": "small", "volume": null, "share": null, "use": "One of the few US centers with cyclotron capability and expertise to produce ²¹¹At. Conducting clinical trials of astatine-labeled compounds for brain tumor treatment. A leading center for astatine radiopharmaceutical development." }
+      ]
+    }
+  ]
+}

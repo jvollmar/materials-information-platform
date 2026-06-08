@@ -1,0 +1,67 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "lighting",
+      "name": "High-Intensity Lighting",
+      "icon": "💡",
+      "share": "~40% of xenon use",
+      "uses": [
+        "Xenon short-arc lamps: xenon plasma arc between tungsten electrodes produces an intense, continuous-spectrum white light closely matching sunlight — used in IMAX projectors, digital cinema projectors, solar simulators, searchlights, and stadium lighting",
+        "Xenon flash lamps for photographic strobes, laser pumping (Nd:YAG flashlamp-pumped lasers), and high-speed photography — xenon's ability to produce extremely brief, intense flashes makes it irreplaceable for these applications",
+        "Automotive HID (high-intensity discharge) xenon headlights: xenon gas arc with metal halide additives produces 3× more light than halogen with better color rendering — largely being replaced by LED headlights in new vehicles",
+        "Xenon excimer lasers (XeF at 351nm, XeCl at 308nm) for dermatological treatment of psoriasis, vitiligo, and atopic dermatitis — narrow-band UVB therapy delivered precisely to affected skin areas"
+      ],
+      "companies": [
+        { "name": "Ushio America", "hq": "Japan / USA", "tier": "major", "volume": null, "share": "~25% of xenon arc lamp market", "use": "Major xenon short-arc lamp manufacturer. Produces xenon lamps for digital cinema projectors (IMAX, Christie, Barco), solar simulators, and UV curing systems. Major supplier to the professional projection and scientific lighting markets." },
+        { "name": "Osram (ams-OSRAM)", "hq": "Germany", "tier": "major", "volume": null, "share": "~20% of xenon automotive and specialty lamp market", "use": "Major xenon HID automotive headlight and specialty lamp producer. Historically supplied xenon headlight burners to premium automotive OEMs (BMW, Mercedes, Audi) and xenon cinema projection lamps to Barco and Christie." }
+      ]
+    },
+    {
+      "id": "medical",
+      "name": "Medical Imaging & Anesthesia",
+      "icon": "🏥",
+      "share": "~25% of xenon use",
+      "uses": [
+        "Hyperpolarized xenon-129 (¹²⁹Xe) MRI: laser-polarized ¹²⁹Xe gas inhaled by patients produces high-SNR MRI images of lung ventilation and airways — far superior to conventional MRI for detecting emphysema, fibrotic lung disease, and asthma airspace distribution",
+        "Xenon as general anesthetic: xenon (60–70% with oxygen) produces rapid, smooth anesthesia with minimal cardiovascular depression and rapid recovery — approved as anesthetic in Germany and Russia. Superior properties but 50× more expensive than conventional volatile anesthetics",
+        "Xenon CT ventilation imaging: inhaled xenon gas is detectable by CT scanner, providing regional lung ventilation maps for pulmonary function assessment without radioactive tracers",
+        "Xenon neuroprotection: xenon at sub-anesthetic concentrations shows neuroprotective effects in animal models of stroke and neonatal hypoxic-ischemic encephalopathy — clinical trials ongoing"
+      ],
+      "companies": [
+        { "name": "Air Products", "hq": "USA", "tier": "major", "volume": null, "share": "~12% of global rare gas market", "use": "Major xenon producer from cryogenic air separation. Supplies medical-grade and research-grade xenon for hyperpolarized MRI, anesthesia applications, and scientific research globally." },
+        { "name": "Polarean Imaging", "hq": "UK / USA", "tier": "small", "volume": null, "share": null, "use": "Commercializing hyperpolarized ¹²⁹Xe MRI lung imaging technology. Produces the XENOVIEW polarizer system that spin-polarizes xenon-129 for clinical lung MRI at hospital radiology departments. FDA-approved ¹²⁹Xe MRI contrast agent." }
+      ]
+    },
+    {
+      "id": "space",
+      "name": "Spacecraft Ion Propulsion",
+      "icon": "🚀",
+      "share": "~25% of xenon use",
+      "uses": [
+        "Xenon is the propellant of choice for ion thrusters and Hall-effect thrusters on commercial satellites and deep space probes — xenon's high atomic mass maximizes momentum transfer per unit energy, its inertness prevents corrosion, and it liquefies at moderate pressure for compact storage",
+        "Hall-effect thrusters using xenon propellant provide station-keeping for geostationary communication satellites (Boeing 702SP, Airbus Eurostar Neo) — replacing liquid bipropellant systems with far lower propellant mass",
+        "Deep space missions: NASA Dawn (asteroid belt), Hayabusa (asteroid sample return), BepiColombo (Mercury), and DART (asteroid deflection) all used xenon ion propulsion for primary thrust",
+        "SmallSat and CubeSat propulsion: miniaturized xenon electrospray and Hall thrusters for small satellite constellation orbit maintenance and disposal maneuvering"
+      ],
+      "companies": [
+        { "name": "Maxar Technologies", "hq": "USA", "tier": "major", "volume": null, "share": "~25% of geostationary satellite bus market", "use": "Major commercial satellite manufacturer using xenon Hall-effect thrusters on its 1300 and 500 series satellite platforms for all-electric orbit raising and station-keeping. Major xenon consumer for satellite propellant." },
+        { "name": "Aerojet Rocketdyne (L3Harris)", "hq": "USA", "tier": "major", "volume": null, "share": "~40% of US ion thruster market", "use": "Major ion and Hall-effect thruster manufacturer. Produced the NEXT-C xenon ion thruster for NASA's Lucy and Psyche missions and the XR-5 Hall thruster for commercial satellite applications." }
+      ]
+    },
+    {
+      "id": "semiconductors",
+      "name": "Semiconductor Manufacturing",
+      "icon": "💻",
+      "share": "~10% of xenon use",
+      "uses": [
+        "Xenon difluoride (XeF₂) as isotropic silicon etchant for MEMS fabrication — XeF₂ spontaneously etches silicon at room temperature without plasma, producing smooth, isotropic profiles for microactuator release and sensor fabrication",
+        "Xenon plasma in physical vapor deposition (PVD) sputtering: heavy xenon ions provide more efficient sputtering of refractory targets (molybdenum, tungsten) than argon in specialized processes",
+        "Xenon flash anneal for ultra-shallow junction formation in advanced CMOS — millisecond xenon flash heating activates dopants without significant diffusion, enabling sub-10nm source/drain junction profiles"
+      ],
+      "companies": [
+        { "name": "SPTS Technologies (Orbotech / KLA)", "hq": "UK / USA", "tier": "large", "volume": null, "share": null, "use": "Major MEMS process equipment supplier. Its Xactix XeF₂ etch systems use xenon difluoride for isotropic silicon release etching of MEMS inertial sensors, microphones, and RF switches — a standard process step in MEMS device fabrication." }
+      ]
+    }
+  ]
+}

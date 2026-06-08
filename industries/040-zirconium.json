@@ -1,0 +1,76 @@
+{
+  "dataTier": 1,
+  "industries": [
+    {
+      "id": "ceramics",
+      "name": "Ceramics & Refractories",
+      "icon": "🔥",
+      "share": "~50% of zirconium use (as zircon sand and zirconia)",
+      "uses": [
+        "Zircon sand (ZrSiO₄) in foundry casting: zircon sand molds and cores for steel and iron castings — zircon's high refractoriness (melting point 2550°C), low thermal expansion, and resistance to metal penetration produce high-quality casting surfaces",
+        "Fused zirconia (ZrO₂) and yttria-stabilized zirconia (YSZ) refractories for glass tank furnace liners, steel ladle nozzles, and continuous casting submerged entry nozzles — exceptional resistance to molten glass and steel corrosion",
+        "Zirconia dental ceramics: YSZ monolithic crowns, multi-layer zirconia bridges, and implant abutments produced by CAD/CAM milling then sintering to full density — combining strength (>1000 MPa) with tooth-like translucency",
+        "Technical ceramics: ZrO₂ knife blades, pump seals, valve seats, and wire-drawing dies — transformation toughening (tetragonal to monoclinic martensitic transformation under stress) gives zirconia ceramics exceptional crack resistance",
+        "Zircon opacifier in ceramic tile glazes: zircon (ZrSiO₄) particles scatter light to produce the white opaque glaze surface on floor and wall tiles — the largest single end use of zircon globally"
+      ],
+      "companies": [
+        { "name": "Iluka Resources", "hq": "Australia", "tier": "major", "volume": "~700,000 t zircon/yr", "share": "~25% of global zircon production", "use": "World's largest zircon producer. Mines mineral sands (zircon, ilmenite, rutile) in Western Australia and Virginia, USA. Sells zircon to ceramics, foundry, and chemical industries globally; also produces synthetic rutile and zirconia." },
+        { "name": "Tronox Holdings", "hq": "USA / Australia", "tier": "major", "volume": "~300,000 t zircon/yr", "share": "~11% of global zircon production", "use": "Major zircon producer from mineral sands operations in Australia, South Africa, and the US. Produces and markets zircon for ceramics tile glazes, foundry, and zirconium chemicals markets globally." },
+        { "name": "Tosoh Corporation", "hq": "Japan", "tier": "major", "volume": null, "share": "~20% of global dental zirconia market", "use": "World's largest YSZ powder producer for dental ceramics. Its TZ-series zirconia powders are the industry standard for CAD/CAM dental crown and bridge fabrication, sintered in dental furnaces to produce final restorations." },
+        { "name": "Saint-Gobain ZirPro", "hq": "France", "tier": "large", "volume": null, "share": "~15% of fused zirconia market", "use": "Major producer of fused zirconia (ZrO₂) and zirconia-alumina abrasive grains, zirconia beads for grinding media, and fused zircon for refractory and foundry applications." }
+      ]
+    },
+    {
+      "id": "nuclear",
+      "name": "Nuclear Reactors",
+      "icon": "⚛️",
+      "share": "~20% of zirconium use (as zirconium metal, not zircon)",
+      "uses": [
+        "Zircaloy-2 and Zircaloy-4 (Zr-Sn-Fe-Cr alloys) cladding tubes encase uranium fuel pellets in water-cooled nuclear reactors — zirconium's near-zero thermal neutron absorption cross-section (0.18 barns vs. 2.4 for stainless steel) is uniquely suited to reactor applications",
+        "Zirconium pressure tubes in CANDU (Canada Deuterium Uranium) heavy water reactors — each CANDU reactor contains ~12 tonnes of zirconium pressure tubing that contains fuel and pressurized heavy water coolant",
+        "Zirconium structural components: reactor core grid spacers, end caps, and guide tubes — all must have low neutron absorption, corrosion resistance in high-temperature water/steam, and adequate mechanical strength",
+        "Hafnium removal is critical: zirconium ore always contains 1–3% hafnium, which has a very high neutron absorption cross-section (102 barns) — nuclear-grade zirconium must be <100 ppm Hf, requiring costly separation",
+        "Sponge zirconium produced by Kroll process (reduction of ZrCl₄ with magnesium) then electron beam or vacuum arc remelted to reactor-grade zirconium ingot for tube extrusion"
+      ],
+      "companies": [
+        { "name": "Westinghouse Electric Company", "hq": "USA", "tier": "major", "volume": null, "share": "~35% of Western nuclear fuel market", "use": "Major nuclear fuel assembly manufacturer. Produces Zircaloy and ZIRLO™ (patented Zr-Sn-Nb alloy) cladding tubes for PWR and BWR fuel assemblies. Supplies zirconium-clad fuel to nuclear power plants globally." },
+        { "name": "Framatome (EDF subsidiary)", "hq": "France", "tier": "major", "volume": null, "share": "~30% of Western nuclear fuel market", "use": "Major nuclear fuel assembly and reactor component manufacturer. Produces M5® (Zr-Nb alloy) cladding tubes for EDF's French PWR fleet and export markets. Also manufactures zirconium reactor internals and structural components." },
+        { "name": "ATI (Allegheny Technologies)", "hq": "USA", "tier": "large", "volume": null, "share": "~30% of Western nuclear-grade zirconium", "use": "Major producer of nuclear-grade zirconium sponge, ingot, and mill products (tube shells, sheet, bar) for Westinghouse and Framatome fuel cladding manufacture. Also produces hafnium metal for reactor control rods." }
+      ]
+    },
+    {
+      "id": "chemicals",
+      "name": "Zirconium Chemicals & Surface Coatings",
+      "icon": "⚗️",
+      "share": "~20% of zirconium use",
+      "uses": [
+        "Zirconium basic carbonate and zirconium acetate as crosslinkers in paper coating, textile finishing, and water-based paint — zirconium coordinates with carboxyl groups to form tough, water-resistant crosslinked coatings",
+        "Zirconium dioxide (ZrO₂) high-k dielectric gate insulator in advanced CMOS transistors — replaces SiO₂ at sub-45nm nodes where tunneling currents through ultra-thin SiO₂ became unacceptable",
+        "Potassium hexafluorozirconate (K₂ZrF₆) conversion coating on aluminum and steel — provides corrosion protection and paint adhesion as a chrome-free pretreatment in automotive and aerospace painting",
+        "Zirconium silicate flour as ceramic whitener and opacifier — finely ground ZrSiO₄ added to white ceramic tile bodies and glazes to increase whiteness and opacity",
+        "Zirconium tetrachloride (ZrCl₄) precursor for ALD (atomic layer deposition) of ZrO₂ high-k dielectric films in advanced semiconductor gate stacks and DRAM capacitor dielectrics"
+      ],
+      "companies": [
+        { "name": "MEL Chemicals (Luxfer MEL Technologies)", "hq": "UK", "tier": "large", "volume": null, "share": "~15% of global zirconium chemicals market", "use": "Major zirconium chemical producer supplying zirconium carbonate, acetate, and oxide to paper, textile, and paint industries. Also produces ceria-zirconia mixed oxides for automotive catalytic converter oxygen storage." },
+        { "name": "Dorf Ketal Chemicals", "hq": "India", "tier": "large", "volume": null, "share": null, "use": "Major specialty chemical company producing zirconium-based crosslinkers for water-based coatings, paper, and textile applications. Major Asian supplier of zirconium carbonate and acetate solutions to industrial customers." },
+        { "name": "Intel", "hq": "USA", "tier": "major", "volume": null, "share": null, "use": "Pioneered zirconium oxide (ZrO₂) high-k gate dielectric introduction at the 45nm node (2007, Penryn processors) — marking the end of 40 years of SiO₂ gate oxide use in CMOS transistors. Now uses hafnium-zirconium oxide (HfZrO₂) at sub-10nm nodes." }
+      ]
+    },
+    {
+      "id": "coating",
+      "name": "Opacifiers & Pigments",
+      "icon": "🎨",
+      "share": "~10% of zirconium use",
+      "uses": [
+        "Zirconium silicate (zircon, ZrSiO₄) is the dominant opacifier in ceramic tile glazes worldwide — fine zircon particles scatter visible light within the glaze, producing the characteristic white, opaque surface of most floor and wall tiles",
+        "Zirconia-encapsulated ceramic stains: zircon pigments (Zr-V blue, Zr-Pr yellow, Zr-Fe coral) used for coloring ceramic tile glazes at high firing temperatures where organic pigments would be destroyed",
+        "Zirconium oxide white pigment in specialty applications where TiO₂ is insufficient — higher refractive index provides superior opacity at elevated temperatures in specialty glazes and glass",
+        "Zirconium carbide (ZrC) and zirconium nitride (ZrN) PVD coatings on cutting tools and decorative hardware — gold-colored ZrN coating provides hard, corrosion-resistant, decorative finish on watches, door hardware, and faucets"
+      ],
+      "companies": [
+        { "name": "Imerys Ceramics", "hq": "France", "tier": "major", "volume": null, "share": "~20% of zircon opacifier market", "use": "Major processor and supplier of micronized zircon (zirconium silicate) for ceramic tile glaze opacification. Produces standard and premium-grade zircon flour and sand from mineral sands processed at European and Australian operations." },
+        { "name": "Endeka Ceramics", "hq": "Spain", "tier": "large", "volume": null, "share": "~15% of European zircon opacifier market", "use": "Major European supplier of zirconium silicate opacifiers and zirconia-based ceramic pigments and stains to the Spanish, Italian, and global ceramic tile industry." }
+      ]
+    }
+  ]
+}

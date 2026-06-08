@@ -1,0 +1,53 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "magnets",
+      "name": "High-Coercivity NdFeB Magnets",
+      "icon": "🧲",
+      "share": "~70% of dysprosium use",
+      "uses": [
+        "Dysprosium is added to NdFeB permanent magnets (typically 1–6% by weight) to increase coercivity (resistance to demagnetization) at elevated temperatures — the Dy replaces some Nd in the Nd₂Fe₁₄B crystal structure at grain boundaries, increasing the anisotropy field",
+        "EV traction motors and hybrid vehicle drive motors operate at 150–180°C and require high-coercivity NdFeB magnets with dysprosium content to prevent demagnetization during normal operation — each EV motor typically requires 0.5–1.5 kg of dysprosium",
+        "Wind turbine direct-drive generators using NdFeB magnets in offshore installations require dysprosium additions for temperature stability and long-term reliability in inaccessible locations",
+        "The automotive electrification megatrend is the primary driver of dysprosium demand growth — millions of EVs produced annually each containing Dy-enhanced magnets",
+        "Grain boundary diffusion (GBD) technology reduces Dy consumption by 50–70% versus bulk substitution — a critical development for supply chain security as dysprosium production is 99%+ from Chinese ionic clay rare earth deposits"
+      ],
+      "companies": [
+        { "name": "Shin-Etsu Chemical", "hq": "Japan", "tier": "major", "volume": null, "share": "~25% of sintered NdFeB magnet market", "use": "World's largest NdFeB magnet producer and major dysprosium consumer. Pioneered grain boundary diffusion technology to reduce Dy use per magnet while maintaining coercivity for EV motor and industrial applications." },
+        { "name": "TDK Corporation", "hq": "Japan", "tier": "major", "volume": null, "share": "~15% of NdFeB magnet market", "use": "Major NdFeB magnet manufacturer using dysprosium in high-coercivity grades for automotive, industrial servo, and wind turbine applications. Operates rare earth magnet plants in Japan and China." },
+        { "name": "Toyota Motor Corporation", "hq": "Japan", "tier": "major", "volume": null, "share": "~10% of global EV/HEV market", "use": "Major EV and HEV manufacturer and dysprosium consumer. Has invested in dysprosium supply security by funding rare earth mining projects in Vietnam and other non-Chinese sources. Each Toyota HEV traction motor contains dysprosium-enhanced NdFeB magnets." },
+        { "name": "China Northern Rare Earth (CNRE)", "hq": "China", "tier": "major", "volume": null, "share": "~40% of heavy rare earth production", "use": "China's largest rare earth producer. Controls significant heavy rare earth (dysprosium, terbium) production from ionic clay deposits in Jiangxi, Fujian, and Guangdong provinces. China produces ~99% of global dysprosium supply." }
+      ]
+    },
+    {
+      "id": "nuclear",
+      "name": "Nuclear Reactor Control",
+      "icon": "⚛️",
+      "share": "~15% of dysprosium use",
+      "uses": [
+        "Dysprosium titanate (Dy₂TiO₅) and dysprosium oxide (Dy₂O₃) as burnable neutron absorbers in nuclear fuel — dysprosium has a high neutron absorption cross-section and can be incorporated into control rod materials and fuel pellets",
+        "Dysprosium in control rod alloys: Dy-Hf alloys for experimental reactor control applications where conventional B₄C rods are insufficient",
+        "Dy₂O₃ as a burnable absorber in high-burnup nuclear fuel designs — absorbs neutrons at beginning of cycle, burns up before cycle end, allowing more fuel flexibility"
+      ],
+      "companies": [
+        { "name": "Westinghouse Electric", "hq": "USA", "tier": "major", "volume": null, "share": "~35% of Western nuclear fuel market", "use": "Major nuclear fuel assembly manufacturer. Uses dysprosium-bearing burnable absorbers in advanced fuel designs for high-burnup operation in PWR and BWR reactors at US and international nuclear plants." }
+      ]
+    },
+    {
+      "id": "specialty",
+      "name": "Specialty Alloys & Research",
+      "icon": "🔬",
+      "share": "~15% of dysprosium use",
+      "uses": [
+        "Dysprosium in Terfenol-D magnetostrictive material (Tb₀.₃Dy₀.₇Fe₂): dysprosium component optimizes the magnetostriction of Terfenol-D for room-temperature operation — Dy lowers the spin-reorientation temperature to below room temperature, maximizing the magnetostrictive effect at ambient conditions",
+        "Dysprosium iodide in high-intensity metal halide lamps: produces a warm white light spectrum matching the infrared output of the sun — used in film and studio lighting for color-accurate scene illumination",
+        "Dysprosium compounds in data storage: Dy is used in magneto-optical recording media alloys (DyFe, DyFeCo) for high-density archival storage applications",
+        "Dysprosium as dopant in calcium fluoride (CaF₂:Dy) thermoluminescent dosimeters for personal radiation monitoring — Dy doping produces an efficient TLD response for gamma and X-ray dose measurement"
+      ],
+      "companies": [
+        { "name": "GE Lighting (Savant / Current)", "hq": "USA", "tier": "large", "volume": null, "share": null, "use": "Historically a major producer of dysprosium iodide-containing metal halide lamps for studio, architectural, and commercial lighting. Transition to LED has reduced but not eliminated demand for Dy-containing specialty lamps." }
+      ]
+    }
+  ]
+}

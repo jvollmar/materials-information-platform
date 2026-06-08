@@ -1,0 +1,78 @@
+{
+  "dataTier": 1,
+  "industries": [
+    {
+      "id": "fertilizers",
+      "name": "Fertilizers & Agriculture",
+      "icon": "🌾",
+      "share": "~85% of all phosphorus use",
+      "uses": [
+        "Phosphate rock (fluorapatite, Ca₅(PO₄)₃F) mined and acidulated with sulfuric acid to produce phosphoric acid (H₃PO₄) — the key intermediate for all phosphate fertilizers",
+        "Diammonium phosphate (DAP, (NH₄)₂HPO₄) — the world's most widely traded phosphate fertilizer, supplying both phosphorus and nitrogen; applied to corn, wheat, soybeans, and rice",
+        "Monoammonium phosphate (MAP, NH₄H₂PO₄) — solid granular fertilizer used in blended NPK formulations for starter fertilizers and broadcast application",
+        "Triple superphosphate (TSP, Ca(H₂PO₄)₂) produced by reacting phosphate rock with phosphoric acid — higher phosphorus concentration than ordinary superphosphate",
+        "Phosphorus is one of the three macronutrients essential for all plant life (NPK) — drives root development, energy transfer (ATP), and seed formation; no agricultural substitute exists"
+      ],
+      "companies": [
+        { "name": "Mosaic Company", "hq": "USA", "tier": "major", "volume": "~17 Mt phosphate rock/yr", "share": "~15% of global phosphate fertilizer capacity", "use": "World's largest combined phosphate and potash producer. Mines phosphate rock in Florida (Four Corners, South Fort Meade) and Brazil (Miski Mayo). Produces DAP, MAP, and MicroEssentials specialty fertilizers." },
+        { "name": "OCP Group", "hq": "Morocco", "tier": "major", "volume": "~38 Mt phosphate rock/yr", "share": "~35% of global phosphate rock exports", "use": "World's largest phosphate exporter. Morocco holds ~70% of world phosphate reserves. OCP mines at Khouribga, Gantour, and Bou Craa and refines to phosphoric acid and fertilizers at Jorf Lasfar." },
+        { "name": "PhosAgro", "hq": "Russia", "tier": "major", "volume": null, "share": "~10% of global DAP/MAP production", "use": "Russia's largest phosphate company. Mines apatite-nepheline ore at Kirovsk (Kola Peninsula) and produces DAP, MAP, and NPK fertilizers. Major supplier to European and Asian agricultural markets." },
+        { "name": "Nutrien", "hq": "Canada", "tier": "major", "volume": null, "share": "~10% of global phosphate capacity", "use": "World's largest crop nutrient company. Operates phosphate mines in North Carolina and Idaho and produces DAP and MAP fertilizers. Distributes through the world's largest retail agricultural network." },
+        { "name": "Yara International", "hq": "Norway", "tier": "large", "volume": null, "share": null, "use": "World's largest nitrogen fertilizer company and major blender of NPK fertilizers containing phosphate. Distributes phosphate fertilizers globally through its extensive logistics and retail network." }
+      ]
+    },
+    {
+      "id": "food",
+      "name": "Food & Beverage Processing",
+      "icon": "🥤",
+      "share": "~5% of phosphorus use",
+      "uses": [
+        "Phosphoric acid (food-grade H₃PO₄, E338) as acidulant in cola beverages — gives Coca-Cola and Pepsi their characteristic sharp tartness; US cola industry uses ~100,000 tonnes/yr",
+        "Sodium and calcium phosphates as emulsifying salts in processed cheese (American cheese, cheese slices) — bind proteins and prevent oil separation during melting",
+        "Sodium tripolyphosphate (STPP, Na₅P₃O₁₀) as moisture-retention agent in processed shrimp, scallops, and poultry — absorbs water to increase product weight",
+        "Monocalcium phosphate (MCP) as leavening acid in baking powder and self-rising flour — reacts with sodium bicarbonate to release CO₂",
+        "Dicalcium phosphate as calcium supplement and anti-caking agent in breakfast cereals, infant formula, and dietary supplements"
+      ],
+      "companies": [
+        { "name": "ICL Group (ICL Food Specialties)", "hq": "Israel", "tier": "major", "volume": null, "share": "~20% of food phosphate market", "use": "World's largest food-grade phosphate producer. Supplies phosphoric acid to Coca-Cola and PepsiCo, and emulsifying salts to dairy and meat processors globally under the JOHA and BK Giulini brands." },
+        { "name": "Innophos Holdings", "hq": "USA", "tier": "large", "volume": null, "share": "~15% of North American food phosphate market", "use": "Major US producer of specialty phosphates for food, beverage, and nutrition applications. Produces phosphoric acid, leavening agents, emulsifiers, and mineral supplements at plants in US and Mexico." },
+        { "name": "Prayon", "hq": "Belgium", "tier": "large", "volume": null, "share": null, "use": "European phosphoric acid and specialty phosphate producer. Supplies food-grade phosphates for beverages, dairy, meat processing, and bakery to European food manufacturers." }
+      ]
+    },
+    {
+      "id": "industrial",
+      "name": "Industrial & Technical Phosphates",
+      "icon": "⚗️",
+      "share": "~5% of phosphorus use",
+      "uses": [
+        "Organophosphate flame retardants (e.g. TCPP, TDCPP, resorcinol bis-diphenyl phosphate) for flexible and rigid polyurethane foam in furniture, mattresses, and building insulation",
+        "Phosphate ester hydraulic fluids for fire-resistant applications in steel mills, aircraft hydraulics, and underground mining equipment",
+        "Phosphoric acid in metal surface treatment (phosphating) — creates zinc or manganese phosphate conversion coatings on steel for corrosion protection and paint adhesion",
+        "Trisodium phosphate (TSP) as heavy-duty cleaner and degreaser for industrial equipment, dairy plant sanitation, and surface preparation before painting",
+        "Phosphorus pentasulfide (P₄S₁₀) as precursor for lubricant additives (zinc dialkyldithiophosphate, ZDDP) — anti-wear additive in virtually all motor oils"
+      ],
+      "companies": [
+        { "name": "Lanxess", "hq": "Germany", "tier": "large", "volume": null, "share": null, "use": "Major producer of organophosphate flame retardants and phosphate ester fluids for polymer and industrial fluid applications under the Levagard and Disflamoll brands." },
+        { "name": "Clariant", "hq": "Switzerland", "tier": "large", "volume": null, "share": null, "use": "Specialty chemicals company producing phosphorus-based flame retardants for textiles, electronics, and polymer applications as part of its functional minerals and additives portfolio." },
+        { "name": "Chemetall (BASF)", "hq": "Germany", "tier": "major", "volume": null, "share": null, "use": "Leading supplier of metal phosphating systems for automotive, aerospace, and industrial coating pretreatment. Processes steel, aluminum, and zinc surfaces to create phosphate conversion coatings for paint adhesion." }
+      ]
+    },
+    {
+      "id": "detergents",
+      "name": "Detergents & Water Treatment",
+      "icon": "🫧",
+      "share": "~5% of phosphorus use (declining — phosphates banned in laundry detergents in most developed countries)",
+      "uses": [
+        "Sodium tripolyphosphate (STPP) was the dominant laundry and dishwasher detergent builder — softens water by sequestering Ca²⁺ and Mg²⁺ ions that deactivate surfactants; banned in laundry detergents across EU and US due to eutrophication",
+        "Phosphate-based detergents remain permitted and widely used for automatic dishwashing in most countries where phosphate removal at wastewater treatment plants is not universal",
+        "Phosphonates (HEDP, ATMP) as scale inhibitors and corrosion inhibitors in cooling water systems, boilers, and reverse osmosis membranes",
+        "Sodium hexametaphosphate as sequestrant and dispersant in industrial cleaning, textile processing, and paper manufacturing"
+      ],
+      "companies": [
+        { "name": "Procter & Gamble", "hq": "USA", "tier": "large", "volume": null, "share": null, "use": "Major consumer of food-grade and technical phosphates in dishwasher detergents (Cascade, Fairy Platinum) where phosphate use remains permitted. Has reformulated laundry products globally to remove phosphates." },
+        { "name": "Thermphos International (now ICL)", "hq": "Netherlands", "tier": "large", "volume": null, "share": null, "use": "Major European phosphoric acid and technical phosphate producer supplying STPP for industrial detergents and HEDP phosphonate scale inhibitors for water treatment applications." },
+        { "name": "Veolia Water Technologies", "hq": "France", "tier": "large", "volume": null, "share": null, "use": "Major operator of wastewater treatment plants that must remove phosphorus (both detergent and agricultural runoff) via biological nutrient removal and chemical precipitation with iron or aluminum salts to prevent eutrophication of waterways." }
+      ]
+    }
+  ]
+}

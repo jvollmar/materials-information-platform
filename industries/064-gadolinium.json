@@ -1,0 +1,54 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "mri",
+      "name": "MRI Contrast Agents",
+      "icon": "🏥",
+      "share": "~60% of gadolinium use",
+      "uses": [
+        "Gadolinium-based contrast agents (GBCAs) are injected intravenously to enhance MRI imaging — Gd³⁺ has 7 unpaired electrons giving it the strongest paramagnetic effect of any stable element, dramatically shortening the T1 relaxation time of nearby water protons and brightening signal",
+        "GBCAs in clinical use include gadopentetate dimeglumine (Magnevist), gadobutrol (Gadovist/Gadavist), gadoterate meglumine (Dotarem), and gadoxetic acid (Primovist/Eovist) — used in brain, spine, vascular, cardiac, and liver imaging",
+        "Approximately 30 million GBCA-enhanced MRI procedures performed annually worldwide — gadolinium is the most widely administered metal in medicine by number of injections",
+        "Safety concerns: gadolinium deposition in brain and other tissues after repeated GBCA exposure has been documented — driving development of macrocyclic agents (more stable chelates) over linear agents and research into gadolinium-free MRI contrast",
+        "Gadolinium-based contrast agents chelated as DTPA, DOTA, or BOPTA complexes — free Gd³⁺ is highly toxic; tight chelation is essential for safety"
+      ],
+      "companies": [
+        { "name": "Bayer Radiology", "hq": "Germany", "tier": "major", "volume": null, "share": "~30% of GBCA market", "use": "Largest GBCA manufacturer. Produces Magnevist (linear gadopentetate) and Gadovist (macrocyclic gadobutrol) — combined the most widely used MRI contrast agents globally. Major consumer of gadolinium oxide for pharmaceutical synthesis." },
+        { "name": "Guerbet", "hq": "France", "tier": "major", "volume": null, "share": "~25% of GBCA market", "use": "Major MRI contrast agent manufacturer. Produces Dotarem (gadoterate meglumine, macrocyclic) — considered the safest GBCA due to its macrocyclic structure — and Artirem for cardiac and dynamic MRI applications." },
+        { "name": "GE Healthcare", "hq": "USA", "tier": "major", "volume": null, "share": "~20% of GBCA market", "use": "Major GBCA producer. Manufactures Omniscan (gadodiamide, linear) and Clariscan (gadoterate, macrocyclic). Also produces Primovist (gadoxetic acid) for hepatocyte-specific liver MRI with Bayer partnership." }
+      ]
+    },
+    {
+      "id": "nuclear",
+      "name": "Nuclear Reactor Control",
+      "icon": "⚛️",
+      "share": "~20% of gadolinium use",
+      "uses": [
+        "Gadolinium-155 and gadolinium-157 have the highest thermal neutron absorption cross-sections of all stable nuclides (61,000 and 255,000 barns respectively) — used as burnable neutron absorbers in nuclear fuel",
+        "Gadolinium oxide (Gd₂O₃) mixed into UO₂ nuclear fuel pellets as burnable poison: absorbs excess neutrons at beginning of fuel cycle, then burns away as fuel depletes — allows higher initial fuel enrichment without reactor control problems",
+        "Gadolinium shielding in neutron radiography and neutron tomography — thin gadolinium foil or gadolinium-doped scintillators convert neutrons to detectable photons for imaging",
+        "Gadolinium neutron capture therapy (GdNCT): experimental cancer treatment — gadolinium compounds concentrate in tumor tissue; thermal neutron irradiation causes nuclear decay products to destroy tumor cells locally"
+      ],
+      "companies": [
+        { "name": "Framatome", "hq": "France", "tier": "major", "volume": null, "share": "~30% of Western nuclear fuel market", "use": "Major nuclear fuel assembly manufacturer incorporating gadolinium oxide as burnable absorber in UO₂ fuel pellets for PWR reactors. Supplies Gd-bearing fuel to EDF French fleet and export customers worldwide." },
+        { "name": "Westinghouse Electric", "hq": "USA", "tier": "major", "volume": null, "share": "~35% of Western nuclear fuel market", "use": "Major nuclear fuel manufacturer using Gd₂O₃ burnable poison in fuel pellets for PWR and BWR reactors. Supplies gadolinium-bearing nuclear fuel to US and international nuclear power plants." }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "Magnetocaloric & Specialty Materials",
+      "icon": "🔬",
+      "share": "~20% of gadolinium use",
+      "uses": [
+        "Gadolinium metal has a Curie temperature of 20°C — at room temperature gadolinium undergoes a large magnetocaloric effect (temperature changes with applied magnetic field). Explored as solid refrigerant in near-room-temperature magnetic refrigeration systems",
+        "Gadolinium gallium garnet (GGG, Gd₃Ga₅O₁₂) as substrate for magneto-optical isolator films and as garnet scintillator crystals for PET and gamma detectors",
+        "Gadolinium iron garnet (GdIG) for magneto-optical devices, magneto-optical recording research, and microwave ferrite components",
+        "Gadolinium orthosilicate (GSO, Gd₂SiO₅:Ce) scintillator crystals for PET scanner detectors — offers fast decay time and good stopping power for 511 keV annihilation photons"
+      ],
+      "companies": [
+        { "name": "Saint-Gobain Crystals", "hq": "France", "tier": "major", "volume": null, "share": "~30% of scintillator crystal market", "use": "Produces gadolinium-based scintillator crystals including GSO and GAGG (Gd₃Al₂Ga₃O₁₂:Ce) for PET scanners, SPECT systems, and radiation detection instruments. Major consumer of high-purity gadolinium oxide." }
+      ]
+    }
+  ]
+}

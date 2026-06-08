@@ -1,0 +1,44 @@
+{
+  "dataTier": 1,
+  "industries": [
+    {
+      "id": "steel",
+      "name": "Steel Manufacturing",
+      "icon": "🏗️",
+      "share": "~98% of iron ore goes to steelmaking — iron is the backbone of the global industrial economy",
+      "uses": [
+        "Blast furnace ironmaking: iron ore (hematite Fe₂O₃, magnetite Fe₃O₄) reduced by coke (carbon) and hot air at 1500°C to produce liquid pig iron (~4.5% C, 0.1% Si, 0.5% Mn) — feedstock for basic oxygen furnace steelmaking",
+        "Basic oxygen furnace (BOF) steelmaking: oxygen blown through liquid pig iron oxidizes carbon, silicon, and phosphorus; lime slag absorbs impurities; molten steel tapped at ~1650°C. Produces ~70% of world steel",
+        "Electric arc furnace (EAF): recycled steel scrap melted by graphite electrode arcs at 3500°C — produces ~30% of world steel, rising as scrap availability increases and decarbonization incentivizes electricity-based routes",
+        "Direct reduced iron (DRI/sponge iron): iron ore reduced at 800–1100°C by natural gas (H₂ + CO from steam methane reforming) without melting — hydrogen DRI emerging as low-carbon steelmaking feedstock for EAF",
+        "World steel production exceeds 1.9 billion tonnes per year — more than all other metals combined by weight. China produces ~54% of global steel; the rest split among India, Japan, South Korea, Russia, and the US"
+      ],
+      "companies": [
+        { "name": "Vale", "hq": "Brazil", "tier": "major", "volume": "~300 Mt iron ore/yr", "share": "~20% of global seaborne iron ore trade", "use": "World's largest iron ore producer. Operates mines in the Carajás, Minas Gerais, and Mato Grosso do Sul systems in Brazil — Carajás is the world's largest iron ore mine. Ships ore to steelmakers in China, Japan, South Korea, and Europe." },
+        { "name": "Rio Tinto", "hq": "UK / Australia", "tier": "major", "volume": "~330 Mt iron ore/yr", "share": "~22% of global seaborne iron ore trade", "use": "World's largest iron ore exporter by volume. Operates the Pilbara iron ore system in Western Australia (Hamersley, Brockman, Channar, Yandicoogina mines) with its own rail and port infrastructure. Supplies primarily to Chinese steel mills." },
+        { "name": "BHP", "hq": "Australia", "tier": "major", "volume": "~280 Mt iron ore/yr", "share": "~19% of global seaborne iron ore trade", "use": "Second-largest iron ore exporter. Operates Pilbara mines (Newman, Area C, Jimblebar, Yandi) in Western Australia. Joint venture partner in Samarco (Brazil) — site of the catastrophic 2015 tailings dam collapse." },
+        { "name": "Fortescue Metals Group", "hq": "Australia", "tier": "major", "volume": "~190 Mt iron ore/yr", "share": "~13% of global seaborne iron ore trade", "use": "Fourth-largest iron ore producer. Operates Chichester, Solomon, and Western Hubs in the Pilbara. Aggressive green steel ambitions — investing in green hydrogen DRI as a low-carbon alternative to blast furnace ironmaking." },
+        { "name": "ArcelorMittal", "hq": "Luxembourg", "tier": "major", "volume": "~70 Mt iron ore/yr (captive) + ~80 Mt steel/yr", "share": "~4% of global crude steel production", "use": "World's largest steel producer outside China. Operates integrated ironmaking (blast furnaces and EAFs) in 18 countries. Major captive iron ore miner in Liberia, Canada, Mexico, and Kazakhstan." },
+        { "name": "Nippon Steel", "hq": "Japan", "tier": "major", "volume": null, "share": "~3% of global crude steel production", "use": "Japan's largest and world's fourth-largest steel company. Operates large blast furnace complexes at Kimitsu, Oita, and Nagoya. Agreed to acquire US Steel in 2023; major consumer of Australian and Brazilian iron ore." }
+      ]
+    },
+    {
+      "id": "cast-iron",
+      "name": "Cast Iron & Foundry Products",
+      "icon": "⚙️",
+      "share": "~2% of iron ore use — separately from flat and long steel",
+      "uses": [
+        "Gray cast iron (flake graphite): engine blocks, cylinder heads, brake discs, rotors, and machine tool beds — excellent vibration damping and machinability; lower cost than steel for complex shapes",
+        "Ductile (nodular) iron (spheroidal graphite iron, SGI): ductile pipes for water and gas distribution, wind turbine hubs, heavy vehicle rear axle housings, and agricultural equipment — strength approaching mild steel with excellent machinability",
+        "White cast iron (ledeburite microstructure): extremely hard and brittle; used for grinding balls, wear plates, and pump impellers in mineral processing where abrasion resistance is paramount",
+        "Malleable iron: annealed white iron used for pipe fittings, valve bodies, and automotive brackets — intermediate between gray and ductile iron in mechanical properties",
+        "Investment and sand casting of iron for complex shapes: pump housings, valve bodies, compressor casings, and agricultural machinery components"
+      ],
+      "companies": [
+        { "name": "Georg Fischer (GF Casting Solutions)", "hq": "Switzerland", "tier": "major", "volume": null, "share": "~5% of European automotive iron casting market", "use": "Major producer of iron and aluminum castings for automotive powertrains, chassis, and structural components. Produces lightweight ductile iron knuckles, control arms, and brake calipers for European OEMs." },
+        { "name": "Waupaca Foundry (Hitachi Metals)", "hq": "USA", "tier": "major", "volume": null, "share": "~10% of US gray and ductile iron casting market", "use": "Largest gray and ductile iron foundry in North America. Produces engine blocks, cylinder heads, brake components, and heavy truck parts for automotive OEMs and Tier 1 suppliers." },
+        { "name": "Saint-Gobain PAM", "hq": "France", "tier": "major", "volume": "~1 Mt ductile iron pipe/yr", "share": "~25% of European ductile iron pipe market", "use": "Major producer of ductile iron pipes, fittings, and valves for water and gas distribution infrastructure. Supplies municipal water utilities across Europe, Middle East, and Africa." }
+      ]
+    }
+  ]
+}

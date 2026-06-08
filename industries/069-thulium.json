@@ -1,0 +1,36 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "medical",
+      "name": "Medical Lasers & Imaging",
+      "icon": "🏥",
+      "share": "~55% of thulium use",
+      "uses": [
+        "Tm:YAG and Tm:fiber lasers at 2013nm: an emerging surgical laser wavelength combining the advantages of Ho:YAG (2100nm) and Er:YAG (2940nm) — superior tissue ablation efficiency with lower peak power requirements. Used in urology for transurethral resection of the prostate (ThuLEP) and kidney stone ablation",
+        "Thulium fiber laser (TFL) at 1940nm for holmium stone ablation fragmentation: TFL achieves superior stone dusting compared to Ho:YAG with a more flexible fiber — rapidly displacing holmium as the standard for urological laser lithotripsy",
+        "Thulium-170 (¹⁷⁰Tm, t½ = 128.6 days, beta emitter) as radiation source in portable X-ray machines for field radiography — requires no electrical power, useful for medical imaging in remote locations and in developing-world field hospitals",
+        "Tm³⁺-doped fiber amplifiers for 1900–2100nm wavelength range — expanding fiber optic amplification to the short-wave infrared (SWIR) band for next-generation optical communications and sensing"
+      ],
+      "companies": [
+        { "name": "IPG Photonics", "hq": "USA", "tier": "major", "volume": null, "share": "~30% of global fiber laser market", "use": "World's largest fiber laser manufacturer. Produces thulium-doped fiber lasers at 1940nm and 2013nm for medical, materials processing, and scientific applications. Its TLR-series Tm-fiber lasers are used in urology and soft tissue surgery." },
+        { "name": "Quanta System", "hq": "Italy", "tier": "large", "volume": null, "share": "~15% of urological laser market", "use": "Major medical laser company producing Tm:YAG and Ho:YAG laser systems for urological procedures including kidney stone lithotripsy and prostate surgery. Produces the CYBER TM thulium laser system for urological applications." }
+      ]
+    },
+    {
+      "id": "specialty",
+      "name": "Specialty Applications",
+      "icon": "🔬",
+      "share": "~45% of thulium use",
+      "uses": [
+        "Thulium oxide (Tm₂O₃) as an infrared transmitting material — thulium compounds transmit in the 2–5 μm mid-infrared region used in chemical sensing and environmental monitoring",
+        "Thulium-doped upconverting nanoparticles (UCNPs): Tm³⁺ produces blue and UV upconversion emission under 980nm NIR excitation — used in bioimaging, multiphoton microscopy, and anti-counterfeiting inks visible only under NIR illumination",
+        "Thulium in specialty alloys: added to nickel superalloys in small amounts to improve high-temperature oxidation resistance in gas turbine applications",
+        "Thulium is one of the least abundant and most expensive naturally occurring lanthanides — global production is only a few tonnes per year, limiting commercial applications to high-value niches"
+      ],
+      "companies": [
+        { "name": "Luminova / NanoHorizons", "hq": "USA", "tier": "small", "volume": null, "share": null, "use": "Produces thulium-containing upconverting nanoparticles for bioimaging, diagnostic assay, and anti-counterfeiting applications using Tm³⁺/Yb³⁺ co-doped systems that emit blue and UV light under near-infrared excitation." }
+      ]
+    }
+  ]
+}

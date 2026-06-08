@@ -1,0 +1,24 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "nuclear-medicine",
+      "name": "Nuclear Medicine Imaging",
+      "icon": "🏥",
+      "share": "~95% of technetium use — essentially the only commercial application",
+      "uses": [
+        "Technetium-99m (⁹⁹ᵐTc, metastable isomer, t½ = 6.01 hours) is the world's most widely used medical radioisotope — involved in approximately 40 million diagnostic nuclear medicine procedures annually worldwide",
+        "⁹⁹ᵐTc gamma emission at 140 keV is nearly ideal for gamma camera (SPECT) imaging: energetic enough to escape tissue, low enough to be efficiently detected by NaI(Tl) scintillation detectors, and short enough half-life to minimize patient radiation dose",
+        "Bone scans (⁹⁹ᵐTc-MDP): detects bone metastases, fractures, and osteomyelitis — the most common nuclear medicine procedure globally, used in cancer staging and orthopedic diagnosis",
+        "Myocardial perfusion imaging (⁹⁹ᵐTc-sestamibi, Cardiolite): assesses coronary artery disease and cardiac blood flow; used alongside stress testing to identify regions of ischemia in the heart",
+        "⁹⁹ᵐTc is produced from molybdenum-99 (⁹⁹Mo, t½ = 66 hours) generators — hospitals elute ⁹⁹ᵐTc from the generator column daily as sodium pertechnetate, then kit-label with various targeting ligands for specific organ imaging"
+      ],
+      "companies": [
+        { "name": "SHINE Medical Technologies", "hq": "USA", "tier": "large", "volume": null, "share": "~10% of global Mo-99 supply", "use": "US-based Mo-99 producer using accelerator-based neutron irradiation of uranium solution — a non-reactor method providing domestic US supply of Mo-99 for Tc-99m generators. Reduces US dependence on aging foreign research reactors." },
+        { "name": "NorthStar Medical Radioisotopes", "hq": "USA", "tier": "large", "volume": null, "share": "~10% of global Mo-99 supply", "use": "Produces Mo-99 using neutron capture on stable Mo-98 targets in research reactors — carrier-added Mo-99 with lower specific activity. Supplies US domestic Tc-99m generator market as an alternative to foreign reactor supply." },
+        { "name": "IRE (Institut National des Radioéléments)", "hq": "Belgium", "tier": "major", "volume": null, "share": "~25% of global Mo-99 supply", "use": "Major European Mo-99 producer using fission of highly enriched uranium (HEU) targets irradiated in the BR2 research reactor at SCK-CEN, Mol, Belgium. Supplies Mo-99 to Tc-99m generator manufacturers across Europe and globally." },
+        { "name": "Curium (formerly IBA Molecular / Mallinckrodt)", "hq": "France / USA", "tier": "major", "volume": null, "share": "~30% of global Tc-99m generator market", "use": "Major nuclear medicine radiopharmaceutical company. Manufactures Tc-99m generators (TechneLite, Drytec) distributed to hospitals for daily elution of Tc-99m for bone, cardiac, and other diagnostic imaging procedures." }
+      ]
+    }
+  ]
+}

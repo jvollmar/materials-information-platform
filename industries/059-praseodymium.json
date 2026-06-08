@@ -1,0 +1,52 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "magnets",
+      "name": "Permanent Magnets (NdFeB)",
+      "icon": "🧲",
+      "share": "~60% of praseodymium use",
+      "uses": [
+        "Praseodymium substitutes for neodymium in NdFeB permanent magnets — PrFeB has comparable magnetic properties to NdFeB and Pr-Nd mixed metal (didymium) is used interchangeably with pure neodymium in many magnet grades",
+        "Didymium (Nd-Pr alloy) from rare earth separation is used directly in magnet production without further separation — economically advantageous since Nd-Pr separation is costly and often unnecessary",
+        "Pr addition to NdFeB magnets improves corrosion resistance and can enhance magnetic properties in certain temperature ranges — some premium magnet grades specify minimum praseodymium content",
+        "Growing demand for NdFeB magnets in EV traction motors, wind turbine generators, and consumer electronics drives proportional demand for praseodymium alongside neodymium"
+      ],
+      "companies": [
+        { "name": "Shin-Etsu Chemical", "hq": "Japan", "tier": "major", "volume": null, "share": "~25% of sintered NdFeB magnet market", "use": "World's largest NdFeB magnet producer. Consumes significant praseodymium (as didymium alloy with neodymium) in magnet production. Supplies high-performance NdFeB magnets for EV motors, wind turbines, and consumer electronics." },
+        { "name": "TDK Corporation", "hq": "Japan", "tier": "major", "volume": null, "share": "~15% of sintered NdFeB magnet market", "use": "Major NdFeB magnet manufacturer using Nd-Pr mixed metal in its NEOREC and NEODELTA magnet grades for automotive, industrial, and consumer electronics applications." }
+      ]
+    },
+    {
+      "id": "glass-ceramics",
+      "name": "Glass Coloring & Ceramics",
+      "icon": "🎨",
+      "share": "~20% of praseodymium use",
+      "uses": [
+        "Praseodymium oxide (Pr₆O₁₁) produces a bright, clean yellow-green color in ceramic glazes and glass — used in ceramic tile colorants (praseodymium yellow, Pr-Zr yellow) for high-temperature stable yellow glazes on floor and wall tiles",
+        "Pr-doped zirconium silicate (Pr:ZrSiO₄) yellow ceramic pigment: one of the most widely used inorganic yellow pigments in ceramic tiles — stable to 1300°C, lightfast, and chemically inert",
+        "Praseodymium in welder's goggles glass: didymium glass (Nd+Pr) absorbs the intense yellow sodium D-line emission (589nm) from glass-blowing flames — standard protective filter for glassblowers and lampworkers",
+        "Praseodymium-doped fiber amplifiers (Pr-PDFA) for 1300nm optical fiber amplification — largely superseded by erbium-doped fiber amplifiers (EDFA) at 1550nm in modern telecom systems"
+      ],
+      "companies": [
+        { "name": "Ferro Corporation (Prince International)", "hq": "USA", "tier": "large", "volume": null, "share": "~15% of ceramic pigment market", "use": "Major ceramic pigment manufacturer producing praseodymium yellow (Pr:ZrSiO₄) and other rare earth-based inorganic pigments for the ceramic tile industry. Supplies yellow, green, and specialty pigments to tile manufacturers in Spain, Italy, China, and Brazil." },
+        { "name": "Endeka Ceramics", "hq": "Spain", "tier": "large", "volume": null, "share": "~12% of European ceramic pigment market", "use": "Major European ceramic pigment producer making Pr-Zr yellow, green, and specialty rare earth pigments for Spanish, Italian, and global ceramic tile manufacturers." }
+      ]
+    },
+    {
+      "id": "alloys",
+      "name": "Specialty Alloys & Catalysts",
+      "icon": "⚗️",
+      "share": "~20% of praseodymium use",
+      "uses": [
+        "Praseodymium in misch metal (Ce-La-Pr-Nd alloy) used as pyrophoric lighter flint material — the original commercial use of rare earths (Carl Auer von Welsbach, 1903). Misch metal flints spark when struck, used in cigarette lighters and survival strikers",
+        "Praseodymium alloyed with magnesium: Mg-Pr alloys (Elektron 21, WE54) for lightweight aerospace castings requiring elevated temperature strength — used in helicopter gearboxes, aircraft seat frames, and racing car gearbox housings",
+        "Praseodymium oxide as catalyst promoter in three-way automotive catalysts — similar role to cerium, providing supplementary oxygen storage and improving catalyst efficiency",
+        "Praseodymium cobalt (PrCo₅) permanent magnets for high-temperature applications above the range of NdFeB — used in high-temperature sensors and actuators"
+      ],
+      "companies": [
+        { "name": "Magnesium Elektron (Luxfer Holdings)", "hq": "UK", "tier": "large", "volume": null, "share": "~20% of aerospace Mg alloy market", "use": "Specialist magnesium alloy and product company producing Elektron 21 (Mg-Nd-Pr-Zr) high-temperature magnesium casting alloy for aerospace applications including helicopter gearbox housings and aerospace structural castings." }
+      ]
+    }
+  ]
+}

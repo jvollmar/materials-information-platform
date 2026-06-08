@@ -1,0 +1,54 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "atomic-clocks",
+      "name": "Atomic Clocks & GPS Infrastructure",
+      "icon": "⏱️",
+      "share": "~50% of cesium use",
+      "uses": [
+        "Cesium-133 hyperfine transition at 9.192631770 GHz is the SI definition of the second since 1967 — the most precisely defined physical unit. Cesium beam and cesium fountain atomic clocks are the primary standards against which all other timekeeping is calibrated",
+        "GPS satellite constellation: each GPS satellite carries multiple cesium and rubidium atomic clocks — cesium provides the primary frequency standard for the GPS navigation message. Accurate GPS requires atomic clock stability better than 1 part in 10¹³",
+        "National standards laboratories (NIST, PTB, NPL, BIPM) maintain cesium fountain primary frequency standards that define UTC (Coordinated Universal Time) — achieving accuracy of ~1 second in 300 million years",
+        "Telecommunications network synchronization: cesium oscillators at central office locations provide traceable time standards for SONET/SDH and 5G network timing nodes",
+        "Cesium atomic clocks in submarine navigation (INS), military communications, and electronic warfare systems requiring precise timing independent of GPS"
+      ],
+      "companies": [
+        { "name": "Microchip Technology (Microsemi)", "hq": "USA", "tier": "major", "volume": null, "share": "~50% of cesium atomic clock market", "use": "World's dominant cesium atomic clock manufacturer. Produces the 5071A cesium beam frequency standard — the gold-standard laboratory and GPS ground station clock. Also produces cesium clocks for military and telecom timing applications." },
+        { "name": "Oscilloquartz (ADVA)", "hq": "Switzerland", "tier": "large", "volume": null, "share": "~15% of precision timing market", "use": "Major telecom timing and synchronization equipment supplier. Uses cesium and rubidium atomic oscillators in its SYNC network timing servers for 5G, LTE, and fiber network synchronization at carrier-grade precision." }
+      ]
+    },
+    {
+      "id": "drilling",
+      "name": "Oil & Gas Drilling Fluids",
+      "icon": "🛢️",
+      "share": "~30% of cesium use",
+      "uses": [
+        "Cesium formate (CsHCOO) brine is the densest clear completion fluid available — cesium formate solutions reach densities up to 2.3 g/cm³ without suspended solids, providing wellbore pressure control at extreme depths where conventional brines are insufficient",
+        "Used in high-pressure, high-temperature (HPHT) wells in the North Sea, Gulf of Mexico deepwater, and Caspian Sea where formation pressures exceed capabilities of zinc bromide or calcium bromide brines",
+        "Cesium formate is biodegradable and minimally toxic — can be discharged offshore without environmental treatment required for heavy metal brines. Also recoverable and recyclable, reducing cost per well despite high cesium content",
+        "Typical HPHT well requires 200–400 tonnes of cesium formate solution — representing significant cesium metal equivalent and cost"
+      ],
+      "companies": [
+        { "name": "Cabot Specialty Fluids (Cabot Corporation)", "hq": "USA", "tier": "major", "volume": null, "share": "~90% of cesium formate drilling fluid market", "use": "World's dominant cesium formate drilling fluid producer — essentially a monopoly supplier. Processes cesium from Tanco mine pollucite ore and from Cabot's proprietary sources. Supplies CSBF (cesium-saturated brine fluid) to HPHT well operators globally and recycles used fluid for resale." },
+        { "name": "Sinomine Resource Group", "hq": "China", "tier": "large", "volume": null, "share": "~70% of world cesium mineral production", "use": "Operates the Tanco mine in Manitoba, Canada (acquired from Cabot) — the world's largest and richest pollucite (cesium ore) deposit. Also developing cesium mining in Zimbabwe. Primary global cesium ore supplier." }
+      ]
+    },
+    {
+      "id": "specialty",
+      "name": "Specialty Chemicals & Research",
+      "icon": "🔬",
+      "share": "~20% of cesium use",
+      "uses": [
+        "Cesium carbonate (Cs₂CO₃) as a strong, non-nucleophilic base in organic synthesis — preferred over potassium carbonate for sensitive substrates in pharmaceutical and fine chemical manufacturing",
+        "Cesium iodide (CsI) and cesium bromide (CsBr) scintillator crystals for radiation detection in medical imaging (CT detector arrays), gamma cameras, and security screening systems — CsI(Tl) is the standard scintillator in digital X-ray flat-panel detectors",
+        "Cesium vapor in magnetooptical traps and atom interferometers for quantum sensing, inertial navigation research, and fundamental physics experiments measuring the fine structure constant",
+        "Photoelectric emission: cesium's exceptionally low work function (2.1 eV) makes it ideal for photocathodes in photomultiplier tubes, image intensifiers (night vision), and streak cameras — cesium antimonide (Cs₃Sb) is the standard bialkali photocathode material"
+      ],
+      "companies": [
+        { "name": "Saint-Gobain Crystals", "hq": "France", "tier": "major", "volume": null, "share": "~30% of scintillator crystal market", "use": "World's largest scintillator crystal manufacturer. Produces CsI(Tl) and CsI(Na) cesium iodide crystals for X-ray flat panel detectors, PET scanners, gamma cameras, and security screening equipment globally." },
+        { "name": "Hamamatsu Photonics", "hq": "Japan", "tier": "major", "volume": null, "share": "~40% of photomultiplier tube market", "use": "World's largest photomultiplier tube manufacturer. Uses cesium-containing bialkali (Cs-Sb-K) photocathodes in PMTs for medical PET/SPECT scanners, particle physics detectors, and fluorescence measurement instruments." }
+      ]
+    }
+  ]
+}

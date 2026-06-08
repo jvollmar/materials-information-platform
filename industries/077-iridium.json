@@ -1,0 +1,54 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "spark-plugs",
+      "name": "Spark Plugs & Ignition Systems",
+      "icon": "🚗",
+      "share": "~50% of iridium use",
+      "uses": [
+        "Iridium spark plug electrodes: fine-wire iridium or iridium-rhodium alloy center electrode tips (0.4–0.6mm diameter) in premium spark plugs provide exceptional wear resistance — iridium's melting point (2446°C) and hardness prevent electrode erosion from repeated spark discharge",
+        "Iridium spark plugs last 100,000–160,000 km versus 30,000–50,000 km for copper plugs and 60,000 km for platinum — premium longevity justifying iridium's higher cost in modern vehicles",
+        "Double iridium spark plugs (iridium center and iridium ground electrode) becoming standard equipment in high-performance and direct-injection gasoline engines where cylinder pressures demand greater electrode durability",
+        "Aircraft piston engine spark plugs: aviation spark plugs use iridium-alloy electrodes to ensure reliability over thousands of flight hours in aircraft engines certified for extended TBO (time between overhaul)"
+      ],
+      "companies": [
+        { "name": "NGK Spark Plug (NGK Ignition Parts)", "hq": "Japan", "tier": "major", "volume": null, "share": "~40% of global spark plug market", "use": "World's largest spark plug manufacturer and major iridium consumer. Produces Iridium IX and Laser Iridium premium spark plugs with fine-wire iridium-alloy electrodes. Consumes significant iridium annually across billions of spark plugs produced." },
+        { "name": "Denso Corporation", "hq": "Japan", "tier": "major", "volume": null, "share": "~25% of global spark plug market", "use": "Major spark plug manufacturer producing Iridium Power and Iridium TT premium spark plugs with iridium center electrodes for OEM installation and aftermarket replacement in vehicles globally." },
+        { "name": "Robert Bosch GmbH", "hq": "Germany", "tier": "large", "volume": null, "share": "~15% of global spark plug market", "use": "Major spark plug producer. Produces Iridium Fusion spark plugs with iridium-alloyed center electrodes for extended service intervals in European and North American automotive markets." }
+      ]
+    },
+    {
+      "id": "electrodes",
+      "name": "Industrial Electrodes & Chemical Processing",
+      "icon": "⚗️",
+      "share": "~30% of iridium use",
+      "uses": [
+        "Iridium oxide (IrO₂) and Ir-Ru mixed oxide coatings on titanium electrodes for proton exchange membrane (PEM) water electrolysis for green hydrogen production — iridium is the only practically usable anode catalyst for oxygen evolution in the acidic PEM environment",
+        "IrO₂ dimensionally stable anodes (DSA) for chlor-alkali electrolysis producing chlorine and caustic soda — iridium provides higher efficiency and corrosion resistance than ruthenium-only coatings in the most demanding chlor-alkali applications",
+        "Iridium crucibles for crystal growth of laser and scintillator crystals (YAG, LGS, BGO) at temperatures above platinum's limit — iridium's 2446°C melting point and oxidation resistance enable crystal growth above 1800°C",
+        "Electrochlorination systems using IrO₂-coated electrodes for on-site hypochlorite generation — water treatment, ballast water treatment, and pool disinfection"
+      ],
+      "companies": [
+        { "name": "Nel Hydrogen (Nel ASA)", "hq": "Norway", "tier": "large", "volume": null, "share": "~10% of PEM electrolyzer market", "use": "Major PEM electrolyzer manufacturer for green hydrogen production. Uses IrO₂-coated titanium electrodes (iridium loading ~2–3 mg/cm²) as the anode catalyst for the oxygen evolution reaction in acidic PEM electrolyte." },
+        { "name": "ITM Power", "hq": "UK", "tier": "large", "volume": null, "share": "~8% of PEM electrolyzer market", "use": "Major PEM electrolyzer manufacturer. Uses iridium-based anode electrocatalysts in its HGAS and HEVO PEM electrolyzer stacks for green hydrogen production at industrial scale." }
+      ]
+    },
+    {
+      "id": "specialty",
+      "name": "Specialty Alloys & Standards",
+      "icon": "🔬",
+      "share": "~20% of iridium use",
+      "uses": [
+        "Platinum-iridium (90Pt-10Ir) alloy was the material of the International Prototype Kilogram (IPK) — the definition of the kilogram from 1889 to 2019. Iridium hardened platinum for the standard without affecting its chemical inertness",
+        "Iridium-192 (¹⁹²Ir, t½ = 73.8 days) as a gamma radiography source for industrial NDT (non-destructive testing) of welds, pipelines, and castings — the most widely used industrial gamma source for weld inspection in oil & gas, aerospace, and construction",
+        "Iridium-192 brachytherapy seeds for prostate cancer and other localized tumor treatment — high-dose-rate (HDR) brachytherapy using ¹⁹²Ir afterloading systems",
+        "Os-Ir and Pt-Ir alloys for geodetic survey instruments, compass bearings, and precision scientific weights requiring dimensional stability and corrosion resistance"
+      ],
+      "companies": [
+        { "name": "GE Inspection Technologies (Baker Hughes)", "hq": "USA", "tier": "major", "volume": null, "share": "~25% of industrial NDT market", "use": "Major industrial radiography equipment and source supplier. Provides ¹⁹²Ir gamma sources in sealed source form for weld inspection of offshore pipelines, refinery pressure vessels, and structural steel welds globally." },
+        { "name": "Eckert & Ziegler", "hq": "Germany", "tier": "large", "volume": null, "share": "~20% of ¹⁹²Ir brachytherapy market", "use": "Major medical isotope producer manufacturing ¹⁹²Ir HDR brachytherapy sources for prostate cancer, cervical cancer, and other localized tumor treatment at hospitals and cancer centers globally." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "electronics",
+      "name": "Electronics & Semiconductors",
+      "icon": "💻",
+      "share": "~45% of thallium use",
+      "uses": [
+        "Thallium bromide-iodide (TlBr, TlI, KRS-5: TlBr₀.₄₆I₀.₅₄) infrared-transmitting crystals for IR spectroscopy windows and optical elements — transmit from 0.5 to 40 μm, covering a wider IR range than germanium or ZnSe",
+        "Thallium-activated sodium iodide NaI(Tl) scintillator crystals: the universal gamma detection material used in radiation monitoring instruments, nuclear medicine gamma cameras, and survey meters — Tl doping provides the scintillation efficiency and emission wavelength matched to photomultiplier tubes",
+        "Thallium-doped cesium iodide CsI(Tl) scintillator for X-ray flat panel detectors in digital radiography — produces green light emission well-matched to photodiode sensitivity, the dominant flat-panel X-ray detector scintillator",
+        "High-temperature superconductors: thallium barium calcium copper oxide (Tl-BCCO, Tl₂Ba₂Ca₂Cu₃O₁₀) has one of the highest critical temperatures among cuprate superconductors (~127K) — research material for understanding superconducting mechanism"
+      ],
+      "companies": [
+        { "name": "Saint-Gobain Crystals", "hq": "France", "tier": "major", "volume": null, "share": "~30% of NaI(Tl) crystal market", "use": "World's largest producer of NaI(Tl) and CsI(Tl) scintillator crystals. Grows large-volume NaI(Tl) crystals for nuclear medicine gamma cameras, radiation portal monitors, and survey instruments. Major thallium consumer for crystal doping." },
+        { "name": "Amcrys-H", "hq": "Ukraine", "tier": "large", "volume": null, "share": "~20% of scintillator crystal market", "use": "Major producer of NaI(Tl) and CsI(Tl) scintillator crystals for radiation detection, medical imaging, and industrial measurement applications. Supplies crystals to detector manufacturers globally." }
+      ]
+    },
+    {
+      "id": "medical",
+      "name": "Medical Imaging",
+      "icon": "🏥",
+      "share": "~30% of thallium use",
+      "uses": [
+        "Thallium-201 (²⁰¹Tl, t½ = 73 hours) cardiac SPECT imaging: thallium mimics potassium, concentrating in viable myocardial cells proportional to blood flow — used for myocardial perfusion imaging to detect coronary artery disease. Being replaced by Tc-99m sestamibi but still used at facilities without cyclotrons",
+        "²⁰¹Tl produced by proton bombardment of stable ²⁰³Tl in a cyclotron — thallium-201 is one of the few cyclotron-produced radioisotopes still in routine clinical use",
+        "Thallium stress testing: ²⁰¹Tl injected at peak exercise (or pharmacological stress) concentrates in perfused myocardium; redistribution images show ischemic but viable zones distinguishable from infarcted tissue"
+      ],
+      "companies": [
+        { "name": "Lantheus Holdings", "hq": "USA", "tier": "major", "volume": null, "share": "~30% of US nuclear cardiology market", "use": "Major nuclear medicine imaging agent company. Produces ²⁰¹Tl chloride for cardiac SPECT myocardial perfusion imaging. Also produces ⁹⁹ᵐTc-based agents that are gradually displacing thallium in many centers." }
+      ]
+    },
+    {
+      "id": "specialty",
+      "name": "Specialty Glass & Research",
+      "icon": "🔬",
+      "share": "~25% of thallium use",
+      "uses": [
+        "Thallium oxide in specialty optical glass formulations: increases refractive index without increasing dispersion in infrared-transmitting chalcogenide and heavy metal oxide glasses",
+        "Thallium formate and malonate solutions as dense liquids (density up to 4.3 g/cm³) for float separation of dense minerals in geological and ore beneficiation research",
+        "Thallium is highly toxic (comparable to lead and arsenic) — strict regulatory controls limit uses and require careful handling. Its toxicity historically led to use as rat poison and depilatory, now banned in most countries"
+      ],
+      "companies": [
+        { "name": "Sigma-Aldrich (Merck KGaA)", "hq": "USA / Germany", "tier": "large", "volume": null, "share": null, "use": "Major supplier of thallium compounds (thallium nitrate, thallium acetate, thallium chloride) for research, analytical chemistry, and specialty glass preparation. Supplies controlled thallium reagents to qualified research and industrial customers." }
+      ]
+    }
+  ]
+}

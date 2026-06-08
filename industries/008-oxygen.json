@@ -1,0 +1,283 @@
+{
+  "dataTier": 1,
+  "industries": [
+    {
+      "id": "o-steel",
+      "name": "Steel Manufacturing (Basic Oxygen Furnace)",
+      "icon": "🏭",
+      "share": "~55% of all industrial oxygen production",
+      "uses": [
+        "The BOF (basic oxygen furnace — also called the LD converter after Linz-Donawitz, Austria where it was commercialized in 1952) blows a supersonic jet of >99.5% pure O₂ (oxygen) through a water-cooled lance into liquid pig iron, burning carbon from 4.5% down to <0.1% in 20–40 minutes without external fuel",
+        "EAF (electric arc furnace — a steelmaking furnace that melts scrap using electrical arcs between graphite electrodes and the metal bath) uses sidewall oxygen lances and oxy-fuel burners to increase bath temperature, reduce electrical energy use by 10–15%, and accelerate slag foaming",
+        "AOD (argon oxygen decarburization — a converter using argon-oxygen gas mixtures injected through bottom tuyeres) refines liquid stainless steel to below 0.05% carbon without oxidizing the chromium content — essential for all stainless steel grades from 304 to 316",
+        "Blast furnace O₂ enrichment: each 1% increase in blast oxygen concentration boosts iron production ~4% and reduces coke consumption — allowing existing blast furnace capital equipment to achieve higher throughput"
+      ],
+      "companies": [
+        {
+          "name": "China Baowu Steel",
+          "hq": "China",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "World's largest steelmaker and the world's single largest industrial O₂ (oxygen) consumer. Operates dozens of dedicated on-site ASU (air separation unit) plants at its Wuhan, Shanghai, and Zhangjiagang integrated steelmaking complexes."
+        },
+        {
+          "name": "ArcelorMittal",
+          "hq": "Luxembourg",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "World's second-largest steelmaker. Sources O₂ (oxygen) under long-term tolling agreements from Linde and Air Liquide, who build and operate dedicated ASU (air separation unit) plants adjacent to ArcelorMittal integrated steel mills under 15–25 year contracts."
+        },
+        {
+          "name": "Linde plc",
+          "hq": "UK/Ireland",
+          "tier": "major",
+          "volume": "~55M t O₂/yr distributed",
+          "share": "~28% of global industrial gas market",
+          "use": "World's largest O₂ (oxygen) producer and supplier. Builds and operates on-site ASU (air separation unit) plants at steel mills under multi-decade supply contracts. Also supplies liquid oxygen for medical, water treatment, and cutting applications."
+        },
+        {
+          "name": "Air Liquide",
+          "hq": "France",
+          "tier": "major",
+          "volume": "~45M t O₂/yr distributed",
+          "share": "~25% of global industrial gas market",
+          "use": "Major O₂ producer and distributor to global steel, petrochemical, and medical industries. Operates 750+ ASU (air separation unit) plants worldwide. World's largest medical oxygen company — provides home O₂ therapy to 1.5 million respiratory patients in Europe."
+        },
+        {
+          "name": "Air Products",
+          "hq": "USA",
+          "tier": "major",
+          "volume": null,
+          "share": "~18% of global industrial gas market",
+          "use": "Major O₂ supplier to steel mills, petrochemical plants, and glass furnaces. Builds large dedicated ASU (air separation unit) plants at integrated steel facilities. Also supplies rocket-grade LOX (liquid oxygen) to space launch customers including NASA."
+        },
+        {
+          "name": "Nippon Steel",
+          "hq": "Japan",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Japan's largest steelmaker and a major O₂ (oxygen) consumer in BOF (basic oxygen furnace) steelmaking at Yawata, Kimitsu, and Oita integrated steelworks. Operates on-site ASU (air separation unit) plants co-located with each blast furnace complex."
+        }
+      ]
+    },
+    {
+      "id": "o-chemical",
+      "name": "Chemical & Petrochemical Manufacturing",
+      "icon": "🧪",
+      "share": "~25% of industrial oxygen production",
+      "uses": [
+        "Partial oxidation of CH₄ (methane) or naphtha with pure O₂ (oxygen) produces syngas (CO + H₂ — synthesis gas, a mixture of carbon monoxide and hydrogen used as feedstock for methanol, Fischer-Tropsch synthetic diesel, and NH₃ — ammonia synthesis after hydrogen purification)",
+        "Ethylene oxide (EO) synthesis: C₂H₄ (ethylene) + ½O₂ → C₂H₄O (ethylene oxide) over a silver catalyst — EO is the precursor to ethylene glycol (antifreeze and polyester PET — polyethylene terephthalate resin) and PEG (polyethylene glycol — a pharmaceutical excipient and industrial lubricant)",
+        "Oxy-fuel combustion in glass melting furnaces, cement rotary kilns, and paper mill recovery boilers replaces air combustion with pure O₂, reducing natural gas fuel consumption 20–30% and dramatically cutting NOₓ (nitrogen oxide) emissions",
+        "The Claus process partially oxidizes H₂S (hydrogen sulfide — the toxic acid gas removed from natural gas and crude oil in sweetening plants) with O₂ to recover elemental sulfur and water — preventing H₂S release and producing a valuable sulfur product"
+      ],
+      "companies": [
+        {
+          "name": "BASF SE",
+          "hq": "Germany",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "World's largest chemical company. Major O₂ (oxygen) consumer for partial oxidation reactions producing syngas (CO + H₂), methanol, and chemical intermediates at its Verbund integrated sites in Ludwigshafen and Antwerp. Operates on-site ASU (air separation unit) plants."
+        },
+        {
+          "name": "LyondellBasell",
+          "hq": "Netherlands/USA",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "World's largest polyethylene and polypropylene producer. Manufactures EO (ethylene oxide) via direct O₂ oxidation of ethylene using silver catalysts at its Channelview, Texas and European facilities — EO is the gateway to ethylene glycol and polyester PET."
+        },
+        {
+          "name": "Dow",
+          "hq": "USA",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "Major chemicals company consuming O₂ for PO (propylene oxide — precursor to polyurethane foam) production via the HPPO (hydrogen peroxide to propylene oxide — a cleaner, oxygen-based route) and PO/SM (styrene monomer coproduction) processes at global sites."
+        },
+        {
+          "name": "Shell Chemicals",
+          "hq": "Netherlands",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Produces EO (ethylene oxide) and MEG (monoethylene glycol — antifreeze and polyester resin precursor) via O₂ direct oxidation of ethylene at the SEOP (Shell Eastern Olefins Project) in Singapore and other global chemical facilities."
+        },
+        {
+          "name": "Air Products",
+          "hq": "USA",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "Supplies O₂ (oxygen) to petrochemical partial oxidation plants, glass furnaces, and gasification plants (where coal or petroleum coke reacts with O₂ to produce syngas — CO + H₂ — for chemicals or electricity generation). Builds industrial-scale gasification O₂ supply systems."
+        }
+      ]
+    },
+    {
+      "id": "o-medical",
+      "name": "Medical & Healthcare",
+      "icon": "🏥",
+      "share": "~5% of oxygen production",
+      "uses": [
+        "Supplemental O₂ therapy for acute and chronic respiratory conditions: COPD (chronic obstructive pulmonary disease), COVID-19 pneumonia, cardiac pulmonary edema, and post-surgical recovery — delivered via nasal cannula at 1–6 L/min or high-flow Venturi mask at precisely calibrated concentrations",
+        "Mechanical ventilator O₂ delivery in ICU (intensive care unit — hospital critical care wards) settings for patients unable to breathe independently — COVID-19 dramatically highlighted the fragility of medical O₂ supply chains in low- and middle-income countries",
+        "HBO (hyperbaric oxygen therapy — treatment in a sealed chamber pressurized to 2–3 atmospheres of 100% oxygen) treats decompression sickness, CO (carbon monoxide) poisoning, diabetic foot ulcers, and radionecrosis by hyperoxygenating compromised tissues",
+        "Anesthesia delivery systems blend medical O₂ with N₂O (nitrous oxide — a gaseous anesthetic) and volatile agents (sevoflurane, isoflurane, desflurane — all fluorinated ether compounds) to maintain surgical general anesthesia"
+      ],
+      "companies": [
+        {
+          "name": "Air Liquide Healthcare",
+          "hq": "France",
+          "tier": "major",
+          "volume": null,
+          "share": "~30% of European medical oxygen market",
+          "use": "World's largest medical gas company. Provides home O₂ therapy to 1.5 million COPD and respiratory patients in Europe. Manages PMG (piped medical gas — built-in O₂ supply piped to patient bedsides) systems in 9,000+ hospitals globally."
+        },
+        {
+          "name": "Linde Healthcare",
+          "hq": "UK/Ireland",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "Major medical O₂ (oxygen) supplier globally. Provides bulk liquid oxygen, high-pressure cylinder oxygen, and on-site VPSA (vacuum pressure swing adsorption — a compact O₂ generation system for smaller hospitals) units across 100+ countries."
+        },
+        {
+          "name": "Air Products",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Supplies USP-grade (United States Pharmacopeia — pharmaceutical quality grade) medical O₂ to hospitals, surgery centers, and home health agencies. Also provides specialty anesthetic gas blends and medical gas distribution equipment."
+        },
+        {
+          "name": "Chart Industries",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Manufactures cryogenic O₂ (liquid oxygen) storage tanks and delivery equipment — including Perma-Cyl liquid oxygen storage vessels for hospital bulk tanks and portable LOX (liquid oxygen) units for patient transport and home use."
+        },
+        {
+          "name": "Nidek Medical",
+          "hq": "Japan",
+          "tier": "medium",
+          "volume": null,
+          "share": null,
+          "use": "Manufactures home oxygen concentrators (devices separating O₂ from room air using molecular sieve adsorption) for COPD patients — a lower-cost alternative to recurring liquid oxygen delivery for long-term home oxygen therapy."
+        }
+      ]
+    },
+    {
+      "id": "o-water",
+      "name": "Water & Wastewater Treatment",
+      "icon": "💧",
+      "share": "~5% of oxygen production",
+      "uses": [
+        "Aeration in biological wastewater treatment supplies dissolved O₂ to aerobic bacteria that consume BOD (biochemical oxygen demand — the organic pollutant load measured by how much oxygen microbes need to oxidize it) in activated sludge systems; aeration energy is typically 50–60% of a treatment plant's total power consumption",
+        "O₃ (ozone — a highly reactive triatomic oxygen molecule generated from O₂ by UV or corona discharge) provides primary disinfection, taste and odor removal, and micropollutant oxidation in drinking water treatment as a powerful but self-decomposing oxidant",
+        "Pure O₂ (oxygen) aeration vs. air injection handles industrial wastewater with very high organic loads (from food processing, pharmaceutical, or pulp and paper plants) in compact biological treatment footprints where air-based aeration would require impractically large tanks",
+        "Emergency O₂ injection into rivers, lakes, and fish ponds restores dissolved oxygen after algal bloom die-off, industrial spills, or hypoxic events — preventing fish kills by direct LO₂ (liquid oxygen) or oxygen-enriched air injection at river intake points"
+      ],
+      "companies": [
+        {
+          "name": "Veolia Water Technologies",
+          "hq": "France",
+          "tier": "major",
+          "volume": null,
+          "share": "~12% of global water treatment market",
+          "use": "World's largest water services company. Designs and operates municipal water and wastewater treatment plants using diffused aeration systems and O₃ (ozone) contactors. Also deploys ZeeWeed membrane bioreactor (MBR — membrane bioreactor, a compact biological treatment technology) systems."
+        },
+        {
+          "name": "Xylem",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Major water technology company. Produces Sanitaire fine-bubble diffused aeration systems for municipal activated sludge treatment — the world's leading aeration brand installed in 4,000+ wastewater plants globally."
+        },
+        {
+          "name": "Ecolab",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "World's largest water treatment chemical company. Supplies pure O₂ (oxygen) aeration and O₃ (ozone) treatment systems to food and beverage, industrial, and institutional customers for process water treatment and wastewater compliance."
+        },
+        {
+          "name": "Evoqua Water Technologies (Xylem)",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Produces WEDECO O₃ (ozone) generators for municipal drinking water disinfection and AOP (advanced oxidation processes — using ozone combined with UV or hydrogen peroxide to destroy trace organic contaminants including pharmaceuticals and PFAS)."
+        },
+        {
+          "name": "Suez Water Technologies",
+          "hq": "France",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Major water treatment company offering biological aeration, O₃ (ozone), UV disinfection, and membrane treatment systems for municipal and industrial water and wastewater globally."
+        }
+      ]
+    },
+    {
+      "id": "o-cutting",
+      "name": "Oxy-Fuel Metal Cutting & Welding",
+      "icon": "🔥",
+      "share": "~5% of oxygen production",
+      "uses": [
+        "Oxy-fuel cutting heats steel to 870°C using a preheating flame (O₂ + fuel gas), then a pure O₂ jet ignites an exothermic iron-oxygen reaction that cuts through steel up to 1 meter thick at far lower capital cost than plasma or laser cutting — ubiquitous in shipbuilding, construction, and scrap processing",
+        "Oxy-acetylene (O₂ + C₂H₂ — acetylene, produced by reacting calcium carbide with water, dissolved under pressure in acetone in cylinders) welding and brazing is used for copper pipe plumbing, steel structural repairs, and HVAC equipment in applications requiring portable, fuel-independent heat",
+        "Steel mill flame cutting (oxy-fuel scarfing) removes surface defects from hot slabs and billets immediately after continuous casting — a direct O₂ consumption application embedded within steel production",
+        "O₂ lancing (flowing pure O₂ through a mild steel pipe, which itself burns) is used to drill through frozen iron tap holes in blast furnace troughs and to cut through thick refractory material in ladles and torpedo cars"
+      ],
+      "companies": [
+        {
+          "name": "Lincoln Electric",
+          "hq": "USA",
+          "tier": "major",
+          "volume": null,
+          "share": "~14% of global welding market",
+          "use": "World's largest welding products company. Manufactures oxy-fuel cutting equipment, regulators, torches, and nozzles. Also produces arc welding machines, consumables, and plasma cutting systems — the broadest thermal cutting and joining product portfolio globally."
+        },
+        {
+          "name": "ESAB Corporation",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": "~10% of global welding market",
+          "use": "Major welding products company. Victor brand oxy-fuel cutting torches, regulators, and tips — the world's most recognized brand for oxy-acetylene (O₂ + C₂H₂) cutting and welding equipment in automotive repair, fabrication, and construction trades."
+        },
+        {
+          "name": "Linde plc",
+          "hq": "UK/Ireland",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "World's largest O₂ (oxygen) distributor. Supplies high-pressure oxygen cylinders (200–300 bar steel and aluminum cylinders) to welding supply distributors, auto body shops, shipyards, and metal fabricators for oxy-fuel cutting and welding globally."
+        },
+        {
+          "name": "Hypertherm Associates",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Major plasma cutting equipment manufacturer. Plasma cutting uses O₂ (oxygen) as plasma gas for mild steel cutting and nitrogen or argon-hydrogen for stainless steel and aluminum — the dominant alternative to oxy-fuel for mechanized plate cutting in fabrication shops."
+        },
+        {
+          "name": "Victor Technologies (Cigweld)",
+          "hq": "USA/Australia",
+          "tier": "medium",
+          "volume": null,
+          "share": null,
+          "use": "Produces Victor brand oxy-acetylene (O₂ + C₂H₂) cutting torches, regulators, and tips for North American and Australian metalworking, construction, and maintenance trades. A Cigweld brand is dominant in the Australian and New Zealand oxy-fuel market."
+        }
+      ]
+    }
+  ]
+}

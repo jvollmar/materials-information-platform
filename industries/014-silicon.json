@@ -1,0 +1,81 @@
+{
+  "dataTier": 1,
+  "industries": [
+    {
+      "id": "semiconductors",
+      "name": "Semiconductors & Microelectronics",
+      "icon": "💻",
+      "share": "~40% of silicon use by value (though <5% by volume)",
+      "uses": [
+        "Single-crystal silicon wafers grown by the Czochralski method — a seed crystal is pulled from molten hyperpure silicon (99.9999999%, 9N) to create ingots sliced into 200mm or 300mm wafers as the substrate for all CMOS chips",
+        "Polysilicon (polycrystalline silicon, 9N+ purity) is the feedstock for both semiconductor wafers and solar cells — produced by chemical vapor deposition (Siemens process) from trichlorosilane",
+        "Silicon-on-insulator (SOI) wafers for low-power and high-frequency chips, and silicon carbide (SiC) wafers for power electronics in electric vehicles and inverters",
+        "Silicon dioxide (SiO₂) gate dielectric, field oxide isolation, and interlayer dielectric in chip fabrication — silicon's native oxide is uniquely suited to MOSFET manufacturing",
+        "Doped silicon (boron for p-type, phosphorus/arsenic for n-type) forms the transistor junctions that are the basis of all digital logic, memory, and analog semiconductor devices"
+      ],
+      "companies": [
+        { "name": "Shin-Etsu Chemical", "hq": "Japan", "tier": "major", "volume": null, "share": "~30% of global silicon wafer market", "use": "World's largest silicon wafer producer. Manufactures 300mm and 200mm polished and epitaxial wafers supplied to TSMC, Samsung, Intel, SK Hynix, and Micron. Also largest polysilicon and silicone producer." },
+        { "name": "SUMCO Corporation", "hq": "Japan", "tier": "major", "volume": null, "share": "~25% of global silicon wafer market", "use": "Second-largest silicon wafer manufacturer. Produces 300mm CZ and FZ wafers for logic and memory chips. Joint venture with Samsung for dedicated supply of advanced wafers." },
+        { "name": "Siltronic (GlobalWafers)", "hq": "Germany / Taiwan", "tier": "large", "volume": null, "share": "~15% of global silicon wafer market", "use": "European silicon wafer producer acquired by GlobalWafers. Produces 300mm wafers for leading-edge logic and memory chip fabs including TSMC and GlobalFoundries." },
+        { "name": "Wacker Chemie", "hq": "Germany", "tier": "major", "volume": "~80,000 t polysilicon/yr", "share": "~15% of global polysilicon capacity", "use": "Major polysilicon producer using the Siemens CVD process. Supplies semiconductor-grade polysilicon to wafer manufacturers and solar-grade polysilicon to photovoltaic module producers." },
+        { "name": "Hemlock Semiconductor", "hq": "USA", "tier": "large", "volume": "~35,000 t polysilicon/yr", "share": "~7% of global polysilicon capacity", "use": "Joint venture of DowCorning, Shin-Etsu, and Mitsubishi. Produces semiconductor and solar-grade polysilicon in Michigan. Major supplier to the US domestic chip and solar panel supply chain." }
+      ]
+    },
+    {
+      "id": "solar",
+      "name": "Solar Photovoltaics",
+      "icon": "☀️",
+      "share": "~35% of polysilicon use (fastest growing segment)",
+      "uses": [
+        "Monocrystalline silicon solar cells (mono-Si) grown by Czochralski method achieve 22–24% efficiency — dominant technology in residential and commercial rooftop installations",
+        "Multicrystalline (polycrystalline) silicon solar cells cast from directionally solidified silicon blocks — lower cost but 18–20% efficiency; losing market share to mono-Si",
+        "Passivated emitter and rear cell (PERC) technology adds a reflective rear passivation layer to mono-Si cells, boosting efficiency and extending the viable life of silicon-based solar",
+        "TOPCon (tunnel oxide passivated contact) and heterojunction (HJT) cell architectures push mono-Si efficiency above 25% in mass production — becoming mainstream by 2025",
+        "Solar-grade polysilicon (6N purity, lower than semiconductor 9N) is the primary feedstock — approximately 5 grams of polysilicon produces 1 watt of solar capacity"
+      ],
+      "companies": [
+        { "name": "Tongwei Group", "hq": "China", "tier": "major", "volume": "~200,000 t polysilicon/yr", "share": "~20% of global solar polysilicon", "use": "World's largest solar-grade polysilicon producer. Operates massive low-cost polysilicon plants in Sichuan and Inner Mongolia powered by hydropower and coal. Also world's largest solar cell manufacturer." },
+        { "name": "Daqo New Energy", "hq": "China", "tier": "major", "volume": "~150,000 t polysilicon/yr", "share": "~15% of global solar polysilicon", "use": "Major Chinese polysilicon producer in Xinjiang and Inner Mongolia. Among the world's lowest-cost polysilicon manufacturers due to integrated power generation and advanced Siemens reactor technology." },
+        { "name": "LONGi Green Energy", "hq": "China", "tier": "major", "volume": null, "share": "~30% of global mono-Si wafer market", "use": "World's largest solar panel manufacturer and largest monocrystalline silicon wafer producer. Pioneered mass adoption of PERC and TOPCon high-efficiency cell technology in utility-scale solar." },
+        { "name": "First Solar", "hq": "USA", "tier": "large", "volume": null, "share": "~5% of global solar module market", "use": "Largest US solar panel manufacturer and the only major non-silicon (cadmium telluride, CdTe) thin-film producer — but expanding into silicon-based manufacturing given supply chain pressures." }
+      ]
+    },
+    {
+      "id": "silicones",
+      "name": "Silicones & Specialty Chemicals",
+      "icon": "🧪",
+      "share": "~15% of silicon metal use",
+      "uses": [
+        "Silicon metal reacts with methyl chloride at 250–300°C (Müller-Rochow direct process) to produce methylchlorosilanes — the precursors to all polydimethylsiloxane (PDMS) silicone polymers",
+        "Silicone sealants and adhesives for construction, aerospace, automotive, and electronics — remain flexible from -60°C to +250°C, unaffected by UV and moisture",
+        "Silicone elastomers for medical implants (breast implants, joint replacements, catheters), baby bottle nipples, and food contact seals — biocompatibility and sterilizability are key properties",
+        "Silicone fluids as release agents, lubricants, and heat transfer fluids; silicone antifoams in food processing, fermentation, and paper manufacturing",
+        "Fumed silica (pyrogenic SiO₂) produced by flame hydrolysis of silicon tetrachloride — used as reinforcing filler in silicone rubber and as a thickener and anti-caking agent"
+      ],
+      "companies": [
+        { "name": "Dow Silicones (Dow Inc.)", "hq": "USA", "tier": "major", "volume": null, "share": "~25% of global silicone market", "use": "World's largest silicone producer. Converts silicon metal to silicone polymers, sealants, elastomers, and fluids at facilities in Michigan, Germany, and China for construction, healthcare, automotive, and electronics." },
+        { "name": "Wacker Chemie", "hq": "Germany", "tier": "major", "volume": null, "share": "~20% of global silicone market", "use": "Second-largest silicone producer. Produces PDMS polymers, silicone rubber, dispersions, and specialty silicones from its Burghausen site — the world's largest integrated silicone complex outside the US." },
+        { "name": "Momentive Performance Materials", "hq": "USA", "tier": "large", "volume": null, "share": "~10% of global silicone market", "use": "Major silicone producer (formerly GE Advanced Materials). Produces silicone sealants, coatings, fluids, and elastomers for electronics encapsulation, personal care, and automotive applications." },
+        { "name": "Shin-Etsu Chemical", "hq": "Japan", "tier": "major", "volume": null, "share": "~20% of global silicone market", "use": "Japan's largest silicone producer and world's largest polysilicon producer. Supplies silicone rubber, fluids, and specialty silicones to electronics, automotive, and medical device manufacturers globally." }
+      ]
+    },
+    {
+      "id": "ferrosilicon",
+      "name": "Ferrosilicon & Metallurgy",
+      "icon": "⚙️",
+      "share": "~30% of silicon use by volume (ferrosilicon is ~70% Si)",
+      "uses": [
+        "Ferrosilicon (FeSi, 45–90% Si) added to steel during electric arc furnace melting as a deoxidizer — silicon removes dissolved oxygen as SiO₂ slag, preventing gas porosity in castings",
+        "Silicon strengthens steel through solid solution hardening; silicon steel (electrical steel, 3–4.5% Si) has dramatically reduced magnetic core losses in transformers and electric motors",
+        "Ferrosilicon for production of silicon metal by further refining, and as alloying addition for cast irons, spring steels, and stainless steels",
+        "Silicon used in production of silicon carbide (SiC) abrasives for grinding wheels, sandpaper, and cutting tools, and SiC refractory materials for kiln furniture",
+        "Magnesium-ferrosilicon (MgFeSi) alloy used for production of ductile (nodular) cast iron — nodularizing treatment converts graphite flakes to spheroidal form"
+      ],
+      "companies": [
+        { "name": "Ferroglobe", "hq": "UK / USA", "tier": "major", "volume": "~500,000 t Si metal & FeSi/yr", "share": "~10% of global silicon metal capacity", "use": "World's largest silicon metal and ferrosilicon producer outside China. Operates smelters in USA, Spain, France, South Africa, and Canada. Supplies silicon to aluminum, chemical, and semiconductor industries." },
+        { "name": "Elkem", "hq": "Norway", "tier": "major", "volume": null, "share": "~8% of global silicon metal capacity", "use": "Norwegian silicon and ferrosilicon producer with smelters powered by Norwegian hydroelectricity. Supplies silicon metal to silicone, aluminum, and solar industries; ferrosilicon to global steel producers." },
+        { "name": "Dow (former DowCorning)", "hq": "USA", "tier": "large", "volume": null, "share": null, "use": "Operates silicon metal production at Carrollton, Kentucky as feedstock for its silicone polymer operations — one of the few fully integrated US silicon metal-to-silicone producers." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "glass",
+      "name": "Glass Decolorizing & Colorizing",
+      "icon": "🪟",
+      "share": "~30% of selenium use",
+      "uses": [
+        "Selenium decolorizes glass by neutralizing the green tint caused by iron impurities (Fe²⁺) — selenium and iron together produce a complementary color balance, used in clear container glass and float glass production",
+        "Cadmium sulfoselenide (CdSₓSe₁₋ₓ) produces brilliant red, orange, and yellow pigments in glass, ceramics, and high-temperature plastics — selenium content controls hue from yellow (low Se) to deep red (high Se)",
+        "Bronze-tinted architectural glass: selenium with iron produces the warm brown tint in solar control glazing for commercial building facades and automobile windshields",
+        "Ruby selenium glass for signal lenses: traffic lights, railway signals, and marine lights historically used selenium ruby glass for its saturated red color and heat resistance"
+      ],
+      "companies": [
+        { "name": "Umicore", "hq": "Belgium", "tier": "major", "volume": null, "share": "~30% of refined selenium market", "use": "World's largest refined selenium producer. Recovers selenium from copper anode slimes generated during electrolytic copper refining. Supplies selenium to glass, pigment, semiconductor, and agricultural chemical industries." },
+        { "name": "AGC Inc. (Asahi Glass)", "hq": "Japan", "tier": "major", "volume": null, "share": "~15% of global flat glass market", "use": "Major flat glass producer using selenium for decolorizing container and float glass, and for producing selenium-containing solar control and tinted architectural glazing products." }
+      ]
+    },
+    {
+      "id": "solar",
+      "name": "Thin-Film Solar Cells",
+      "icon": "☀️",
+      "share": "~25% of selenium use",
+      "uses": [
+        "CIGS (copper indium gallium selenide, CuIn₁₋ₓGaₓSe₂) thin-film solar cells: selenium forms the p-type absorber layer in CIGS panels achieving 22–23% cell efficiency — competitive with silicon but deposited as thin film on flexible or rigid substrates",
+        "CIGS modules offer advantages over silicon for building-integrated PV (BIPV), flexible rooftop applications, and low-light performance; selenium is typically 20–25% of CIGS absorber layer by weight",
+        "CdTe (cadmium telluride) thin-film cells — the dominant non-silicon technology (First Solar) — sometimes use a thin selenium layer at the back contact interface for passivation",
+        "Perovskite solar cells under development use selenium-based hole transport layers and selenium passivation of grain boundaries to improve stability and efficiency"
+      ],
+      "companies": [
+        { "name": "Solar Frontier (Showa Shell/Idemitsu)", "hq": "Japan", "tier": "large", "volume": null, "share": "~5% of global thin-film solar market", "use": "World's largest CIGS thin-film solar module manufacturer. Produces CIS/CIGS panels at Kunitomi factory in Miyazaki — selenium is a key absorber material in its copper indium selenide solar cell technology." },
+        { "name": "Avancis (CNBM)", "hq": "Germany / China", "tier": "medium", "volume": null, "share": null, "use": "European CIGS thin-film solar module manufacturer producing building-integrated PV panels. Uses selenium as a primary absorber layer component in its CIGS deposition process at its Dresden manufacturing facility." }
+      ]
+    },
+    {
+      "id": "electronics",
+      "name": "Electronics, Xerography & Chemicals",
+      "icon": "⚗️",
+      "share": "~25% of selenium use",
+      "uses": [
+        "Amorphous selenium (a-Se) as the X-ray photoconductor in direct digital flat-panel X-ray detectors for mammography and chest radiography — selenium converts X-ray photons directly to electron-hole pairs with very high spatial resolution",
+        "Selenium rectifiers and photocells: historically the dominant solid-state rectifier before silicon diodes; selenium photocells used in light meters and automatic exposure control in cameras",
+        "Selenium dioxide (SeO₂) as oxidizing agent in organic synthesis and as a reagent for allylic and benzylic oxidations in pharmaceutical and fine chemical manufacturing",
+        "Selenium sulfide (SeS₂) as active ingredient in anti-dandruff shampoos (Selsun Blue) — disrupts Malassezia yeast growth on the scalp that causes dandruff and seborrheic dermatitis",
+        "Selenium as dietary supplement and animal feed additive: essential micronutrient (as selenocysteine in selenoproteins) for thyroid hormone metabolism and antioxidant defense — deficiency causes Keshan disease"
+      ],
+      "companies": [
+        { "name": "Agfa-Gevaert", "hq": "Belgium", "tier": "large", "volume": null, "share": "~40% of selenium flat-panel X-ray detector market", "use": "Leading manufacturer of amorphous selenium (a-Se) flat-panel digital X-ray detectors for direct radiography and mammography. Its DX-D direct conversion detectors use thick a-Se layers for high-sensitivity X-ray imaging." },
+        { "name": "Iofina", "hq": "UK / USA", "tier": "small", "volume": null, "share": null, "use": "Specialty iodine and selenium chemicals producer. Produces selenium compounds for pharmaceutical, electronic, and agricultural applications from natural brine selenium sources in Oklahoma." }
+      ]
+    },
+    {
+      "id": "agriculture",
+      "name": "Agriculture & Nutrition",
+      "icon": "🌾",
+      "share": "~20% of selenium use",
+      "uses": [
+        "Selenium fertilizers (sodium selenate, Na₂SeO₄) applied to selenium-deficient soils — Finland mandatorily adds selenium to all nitrogen fertilizers since 1984 to address nationwide Se deficiency in crops and livestock",
+        "Selenium premixes in animal feed: prevents white muscle disease in sheep and cattle, exudative diathesis in poultry, and hepatosis dietetica in pigs — essential trace element for animal health at 0.1–0.3 ppm in diet",
+        "Selenomethionine and sodium selenite in human dietary supplements — selenium is an essential micronutrient with a narrow therapeutic window; deficiency linked to thyroid disorders and compromised immune function",
+        "Biofortification of staple crops with selenium: agronomic selenium application to wheat and rice improves human selenium status in populations subsisting on crops from selenium-poor soils (large areas of China, New Zealand, and central Europe)"
+      ],
+      "companies": [
+        { "name": "Alltech", "hq": "USA", "tier": "large", "volume": null, "share": "~20% of organic selenium supplement market", "use": "Major animal nutrition company producing Sel-Plex organic selenium yeast supplement for livestock and poultry feed. Organic selenium (selenomethionine) is more bioavailable than inorganic sodium selenite in animal nutrition." },
+        { "name": "Yara International", "hq": "Norway", "tier": "major", "volume": null, "share": null, "use": "Major fertilizer company adding selenium to fertilizers in Finland and other selenium-deficient markets. Supplies selenium-enriched nitrogen fertilizers that have dramatically improved population selenium status in Finland since the 1980s." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "dataTier": 1,
+  "industries": [
+    {
+      "id": "batteries",
+      "name": "Rechargeable Batteries & Energy Storage",
+      "icon": "🔋",
+      "share": "~75% of cobalt use",
+      "uses": [
+        "NMC (nickel manganese cobalt oxide) cathodes: cobalt stabilizes the layered crystal structure of the cathode and enables higher voltage operation — present in the majority of EV batteries in Hyundai, Volkswagen, BMW, and GM vehicles",
+        "NCA (nickel cobalt aluminum oxide) cathodes: ~15% Co; used in Tesla Model 3/Y Long Range and 18650 cells for laptops and power tools — cobalt provides structural stability at high charge voltages",
+        "LCO (lithium cobalt oxide, LiCoO₂): ~60% Co by weight; the original lithium-ion cathode (Sony 1991) still dominant in smartphones, tablets, and ultrabooks where volumetric energy density is paramount",
+        "Cobalt is essential for preventing thermal runaway in high-energy-density cells — its role in crystal structure stability reduces the risk of oxide decomposition at elevated temperatures",
+        "Industry trend is to reduce cobalt content (NMC 811, NMC 9.5.5, NCA with <10% Co) due to supply concentration in DRC and price volatility — but cobalt-free chemistries (LFP) sacrifice energy density"
+      ],
+      "companies": [
+        { "name": "Glencore", "hq": "Switzerland", "tier": "major", "volume": "~35,000 t Co/yr", "share": "~25% of global cobalt production", "use": "World's largest cobalt producer. Operates Katanga (KCC) and Mutanda copper-cobalt mines in the DRC. Cobalt is recovered as a byproduct of copper mining. Also recycles cobalt from battery scrap." },
+        { "name": "CMOC (China Molybdenum)", "hq": "China", "tier": "major", "volume": "~50,000 t Co/yr", "share": "~35% of global cobalt production", "use": "World's largest cobalt producer since 2022. Operates Tenke Fungurume and Kisanfu copper-cobalt mines in the DRC. Major supplier of cobalt hydroxide to Chinese battery cathode precursor manufacturers." },
+        { "name": "Umicore", "hq": "Belgium", "tier": "major", "volume": null, "share": "~15% of global cobalt refining", "use": "Major cobalt refiner and NMC cathode material producer. Processes cobalt from DRC ores and battery recycling streams into battery-grade cobalt sulfate. Supplies LCO and NMC cathode materials to Samsung SDI and Apple supply chain." },
+        { "name": "Freeport Cobalt (Ecobalt, now Umicore)", "hq": "Finland", "tier": "large", "volume": "~10,000 t Co/yr refined", "share": "~7% of global cobalt refining capacity", "use": "Kokkola, Finland refinery — one of the world's largest cobalt refineries. Processes cobalt hydroxide from DRC mines to battery-grade cobalt sulfate for NMC cathode precursor manufacturers in Asia and Europe." }
+      ]
+    },
+    {
+      "id": "superalloys",
+      "name": "Superalloys for Gas Turbines",
+      "icon": "✈️",
+      "share": "~13% of cobalt use",
+      "uses": [
+        "Cobalt-based superalloys (Stellite, Haynes 25, MAR-M509) for gas turbine vanes, combustor liners, and hot section components operating above 1000°C — cobalt's high melting point (1495°C) and oxidation resistance make it essential",
+        "Nickel superalloys for jet engine turbine blades contain 5–15% cobalt (IN713, Waspaloy, René 88DT) — cobalt strengthens the gamma-prime precipitate and reduces stacking fault energy, improving creep resistance at extreme temperatures",
+        "Stellite hardfacing alloys (Co-Cr-W): welded onto valve seats, valve stems, and wear surfaces in industrial valves, pumps, and cutting tools — exceptional hardness retained to red heat",
+        "Land-based industrial gas turbines for power generation use the same cobalt superalloy technology as aero engines — a growing market as gas turbine fleets expand for grid-scale power generation",
+        "Cobalt-chrome-molybdenum (CoCrMo) alloys for orthopedic implants: hip ball heads, total knee condyles — exceptional wear resistance and biocompatibility in joint replacement surgery"
+      ],
+      "companies": [
+        { "name": "Kennametal", "hq": "USA", "tier": "large", "volume": null, "share": null, "use": "Major producer of Stellite cobalt-chrome hardfacing alloys and cobalt-bonded tungsten carbide cutting tools. Supplies wear-resistant components to oil & gas, mining, and industrial valve markets." },
+        { "name": "Haynes International", "hq": "USA", "tier": "large", "volume": null, "share": null, "use": "Specialty alloy producer making cobalt-based high-temperature alloys (Haynes 25, Haynes 188, Ultimet) for gas turbine combustors, aerospace structures, and industrial furnace components." },
+        { "name": "GE Aerospace (formerly GE Aviation)", "hq": "USA", "tier": "major", "volume": null, "share": "~30% of global large commercial turbofan market", "use": "Major jet engine manufacturer and consumer of cobalt superalloys. Its LEAP, GE9X, and CF6 engines use cobalt-containing nickel superalloys in turbine blades, vanes, and combustor hardware cast by investment casting." }
+      ]
+    },
+    {
+      "id": "catalysts",
+      "name": "Catalysts & Hard Metals",
+      "icon": "⚗️",
+      "share": "~7% of cobalt use",
+      "uses": [
+        "Cobalt-molybdenum (CoMo) and cobalt-nickel-molybdenum (CoNiMo) hydrodesulfurization (HDS) catalysts in petroleum refineries — removes sulfur from diesel, gasoline, and jet fuel fractions to meet ultra-low-sulfur fuel regulations",
+        "Fischer-Tropsch synthesis: cobalt catalysts (supported Co/Al₂O₃ or Co/SiO₂) for gas-to-liquids (GTL) conversion of synthesis gas (CO + H₂) to synthetic fuels — Shell Pearl GTL and Sasol Oryx GTL use cobalt FT catalysts",
+        "Cobalt naphthenate and cobalt octoate as drying catalysts (driers) in alkyd paints, varnishes, and printing inks — cobalt accelerates oxidative polymerization of drying oils at room temperature",
+        "Cobalt-bonded tungsten carbide (WC-Co, cemented carbide): cobalt metal binder (6–15% Co) holds tungsten carbide grains together — used in drill bits, end mills, inserts, and mining picks. The dominant cutting tool material globally",
+        "Cobalt used in production of terephthalic acid (purified PTA) — cobalt acetate catalyst for oxidation of p-xylene to PTA, feedstock for polyethylene terephthalate (PET) plastic bottles and polyester fiber"
+      ],
+      "companies": [
+        { "name": "Sandvik Coromant", "hq": "Sweden", "tier": "major", "volume": null, "share": "~15% of global cutting tool market", "use": "World's leading cutting tool manufacturer using WC-Co cemented carbide inserts. Major consumer of cobalt binder for its milling, turning, and drilling tools supplied to automotive, aerospace, and general engineering." },
+        { "name": "Kennametal", "hq": "USA", "tier": "large", "volume": null, "share": "~8% of global cutting tool market", "use": "Major WC-Co cutting tool and wear part producer. Manufactures cobalt-bonded cemented carbide inserts, end mills, and mining tools for oil & gas drill bits, mining, and metal cutting applications." },
+        { "name": "Shell (Pearl GTL)", "hq": "Netherlands", "tier": "large", "volume": null, "share": null, "use": "Operates the Pearl GTL plant in Qatar — the world's largest gas-to-liquids facility, producing 140,000 bbl/day of synthetic fuels using Shell's proprietary cobalt Fischer-Tropsch catalysts." }
+      ]
+    }
+  ]
+}

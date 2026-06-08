@@ -1,0 +1,44 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "research",
+      "name": "Nuclear Research & Element Synthesis",
+      "icon": "🔬",
+      "share": "100% — no commercial applications exist",
+      "uses": [
+        "Berkelium-249 (²⁴⁹Bk, t½ = 330 days) is used as a target material for synthesizing superheavy elements — bombardment of ²⁴⁹Bk with calcium-48 ions at particle accelerators produced tennessine (element 117) in 2010 and contributes to the search for elements beyond 118",
+        "The discovery of tennessine required ~22 mg of ²⁴⁹Bk produced over 250 continuous days of irradiation in ORNL's High Flux Isotope Reactor — then rapidly shipped to Dubna (still radioactively hot) to be used before significant decay reduced the target mass",
+        "Berkelium-249's 330-day half-life is long enough for production and use as an accelerator target, unlike shorter-lived actinides — this is why Bk-249 is the gateway to element 117 and potentially heavier elements",
+        "Berkelium chemistry studies probe the transition from the lighter actinides (which prefer +3 oxidation state) toward heavier actinides with more complex behavior — Bk is one of the few actinides with accessible +4 oxidation state in aqueous solution",
+        "Berkelium was first synthesized in December 1949 at UC Berkeley by Seaborg, Thompson, and Ghiorso by alpha-particle bombardment of microgram quantities of americium-241 — the team named it after Berkeley, California"
+      ],
+      "companies": [
+        {
+          "name": "Oak Ridge National Laboratory (DOE)",
+          "hq": "USA",
+          "tier": "major",
+          "volume": "~22 mg Bk-249 per multi-year campaign",
+          "share": "~100% of world Bk-249 production",
+          "use": "The world's only practical berkelium producer. Produces Bk-249 by prolonged neutron irradiation of curium-248 targets in the High Flux Isotope Reactor (HFIR), followed by chemical separation in hot cells. Supplied the critical 22mg Bk-249 target for the tennessine discovery — a feat requiring 250 days of continuous reactor irradiation. No other facility in the world can produce meaningful quantities of berkelium."
+        },
+        {
+          "name": "JINR Dubna",
+          "hq": "Russia",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Primary user of ORNL-supplied berkelium for superheavy element synthesis. Bombarded the 22mg Bk-249 target with calcium-48 ions at the U400 cyclotron and DGFRS separator to discover tennessine. Continues to work with ORNL to plan future Bk-249 irradiation campaigns for searches beyond element 118."
+        },
+        {
+          "name": "Lawrence Berkeley National Laboratory",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Site of berkelium's discovery and historical center of heavy actinide chemistry research. LBNL's Glenn T. Seaborg Institute performs berkelium aqueous chemistry and spectroscopy studies, contributing to fundamental understanding of Bk's oxidation states, coordination chemistry, and relativistic electronic structure effects."
+        }
+      ]
+    }
+  ]
+}

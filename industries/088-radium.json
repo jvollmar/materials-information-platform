@@ -1,0 +1,36 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "medical",
+      "name": "Radiopharmaceuticals & Cancer Treatment",
+      "icon": "🏥",
+      "share": "~80% of current radium use",
+      "uses": [
+        "Radium-223 dichloride (Xofigo, Bayer): FDA approved 2013 for treatment of castration-resistant prostate cancer with bone metastases — the first alpha-emitting radiopharmaceutical approved for cancer treatment. Ra-223 mimics calcium, concentrating in bone metastases and delivering localized alpha radiation with minimal systemic effects",
+        "Radium-223 produces a 'daughter therapy' effect: its alpha-emitting decay products (Rn-219, Po-215, Pb-211, Bi-211, Tl-207) also irradiate tumor tissue as they decay in rapid succession before the chain reaches stable lead-207",
+        "Radium-224 (²²⁴Ra, t½ = 3.66 days) in diffusing alpha-emitters radiation therapy (DaRT): radium-224 seeds implanted in solid tumors release radon-220 and polonium-216 alpha emitters that diffuse through the tumor — Phase II trials for skin, recurrent head and neck, and pancreatic cancers",
+        "Historical brachytherapy: radium-226 was the first radioactive material used for cancer treatment (1901 by Pierre Curie), in sealed 'radium needles' implanted directly in tumors — now completely replaced by ¹⁹²Ir and other modern sources"
+      ],
+      "companies": [
+        { "name": "Bayer AG (Algeta acquisition)", "hq": "Germany / Norway", "tier": "major", "volume": null, "share": "~100% of Ra-223 therapeutic market", "use": "Sole manufacturer of Xofigo (radium-223 dichloride). Produces Ra-223 by neutron irradiation of Ra-226 targets in research reactors. Xofigo has treated hundreds of thousands of prostate cancer patients since 2013 approval — the only approved radium therapeutic." },
+        { "name": "Alpha Tau Medical", "hq": "Israel", "tier": "small", "volume": null, "share": null, "use": "Developing DaRT (diffusing alpha-emitters radiation therapy) using radium-224 seeds for local treatment of solid tumors. Its Alpha DaRT technology is in clinical trials for multiple solid tumor types including skin, head and neck, and pancreatic cancers." }
+      ]
+    },
+    {
+      "id": "industrial",
+      "name": "Industrial & Legacy Applications",
+      "icon": "⚗️",
+      "share": "~20% — primarily legacy cleanup and research",
+      "uses": [
+        "Radium-226 (²²⁶Ra, t½ = 1,600 years) was historically used in radioluminescent watch and instrument dials ('Radium Girls' era, 1910s–1960s) — now entirely replaced by tritium and promethium luminescent paints. Legacy radium-dial contamination remains an environmental remediation challenge",
+        "Radium-beryllium (Ra-Be) neutron sources: ²²⁶Ra alpha particles on beryllium produce neutrons — now replaced by ²⁴¹Am-Be, ²⁵²Cf, or electronic neutron generators in all new applications due to Ra-226's long half-life and gamma radiation hazard",
+        "Radium sulfate and barium-radium sulfate scale in oil and gas production: radium co-precipitates with barium sulfate scale in produced water, creating NORM (naturally occurring radioactive material) waste requiring specialized disposal at offshore platforms and onshore facilities",
+        "Radium research: Ra-226 used as parent source for generating Rn-222 for research, and Ra-228 for nuclear structure studies"
+      ],
+      "companies": [
+        { "name": "Clean Harbors", "hq": "USA", "tier": "major", "volume": null, "share": "~20% of US radioactive waste disposal market", "use": "Major radioactive and hazardous waste management company. Handles legacy radium-contaminated materials from watch factories, former radium processing sites, and NORM waste from oil and gas operations. Provides characterization, packaging, and licensed disposal of Ra-226 waste." }
+      ]
+    }
+  ]
+}

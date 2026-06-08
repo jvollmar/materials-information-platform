@@ -1,0 +1,77 @@
+{
+  "dataTier": 1,
+  "industries": [
+    {
+      "id": "galvanizing",
+      "name": "Galvanizing & Corrosion Protection",
+      "icon": "🔩",
+      "share": "~50% of zinc use",
+      "uses": [
+        "Hot-dip galvanizing: steel articles immersed in molten zinc at 450°C form a metallurgical zinc-iron alloy layer + outer pure zinc coating — provides sacrificial cathodic protection (zinc corrodes preferentially, protecting underlying steel) with 50–100+ year service life",
+        "Continuous hot-dip galvanizing (galvanized sheet steel, GI and Galvalume): steel strip passes through zinc or Zn-Al alloy bath at 180m/min — produces coated coil for automotive body panels, roofing, appliances, HVAC, and structural sections",
+        "Electrogalvanizing: electrodeposited zinc on steel strip for automotive exposed panels (hoods, doors, fenders) requiring a smoother, thinner coating than hot-dip — used by Toyota, Honda, and BMW for Class-A surface appearance",
+        "Zinc-aluminum-magnesium (ZM) coatings (SuperDyma, ZM310, MagiZinc): advanced alloy coatings replacing conventional GI on automotive and construction steel — superior cut-edge protection and formability with 30–40% less coating weight for equivalent corrosion performance",
+        "Batch galvanizing of structural steel fabrications, rebar, poles, guard rails, pipes, and hardware — provides decades of maintenance-free corrosion protection for infrastructure exposed to weather"
+      ],
+      "companies": [
+        { "name": "ArcelorMittal", "hq": "Luxembourg", "tier": "major", "volume": "~8 Mt galvanized steel/yr", "share": "~25% of European galvanized sheet market", "use": "World's largest steel producer and major producer of galvanized sheet for automotive, construction, and appliance markets. Its Usibor and Ductibor hot-stamped zinc-coated steel are used in automotive safety structures globally." },
+        { "name": "POSCO", "hq": "South Korea", "tier": "major", "volume": null, "share": "~10% of Asian galvanized sheet market", "use": "Major galvanized and Zn-Mg coated sheet producer. Supplies zinc-coated automotive and construction steel to Korean OEMs (Hyundai, Kia) and regional markets. Operates continuous galvanizing lines at Pohang and Gwangyang." },
+        { "name": "AZZ (formerly Galvatech)", "hq": "USA", "tier": "large", "volume": null, "share": "~15% of US batch galvanizing market", "use": "Largest North American hot-dip batch galvanizing company. Processes structural steel fabrications, poles, and hardware for construction, utility, and transportation infrastructure customers across the US and Canada." }
+      ]
+    },
+    {
+      "id": "alloys",
+      "name": "Zinc Alloys & Die Casting",
+      "icon": "⚙️",
+      "share": "~17% of zinc use",
+      "uses": [
+        "Zamak die-cast alloys (Zn-4%Al-1%Cu, Zn-4%Al): produced by hot-chamber die casting at high rates into complex, thin-walled shapes for automotive parts (door handles, lock bodies, fuel system components), consumer goods, and electronic connectors",
+        "Brass (Cu-Zn): zinc strengthens and hardens copper; brasses range from 5% Zn (gilding metal for jewelry) to 40% Zn (Muntz metal, cartridge brass for shell casings). Used for plumbing fittings, musical instruments, valves, and architectural hardware",
+        "Zinc pressure die castings for automotive: mirror housings, brackets, carburetor bodies, and dashboard components — die casting's tight tolerances and complex geometries reduce machining costs vs. aluminum",
+        "Nickel silver (Cu-Ni-Zn, 'German silver'): used for cutlery, musical instrument valves, zippers, and optical frames — silver appearance without precious metal cost",
+        "Zinc-aluminum alloys (ZA-8, ZA-12, ZA-27) for gravity and pressure die casting of bearings, bushings, and wear-resistant engineering components"
+      ],
+      "companies": [
+        { "name": "Norsk Hydro (Precision Profiles)", "hq": "Norway", "tier": "large", "volume": null, "share": null, "use": "Produces zinc die-casting alloys and zamak master alloys for automotive, consumer goods, and electronics die casters. Supplies ready-to-use alloy ingots meeting tight compositional tolerances for consistent castability." },
+        { "name": "Dynacast", "hq": "USA", "tier": "major", "volume": null, "share": "~8% of global zinc die casting market", "use": "World's largest precision zinc and aluminum die casting company. Produces zinc die-cast components for automotive (fuel system, trim), consumer electronics, and healthcare device industries at 23 global manufacturing sites." },
+        { "name": "Illinois Tool Works (ITW)", "hq": "USA", "tier": "large", "volume": null, "share": null, "use": "Operates zinc die casting operations within its Automotive OEM Segment. Produces zinc alloy fasteners, clips, and precision castings for automotive body-in-white and powertrain assembly applications." }
+      ]
+    },
+    {
+      "id": "chemicals",
+      "name": "Rubber, Chemicals & Agriculture",
+      "icon": "⚗️",
+      "share": "~15% of zinc use",
+      "uses": [
+        "Zinc oxide (ZnO) as activator in rubber vulcanization — typically 3–5 parts ZnO per 100 parts rubber activates sulfur vulcanization by forming zinc stearate soap that accelerates cure. Every tire contains significant ZnO",
+        "Zinc oxide in ceramics, glass, and electronic components: varistors (ZnO surge protection), phosphors in fluorescent lights and LED phosphors, piezoelectric sensors, and UV-absorbing sunscreen (ZnO nanoparticles)",
+        "Zinc sulfate and zinc chelates as micronutrient fertilizer — zinc deficiency is the most widespread micronutrient deficiency in world agricultural soils, particularly in rice, wheat, and corn on alkaline soils",
+        "Zinc phosphate as primary anti-corrosion pigment in industrial primers and marine coatings — non-toxic replacement for red lead and chromate primers in structural steel and automotive coating systems",
+        "Zinc stearate and zinc carboxylates as lubricants and release agents in rubber and plastic processing, and as PVC heat stabilizers (zinc-calcium systems replacing lead-based stabilizers)"
+      ],
+      "companies": [
+        { "name": "Hindustan Zinc (Vedanta)", "hq": "India", "tier": "major", "volume": "~1 Mt Zn metal/yr", "share": "~6% of global zinc production", "use": "World's largest integrated zinc producer. Operates zinc-lead mines (Sindesar Khurd, Rampura Agucha) in Rajasthan, India and zinc smelters at Chanderiya and Dariba. Major producer of zinc oxide for rubber, chemicals, and fertilizer." },
+        { "name": "Sherwin-Williams", "hq": "USA", "tier": "major", "volume": null, "share": "~17% of US architectural and industrial coatings market", "use": "Major consumer of zinc phosphate anti-corrosion pigments in its industrial maintenance, marine, and protective coatings. Zinc-rich primers in its Zinc Clad product line provide cathodic protection equivalent to hot-dip galvanizing." },
+        { "name": "Lanxess", "hq": "Germany", "tier": "large", "volume": null, "share": null, "use": "Produces rubber chemicals including zinc-based vulcanization accelerators and zinc oxide for the global tire and rubber goods industry. Supplies ZnO and zinc dithiocarbamates to tire manufacturers globally." }
+      ]
+    },
+    {
+      "id": "batteries",
+      "name": "Batteries & Emerging Energy Storage",
+      "icon": "🔋",
+      "share": "~8% of zinc use",
+      "uses": [
+        "Alkaline batteries (AA, AAA, C, D): zinc powder anode in potassium hydroxide electrolyte — zinc is oxidized (Zn → Zn²⁺) while MnO₂ cathode is reduced. Each AA battery contains ~3.5g of zinc powder",
+        "Zinc-carbon (Leclanché) dry cells: zinc can serves simultaneously as container and anode — low-cost primary battery for low-drain applications in developing markets",
+        "Zinc-air batteries: ambient air provides oxygen at the cathode while zinc anode oxidizes — extremely high energy density (energy density per kg rivals lithium) used in hearing aids and emerging grid storage",
+        "Aqueous zinc-ion batteries: non-flammable, low-cost rechargeable batteries using zinc metal anode and aqueous electrolyte — promising for stationary grid storage where lithium-ion's flammability is a concern",
+        "Zinc nickel oxide batteries: rechargeable, non-toxic, water-based chemistry for grid-scale storage — EnZinc and several startups developing zinc as a sustainable alternative to lithium for long-duration storage"
+      ],
+      "companies": [
+        { "name": "Duracell (Berkshire Hathaway)", "hq": "USA", "tier": "major", "volume": null, "share": "~25% of global alkaline battery market", "use": "World's leading alkaline battery brand. Each AA battery contains ~3.5g zinc powder anode. Duracell alone consumes tens of thousands of tonnes of zinc powder annually for its global battery production." },
+        { "name": "Energizer Holdings", "hq": "USA", "tier": "major", "volume": null, "share": "~15% of global alkaline battery market", "use": "Major alkaline and zinc-air battery manufacturer. Produces Energizer alkaline batteries and Rayovac zinc-air hearing aid batteries — the largest zinc-air battery market segment currently in commercial production." },
+        { "name": "EOS Energy Enterprises", "hq": "USA", "tier": "small", "volume": null, "share": null, "use": "Developing aqueous zinc-based rechargeable batteries (Znyth technology) for long-duration grid energy storage (3–12 hours). Uses zinc in an alkaline electrolyte as a low-cost, non-flammable alternative to lithium-ion for stationary storage." }
+      ]
+    }
+  ]
+}

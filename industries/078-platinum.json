@@ -1,0 +1,73 @@
+{
+  "dataTier": 1,
+  "industries": [
+    {
+      "id": "autocatalyst",
+      "name": "Automotive Catalytic Converters",
+      "icon": "🚗",
+      "share": "~40% of platinum use",
+      "uses": [
+        "Platinum is the primary PGM in diesel oxidation catalysts (DOC) — platinum oxidizes CO and unburned hydrocarbons in diesel exhaust. Euro 6, China 6, and Bharat Stage 6 emission standards have dramatically increased platinum loadings per diesel vehicle",
+        "Diesel particulate filter (DPF) catalysts incorporate platinum to catalyze passive and active soot regeneration — platinum lowers the temperature at which trapped soot oxidizes to CO₂, enabling continuous filter cleaning",
+        "Lean NOₓ trap (LNT) catalysts: platinum and barium function together to trap and reduce NOₓ in lean diesel exhaust — used on smaller diesel engines as an alternative or complement to urea SCR systems",
+        "Gasoline three-way catalysts (TWC): platinum provides additional CO and HC oxidation activity in some TWC formulations alongside palladium — the Pd-dominant shift reduced Pt demand in gasoline applications",
+        "Fuel cell electric vehicle (FCEV) catalysts: platinum nanoparticles on carbon are the cathode catalyst for oxygen reduction in PEM hydrogen fuel cells (Toyota Mirai, Hyundai Nexo). Each FCEV requires ~30g Pt — PEM fuel cells could be a major future demand driver"
+      ],
+      "companies": [
+        { "name": "Anglo American Platinum (Amplats)", "hq": "South Africa", "tier": "major", "volume": "~2.5 Moz Pt/yr", "share": "~35% of world platinum production", "use": "World's largest platinum producer. Mines platinum from the Bushveld Igneous Complex at Mogalakwena, Amandelbult, Mototolo, and Unki operations. South Africa holds ~90% of world platinum reserves." },
+        { "name": "Impala Platinum (Implats)", "hq": "South Africa", "tier": "major", "volume": "~1.5 Moz Pt/yr", "share": "~20% of world platinum production", "use": "Second-largest platinum producer. Operates Impala mine at Rustenburg (world's largest platinum mine by employees), Zimplats in Zimbabwe, and Marula in Limpopo. Platinum refined at Rustenburg and Springs refineries." },
+        { "name": "Johnson Matthey", "hq": "UK", "tier": "major", "volume": null, "share": "~30% of global autocatalyst market", "use": "World's largest platinum-group metal catalyst company and major platinum recycler. Designs and manufactures diesel and gasoline catalysts for all major automotive OEMs. Recycles ~1 million oz Pt/yr from end-of-life catalytic converters." },
+        { "name": "BASF Catalysts", "hq": "Germany", "tier": "major", "volume": null, "share": "~20% of global autocatalyst market", "use": "Major platinum-based diesel oxidation catalyst and SCR catalyst manufacturer. Supplies DOC and DPF catalysts to truck and passenger car diesel OEMs. Also recycles platinum from spent catalysts." }
+      ]
+    },
+    {
+      "id": "jewelry",
+      "name": "Jewelry & Investment",
+      "icon": "💍",
+      "share": "~25% of platinum use",
+      "uses": [
+        "Platinum jewelry: Pt950 (95% Pt, 5% Ru or Ir alloy) and Pt900 for fine jewelry — platinum's white color, density (21.4 g/cm³), hypoallergenic properties, and prestige make it the premier precious metal for engagement rings and high-end jewelry",
+        "Japanese platinum jewelry market is one of the world's largest per capita — platinum bridal rings dominate in Japan where platinum is traditionally associated with purity and eternity",
+        "Platinum bar and coin investment: platinum bullion coins (US Platinum Eagle, Isle of Man Noble, Australian Koala) and bars for investment. Platinum trades at a discount to gold for most of the post-2010 era — unusual given its scarcity",
+        "White gold (18K white gold, Pt coating or Pd alloy) has substituted for platinum in many jewelry applications due to lower cost — reducing platinum jewelry demand in Western markets"
+      ],
+      "companies": [
+        { "name": "Tiffany & Co. (LVMH)", "hq": "USA / France", "tier": "major", "volume": null, "share": "~5% of premium platinum jewelry market", "use": "Premium jewelry brand with significant platinum usage. Its iconic Tiffany Setting engagement ring is traditionally set in platinum. Tiffany uses Pt950 alloy for fine jewelry and has commitments to responsibly sourced platinum." },
+        { "name": "PAMP (MKS Group)", "hq": "Switzerland", "tier": "large", "volume": null, "share": "~10% of platinum investment bar market", "use": "Major precious metal refinery and bar manufacturer. Produces PAMP Suisse platinum bars and rounds for investment purposes. Refines platinum from mining and industrial recycling sources." }
+      ]
+    },
+    {
+      "id": "industrial",
+      "name": "Industrial Catalysis & Chemical Processing",
+      "icon": "⚗️",
+      "share": "~25% of platinum use",
+      "uses": [
+        "Nitric acid production (Ostwald process): platinum-rhodium gauzes (90Pt-10Rh or 95Pt-5Rh) catalyze the oxidation of ammonia to nitric oxide at 850–950°C — the first step in producing nitric acid for fertilizer production. Each gauze pad contains ~3–5 troy oz of Pt-Rh alloy",
+        "Silicone curing catalysts: platinum(0)-divinyltetramethyldisiloxane (Karstedt's catalyst) for addition-cure silicone rubber — the standard industrial catalyst for room-temperature vulcanization of silicone in medical devices, electronics encapsulants, and consumer products",
+        "Petroleum reforming: platinum (with rhenium or tin) in catalytic reforming of naphtha to high-octane gasoline and aromatics — Pt/Al₂O₃ or Pt-Re/Al₂O₃ at 490–530°C promotes dehydrogenation and aromatization reactions",
+        "Fuel cell stack catalysts for stationary power (Bloom Energy SOFCs use yttria-stabilized zirconia not Pt), and PEM fuel cells for transportation and portable power",
+        "Glass fiber production: Pt-Rh alloy bushings (similar to rhodium section) and Pt-Rh stirrers for molten glass in LCD glass, borosilicate, and E-glass manufacturing"
+      ],
+      "companies": [
+        { "name": "Yara International", "hq": "Norway", "tier": "major", "volume": null, "share": "~10% of global nitric acid capacity", "use": "World's largest nitrogen fertilizer company. Operates dozens of nitric acid plants using platinum-rhodium gauze catalysts to oxidize ammonia. One of the world's largest consumers of Pt-Rh gauze catalyst." },
+        { "name": "CF Industries", "hq": "USA", "tier": "large", "volume": null, "share": "~5% of global nitrogen fertilizer capacity", "use": "Major US nitrogen fertilizer producer operating Pt-Rh catalytic oxidation of ammonia in its nitric acid plants for downstream ammonium nitrate and UAN fertilizer production." }
+      ]
+    },
+    {
+      "id": "medical",
+      "name": "Medical Devices & Dental",
+      "icon": "🏥",
+      "share": "~10% of platinum use",
+      "uses": [
+        "Platinum electrodes in implantable neural stimulators: pacemakers, cochlear implants, deep brain stimulators (DBS), and spinal cord stimulators use Pt-Ir alloy electrodes — inert in tissue, biocompatible, and radiopaque for imaging confirmation of placement",
+        "Platinum-iridium (Pt-Ir) DBS electrodes for Parkinson's disease and essential tremor: the Medtronic Activa and Abbott Infinity systems use Pt-Ir electrode contacts implanted in the subthalamic nucleus",
+        "Platinum chemotherapy drugs: cisplatin (cis-Pt(NH₃)₂Cl₂), carboplatin, and oxaliplatin are among the most widely used cancer chemotherapy agents — platinum coordinates with DNA, crosslinking strands and triggering apoptosis in rapidly dividing cancer cells",
+        "Dental alloys: platinum-group metals in ceramic-fused-to-metal (PFM) dental crowns for biocompatibility and corrosion resistance — platinum added to gold-palladium alloys improves hardness and porcelain bonding"
+      ],
+      "companies": [
+        { "name": "Medtronic", "hq": "USA / Ireland", "tier": "major", "volume": null, "share": "~45% of cardiac rhythm management market", "use": "World's largest medical device company. Uses platinum-iridium electrode arrays in its pacemakers, defibrillators, cochlear implants, and deep brain stimulators. Significant platinum consumer for implantable neural interface electrodes." },
+        { "name": "Bristol-Myers Squibb", "hq": "USA", "tier": "major", "volume": null, "share": null, "use": "Major oncology pharmaceutical company producing cisplatin and carboplatin platinum-based chemotherapy agents. Cisplatin was one of the first truly effective cancer chemotherapies and remains a cornerstone of treatment for testicular, ovarian, and lung cancer." }
+      ]
+    }
+  ]
+}

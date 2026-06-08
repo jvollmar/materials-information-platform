@@ -1,0 +1,95 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "smoke-detectors",
+      "name": "Ionization Smoke Detectors",
+      "icon": "🔥",
+      "share": "~70% of americium use",
+      "uses": [
+        "Americium-241 (²⁴¹Am, t½ = 432 years) in ionization smoke detectors: a tiny sealed ²⁴¹Am source (~1 μCi, 0.9 μg) ionizes air between two electrodes, creating a small current. Smoke particles entering the chamber reduce ionization current, triggering the alarm",
+        "Ionization smoke detectors are far more responsive to fast-flaming fires (paper, wood with open flame) than photoelectric detectors — the two technologies are complementary and building codes in many jurisdictions require both",
+        "Approximately 40,000 kg of americium-241 is used annually in smoke detectors globally — making it one of the most widely distributed radioactive materials in everyday consumer products",
+        "²⁴¹Am is produced from plutonium-241 (²⁴¹Pu) beta decay in spent nuclear fuel — it accumulates in aged plutonium stockpiles and is extracted during reprocessing. The US, Russia, UK, and France are primary producers",
+        "Am-241 smoke detector recycling: the Nuclear Regulatory Commission requires proper disposal. In practice, americium is difficult to recover economically from discarded detectors due to the very small per-unit quantity (~1μCi)"
+      ],
+      "companies": [
+        {
+          "name": "Kidde (Carrier Global)",
+          "hq": "USA",
+          "tier": "major",
+          "volume": null,
+          "share": "~30% of US smoke detector market",
+          "use": "World's largest smoke detector manufacturer. Produces ionization smoke alarms containing Am-241 sources for residential, commercial, and industrial fire detection globally. Major consumer of sealed Am-241 ionization sources."
+        },
+        {
+          "name": "First Alert (BRK Brands)",
+          "hq": "USA",
+          "tier": "major",
+          "volume": null,
+          "share": "~25% of US smoke detector market",
+          "use": "Major smoke alarm manufacturer producing Am-241 ionization alarms for residential and commercial use. Also produces combination ionization/photoelectric dual-sensor alarms meeting the latest fire safety recommendations."
+        },
+        {
+          "name": "Orano / ASNL (Australian Nuclear Science)",
+          "hq": "France / Australia",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Produces and supplies sealed Am-241 ionization sources to smoke detector manufacturers worldwide. Americium-241 is extracted from aged plutonium metal as ²⁴¹Pu beta-decays to ²⁴¹Am in plutonium stockpiles."
+        }
+      ]
+    },
+    {
+      "id": "industrial",
+      "name": "Industrial Gauging & Medical",
+      "icon": "⚗️",
+      "share": "~25% of americium use",
+      "uses": [
+        "Am-241 gamma sources (59.5 keV) for industrial thickness and density gauging: level sensors in tanks, paper and plastic film thickness measurement, and soil density gauges used in road construction compaction testing",
+        "Am-Be (americium-beryllium) neutron sources: ²⁴¹Am alpha particles on beryllium produce neutrons (~2×10⁷ n/s per Ci of Am-241) — used in oil well logging, neutron activation analysis, nuclear reactor startup sources, and laboratory neutron sources",
+        "Am-241 in bone density measurement (DEXA scan sources) — being replaced by X-ray tube sources in modern DXA systems",
+        "Americium-242m (²⁴²ᵐAm) theoretical nuclear fuel: has an extremely low critical mass (~9g) making it the most efficient fissile nuclide by mass — purely theoretical due to production difficulty and cost"
+      ],
+      "companies": [
+        {
+          "name": "Eckert & Ziegler",
+          "hq": "Germany",
+          "tier": "major",
+          "volume": null,
+          "share": "~25% of sealed radioactive source market",
+          "use": "Major producer of sealed Am-241 sources for industrial gauging, Am-Be neutron sources, and smoke detector ionization elements. Supplies licensed Am-241 sources to level gauge manufacturers, oil well logging companies, and nuclear instrumentation suppliers."
+        },
+        {
+          "name": "Halliburton (Sperry Drilling)",
+          "hq": "USA",
+          "tier": "major",
+          "volume": null,
+          "share": "~18% of oil well logging market",
+          "use": "Major oil well logging company using Am-Be neutron sources in its nuclear logging tools to measure formation porosity, water saturation, and lithology in oil and gas exploration wells globally."
+        }
+      ]
+    },
+    {
+      "id": "space",
+      "name": "Space Power (Emerging)",
+      "icon": "🚀",
+      "share": "~5% of americium use — growing",
+      "uses": [
+        "Americium-241 as alternative to plutonium-238 for space RTGs: Am-241's longer half-life (432 years vs 87.7 for ²³⁸Pu) means lower power density but more stable long-term output — suitable for very long missions (100+ years) and lower-power applications",
+        "ESA (European Space Agency) developing Am-241 RTG for future deep space missions as Europe has no access to ²³⁸Pu — the UK's National Nuclear Laboratory is extracting Am-241 from aged UK plutonium stockpiles for ESA's space power program",
+        "Am-241 European Space Power (ASRG): ESA's program to develop a 50W Am-241 RTG for the Cosmic Vision and Voyage 2050 deep space science missions requiring radioisotope power beyond solar panel range"
+      ],
+      "companies": [
+        {
+          "name": "National Nuclear Laboratory (NNL)",
+          "hq": "UK",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Extracting americium-241 from the UK's aged civil plutonium stockpile at Sellafield for ESA's space RTG development program. Producing gram quantities of Am-241 in high purity form for conversion to AmO₂ fuel for RTG heat source pellets."
+        }
+      ]
+    }
+  ]
+}

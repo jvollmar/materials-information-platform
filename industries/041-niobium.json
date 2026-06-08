@@ -1,0 +1,56 @@
+{
+  "dataTier": 1,
+  "industries": [
+    {
+      "id": "steel",
+      "name": "High-Strength Steel Microalloying",
+      "icon": "🏗️",
+      "share": "~90% of niobium use",
+      "uses": [
+        "Niobium (as ferroniobium, FeNb) added at 0.02–0.1% to HSLA steels forms niobium carbonitride (Nb(C,N)) precipitates that refine austenite grain size during hot rolling and precipitation harden the steel — increases yield strength 100–200 MPa with no loss of weldability",
+        "Structural steel for bridges, buildings, pipelines, and offshore platforms uses niobium microalloying to meet API, ASTM, and EN standards for high-strength grades (X65, X80, X100 pipeline steel; S420, S460 structural steel)",
+        "Automotive high-strength steel: niobium microalloyed dual-phase, TRIP, and complex-phase steels for door impact beams, B-pillars, bumper systems, and chassis members — thinner gauge with equivalent strength saves vehicle weight",
+        "Niobium-containing stainless steels (grades 347, 321) use niobium to stabilize against intergranular corrosion — niobium preferentially forms carbides, leaving chromium in solid solution to maintain corrosion resistance in heat-affected zones",
+        "Line pipe steel for oil and gas transmission: API 5L X65–X120 grades require niobium microalloying to achieve the combination of high strength, toughness, and weldability for high-pressure pipelines in arctic and sour-service environments"
+      ],
+      "companies": [
+        { "name": "CBMM (Companhia Brasileira de Metalurgia e Mineração)", "hq": "Brazil", "tier": "major", "volume": "~110,000 t FeNb/yr", "share": "~85% of world niobium production", "use": "World's dominant niobium producer — an extraordinary market concentration. Operates the Araxá pyrochlore mine in Minas Gerais, Brazil, the world's largest and highest-grade niobium deposit. Supplies ferroniobium to virtually every major steel company on Earth." },
+        { "name": "Niobec (Magris Resources)", "hq": "Canada", "tier": "large", "volume": "~5,000 t FeNb/yr", "share": "~5% of world niobium production", "use": "Operates the Niobec underground pyrochlore mine in Saint-Honoré, Quebec — the only significant niobium producer outside Brazil. Produces ferroniobium for North American and European steelmakers." },
+        { "name": "ArcelorMittal", "hq": "Luxembourg", "tier": "major", "volume": null, "share": null, "use": "World's largest steel producer and one of the largest consumers of ferroniobium. Uses niobium in HSLA structural steel, automotive advanced high-strength steel, and line pipe grades across its global steelmaking operations." }
+      ]
+    },
+    {
+      "id": "superalloys",
+      "name": "Superalloys & Specialty Alloys",
+      "icon": "✈️",
+      "share": "~7% of niobium use",
+      "uses": [
+        "Inconel 718 (52% Ni, 19% Cr, 5% Nb): niobium forms gamma-double-prime (γ″) precipitates that provide exceptional strength up to 650°C — IN718 is the most widely used nickel superalloy by weight, accounting for ~35% of all superalloy production in jet engine discs, shafts, and casings",
+        "C-103 niobium alloy (Nb-10%Hf-1%Ti) for rocket nozzle extensions and thruster chambers — niobium's high melting point (2477°C) and low density make it attractive for radiation-cooled spacecraft propulsion components",
+        "Nb-1%Zr alloy for nuclear reactor fuel cladding and structural components in liquid metal fast breeder reactors — low neutron absorption cross-section and compatibility with liquid sodium coolant",
+        "Niobium-titanium (NbTi) superconducting wire: the dominant practical superconductor for MRI machine magnets, particle accelerator dipole magnets (LHC), and research solenoids operating at 4K in liquid helium"
+      ],
+      "companies": [
+        { "name": "Precision Castparts (Berkshire Hathaway)", "hq": "USA", "tier": "major", "volume": null, "share": "~25% of aerospace superalloy castings", "use": "World's largest aerospace investment casting company. Major consumer of Inconel 718 (containing ~5% Nb) for jet engine turbine discs, compressor casings, and structural castings for GE, Pratt & Whitney, and Rolls-Royce." },
+        { "name": "Bruker Energy & Supercon Technologies", "hq": "USA", "tier": "large", "volume": null, "share": "~25% of NbTi superconducting wire market", "use": "Major producer of NbTi superconducting wire for MRI magnets and research applications. Produces multifilamentary NbTi wire embedded in copper matrix for use in superconducting magnet coils operating at liquid helium temperature." },
+        { "name": "Aerojet Rocketdyne (L3Harris)", "hq": "USA", "tier": "large", "volume": null, "share": null, "use": "Uses niobium C-103 alloy for radiation-cooled thruster nozzles on spacecraft and upper stage rocket engines. C-103 niobium alloy components are used on Lockheed Martin's ISTAR spacecraft and various satellite propulsion systems." }
+      ]
+    },
+    {
+      "id": "superconductors",
+      "name": "Superconductors & Scientific",
+      "icon": "🔬",
+      "share": "~3% of niobium use",
+      "uses": [
+        "Niobium-titanium (NbTi) superconducting wire: 1.5T and 3T MRI scanners use NbTi solenoid magnets cooled to 4K — a standard 1.5T MRI magnet contains ~100 km of NbTi wire wound into a superconducting solenoid",
+        "Niobium-tin (Nb₃Sn) for high-field magnets above 10T: CERN's LHC upgrade (HL-LHC) and ITER fusion reactor use Nb₃Sn superconducting cables; requires ~500 tonnes of Nb₃Sn strand for ITER's toroidal field magnets",
+        "Bulk niobium for superconducting radio frequency (SRF) cavities in particle accelerators (CERN, SLAC, Jefferson Lab) — pure niobium (RRR>300) cavities accelerate charged particles in the European Spallation Source and LCLS-II free electron laser",
+        "Niobium Josephson junctions as the basis of superconducting qubit (transmon) quantum computers — IBM, Google, and other quantum computing companies use niobium-based superconducting circuits cooled to 15 millikelvin"
+      ],
+      "companies": [
+        { "name": "Siemens Healthineers", "hq": "Germany", "tier": "major", "volume": null, "share": "~20% of global MRI scanner market", "use": "Major MRI scanner manufacturer. Each MRI system contains NbTi superconducting magnet coils consuming significant quantities of niobium-titanium wire cooled by liquid helium cryostats." },
+        { "name": "IBM Quantum", "hq": "USA", "tier": "major", "volume": null, "share": "~30% of superconducting qubit quantum computing market", "use": "Leading superconducting quantum computer developer. Uses niobium-based Josephson junction qubits (transmons) cooled to 15mK in dilution refrigerators. Each quantum processor contains hundreds to thousands of niobium superconducting circuit elements." }
+      ]
+    }
+  ]
+}

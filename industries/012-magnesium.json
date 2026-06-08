@@ -1,0 +1,79 @@
+{
+  "dataTier": 1,
+  "industries": [
+    {
+      "id": "automotive",
+      "name": "Automotive & Transportation Lightweighting",
+      "icon": "🚗",
+      "share": "~40% of magnesium use",
+      "uses": [
+        "Die-cast magnesium alloys (AZ91D, AM60B) for steering wheels, instrument panel structures, seat frames, door inners, and transmission cases — 33% lighter than aluminum, 75% lighter than steel",
+        "Magnesium-aluminum alloys for engine blocks, oil pans, and cylinder head covers in high-performance and fuel-economy vehicles",
+        "Magnesium sheet alloys in development for automotive body panels — requires improved room-temperature formability versus aluminum",
+        "Bicycle frames and components, motorcycle engine casings, and aerospace seat structures where weight savings justify cost premium",
+        "Electric vehicle battery housings and structural components benefit from magnesium's combination of light weight and electromagnetic shielding properties"
+      ],
+      "companies": [
+        { "name": "Meridian Lightweight Technologies", "hq": "Canada", "tier": "major", "volume": null, "share": "~25% of North American Mg die-casting", "use": "World's largest magnesium die-caster. Produces structural magnesium components for Ford, GM, FCA, and BMW including instrument panel beams, liftgate inners, and front-end carriers." },
+        { "name": "Dynacast", "hq": "USA", "tier": "large", "volume": null, "share": null, "use": "Global precision die-casting company producing magnesium components for automotive, consumer electronics, and medical devices. Operates 23 manufacturing facilities across 16 countries." },
+        { "name": "Georg Fischer Automotive", "hq": "Switzerland", "tier": "large", "volume": null, "share": null, "use": "Major European supplier of magnesium and aluminum structural castings for automotive OEMs. Produces magnesium steering column supports, crosscar beams, and door structures." },
+        { "name": "Chicago White Metal", "hq": "USA", "tier": "medium", "volume": null, "share": null, "use": "Specialty die-caster producing magnesium and aluminum components for automotive, defense, and industrial applications. Known for large, thin-wall magnesium structural castings." }
+      ]
+    },
+    {
+      "id": "steel",
+      "name": "Steel Desulfurization",
+      "icon": "🏭",
+      "share": "~30% of magnesium use",
+      "uses": [
+        "Injection of granular magnesium metal into molten iron in ladle desulfurization stations — magnesium reacts with sulfur to form MgS slag, reducing sulfur below 0.003%",
+        "Co-injection of magnesium with lime (calcium oxide) to optimize reaction kinetics and sulfide flotation in hot metal desulfurization",
+        "Low-sulfur steel required for automotive exposed panels, electrical steel, and high-strength structural steel — sulfur causes red-shortness and impairs surface quality",
+        "Magnesium desulfurization is faster and more efficient than older CaC₂ (calcium carbide) injection methods at comparable cost",
+        "Nodular (ductile) cast iron production requires magnesium addition to molten iron to convert graphite flakes to spheroidal nodules — dramatically improving toughness and ductility"
+      ],
+      "companies": [
+        { "name": "ArcelorMittal", "hq": "Luxembourg", "tier": "major", "volume": null, "share": null, "use": "World's largest steel company; consumes significant magnesium metal for hot metal desulfurization at integrated blast furnace steelworks across Europe, North America, and Asia." },
+        { "name": "Nippon Steel", "hq": "Japan", "tier": "major", "volume": null, "share": null, "use": "Japan's largest steelmaker; operates magnesium desulfurization at all integrated steelworks. Produces ultra-low sulfur steel for automotive exposed surfaces and electrical applications." },
+        { "name": "US Steel", "hq": "USA", "tier": "large", "volume": null, "share": null, "use": "Major integrated steelmaker using magnesium injection for hot metal desulfurization at Gary Works and Mon Valley Works to produce low-sulfur flat-rolled steel for automotive and appliance markets." },
+        { "name": "Hickman, Williams & Company", "hq": "USA", "tier": "large", "volume": null, "share": null, "use": "Leading supplier of magnesium granules and co-injection reagents for steel desulfurization. Also supplies magnesium for ductile iron production to North American foundries." }
+      ]
+    },
+    {
+      "id": "aluminum",
+      "name": "Aluminum Alloy Production",
+      "icon": "✈️",
+      "share": "~15% of magnesium use",
+      "uses": [
+        "Magnesium is the primary alloying element in 5xxx series aluminum alloys (Al-Mg) used for marine, transportation, and structural applications — 0.5–5% Mg addition dramatically increases strength",
+        "6xxx series aluminum alloys (Al-Mg-Si) — the most widely used structural aluminum — require magnesium for precipitation hardening response; used in automotive extrusions, aerospace structures, and bicycle frames",
+        "7xxx series (Al-Zn-Mg-Cu) high-strength aerospace alloys (7075, 7050) use magnesium to maximize strength through age hardening — used in aircraft wing spars and fuselage frames",
+        "Magnesium grain-refines aluminum castings, reducing hot tearing and improving surface quality in die-cast and sand-cast products",
+        "Beverage can body stock (3004 alloy: Al-Mn-Mg) uses ~1% magnesium for work hardening and dent resistance"
+      ],
+      "companies": [
+        { "name": "Norsk Hydro", "hq": "Norway", "tier": "major", "volume": null, "share": "~5% of global aluminum production", "use": "Fully integrated aluminum producer from bauxite to finished product. Major consumer of magnesium metal for alloying 5xxx, 6xxx, and 7xxx series alloys for automotive, aerospace, and building applications." },
+        { "name": "Novelis (Hindalco)", "hq": "USA / India", "tier": "major", "volume": "~4 Mt aluminum/yr", "share": "~20% of global rolled aluminum", "use": "World's largest aluminum rolling company. Produces 5xxx series automotive body sheet and 3xxx series can body stock, both requiring magnesium additions for strength and formability." },
+        { "name": "Constellium", "hq": "France", "tier": "large", "volume": null, "share": null, "use": "Aerospace and automotive aluminum specialist. Major producer of 7xxx and 6xxx series alloys requiring precise magnesium additions for Airbus, Boeing, and automotive structural applications." }
+      ]
+    },
+    {
+      "id": "refractory",
+      "name": "Refractory Materials & Chemicals",
+      "icon": "🔥",
+      "share": "~15% of magnesium use",
+      "uses": [
+        "Dead-burned magnesia (MgO, periclase) produced by high-temperature calcination of magnesite ore — principal refractory for steel BOF furnace linings, cement kiln bricks, and glass tank walls",
+        "Fused magnesia (electrofused MgO) for premium refractory bricks in electric arc furnaces, ladle refractories, and high-wear steel plant applications",
+        "Caustic-calcined magnesia for magnesium oxide wallboard (fire-resistant building panels), animal feed supplements, and wastewater treatment (neutralizing acids)",
+        "Magnesium hydroxide Mg(OH)₂ as flame retardant filler in polyolefin cables and polymers — releases water vapor when heated, cooling and diluting combustible gases",
+        "Magnesium chloride (MgCl₂) for dust suppression on unpaved roads, concrete acceleration, and production of magnesium metal via electrolysis"
+      ],
+      "companies": [
+        { "name": "RHI Magnesita", "hq": "Austria", "tier": "major", "volume": "~3 Mt refractory/yr", "share": "~25% of global refractory market", "use": "World's largest refractory producer. Mines magnesite and produces dead-burned and fused magnesia for steel, cement, glass, and non-ferrous metallurgy furnace linings globally." },
+        { "name": "Grecian Magnesite", "hq": "Greece", "tier": "large", "volume": null, "share": null, "use": "Major European magnesite miner and magnesia producer. Supplies dead-burned, caustic-calcined, and fused magnesia for refractory and industrial applications worldwide." },
+        { "name": "Martin Marietta Magnesia Specialties", "hq": "USA", "tier": "large", "volume": null, "share": null, "use": "Leading North American producer of magnesium hydroxide and magnesium oxide for environmental, industrial, and agricultural applications including wastewater treatment and animal feed." }
+      ]
+    }
+  ]
+}

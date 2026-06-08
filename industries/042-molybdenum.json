@@ -1,0 +1,59 @@
+{
+  "dataTier": 1,
+  "industries": [
+    {
+      "id": "steel",
+      "name": "Steel & Cast Iron Alloying",
+      "icon": "🏗️",
+      "share": "~80% of molybdenum use",
+      "uses": [
+        "Molybdenum in low-alloy steels (0.1–0.3% Mo) dramatically improves hardenability, allowing thick sections to harden fully through their cross-section — essential for large-diameter oil country tubular goods (OCTG), pressure vessels, and heavy forgings",
+        "High-strength low-alloy steels for Arctic and sour-service oil pipelines require Mo additions for resistance to hydrogen-induced cracking (HIC) and sulfide stress corrosion cracking (SSCC) in H₂S-containing environments",
+        "Stainless steels: 316 and 316L (2% Mo), super-austenitic grades 904L and 254 SMO (4–6% Mo), and duplex grades 2205 and 2507 (3–4% Mo) — molybdenum improves resistance to pitting and crevice corrosion from chlorides in seawater and chemical plant environments",
+        "Tool steels: H13 (1.5% Mo), M2 high-speed steel (5% Mo, 6% W), D2 cold-work steel (1% Mo) — molybdenum increases red hardness (resistance to softening at elevated temperatures) in cutting tools, dies, and molds",
+        "Chromium-molybdenum (Cr-Mo) pressure vessel steels (ASTM P91, P92, P22): used for high-temperature steam pipes, headers, and pressure vessels in power plants — Mo stabilizes carbides and maintains creep strength at 550–650°C"
+      ],
+      "companies": [
+        { "name": "Freeport-McMoRan", "hq": "USA", "tier": "major", "volume": "~45,000 t Mo/yr", "share": "~15% of world molybdenum production", "use": "World's second-largest molybdenum producer. Recovers molybdenum as a byproduct of copper mining at Bingham Canyon (Kennecott), Morenci, and Climax (the world's first dedicated Mo mine). Produces molybdic oxide and ferromolybdenum." },
+        { "name": "Codelco", "hq": "Chile", "tier": "major", "volume": "~40,000 t Mo/yr", "share": "~13% of world molybdenum production", "use": "Major molybdenum producer as byproduct of copper mining at El Teniente (world's largest molybdenum mine by reserves), Chuquicamata, and Andina operations. Chile is the world's largest molybdenum producer country." },
+        { "name": "China Molybdenum (CMOC)", "hq": "China", "tier": "major", "volume": "~30,000 t Mo/yr", "share": "~10% of world molybdenum production", "use": "Major Chinese molybdenum producer from the Luanchuan molybdenum deposit in Henan — one of the world's largest primary Mo mines. China produces ~40% of world molybdenum. CMOC also operates major copper-cobalt mines in the DRC." },
+        { "name": "Climax Molybdenum (Freeport)", "hq": "USA", "tier": "large", "volume": null, "share": "~6% of world molybdenum production", "use": "Operates the Climax mine in Colorado and Henderson mine in Colorado — both dedicated molybdenum deposits (not copper byproduct). Climax was the world's largest molybdenum mine for much of the 20th century." }
+      ]
+    },
+    {
+      "id": "catalysts",
+      "name": "Petroleum Refining Catalysts",
+      "icon": "🛢️",
+      "share": "~10% of molybdenum use",
+      "uses": [
+        "Cobalt-molybdenum (CoMo) and nickel-molybdenum (NiMo) hydrodesulfurization (HDS) catalysts in petroleum refineries remove sulfur from gasoline, diesel, and jet fuel to meet ultra-low-sulfur fuel standards (10 ppm in EU and US)",
+        "CoMo and NiMo catalysts supported on alumina (Al₂O₃) operate at 300–400°C and 30–130 bar hydrogen pressure in fixed-bed reactors — the largest installed base of molybdenum-containing catalysts in the world by total metal inventory",
+        "Hydrodenitrogenation (HDN) and hydrocracking catalysts also use NiMo formulations to remove nitrogen and crack heavy molecules in vacuum gas oil upgrading",
+        "Molybdenum disulfide (MoS₂) as active phase in HDS catalysts — MoS₂ edges are the catalytic sites; CoMo or NiMo promoters increase activity by orders of magnitude",
+        "Spent HDS catalyst recycling recovers molybdenum and cobalt/nickel — a significant secondary supply source for molybdenum chemicals and metal"
+      ],
+      "companies": [
+        { "name": "Haldor Topsoe (Topsoe)", "hq": "Denmark", "tier": "major", "volume": null, "share": "~25% of global HDS catalyst market", "use": "World's leading HDS catalyst supplier. Produces CoMo (TK-series) and NiMo catalysts for ultra-deep desulfurization of diesel and gasoline. Supplies to refineries globally for Euro 6 / Tier 3 ultra-low-sulfur fuel production." },
+        { "name": "BASF Catalysts", "hq": "Germany", "tier": "major", "volume": null, "share": "~20% of global HDS catalyst market", "use": "Major refinery catalyst producer making CoMo and NiMo HDS, HDN, and hydrocracking catalysts for petroleum refineries worldwide. Also recovers molybdenum from spent catalyst through its catalyst recycling operations." },
+        { "name": "Albemarle Corporation", "hq": "USA", "tier": "large", "volume": null, "share": "~15% of global HDS catalyst market", "use": "Major refinery and petrochemical catalyst producer. Manufactures CoMo and NiMo HDS catalysts for diesel desulfurization and provides catalyst recycling services recovering molybdenum and other metals from spent catalysts." }
+      ]
+    },
+    {
+      "id": "lubricants",
+      "name": "Lubricants & Specialty Applications",
+      "icon": "⚙️",
+      "share": "~10% of molybdenum use",
+      "uses": [
+        "Molybdenum disulfide (MoS₂) dry lubricant: lamellar crystal structure allows easy shear between layers — used as grease additive, dry film lubricant spray, and burnished coating for aerospace fasteners, gun mechanisms, and precision bearings in vacuum",
+        "Molybdenum dithiocarbamate (MoDTC) friction modifier in engine oil — reduces boundary friction in cam-follower contacts by 20–30%, improving fuel economy in automotive engines; required in ILSAC GF-6 engine oil specification",
+        "MoS₂ coating on titanium implant screws and surgical instruments reduces galling during installation and removal in orthopedic and spinal surgery",
+        "Molybdenum trioxide (MoO₃) as smoke suppressant and flame retardant synergist in PVC wire insulation and other polymers — reduces acidity and smoke opacity in fire conditions",
+        "Molybdate corrosion inhibitors in cooling water systems and automotive antifreeze — sodium molybdate (Na₂MoO₄) passivates steel and aluminum surfaces at low concentrations (50–200 ppm)"
+      ],
+      "companies": [
+        { "name": "Dow Corning / Dow", "hq": "USA", "tier": "large", "volume": null, "share": null, "use": "Produces molybdenum disulfide-containing lubricant greases and dry film lubricant sprays for aerospace, defense, and industrial applications under the Molykote brand — the benchmark MoS₂ lubricant product globally." },
+        { "name": "Afton Chemical (NewMarket)", "hq": "USA", "tier": "major", "volume": null, "share": "~20% of engine oil additive market", "use": "Major engine oil additive producer. Supplies MoDTC (molybdenum dithiocarbamate) friction modifiers to engine oil blenders for passenger car motor oils meeting ILSAC GF-5 and GF-6 fuel economy specifications." }
+      ]
+    }
+  ]
+}

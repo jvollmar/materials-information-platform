@@ -1,0 +1,69 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "catalysts",
+      "name": "Petroleum Refining Catalysts (FCC)",
+      "icon": "🛢️",
+      "share": "~35% of lanthanum use",
+      "uses": [
+        "Lanthanum oxide (La₂O₃) stabilizes the zeolite Y catalyst used in fluid catalytic cracking (FCC) — FCC converts heavy gas oil to gasoline, diesel, and petrochemical feedstocks. Lanthanum exchanged into the zeolite prevents dealumination and maintains catalytic activity at 700°C+",
+        "Rare earth-exchanged Y zeolite (REY, REUSY) containing lanthanum and cerium is the workhorse of the global petroleum refining industry — virtually every oil refinery worldwide uses FCC catalysts containing rare earth elements",
+        "Lanthanum in FCC catalysts improves gasoline yield, octane number, and catalyst stability under repeated cracking and regeneration cycles at extreme temperatures",
+        "Lanthanum aluminate (LaAlO₃) as catalyst support for automotive exhaust three-way catalysts — improves thermal stability of the alumina washcoat at the high temperatures of close-coupled catalyst positions"
+      ],
+      "companies": [
+        { "name": "BASF Catalysts", "hq": "Germany", "tier": "major", "volume": null, "share": "~25% of global FCC catalyst market", "use": "Major FCC catalyst manufacturer. Produces lanthanum-stabilized zeolite Y FCC catalysts for petroleum refineries globally. Lanthanum content in FCC catalysts is a significant end use — BASF processes tonnes of lanthanum oxide annually for catalyst production." },
+        { "name": "Grace (W.R. Grace)", "hq": "USA", "tier": "major", "volume": null, "share": "~30% of global FCC catalyst market", "use": "World's largest FCC catalyst producer. Manufactures Davison-brand rare earth-exchanged zeolite FCC catalysts supplied to refineries on every continent. Lanthanum and cerium are incorporated into every tonne of catalyst produced." }
+      ]
+    },
+    {
+      "id": "optics",
+      "name": "Optical Glass & Camera Lenses",
+      "icon": "📷",
+      "share": "~25% of lanthanum use",
+      "uses": [
+        "Lanthanum oxide (La₂O₃, 20–50% by weight) in optical glass formulations: increases refractive index (nd up to 1.90) while maintaining low dispersion (Abbe number Vd 40–50) — enabling compact, aberration-corrected lens designs impossible with conventional silicate glass",
+        "La-dense optical glass used in camera zoom lenses, microscope objectives, and telescope eyepieces for high-resolution, low-chromatic-aberration optics in demanding imaging applications",
+        "Lanthanum fluoride (LaF₃) in optical coatings and in specialty glass for UV-transmitting optics",
+        "Lanthanum aluminate (LAO) as substrate material for growing high-temperature superconductor thin films and complex oxide epitaxial layers in research and quantum computing applications"
+      ],
+      "companies": [
+        { "name": "Schott AG", "hq": "Germany", "tier": "major", "volume": null, "share": "~20% of specialty optical glass market", "use": "Major specialty optical glass manufacturer producing lanthanum-dense glasses (LaK, LaSF series) for precision optics, camera lenses, and scientific instruments. Lanthanum content of high-index glass formulations is substantial per tonne of glass produced." },
+        { "name": "Canon", "hq": "Japan", "tier": "major", "volume": null, "share": "~25% of interchangeable camera lens market", "use": "Major camera lens manufacturer consuming lanthanum optical glass in its UD (ultra-low dispersion) and LD elements for telephoto and zoom lenses. Canon L-series lenses use lanthanum-containing glass to achieve high refractive index with low dispersion." }
+      ]
+    },
+    {
+      "id": "batteries",
+      "name": "Nickel-Metal Hydride Batteries",
+      "icon": "🔋",
+      "share": "~25% of lanthanum use",
+      "uses": [
+        "Lanthanum-rich misch metal (La-Ce-Pr-Nd alloy) is the major component of the AB₅-type hydrogen storage alloy (LaNi₅ and mischmetal Ni₅) used as the negative electrode in nickel-metal hydride (NiMH) batteries",
+        "Hybrid electric vehicle (HEV) NiMH battery packs: Toyota Prius (all generations), Honda Insight, and most hybrid vehicles use NiMH batteries containing lanthanum — each Prius battery pack contains ~10–15 kg of rare earth elements including significant lanthanum",
+        "Industrial NiMH batteries for power tools, medical equipment, and portable electronics still use lanthanum-based metal hydride anodes in applications where NiMH is preferred over lithium-ion",
+        "Each Toyota Prius sold represents ~10kg of rare earth-containing metal hydride material — Toyota has sold 6+ million Prius globally, representing a significant cumulative lanthanum demand"
+      ],
+      "companies": [
+        { "name": "Toyota Motor Corporation", "hq": "Japan", "tier": "major", "volume": null, "share": "~35% of global HEV market", "use": "World's largest hybrid vehicle manufacturer and major NiMH battery consumer. Prius and other Toyota hybrids use NiMH batteries containing lanthanum-based metal hydride anodes. Has significant interest in rare earth supply security for battery production." },
+        { "name": "Primearth EV Energy (Toyota/Panasonic JV)", "hq": "Japan", "tier": "major", "volume": null, "share": "~40% of automotive NiMH battery market", "use": "Joint venture producing NiMH battery packs for Toyota, Honda, and Ford hybrid vehicles. Major consumer of lanthanum-containing AB₅ metal hydride alloy for battery negative electrodes." }
+      ]
+    },
+    {
+      "id": "specialty",
+      "name": "Specialty & Emerging Applications",
+      "icon": "⚗️",
+      "share": "~15% of lanthanum use",
+      "uses": [
+        "Lanthanum nickel oxide (LaNiO₃) and lanthanum manganite (LaMnO₃) perovskite electrodes for solid oxide fuel cells (SOFCs) — lanthanum-based perovskites are the standard cathode material for SOFC oxygen reduction",
+        "Lanthanum hexaboride (LaB₆) electron emitter: thermionic cathode material for electron microscopes (SEM, TEM) and electron beam lithography systems — 10× higher brightness than tungsten filaments",
+        "Lanthanum strontium manganite (LSM) and lanthanum strontium cobalt ferrite (LSCF) perovskite cathodes in SOFC stacks — the primary cathode material in commercial SOFC systems from Bloom Energy and other manufacturers",
+        "La₂O₃ as gate dielectric in experimental high-k transistor structures — high dielectric constant (εr ~27) and bandgap make lanthanum oxide a candidate for next-generation CMOS gate insulators"
+      ],
+      "companies": [
+        { "name": "JEOL", "hq": "Japan", "tier": "major", "volume": null, "share": "~25% of electron microscope market", "use": "Major electron microscope manufacturer using lanthanum hexaboride (LaB₆) cathodes in its SEM and TEM instruments. LaB₆ emitters provide higher brightness and longer lifetime than tungsten filaments for high-resolution imaging." },
+        { "name": "Bloom Energy", "hq": "USA", "tier": "large", "volume": null, "share": "~40% of US commercial SOFC market", "use": "Leading SOFC manufacturer. Uses lanthanum strontium manganite (LSM) and lanthanum strontium cobalt ferrite (LSCF) perovskite cathode materials in its Energy Server solid oxide fuel cell stacks for distributed power generation." }
+      ]
+    }
+  ]
+}

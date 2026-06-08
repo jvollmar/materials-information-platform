@@ -1,0 +1,44 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "nuclear",
+      "name": "Nuclear Applications & Space Power",
+      "icon": "⚛️",
+      "share": "100% of neptunium use",
+      "uses": [
+        "Neptunium-237 (²³⁷Np, t½ = 2.14 million years) is the primary long-lived transuranic waste component in spent nuclear fuel after uranium and plutonium — transmutation of ²³⁷Np in fast neutron reactors is studied as a strategy to reduce nuclear waste radiotoxic lifetime from millions of years to hundreds",
+        "²³⁷Np irradiated in a nuclear reactor produces plutonium-238 via neutron capture and beta decay (²³⁷Np + n → ²³⁸Np → ²³⁸Pu) — ²³⁸Pu is the essential heat source in NASA's radioisotope thermoelectric generators (RTGs) for deep space missions beyond the range of solar panels",
+        "ORNL produces ²³⁸Pu at Oak Ridge from ²³⁷Np targets irradiated in the HFIR reactor — restarted in 2015 after a 30-year gap to ensure supply for NASA's Dragonfly (Titan), Europa Clipper, and future outer solar system missions",
+        "Neptunium metal has a critical mass for nuclear fission (~60 kg), making ²³⁷Np a safeguarded nuclear material tracked under IAEA protocols",
+        "Neptunium is the first transuranic element — discovered in 1940 at UC Berkeley by Edwin McMillan and Philip Abelson by neutron bombardment of uranium-238 in a cyclotron"
+      ],
+      "companies": [
+        {
+          "name": "Oak Ridge National Laboratory (DOE)",
+          "hq": "USA",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "Primary US handler and processor of neptunium-237, extracted from spent nuclear fuel reprocessing. Restated ²³⁸Pu production in 2015 by irradiating Np-237 oxide targets in the HFIR reactor — the sole US source of ²³⁸Pu for NASA deep space RTGs. Targets are processed in ORNL's hot cells to separate the Pu-238 product."
+        },
+        {
+          "name": "RIAR (Research Institute of Atomic Reactors)",
+          "hq": "Russia",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Russian nuclear research center at Dimitrovgrad operating high-flux research reactors that irradiate neptunium targets for ²³⁸Pu production for Russian space power programs. Also conducts neptunium transmutation research in fast neutron reactors as part of the Russian closed nuclear fuel cycle program."
+        },
+        {
+          "name": "NASA (Jet Propulsion Laboratory)",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Primary end-user of neptunium-derived ²³⁸Pu in its MMRTG (Multi-Mission RTG) and GPHS-RTG systems. The Perseverance rover, Dragonfly Titan rotorcraft, and future outer planet missions all depend on ORNL's Np-237 irradiation program to produce the ²³⁸Pu fuel for their power systems."
+        }
+      ]
+    }
+  ]
+}

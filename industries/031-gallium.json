@@ -1,0 +1,58 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "semiconductors",
+      "name": "Compound Semiconductors & Electronics",
+      "icon": "💻",
+      "share": "~70% of gallium use",
+      "uses": [
+        "Gallium arsenide (GaAs) and gallium nitride (GaN) are III-V compound semiconductors with electron mobility far exceeding silicon — GaAs used in solar cells, RF amplifiers, and laser diodes; GaN dominates high-frequency, high-power RF and power electronics",
+        "GaN-on-silicon (GaN-Si) power transistors are replacing silicon MOSFETs in EV onboard chargers, data center power supplies, and consumer fast chargers (65W–240W GaN chargers) — GaN switches faster with lower losses at the same voltage rating",
+        "GaN-on-SiC high electron mobility transistors (HEMTs) for defense radar, 5G base station power amplifiers, and satellite communications — handles 10× more power per unit area than GaAs at frequencies above 10 GHz",
+        "GaAs multi-junction solar cells achieve 47%+ efficiency under concentrated sunlight — used in satellite power systems where weight and area are constrained; terrestrial CPV (concentrating PV) installations",
+        "Gallium indium arsenide (InGaAs) photodetectors for fiber optic receivers, night vision, and LiDAR sensors — detects 1300–1600nm telecom wavelengths invisible to silicon detectors"
+      ],
+      "companies": [
+        { "name": "Wolfspeed (formerly Cree)", "hq": "USA", "tier": "major", "volume": null, "share": "~60% of SiC wafer market (GaN substrate)", "use": "World's largest SiC and GaN-on-SiC wafer manufacturer. Produces GaN HEMT devices for 5G base stations, defense radar, and EV power electronics. Its Mohawk Valley fab is the world's largest 200mm SiC wafer fab." },
+        { "name": "Infineon Technologies", "hq": "Germany", "tier": "major", "volume": null, "share": "~20% of GaN power device market", "use": "Major GaN-on-Si power device manufacturer. Produces CoolGaN transistors for EV charging, telecom, and industrial power supplies. Also major SiC MOSFET producer for EV inverters." },
+        { "name": "Qorvo", "hq": "USA", "tier": "major", "volume": null, "share": "~25% of GaN RF device market", "use": "Leading GaN-on-SiC RF device manufacturer for 5G infrastructure, defense radar (AESA arrays), and satellite communications. Supplies GaN power amplifiers to Ericsson, Nokia, and defense prime contractors." },
+        { "name": "China Hongqiao / Chinalco", "hq": "China", "tier": "major", "volume": null, "share": "~80% of world gallium production", "use": "China dominates global gallium production — gallium is a byproduct of aluminum refining from bauxite (Bayer process liquor). China's export restrictions on gallium announced August 2023 created significant supply chain concern in Western semiconductor industries." }
+      ]
+    },
+    {
+      "id": "leds",
+      "name": "LEDs & Solid-State Lighting",
+      "icon": "💡",
+      "share": "~20% of gallium use",
+      "uses": [
+        "Gallium nitride (GaN) blue LEDs — the 2014 Nobel Prize-winning invention by Akasaki, Amano, and Nakamura. Blue GaN LEDs combined with yellow phosphor produce white light, enabling the LED lighting revolution that displaced incandescent and fluorescent lamps globally",
+        "InGaN (indium gallium nitride) quantum well active layers in blue and green LEDs — indium content tunes emission wavelength from 365nm (UV) to 520nm (green)",
+        "GaN micro-LEDs for next-generation displays: Apple Watch Ultra, future AR/VR headsets, and direct-view microLED TVs use arrays of GaN micro-LEDs smaller than 100 microns for ultra-high brightness and efficiency",
+        "GaN-based violet laser diodes (405nm) for Blu-ray disc players and high-power laser projectors",
+        "AlGaInP (aluminum gallium indium phosphide) red and amber LEDs for automotive tail lights, traffic signals, and full-color outdoor displays"
+      ],
+      "companies": [
+        { "name": "Nichia Corporation", "hq": "Japan", "tier": "major", "volume": null, "share": "~15% of global LED market", "use": "World's largest LED manufacturer and inventor of the first high-brightness GaN blue LED (Shuji Nakamura, 1993). Produces GaN LEDs for general lighting, automotive, and display backlighting. Closely guards GaN epitaxy technology." },
+        { "name": "ams-Osram", "hq": "Austria / Germany", "tier": "major", "volume": null, "share": "~10% of global LED market", "use": "Major LED manufacturer producing GaN-based LEDs for automotive headlights, consumer lighting, horticultural lighting, and specialty applications. Developing micro-LED technology for AR/VR displays." },
+        { "name": "Seoul Semiconductor", "hq": "South Korea", "tier": "large", "volume": null, "share": "~8% of global LED market", "use": "Major GaN LED manufacturer specializing in UV LEDs for disinfection, horticulture LEDs, and automotive lighting. Its SunLike series mimics natural sunlight spectrum for human-centric lighting applications." }
+      ]
+    },
+    {
+      "id": "medical",
+      "name": "Medical Imaging & Research",
+      "icon": "🏥",
+      "share": "~10% of gallium use",
+      "uses": [
+        "Gallium-67 (⁶⁷Ga) citrate as nuclear medicine tracer for tumor imaging, infection/inflammation detection, and lymphoma staging — gamma camera imaging of gallium uptake in rapidly dividing cells",
+        "Gallium-68 (⁶⁸Ga) PET imaging agent: ⁶⁸Ga-DOTATATE for neuroendocrine tumor detection; ⁶⁸Ga-PSMA for prostate cancer staging — superior to CT and MRI for detecting small metastases",
+        "Gallium maltolate and gallium nitrate as antimicrobial and anticancer investigational drugs — gallium mimics iron in biological systems, disrupting iron-dependent bacterial metabolism and cancer cell proliferation",
+        "Galinstan (Ga-In-Sn liquid metal alloy, melting point -19°C) as non-toxic replacement for mercury in thermometers, pressure sensors, and flexible electronics"
+      ],
+      "companies": [
+        { "name": "Isotopia Molecular Imaging", "hq": "Israel", "tier": "small", "volume": null, "share": null, "use": "Producer of gallium-68 radiopharmaceuticals for PET imaging of neuroendocrine tumors and prostate cancer. Supplies ⁶⁸Ga-DOTATATE and ⁶⁸Ga-PSMA to nuclear medicine centers across Europe and Israel." },
+        { "name": "Advanced Accelerator Applications (Novartis)", "hq": "France / Switzerland", "tier": "large", "volume": null, "share": null, "use": "Major radiopharmaceutical company producing Lutathera (¹⁷⁷Lu-DOTATATE therapy) and developing gallium-68 PSMA diagnostic agents for prostate cancer. Supplies ⁶⁸Ga tracers to PET centers globally." }
+      ]
+    }
+  ]
+}

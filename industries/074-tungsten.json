@@ -1,0 +1,57 @@
+{
+  "dataTier": 1,
+  "industries": [
+    {
+      "id": "cemented-carbide",
+      "name": "Cemented Carbide Cutting Tools",
+      "icon": "⚙️",
+      "share": "~60% of tungsten use",
+      "uses": [
+        "Tungsten carbide (WC) bonded with cobalt metal binder (WC-Co, cemented carbide): the dominant cutting tool material for metal machining — WC's hardness (9.5 Mohs, second only to diamond) and cobalt's toughness combine to give cutting tool inserts 5–10× longer life than high-speed steel",
+        "WC-Co inserts (turning, milling, drilling, boring) for machining steel, cast iron, aluminum, titanium, and nickel superalloys in automotive, aerospace, and general engineering. Billions of indexable inserts consumed annually worldwide",
+        "Solid carbide end mills and drills for precision machining of hardened steels, composites, and exotic alloys in aerospace, die/mold, and medical device manufacturing",
+        "Mining and tunneling tools: WC-Co drill bits, road milling picks, and tunnel boring machine cutter discs — tungsten carbide is the only economically viable material for rock drilling",
+        "WC-Co wear parts: nozzles, dies, drawing dies, seal rings, and valve components in oil & gas, mining, and industrial processing where abrasion resistance is paramount"
+      ],
+      "companies": [
+        { "name": "Sandvik Coromant", "hq": "Sweden", "tier": "major", "volume": null, "share": "~15% of global cutting tool market", "use": "World's largest cutting tool manufacturer. Produces WC-Co inserts, solid carbide end mills, and drilling tools for automotive, aerospace, and general engineering. Major tungsten carbide consumer from powder to finished tools." },
+        { "name": "Kennametal", "hq": "USA", "tier": "major", "volume": null, "share": "~8% of global cutting tool market", "use": "Major cemented carbide cutting tool and wear part manufacturer. Produces WC-Co inserts, mining bits, and wear-resistant components. Also produces powdered tungsten carbide for other manufacturers." },
+        { "name": "Iscar (IMC Group, Berkshire Hathaway)", "hq": "Israel", "tier": "major", "volume": null, "share": "~8% of global cutting tool market", "use": "Major cutting tool manufacturer producing WC-Co inserts and tooling systems for metal cutting. Part of Berkshire Hathaway's IMC Group with Iscar, Ingersoll, and other cutting tool brands globally." },
+        { "name": "China Minmetals / CNMC", "hq": "China", "tier": "major", "volume": null, "share": "~80% of world tungsten production", "use": "China dominates world tungsten production — primary from scheelite and wolframite mines in Jiangxi, Hunan, and Fujian provinces. China controls ~65% of world reserves and ~80% of production. Major APT (ammonium paratungstate) exporter." }
+      ]
+    },
+    {
+      "id": "alloys",
+      "name": "Steel Alloying & High-Speed Steel",
+      "icon": "🔩",
+      "share": "~20% of tungsten use",
+      "uses": [
+        "High-speed steel (HSS): M2 (6%W-5%Mo-4%Cr-2%V), M42 (cobalt HSS), and T-series (18%W) steels for cutting tools that maintain hardness at red heat — tungsten forms stable W₂C and other carbides that resist softening at 500–600°C during high-speed machining",
+        "Hot work tool steels (H21, H23) containing 9–18% tungsten for brass and copper extrusion dies, forging dies, and die-casting tooling — tungsten maintains hardness at elevated working temperatures",
+        "Tungsten heavy alloys (W-Ni-Fe or W-Ni-Cu, 90–97% W): extremely high density (17–18.5 g/cm³) used in radiation shielding, gyroscope rotors, aircraft counterweights, armor-piercing kinetic energy penetrators (military), and dart barrels",
+        "Stellite (Co-Cr-W) hardfacing alloys for wear-resistant valve seats, saw teeth, and agricultural tillage points — tungsten increases hardness at elevated temperatures",
+        "Tungsten filaments for incandescent and halogen lamps: tungsten's melting point (3422°C, the highest of all metals) allows operation at 2400–3000K — now a declining use as LED lighting displaces filament lamps"
+      ],
+      "companies": [
+        { "name": "Plansee Group", "hq": "Austria", "tier": "major", "volume": null, "share": "~15% of Western tungsten metal market", "use": "Major tungsten metal products manufacturer. Produces tungsten rod, sheet, wire, and powder for lighting filaments, high-temperature furnace parts, sputtering targets, and electrical contacts. Significant tungsten heavy alloy producer." },
+        { "name": "Buffalo Tungsten (Tungsten Heavy Powder)", "hq": "USA", "tier": "large", "volume": null, "share": "~10% of North American tungsten powder market", "use": "Major US tungsten powder and heavy alloy producer. Produces tungsten metal powder, WC powder, and tungsten heavy alloys for radiation shielding, aerospace counterweights, and defense kinetic energy penetrators." }
+      ]
+    },
+    {
+      "id": "electronics",
+      "name": "Electronics & Lighting",
+      "icon": "💡",
+      "share": "~10% of tungsten use",
+      "uses": [
+        "Tungsten metallization in semiconductor chips: tungsten CVD plug fill for contact and via holes in silicon, and tungsten word line gates in 3D NAND flash memory — tungsten's high melting point allows use as refractory metal interconnect in high-temperature processing steps",
+        "Tungsten sputtering targets for PVD deposition of W diffusion barrier layers, TiW adhesion layers, and W word lines in DRAM and NAND memory manufacturing",
+        "X-ray tube anodes: tungsten (or tungsten-rhenium) rotating anodes in medical and industrial X-ray tubes — tungsten's high melting point, high atomic number (Z=74, efficient X-ray production), and thermal conductivity make it the only viable anode material",
+        "TIG (tungsten inert gas) welding electrodes: pure W, W-ThO₂, W-CeO₂, or W-LaO₂ electrodes for GTAW welding of aluminum, titanium, stainless steel, and specialty alloys — tungsten's melting point allows it to sustain the welding arc without melting"
+      ],
+      "companies": [
+        { "name": "Applied Materials", "hq": "USA", "tier": "major", "volume": null, "share": "~20% of semiconductor equipment market", "use": "Major semiconductor equipment company whose CVD systems deposit tungsten plugs and tungsten word lines in DRAM and NAND memory manufacturing. Major indirect consumer of tungsten hexafluoride (WF₆) CVD precursor." },
+        { "name": "Varex Imaging (Varian spinoff)", "hq": "USA", "tier": "major", "volume": null, "share": "~35% of X-ray tube component market", "use": "World's largest X-ray tube manufacturer. Produces tungsten and tungsten-rhenium rotating anode discs for medical CT, radiography, and mammography X-ray tubes, and tungsten targets for industrial and security inspection systems." }
+      ]
+    }
+  ]
+}

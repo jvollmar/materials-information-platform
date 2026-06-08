@@ -1,0 +1,72 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "pyrotechnics",
+      "name": "Pyrotechnics & Flares",
+      "icon": "🎆",
+      "share": "~35% of strontium use",
+      "uses": [
+        "Strontium nitrate (Sr(NO₃)₂) and strontium carbonate produce the brilliant crimson-red color in fireworks, signal flares, and emergency road flares — strontium emits characteristic red spectral lines at 606nm and 687nm when burned",
+        "Military signal flares, aircraft distress flares, and naval illumination flares use strontium nitrate as both oxidizer and colorant in pyrotechnic compositions",
+        "Railway and highway emergency flares (fusees) use strontium nitrate with magnesium fuel — produce intensely bright red light visible at distance to warn of road hazards",
+        "Tracer ammunition: strontium compounds in tracer bullet base composition produce the red trail marking bullet trajectory in machine gun fire and tank gunnery training"
+      ],
+      "companies": [
+        { "name": "Chemring Group", "hq": "UK", "tier": "major", "volume": null, "share": "~20% of global military pyrotechnics market", "use": "Major defense pyrotechnics manufacturer producing strontium-based signal flares, aircraft countermeasure flares, illumination rounds, and tracer ammunition for NATO and allied forces." },
+        { "name": "Alliant Techsystems (ATK / Northrop Grumman)", "hq": "USA", "tier": "major", "volume": null, "share": "~25% of US military pyrotechnics market", "use": "Major US defense contractor producing strontium-containing tracer ammunition, signal flares, and illumination munitions for the US military and allied governments." }
+      ]
+    },
+    {
+      "id": "magnets",
+      "name": "Ferrite Permanent Magnets",
+      "icon": "🧲",
+      "share": "~30% of strontium use",
+      "uses": [
+        "Strontium ferrite (SrFe₁₂O₁₉, strontium hexaferrite) permanent magnets — the world's highest-volume permanent magnet material by weight. Lower energy product than NdFeB rare earth magnets but vastly cheaper and corrosion-resistant",
+        "Strontium ferrite in small DC motors for automotive accessories (windows, wipers, seats, mirrors), household appliances (vacuum cleaners, fans, blenders), toys, and loudspeaker drivers",
+        "Ferrite magnets in loudspeaker drivers: the vast majority of consumer audio speakers use strontium ferrite rather than rare earth magnets due to cost — from earbuds to home theater subwoofers",
+        "Magnetic separation equipment: strontium ferrite magnetic drums, pulleys, and plates for removing ferrous tramp metal from food processing, recycling conveyors, and mineral processing streams",
+        "Strontium ferrite flexible magnet strip and sheet (embedded in rubber/vinyl binder) for refrigerator door gaskets, display signage, advertising magnets, and magnetic closures"
+      ],
+      "companies": [
+        { "name": "TDK Corporation", "hq": "Japan", "tier": "major", "volume": null, "share": "~15% of global ferrite magnet market", "use": "World's largest ferrite magnet manufacturer. Produces strontium and barium ferrite magnets, ferrite cores for inductors and transformers, and NdFeB rare earth magnets for automotive, consumer electronics, and industrial applications." },
+        { "name": "Hitachi Metals (Proterial)", "hq": "Japan", "tier": "major", "volume": null, "share": "~10% of global ferrite magnet market", "use": "Major strontium ferrite and NdFeB permanent magnet producer. Supplies ferrite magnets for automotive motors, home appliances, and loudspeakers, and rare earth magnets for EV traction motors and wind turbines." },
+        { "name": "Ningbo Yunsheng (Magnet)", "hq": "China", "tier": "large", "volume": null, "share": "~8% of global ferrite magnet market", "use": "Major Chinese ferrite and NdFeB permanent magnet manufacturer supplying automotive, home appliance, and consumer electronics markets in China and globally." }
+      ]
+    },
+    {
+      "id": "glass-ceramics",
+      "name": "Glass, Ceramics & Specialty Chemicals",
+      "icon": "🪟",
+      "share": "~25% of strontium use",
+      "uses": [
+        "Strontium carbonate in color television CRT glass: front panel glass containing 8–10% SrO absorbed X-rays emitted by the electron beam, preventing radiation exposure to viewers — largely obsolete as CRTs have been replaced by flat panels",
+        "Strontium in ceramic tile and sanitary ware glazes — improves gloss, surface tension of molten glaze, and reduces crawling and pinholing defects in firing",
+        "Strontium titanate (SrTiO₃) as a dielectric in multilayer ceramic capacitors (MLCCs) for high-frequency electronics, and as a substrate for high-temperature superconductor film deposition",
+        "Strontium aluminate (SrAl₂O₄) phosphorescent pigment: long-afterglow luminescent material used in glow-in-the-dark safety signs, exit markers, clock dials, and novelty products — stores energy from ambient light and releases it as green glow for hours",
+        "Strontium chloride in sensitive toothpaste formulations (Sensodyne) — strontium ions block dentinal tubules to reduce tooth sensitivity to hot, cold, and sweet stimuli"
+      ],
+      "companies": [
+        { "name": "Luminofor (LuminoChem)", "hq": "Russia / Germany", "tier": "large", "volume": null, "share": null, "use": "Major producer of strontium aluminate long-afterglow phosphorescent pigments for safety signs, emergency egress marking, and novelty applications. Supplies SrAl₂O₄:Eu,Dy phosphors to sign manufacturers globally." },
+        { "name": "Halcyon Proteins / GSK Consumer Healthcare", "hq": "UK", "tier": "large", "volume": null, "share": null, "use": "Produces Sensodyne strontium chloride sensitive toothpaste formulations — strontium chloride (10%) is the active ingredient providing dentinal tubule occlusion for relief of dentin hypersensitivity." }
+      ]
+    },
+    {
+      "id": "medical",
+      "name": "Medical & Nuclear",
+      "icon": "🏥",
+      "share": "~10% of strontium use",
+      "uses": [
+        "Strontium-89 (Metastron) as radiopharmaceutical for palliative treatment of bone pain from metastatic prostate and breast cancer — strontium mimics calcium and concentrates in bone metastases, delivering local beta radiation to tumors",
+        "Strontium-90 (⁹⁰Sr, t½ = 28.8 years) as beta source in radioisotope thermoelectric generators (RTGs) for remote power stations and lighthouses; also in radiation therapy applicators for eye and skin treatment",
+        "Strontium ranelate (Protelos) was a prescription drug for osteoporosis — stimulates bone formation and inhibits bone resorption; withdrawn from most markets 2017 due to cardiovascular risks",
+        "Strontium-82/rubidium-82 generator system: ⁸²Sr (t½ = 25.4 days) decays to ⁸²Rb for cardiac PET imaging — hospitals elute the generator daily to produce fresh Rb-82 for myocardial perfusion studies"
+      ],
+      "companies": [
+        { "name": "Eckert & Ziegler", "hq": "Germany", "tier": "large", "volume": null, "share": "~30% of medical isotope market", "use": "Major nuclear medicine isotope producer. Manufactures strontium-89 chloride (Metastron) for bone pain palliation and strontium-82/rubidium-82 generators for cardiac PET imaging. Also supplies Sr-90 radiation therapy applicators." },
+        { "name": "NorthStar Medical Radioisotopes", "hq": "USA", "tier": "medium", "volume": null, "share": null, "use": "Produces strontium-82 for Rb-82 cardiac PET generators using linear accelerator production — provides an alternative to reactor-based strontium isotope supply, improving US domestic supply chain security." }
+      ]
+    }
+  ]
+}

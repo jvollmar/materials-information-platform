@@ -1,0 +1,60 @@
+{
+  "dataTier": 1,
+  "industries": [
+    {
+      "id": "stainless-steel",
+      "name": "Stainless Steel",
+      "icon": "🔩",
+      "share": "~70% of chromium use",
+      "uses": [
+        "Chromium above 10.5% in steel forms a self-healing passive chromium oxide (Cr₂O₃) surface layer nanometers thick that prevents further oxidation and corrosion — the defining property of all stainless steels",
+        "304 stainless (18% Cr, 8% Ni): the most widely produced metal alloy in the world by value — used in kitchen equipment, food processing, chemical plant, architectural trim, and automotive exhaust",
+        "316 stainless (16% Cr, 10% Ni, 2% Mo): molybdenum addition provides resistance to chloride pitting — used in marine environments, pharmaceutical equipment, surgical instruments, and coastal architecture",
+        "Ferritic stainless steels (430, 409, 441: 11–29% Cr, no nickel) for automotive exhaust systems, washing machine drums, refrigerator liners, and architectural cladding — lower cost than austenitic due to absence of nickel",
+        "Duplex stainless steels (2205, 2507: 22–25% Cr) combining austenitic and ferritic microstructures — higher strength and chloride stress corrosion resistance for offshore oil platforms, desalination plants, and chemical reactors"
+      ],
+      "companies": [
+        { "name": "Outokumpu", "hq": "Finland", "tier": "major", "volume": "~2.5 Mt stainless/yr", "share": "~8% of global stainless production", "use": "World's largest stainless steel producer by capacity. Operates the Tornio stainless steel works in Finland — the world's largest integrated stainless steel plant, from ferrochrome smelting to finished coil." },
+        { "name": "Aperam", "hq": "Luxembourg", "tier": "large", "volume": "~2 Mt stainless/yr", "share": "~6% of global stainless production", "use": "Major stainless steel producer spun off from ArcelorMittal. Operates plants in Brazil, Belgium, and France producing austenitic and ferritic grades for food processing, automotive, and industrial applications." },
+        { "name": "POSCO", "hq": "South Korea", "tier": "major", "volume": "~2 Mt stainless/yr", "share": "~6% of global stainless production", "use": "South Korea's largest steel company and major stainless producer. Operates Pohang stainless works producing 304, 316, and ferritic grades for domestic and export markets in Asia and globally." },
+        { "name": "Acerinox", "hq": "Spain", "tier": "large", "volume": "~2.5 Mt stainless/yr", "share": "~8% of global stainless production", "use": "Major stainless steel producer with plants in Spain (Campo de Gibraltar — Europe's most efficient stainless melt shop), USA (North American Stainless, Kentucky), South Africa, and Malaysia." }
+      ]
+    },
+    {
+      "id": "superalloys",
+      "name": "Superalloys & Tool Steels",
+      "icon": "⚙️",
+      "share": "~15% of chromium use",
+      "uses": [
+        "Nickel-based superalloys (Inconel 625, 718, Waspaloy) contain 14–23% chromium for oxidation resistance at temperatures to 1100°C — turbine blades, combustor liners, and turbine discs in jet engines and gas turbines",
+        "High-speed steels (M2, M42, T15): chromium 3–4.5% contributes to hardenability and wear resistance in drill bits, end mills, broaches, and saw blades alongside tungsten, molybdenum, and vanadium",
+        "Hot work tool steels (H13, H11): 5% Cr resists thermal fatigue and softening in aluminum and zinc die casting dies, forging dies, and extrusion tooling",
+        "Chromium carbide (Cr₃C₂) thermal spray coatings for pump shafts, hydraulic rods, and printing cylinders — replaces electroplated hard chrome in many wear applications with better corrosion resistance",
+        "Chromized coatings: chromizing by pack cementation creates a hard, corrosion-resistant chromium carbide/chromium surface layer on steel at lower cost than solid alloy"
+      ],
+      "companies": [
+        { "name": "Haynes International", "hq": "USA", "tier": "large", "volume": null, "share": null, "use": "Specialty producer of high-temperature nickel and cobalt alloys with high chromium content (Haynes 230, Hastelloy X) for aerospace combustors, industrial furnaces, and chemical processing." },
+        { "name": "Special Metals (PCC)", "hq": "USA", "tier": "large", "volume": null, "share": null, "use": "Produces Inconel, Incoloy, and Nimonic nickel superalloys containing 14–22% chromium for jet engine turbine blades, turbine discs, and aerospace structural components. Owned by Precision Castparts." },
+        { "name": "Sandvik Coromant", "hq": "Sweden", "tier": "major", "volume": null, "share": "~15% of global cutting tool market", "use": "World's leading cutting tool manufacturer. Produces high-speed steel and cemented carbide cutting tools — chromium is a key alloying element in many HSS tool grades for drills, end mills, and taps." }
+      ]
+    },
+    {
+      "id": "surface-treatment",
+      "name": "Surface Treatments & Pigments",
+      "icon": "🎨",
+      "share": "~10% of chromium use",
+      "uses": [
+        "Hexavalent chromium (Cr⁶⁺) electroplating produces hard chrome (functional) for hydraulic cylinder rods, aircraft landing gear, printing rolls, and industrial shafts — and decorative chrome for automotive trim and plumbing fixtures. Cr⁶⁺ is carcinogenic; replacement technologies under intense regulatory pressure (REACH, EHS standards)",
+        "Trivalent chromium (Cr³⁺) electroplating as a safer alternative to Cr⁶⁺ for decorative applications — now standard for automotive trim, appliances, and consumer goods in EU and increasingly in US",
+        "Chrome leather tanning: chromium(III) sulfate cross-links collagen fibers in animal hides — used to produce over 80% of the world's leather for shoes, bags, automotive upholstery, and furniture",
+        "Chromium oxide green (Cr₂O₃) pigment for paints, plastics, ceramics, and glass — a stable, high-temperature-resistant inorganic pigment used in military camouflage coatings and green roofing tiles",
+        "Chromate conversion coatings on aluminum aerospace components — Alodine/Iridite processes create a thin Cr(VI) or Cr(III) oxide layer for paint adhesion and corrosion protection"
+      ],
+      "companies": [
+        { "name": "Atotech (MKS Instruments)", "hq": "Germany / USA", "tier": "major", "volume": null, "share": "~20% of global surface finishing chemistry market", "use": "World's largest specialty electroplating chemistry supplier. Provides both Cr⁶⁺ and Cr³⁺ plating processes and is leading development of REACH-compliant trivalent chrome decorative plating systems for automotive and consumer electronics." },
+        { "name": "Elementis", "hq": "UK", "tier": "large", "volume": null, "share": null, "use": "Produces chromium-based surface treatment chemicals and pigments including chromium oxide green for paints and coatings, and chromite-based refractory materials for high-temperature industrial applications." },
+        { "name": "TFL Holdings (Stahl Group)", "hq": "Switzerland", "tier": "major", "volume": null, "share": "~15% of global leather chemicals market", "use": "Major leather processing chemical supplier providing chromium(III) sulfate tanning agents to tanneries globally. Supplying both conventional chrome-tanning and chrome-free leather finishing systems as sustainability demands increase." }
+      ]
+    }
+  ]
+}

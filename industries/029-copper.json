@@ -1,0 +1,80 @@
+{
+  "dataTier": 1,
+  "industries": [
+    {
+      "id": "electrical",
+      "name": "Electrical Wiring & Power Infrastructure",
+      "icon": "⚡",
+      "share": "~65% of copper use",
+      "uses": [
+        "Building wire and cable: copper conductor in PVC or XLPE insulation for residential, commercial, and industrial electrical wiring — copper's conductivity (59.6 MS/m), solderability, and ductility make it the standard for all power wiring below transmission voltage",
+        "Power transmission and distribution cables: copper medium-voltage and high-voltage underground cables for grid infrastructure, submarine interconnects, and offshore wind farm export cables",
+        "Transformer windings: copper foil and rectangular wire in distribution transformers (11kV/415V) where conductor weight, efficiency, and size are premium — copper transformers are 5–10% more efficient than aluminum equivalents",
+        "Electric motors: copper stator windings in induction motors, permanent magnet motors, and generators — each EV uses 3–5 kg Cu in motor windings vs ~23 kg Cu total per vehicle including charger, battery bus, and wiring harness",
+        "Renewable energy systems: a 1 MW wind turbine requires ~2–4 tonnes copper in generator, transformer, and cabling; utility-scale solar PV uses ~5 tonnes Cu per MW for DC cables, inverters, and grid connection"
+      ],
+      "companies": [
+        { "name": "Prysmian Group", "hq": "Italy", "tier": "major", "volume": "~300,000 t Cu in cables/yr", "share": "~25% of global cable market", "use": "World's largest cable manufacturer. Produces copper power cables from low voltage building wire to 525kV HVDC submarine cables. Major supplier of offshore wind, grid interconnect, and telecom copper cables." },
+        { "name": "Nexans", "hq": "France", "tier": "major", "volume": null, "share": "~15% of global cable market", "use": "Second-largest cable manufacturer. Produces copper building wire, power cables, and submarine cables. Major supplier to grid operators, EV charging infrastructure, and renewable energy projects globally." },
+        { "name": "Southwire", "hq": "USA", "tier": "major", "volume": null, "share": "~35% of US building wire market", "use": "Largest US wire and cable manufacturer. Produces copper building wire, utility cables, and specialty cables. Operates copper rod mill producing ~600,000 t/yr of copper rod from continuous casting for downstream wire drawing." },
+        { "name": "LS Cable & System", "hq": "South Korea", "tier": "large", "volume": null, "share": "~5% of global cable market", "use": "Major Asian cable producer. Supplies copper power cables, submarine cables, and automotive wiring harness components to utilities, automotive OEMs, and offshore energy projects across Asia and globally." }
+      ]
+    },
+    {
+      "id": "plumbing",
+      "name": "Plumbing, HVAC & Construction",
+      "icon": "🏗️",
+      "share": "~15% of copper use",
+      "uses": [
+        "Copper tube for water supply and heating systems in residential and commercial buildings — antimicrobial properties inhibit Legionella and biofilm growth; high-temperature service capability up to 250°C",
+        "ACR (air conditioning and refrigeration) copper tube for refrigerant circuits in split air conditioning, chillers, and heat pumps — copper's formability and pressure rating suit thin-wall refrigerant tubing",
+        "Copper heat exchangers in HVAC systems, radiators, boilers, and industrial process heat exchange — thermal conductivity (385 W/m·K) second only to silver among commercial metals",
+        "Architectural copper: copper roofing, cladding, guttering, and rainwater goods — natural green patina (verdigris) of copper carbonate provides long-term aesthetic and corrosion protection",
+        "Brass (Cu-Zn alloy) plumbing fittings: valves, taps, compression fittings, and push-fit connectors in plumbing systems — machinability, pressure rating, and corrosion resistance of brass are superior to plastic alternatives in demanding applications"
+      ],
+      "companies": [
+        { "name": "Wieland Group", "hq": "Germany", "tier": "major", "volume": "~500,000 t Cu products/yr", "share": "~15% of European copper tube and strip market", "use": "World's largest copper tube and strip manufacturer. Produces plumbing tube, ACR tube, and precision copper strip for HVAC, plumbing, automotive heat exchangers, and electronics across Europe and Americas." },
+        { "name": "Mueller Industries", "hq": "USA", "tier": "major", "volume": null, "share": "~40% of US copper tube market", "use": "Dominant US copper tube and fittings producer. Manufactures ACR, plumbing, and medical gas copper tube at mills in Tennessee, Alabama, and Texas. Also produces brass fittings and valves under the Mueller Streamline brand." },
+        { "name": "Aurubis", "hq": "Germany", "tier": "major", "volume": "~1.2 Mt copper/yr", "share": "~8% of global copper refining capacity", "use": "Europe's largest copper smelter and refiner. Produces copper cathode, rod, strip, and specialty products from concentrate and scrap. Major supplier to European cable, tube, and electronics industries." }
+      ]
+    },
+    {
+      "id": "mining",
+      "name": "Copper Mining & Primary Production",
+      "icon": "⛏️",
+      "share": "Upstream — all copper originates here",
+      "uses": [
+        "Porphyry copper deposits (large, low-grade, 0.3–1% Cu) account for ~60% of world mine production — open-pit mined, crushed, and concentrated by froth flotation to ~30% Cu concentrate",
+        "Sulfide ore smelting: copper concentrate smelted in flash furnaces (Outotec, Mitsubishi) or converting (Pierce-Smith) to blister copper (~98% Cu), then fire-refined and electrorefined to LME Grade A cathode (99.99%)",
+        "Oxide ore leaching (SX-EW): sulfuric acid heap-leach of oxide ores produces copper sulfate solution recovered by solvent extraction and electrowinning — produces cathode directly without smelting, ~20% of world copper",
+        "World copper mine production ~22 million tonnes/year. Chile (~27%) and Peru (~11%) dominate; Congo, China, USA, Australia, Zambia, Russia, and Mexico are significant producers",
+        "Secondary copper (recycling) provides ~35% of world copper supply — copper is infinitely recyclable without property loss; high copper scrap price incentivizes collection from demolition, end-of-life vehicles, and electronics"
+      ],
+      "companies": [
+        { "name": "Codelco", "hq": "Chile", "tier": "major", "volume": "~1.7 Mt Cu/yr", "share": "~8% of world copper mine production", "use": "World's largest copper producer — Chilean state-owned company. Operates Chuquicamata (world's largest open-pit copper mine by ore extracted), El Teniente (world's largest underground copper mine), and Escondida (in JV with BHP)." },
+        { "name": "Freeport-McMoRan", "hq": "USA", "tier": "major", "volume": "~1.8 Mt Cu/yr", "share": "~8% of world copper mine production", "use": "World's largest publicly traded copper producer. Operates Grasberg (Indonesia — world's largest copper and gold deposit), Morenci (Arizona — largest US copper mine), and Cerro Verde (Peru)." },
+        { "name": "BHP", "hq": "Australia", "tier": "major", "volume": "~1.7 Mt Cu/yr", "share": "~8% of world copper mine production", "use": "Major copper producer via Escondida (Chile — world's largest copper mine by production with 57.5% share), Olympic Dam (Australia — largest uranium, fourth-largest copper deposit), and Spence operations." },
+        { "name": "Glencore", "hq": "Switzerland", "tier": "major", "volume": "~1.2 Mt Cu/yr", "share": "~6% of world copper mine production", "use": "Major integrated copper miner, smelter, and trader. Operates Katanga (DRC), Antamina (Peru, 33.75%), Ernest Henry (Australia), and Collahuasi (Chile, 44%) copper mines. Also major copper scrap and cathode trader." },
+        { "name": "KGHM Polska Miedź", "hq": "Poland", "tier": "large", "volume": "~700,000 t Cu/yr", "share": "~3% of world copper mine production", "use": "Poland's state copper company. Operates Polish copper-silver mines (Lubin, Polkowice-Sieroszowice, Rudna) and Sierra Gorda (Chile) and Robinson (Nevada) mines. Europe's largest copper producer." }
+      ]
+    },
+    {
+      "id": "electronics",
+      "name": "Electronics & Semiconductors",
+      "icon": "💻",
+      "share": "~15% of copper use",
+      "uses": [
+        "Printed circuit board (PCB) inner layers and surface copper traces: electrodeposited and etched copper foil forms all conductor patterns on PCBs — a smartphone PCB contains ~15g Cu; a server board ~150g Cu",
+        "Chip packaging: copper wire bonding (25–75 micron diameter) connects silicon die pads to package leads — replaced gold wire bonding in most logic and memory packages; also copper pillar bumps in flip-chip packages",
+        "Copper interconnects in silicon chips: dual damascene copper metallization replaced aluminum in advanced logic nodes from 180nm onward — copper's lower resistivity reduces power loss and delay in sub-micron wiring",
+        "Copper heat spreaders (IHS) on CPUs and high-power electronics — copper's thermal conductivity dissipates heat from chip to heatsink; vapor chamber heat pipes use copper container and wick",
+        "Copper anodes and sulfate electrolyte in electroplating of PCB vias and through-holes — copper electroplating connects PCB layers and plates solderable surfaces on electronic components"
+      ],
+      "companies": [
+        { "name": "Mitsui Mining & Smelting", "hq": "Japan", "tier": "major", "volume": null, "share": "~15% of global electrolytic copper foil market", "use": "Major producer of electrolytic copper foil for PCBs and lithium-ion battery anodes (current collector). Its ultra-thin foils (4–9 micron) enable high-density multilayer PCBs in smartphones and computing devices." },
+        { "name": "Isola Group", "hq": "USA", "tier": "large", "volume": null, "share": null, "use": "Major copper-clad laminate (CCL) producer — copper foil laminated to fiberglass-epoxy substrate is the starting material for all PCBs. Supplies CCL to PCB manufacturers serving telecom, automotive, and computing markets." },
+        { "name": "Intel", "hq": "USA", "tier": "major", "volume": null, "share": "~15% of global semiconductor market", "use": "Major semiconductor manufacturer pioneering copper interconnect technology from the 0.18μm node (1998). Its Intel 4 and Intel 3 process nodes use copper dual-damascene wiring with ruthenium/molybdenum liners for resistance reduction." }
+      ]
+    }
+  ]
+}

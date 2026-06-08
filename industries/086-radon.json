@@ -1,0 +1,36 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "research",
+      "name": "Radiation Research & Geophysics",
+      "icon": "🔬",
+      "share": "~60% of intentional radon use",
+      "uses": [
+        "Radon-222 (²²²Rn, t½ = 3.82 days, alpha emitter) is historically used as a radiation source in sealed-source cancer brachytherapy — radon seeds (radium emanation trapped in gold seeds) were used to treat cancer before being replaced by ¹⁹²Ir and other modern sources",
+        "Radon monitoring as earthquake precursor indicator: radon released from fractured rock before seismic events has been studied as an early warning signal — Japan, China, and European countries monitor groundwater radon levels near fault zones",
+        "Radon as geochemical tracer in hydrogeology: ²²²Rn in groundwater indicates recent rock-water contact and groundwater mixing rates. Used in oceanography to trace submarine groundwater discharge and in hydrology to study groundwater-surface water exchange",
+        "Radon emanation testing for uranium ore characterization and environmental remediation at former uranium mining and processing sites"
+      ],
+      "companies": [
+        { "name": "Durridge Company", "hq": "USA", "tier": "small", "volume": null, "share": null, "use": "Manufactures RAD7 radon detectors and radon research instruments for environmental monitoring, geoscience research, and building radon assessment. Its instruments are used worldwide for radon-in-water and radon-in-air measurements in research and regulatory compliance." }
+      ]
+    },
+    {
+      "id": "remediation",
+      "name": "Building Remediation (Radon as Hazard)",
+      "icon": "🏠",
+      "share": "~40% — radon mitigation is a major industry driven by radon's hazard, not its use",
+      "uses": [
+        "Radon is the second leading cause of lung cancer after smoking, responsible for ~21,000 deaths/year in the US (EPA estimate) — naturally occurring radon seeps from soil and rock into buildings, accumulating in basements and lower floors",
+        "Sub-slab depressurization (SSD) radon mitigation systems: PVC pipe and fan system draws radon from beneath building foundations and exhausts it above the roofline — the standard and most effective radon reduction method",
+        "Radon-resistant new construction (RRNC): passive and active sub-slab ventilation incorporated during construction in high-radon-potential areas — mandated or recommended in many US states and European countries",
+        "Radon testing and measurement kits: charcoal canisters and electret ion chambers for short-term and long-term radon level assessment in homes and buildings — the EPA recommends testing all homes"
+      ],
+      "companies": [
+        { "name": "Airthings", "hq": "Norway", "tier": "large", "volume": null, "share": "~15% of consumer radon monitor market", "use": "Leading radon monitoring company producing consumer and professional digital radon detectors for homes, offices, and schools. Airthings Wave and Corentium radon monitors are widely used for continuous radon level monitoring in residential buildings." },
+        { "name": "RadonAway (Spruce Environmental Technologies)", "hq": "USA", "tier": "large", "volume": null, "share": "~25% of US radon fan market", "use": "Major radon mitigation equipment manufacturer. Produces radon fans, pipe fittings, and system components for sub-slab depressurization radon mitigation systems installed by radon contractors in residential and commercial buildings." }
+      ]
+    }
+  ]
+}

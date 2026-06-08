@@ -1,0 +1,78 @@
+{
+  "dataTier": 1,
+  "industries": [
+    {
+      "id": "construction",
+      "name": "Construction, Cement & Building Materials",
+      "icon": "🏗️",
+      "share": "~50% of calcium use — the single largest application",
+      "uses": [
+        "Portland cement clinker: limestone (CaCO₃) heated to ~1450°C decomposes to lime (CaO) + CO₂, then reacts with silica, alumina, and iron oxide to form clinker minerals (alite, belite, aluminate, ferrite) — cement production is the largest industrial use of calcium carbonate worldwide",
+        "Quicklime (CaO) and hydrated lime (Ca(OH)₂, slaked lime) for mortar, plaster, soil stabilization, and masonry — slaking quicklime releases significant heat (65 kJ/mol)",
+        "Calcium silicate board and autoclaved aerated concrete (AAC) blocks — lightweight, fire-resistant building panels and blocks made from lime-silica reactions under steam pressure",
+        "Glass manufacturing: soda-lime glass (windows, bottles, jars) typically contains 10–12% CaO as network stabilizer — without calcium, glass is soluble in water",
+        "Dimension stone, aggregate, and crushed limestone for road base, rail ballast, and concrete aggregate — limestone is the most quarried rock on Earth by volume"
+      ],
+      "companies": [
+        { "name": "Holcim (formerly LafargeHolcim)", "hq": "Switzerland", "tier": "major", "volume": "~250 Mt cement/yr", "share": "~10% of global cement market", "use": "World's largest cement and aggregates company. Operates 300+ cement plants and 1,500+ aggregate quarries across 70 countries. Largest single consumer of limestone on Earth." },
+        { "name": "CNBM (China National Building Material)", "hq": "China", "tier": "major", "volume": "~400 Mt cement/yr", "share": "~16% of global cement market", "use": "World's largest cement producer by volume. China produces ~55% of world cement; CNBM is China's largest cement group. Also produces glass fiber and other building materials derived from calcium compounds." },
+        { "name": "HeidelbergMaterials (formerly HeidelbergCement)", "hq": "Germany", "tier": "major", "volume": "~130 Mt cement/yr", "share": "~5% of global cement market", "use": "Major global cement and aggregates producer. Operates quarries and cement kilns in 50+ countries. Major limestone consumer and CO₂ emitter — pioneering carbon capture in cement production (Brevik plant, Norway)." },
+        { "name": "Martin Marietta Materials", "hq": "USA", "tier": "large", "volume": null, "share": "~8% of US aggregates market", "use": "Major US limestone and aggregate quarrier. Supplies crushed limestone for road base, concrete aggregate, and agricultural lime to construction markets across the eastern, central, and western US." }
+      ]
+    },
+    {
+      "id": "steel",
+      "name": "Steel & Metallurgy",
+      "icon": "🏭",
+      "share": "~20% of calcium use",
+      "uses": [
+        "Basic oxygen furnace (BOF) steelmaking: burnt lime (CaO) charged to form a basic slag that absorbs phosphorus, sulfur, and silica from hot metal — each tonne of steel requires ~50 kg of lime",
+        "Electric arc furnace (EAF) steelmaking: dolime (CaO·MgO, dolomitic lime) and calcitic lime form a fluid basic slag protecting the furnace lining and refining scrap-based steel",
+        "Ladle refining: lime addition to ladle slag for desulfurization and inclusion control; calcium-silicon or calcium wire injection directly into steel melt to modify sulfide inclusion shape (CaS globules vs elongated MnS)",
+        "Calcium carbide (CaC₂) produced from coke and lime in electric arc furnace — used to generate acetylene (C₂H₂) for welding and cutting, and as a powerful desulfurization agent for hot metal",
+        "Sintering: limestone added to iron ore sinter mix to achieve correct basicity (CaO/SiO₂ ratio) for optimal blast furnace slag viscosity and sulfur capacity"
+      ],
+      "companies": [
+        { "name": "ArcelorMittal", "hq": "Luxembourg", "tier": "major", "volume": "~15 Mt lime consumed/yr (estimated)", "share": null, "use": "World's largest steel company and one of the world's largest lime consumers. Uses burnt lime and dolime in BOF converters, EAF furnaces, and ladle metallurgy at its integrated steel plants across Europe, Americas, and Asia." },
+        { "name": "Lhoist Group", "hq": "Belgium", "tier": "major", "volume": "~15 Mt lime/yr", "share": "~15% of global lime market", "use": "World's largest lime and dolime producer. Supplies burnt lime to steel, environmental, chemical, and construction markets from 100+ plants in Europe, Americas, and Asia. Major supplier to all major European steelmakers." },
+        { "name": "Minerals Technologies (formerly Pfizer Minerals)", "hq": "USA", "tier": "large", "volume": null, "share": null, "use": "Produces precipitated calcium carbonate (PCC) for paper and plastics, and quicklime for steel and environmental applications. Operates lime kilns at steelworks globally as a tolling operation." }
+      ]
+    },
+    {
+      "id": "environmental",
+      "name": "Environmental & Water Treatment",
+      "icon": "♻️",
+      "share": "~15% of calcium use",
+      "uses": [
+        "Flue gas desulfurization (FGD): limestone slurry injected into power plant flue gas reacts with SO₂ to form calcium sulfite/sulfate (gypsum), removing up to 97% of SO₂ emissions from coal-fired power plants",
+        "Wastewater treatment pH adjustment: lime neutralizes acidic mine drainage, industrial effluents, and municipal wastewater to precipitate heavy metals as hydroxides before discharge",
+        "Drinking water softening: lime precipitation (lime-soda process) removes calcium and magnesium hardness from municipal water supplies before distribution",
+        "Soil stabilization and remediation: hydrated lime applied to clay soils for road construction reduces plasticity and increases bearing capacity; also used to solidify/stabilize contaminated soils",
+        "Acid mine drainage (AMD) neutralization: limestone or lime dosing in AMD treatment systems precipitates iron, aluminum, and heavy metals from sulfuric acid leachate from mining operations"
+      ],
+      "companies": [
+        { "name": "Veolia Water Technologies", "hq": "France", "tier": "major", "volume": null, "share": null, "use": "World's largest water and wastewater treatment company. Uses lime extensively in municipal water softening, pH adjustment, and heavy metal precipitation at treatment plants serving hundreds of millions of people." },
+        { "name": "Graymont", "hq": "Canada", "tier": "large", "volume": "~5 Mt lime/yr", "share": "~10% of North American lime market", "use": "Major North American lime producer supplying environmental, water treatment, mining, and construction markets. Operates limestone quarries and lime kilns across the US and Canada with a focus on FGD and water treatment supply." },
+        { "name": "Carmeuse Group", "hq": "Belgium", "tier": "major", "volume": "~10 Mt lime/yr", "share": "~10% of global lime market", "use": "Major global lime and limestone producer serving steel, environmental, chemical, and construction markets. Supplies FGD limestone to coal-fired power plants and lime for acid mine drainage treatment at mining operations globally." }
+      ]
+    },
+    {
+      "id": "food",
+      "name": "Food, Nutrition & Agriculture",
+      "icon": "🥛",
+      "share": "~10% of calcium use",
+      "uses": [
+        "Agricultural lime (aglime, ground limestone CaCO₃) applied to raise soil pH in acidic soils — most widely applied soil amendment worldwide, correcting aluminum and manganese toxicity and improving nutrient availability",
+        "Calcium carbonate as dietary calcium supplement in tablets and food fortification — the most widely consumed calcium supplement form; also antacid (Tums, Rolaids) neutralizing excess stomach acid",
+        "Food-grade calcium chloride (CaCl₂) as firming agent for canned tomatoes, olives, and pickles (cross-links pectin); also the coagulant for tofu production",
+        "Calcium hydroxide (Ca(OH)₂, pickling lime or 'cal') in nixtamalization — treating corn with lime water converts tortilla and hominy corn, releasing niacin and improving protein quality",
+        "Calcium propionate as mold inhibitor in bread and baked goods; calcium lactate and calcium gluconate as bioavailable calcium supplements in fortified foods and sports nutrition"
+      ],
+      "companies": [
+        { "name": "Omya AG", "hq": "Switzerland", "tier": "major", "volume": null, "share": "~25% of global GCC market", "use": "World's largest producer of ground calcium carbonate (GCC) and precipitated calcium carbonate (PCC) for paper, plastics, paints, food, and pharmaceutical applications. Mines limestone and marble at 150+ locations globally." },
+        { "name": "Imerys", "hq": "France", "tier": "major", "volume": null, "share": "~10% of global calcium carbonate market", "use": "Major calcium carbonate producer for paper coating, plastic filling, and specialty applications. Operates marble and limestone quarries in Europe, Americas, and Asia for GCC and PCC production." },
+        { "name": "ICL Group", "hq": "Israel", "tier": "large", "volume": null, "share": null, "use": "Produces food-grade calcium chloride from Dead Sea brines as a co-product of potassium extraction. Supplies CaCl₂ for food processing, dust suppression, de-icing, and oil well drilling." }
+      ]
+    }
+  ]
+}

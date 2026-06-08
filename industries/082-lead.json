@@ -1,0 +1,56 @@
+{
+  "dataTier": 1,
+  "industries": [
+    {
+      "id": "batteries",
+      "name": "Lead-Acid Batteries",
+      "icon": "🔋",
+      "share": "~85% of lead use",
+      "uses": [
+        "Starting-lighting-ignition (SLI) batteries for internal combustion engine vehicles: 12V lead-acid battery provides engine cranking current, powers lights and accessories, and stabilizes vehicle electrical system — still the universal automotive starting battery despite EV growth",
+        "Flooded, AGM (absorbed glass mat), and EFB (enhanced flooded battery) lead-acid variants for micro-hybrid stop-start vehicles (48V systems increasingly) — AGM batteries handle the deep discharge cycling of stop-start systems better than flooded batteries",
+        "Industrial motive power: lead-acid traction batteries for forklifts, warehouse equipment, golf carts, and floor scrubbers — preferred over lithium-ion in price-sensitive, moderate-duty applications with good charging infrastructure",
+        "Stationary backup power: uninterruptible power supplies (UPS), telecom base station backup, utility grid support, and emergency lighting — lead-acid's low cost per kWh, established recycling infrastructure, and proven reliability maintain its dominance",
+        "Lead-acid recycling rate exceeds 99% in developed markets — the most recycled product in the world. Secondary lead (from recycling) provides ~85% of lead supply in the US and Europe"
+      ],
+      "companies": [
+        { "name": "Clarios (formerly Johnson Controls Battery)", "hq": "USA", "tier": "major", "volume": null, "share": "~30% of global automotive battery market", "use": "World's largest automotive battery manufacturer. Produces VARTA, Optima, AC Delco, and Clarios-branded SLI and AGM batteries. Operates 56 plants globally and the world's largest lead battery recycling network." },
+        { "name": "Exide Technologies", "hq": "USA", "tier": "major", "volume": null, "share": "~12% of global battery market", "use": "Major lead-acid battery manufacturer for automotive, industrial motive, and network power applications. Produces Exide, Haze, and Sonnenschein-branded batteries. Also operates lead recycling smelters." },
+        { "name": "EnerSys", "hq": "USA", "tier": "major", "volume": null, "share": "~15% of industrial lead-acid battery market", "use": "World's largest industrial battery manufacturer. Produces Hawker, PowerSafe, and Cyclon lead-acid batteries for motive power (forklifts), network power (UPS, telecom), and aerospace/defense applications globally." },
+        { "name": "GS Yuasa", "hq": "Japan", "tier": "large", "volume": null, "share": "~8% of global automotive battery market", "use": "Major Japanese automotive and industrial battery manufacturer producing SLI, AGM, and industrial lead-acid batteries. Joint venture partner with Mitsubishi for lithium-ion automotive batteries alongside its lead-acid business." }
+      ]
+    },
+    {
+      "id": "construction",
+      "name": "Construction & Radiation Shielding",
+      "icon": "🏗️",
+      "share": "~6% of lead use",
+      "uses": [
+        "Radiation shielding: lead sheet, brick, and plate in X-ray rooms, CT scanner suites, nuclear medicine departments, radiation therapy vaults, and industrial radiography enclosures — lead's high density (11.35 g/cm³) and high atomic number provide excellent gamma and X-ray attenuation",
+        "Lead flashing and roofing: lead sheet for flashing at roof junctions, chimneys, dormers, and parapets — lead's malleability and corrosion resistance have made it the traditional flashing material in masonry construction for centuries",
+        "Sound and vibration damping: lead sheet and composite lead-vinyl materials for soundproofing in recording studios, mechanical plant rooms, and noisy industrial environments",
+        "Lead pipe (declining): historically dominant for water service connections; now being replaced due to health concerns from lead leaching — millions of legacy lead service lines remain in aging US and European water infrastructure"
+      ],
+      "companies": [
+        { "name": "Mayco Industries", "hq": "USA", "tier": "large", "volume": null, "share": "~10% of North American lead sheet market", "use": "Major lead sheet and lead products manufacturer. Produces lead sheet, lead brick, lead plate, and lead composites for radiation shielding in medical facilities, nuclear plants, and industrial radiography." },
+        { "name": "Ray-Bar Engineering", "hq": "USA", "tier": "large", "volume": null, "share": null, "use": "Major radiation shielding contractor and lead product supplier for X-ray room construction, CT scanner installation, and nuclear medicine facility shielding. Designs and installs lead shielding systems in hospitals and clinics." }
+      ]
+    },
+    {
+      "id": "specialty",
+      "name": "Specialty Alloys & Chemicals",
+      "icon": "⚗️",
+      "share": "~9% of lead use",
+      "uses": [
+        "Lead-tin (Pb-Sn) solders: still used in some plumbing, electronics repair, and specialized applications where lead-free solders are not mandated — exempt from RoHS in certain aerospace and defense electronics",
+        "Lead shot and bullets: lead-antimony alloy projectiles for ammunition — lead's density, malleability, and low cost make it the standard bullet and shot material. Some jurisdictions mandating transition to non-toxic (bismuth, steel, tungsten) shot for waterfowl hunting",
+        "Tetraethyllead (TEL): once the dominant antiknock additive in gasoline — phased out globally by the early 2000s. Aviation gasoline (avgas 100LL) remains the last significant TEL use, with alternatives in development",
+        "Lead oxide (PbO, Pb₃O₄) in specialty glass formulations: crystal glass, radiation-shielding glass, and CRT glass — being phased out in consumer products under RoHS"
+      ],
+      "companies": [
+        { "name": "Vista Outdoor (Federal Premium)", "hq": "USA", "tier": "major", "volume": null, "share": "~20% of US ammunition market", "use": "Major ammunition manufacturer. Produces Federal, CCI, Speer, and other brands of lead-core rifle and pistol ammunition. Major consumer of lead for bullet cores, shot, and bullet swaging from lead wire." },
+        { "name": "Nyrstar (Trafigura)", "hq": "Netherlands", "tier": "major", "volume": "~200,000 t Pb/yr", "share": "~5% of world refined lead production", "use": "Major integrated zinc-lead mining and smelting company. Produces refined lead at its Port Pirie (Australia) and Budel (Netherlands) smelters for battery manufacturers and other lead consumers globally." }
+      ]
+    }
+  ]
+}

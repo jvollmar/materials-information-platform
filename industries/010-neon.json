@@ -1,0 +1,205 @@
+{
+  "dataTier": 1,
+  "industries": [
+    {
+      "id": "ne-lithography",
+      "name": "Semiconductor Chip Lithography (Excimer Lasers)",
+      "icon": "💻",
+      "share": "~50% of commercial neon use — dominant application by volume",
+      "uses": [
+        "KrF (krypton-fluoride — 248nm wavelength) and ArF (argon-fluoride — 193nm wavelength) excimer lasers use neon as the majority buffer gas (typically 95–97% neon, 3–5% krypton or argon, trace fluorine) in DUV (deep ultraviolet) lithography systems — the machines that print circuit patterns onto silicon wafers at 7nm–90nm technology nodes",
+        "Each excimer laser system in a semiconductor fab consumes approximately 50,000 liters of neon per year under normal operating conditions; a large advanced foundry running 100+ laser systems can consume 5–10 million liters of neon annually",
+        "Ukraine historically supplied approximately 50% of the world's ultra-high-purity neon for semiconductor use — extracted as a byproduct from steel blast furnace off-gases in Mariupol — making the 2022 Russian invasion an immediate supply chain emergency for chip manufacturers globally",
+        "The industry is accelerating transition to EUV (extreme ultraviolet — 13.5nm wavelength, using tin plasma rather than gas lasers) lithography and developing neon recirculation and recycling systems to reduce per-fab neon consumption"
+      ],
+      "companies": [
+        {
+          "name": "Cymer (ASML subsidiary)",
+          "hq": "USA",
+          "tier": "major",
+          "volume": null,
+          "share": "~65% of DUV excimer laser market",
+          "use": "World's dominant DUV (deep ultraviolet) excimer laser manufacturer, acquired by ASML in 2013. Cymer's XLR 500i and XLR 700i ArF (argon-fluoride) immersion laser platforms — installed at TSMC, Samsung, and Intel — represent the world's single largest commercial application of ultra-high-purity neon by volume."
+        },
+        {
+          "name": "Gigaphoton",
+          "hq": "Japan",
+          "tier": "large",
+          "volume": null,
+          "share": "~35% of DUV excimer laser market",
+          "use": "Japanese excimer laser manufacturer (Komatsu / Ushio joint venture). Produces ArF (argon-fluoride) immersion and KrF (krypton-fluoride) dry excimer lasers for semiconductor chip patterning at TSMC, Samsung, SK Hynix, Micron, and GlobalFoundries fabs globally."
+        },
+        {
+          "name": "VIST Group",
+          "hq": "Ukraine (operations partially relocated)",
+          "tier": "major",
+          "volume": "~40% of global neon supply (pre-2022)",
+          "share": null,
+          "use": "Major Ukrainian neon extraction and purification company. Obtained crude neon from blast furnace off-gases at Mariupol steel plants and purified it to UHP (ultra-high purity) semiconductor grade. Operations severely disrupted since 2022 Russian military occupation of Mariupol; partial relocation of operations is ongoing."
+        },
+        {
+          "name": "Ingas",
+          "hq": "Ukraine (Mariupol)",
+          "tier": "large",
+          "volume": "~15% of global neon supply (pre-2022)",
+          "share": null,
+          "use": "Ukrainian neon producer at Mariupol. Represented a significant fraction of global semiconductor-grade neon before 2022. Operations halted following the Russian military seizure of Mariupol in April 2022 — a direct illustration of semiconductor supply chain geographic concentration risk."
+        },
+        {
+          "name": "TSMC",
+          "hq": "Taiwan",
+          "tier": "major",
+          "volume": null,
+          "share": "~54% of global advanced chip foundry market",
+          "use": "World's largest chip foundry and one of the world's largest neon consumers. Purchases neon in multi-million-liter quantities for DUV (deep ultraviolet) excimer laser systems. After the 2022 Ukraine supply disruption, TSMC accelerated neon supply diversification away from a single geographic source."
+        }
+      ]
+    },
+    {
+      "id": "ne-signage",
+      "name": "Neon Signage & Artistic Lighting",
+      "icon": "💡",
+      "share": "~30% of commercial neon use (declining with LED competition)",
+      "uses": [
+        "Pure neon gas sealed in glass tubes electrified at 10–15 kV glows a characteristic brilliant red-orange color — the original neon sign effect that defined urban commercial signage from the 1920s through the 1980s; pure neon produces only the red-orange color, not the full palette of traditional signs",
+        "Different noble gases produce different colors when energized: Ar (argon) + Hg (mercury vapor) glows blue; He (helium) glows gold-white; Kr (krypton) glows yellow-green; Xe (xenon) glows blue-white — allowing the full traditional neon sign color palette through gas selection alone",
+        "Traditional hand-bent glass neon signs are being replaced by LED strip lighting for most commercial mass-market applications, but are experiencing an artistic and branding renaissance for custom installations, restaurant ambiance, wedding décor, and premium brand identity",
+        "Iconic long-running installations — Las Vegas Strip casino signs, Tokyo Shinjuku bar districts, London Soho neon — and major brand neon beer signs (Budweiser, Heineken, Corona) remain significant ongoing neon gas consumers as established brands maintain their lit glass tube identities"
+      ],
+      "companies": [
+        {
+          "name": "Linde plc",
+          "hq": "UK/Ireland",
+          "tier": "major",
+          "volume": null,
+          "share": "~30% of global neon market",
+          "use": "Primary global neon producer and distributor. Separates crude neon from liquid air at cryogenic ASU (air separation unit) facilities co-located at steel mills worldwide, then purifies to UHP (ultra-high purity) for semiconductor use and commercial-grade for signage and lighting applications."
+        },
+        {
+          "name": "Air Liquide",
+          "hq": "France",
+          "tier": "major",
+          "volume": null,
+          "share": "~20% of global neon market",
+          "use": "Major neon producer and distributor for semiconductor, scientific, and signage applications. Maintains neon purification and cylinder-filling facilities in Europe, North America, and Asia for diverse commercial and industrial market segments."
+        },
+        {
+          "name": "Airgas (Air Liquide subsidiary)",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Major North American rare gas distributor. Supplies neon, xenon, and krypton to neon sign fabricators, welding supply distributors, and specialty gas users through an extensive US cylinder-fill and delivery network."
+        },
+        {
+          "name": "National Neon",
+          "hq": "USA",
+          "tier": "medium",
+          "volume": null,
+          "share": null,
+          "use": "Major US neon sign fabricator and distributor. Purchases commercial-grade neon gas for traditional glass tube bending and supplies neon tube systems to custom sign shops, restaurants, bars, and retail environments across North America."
+        },
+        {
+          "name": "Regional sign fabricators (global)",
+          "hq": "Global",
+          "tier": "small",
+          "volume": null,
+          "share": null,
+          "use": "Hundreds of small regional neon sign fabricators worldwide use commercial-grade neon gas — far lower purity than semiconductor grade — to bend and fill custom glass tube signs for local businesses, hospitality venues, film and TV productions, and art installations."
+        }
+      ]
+    },
+    {
+      "id": "ne-research",
+      "name": "Scientific Research, Cryogenics & HeNe Lasers",
+      "icon": "🔬",
+      "share": "~15% of commercial neon use",
+      "uses": [
+        "HeNe (helium-neon) gas lasers produce a precise 632.8nm red wavelength line — used for optical alignment of equipment, holography, interferometry, barcode scanning (historically), and laser-based distance measurement requiring a stable, known wavelength",
+        "Liquid neon (LNe — boiling point −246°C, 27 Kelvin) provides an intermediate cryogenic cooling temperature between LN₂ (liquid nitrogen — 77K) and LHe (liquid helium — 4K) — useful for cooling IR (infrared) detector arrays, scientific sensors, and research superconducting devices where helium would be excessive",
+        "Neon gas-filled proportional counters and drift chambers in particle physics detector arrays — neon's relatively high electron drift velocity and low cost make it a useful component in gas detector mixtures for high-energy physics experiments at CERN and national laboratories",
+        "Non-thermal atmospheric pressure neon plasma jets for surface activation, bacterial deactivation, and wound healing research — an emerging biomedical plasma physics application exploiting neon's low breakdown voltage and distinctive plasma chemistry"
+      ],
+      "companies": [
+        {
+          "name": "Melles Griot (IDEX Corporation)",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Major photonics component and laser manufacturer. Produces HeNe (helium-neon) gas lasers for optical alignment, interferometry, holography, and spectrometer wavelength calibration — applications requiring the stable, well-characterized 632.8nm emission line."
+        },
+        {
+          "name": "Thorlabs",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Major photonics equipment and component company. Supplies HeNe (helium-neon) laser tubes, neon-filled spectral calibration lamps (for wavelength calibration of spectrometers against known neon emission lines), and neon gas references for optical spectroscopy research."
+        },
+        {
+          "name": "Air Products",
+          "hq": "USA",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "Supplies research-grade neon, UHP (ultra-high purity) neon gas cylinders, and liquid neon for cryogenic detector cooling at national laboratories (Fermilab, Oak Ridge, Brookhaven), university physics departments, and space science instrument development programs."
+        },
+        {
+          "name": "Spectra-Physics (MKS Instruments)",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Manufactures HeNe (helium-neon) gas lasers for optical alignment, precision interferometry, and scientific research requiring the precise, low-noise 632.8nm red wavelength — a staple of optics laboratories for over five decades."
+        }
+      ]
+    },
+    {
+      "id": "ne-upstream",
+      "name": "Upstream Neon Production (Steel Plant Byproduct)",
+      "icon": "⛏️",
+      "share": "All commercial neon originates as a byproduct of air separation at steel mills",
+      "uses": [
+        "Neon occurs in atmospheric air at only 18.2 ppm (parts per million) by volume — far too dilute to extract economically from a standard small industrial ASU (air separation unit — a cryogenic plant that fractionally distills liquefied air)",
+        "Steel blast furnaces process enormous air volumes through large dedicated ASU plants; the crude rare gas stream (a mixture of neon, helium, krypton, xenon, nitrogen, and argon) accumulates during air liquefaction and is the only economically viable neon feedstock",
+        "Crude neon extracted from steel plant ASU raw rare gas streams is shipped to specialist rare gas purification plants where N₂ (nitrogen), O₂ (oxygen), He (helium), Kr (krypton), and trace hydrocarbons are removed by sequential cryogenic distillation, catalytic oxidation, and adsorption to reach semiconductor-grade purity (99.999%+)",
+        "Neon is effectively non-renewable on human timescales — unlike helium (renewed by radioactive alpha decay in Earth's crust), neon has no geological replenishment mechanism, making efficient use and closed-loop recycling at semiconductor fabs both economically attractive and strategically important"
+      ],
+      "companies": [
+        {
+          "name": "Linde plc (ASU operations)",
+          "hq": "UK/Ireland",
+          "tier": "major",
+          "volume": "~30% of global neon supply (current)",
+          "share": null,
+          "use": "Extracts crude rare gas (containing neon, krypton, and xenon) from its ASU (air separation unit) plants co-located at global steel mills. Purifies neon to UHP (ultra-high purity — 99.999%+) semiconductor grade at dedicated rare gas processing facilities."
+        },
+        {
+          "name": "Air Liquide",
+          "hq": "France",
+          "tier": "large",
+          "volume": null,
+          "share": "~20% of global neon supply",
+          "use": "Produces and purifies neon from ASU (air separation unit) rare gas streams at steel plants and large industrial complexes. Invested in neon supply diversification and regional production capacity expansion after the 2022 Ukraine supply disruption."
+        },
+        {
+          "name": "Praxair/Linde (Americas)",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Extracts and purifies neon from integrated steel mill ASU (air separation unit) operations across the US, Canada, and Latin America. North American production is being expanded to supply semiconductor fabs with domestically sourced neon as geographic diversification accelerates."
+        },
+        {
+          "name": "Taiyo Nippon Sanso (Matheson)",
+          "hq": "Japan",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Japan's largest industrial gas company. Extracts neon from ASU (air separation unit) plants at Japanese steel mills including Nippon Steel and JFE Steel, then purifies it to semiconductor grade for domestic fab customers and exports across Asia."
+        }
+      ]
+    }
+  ]
+}

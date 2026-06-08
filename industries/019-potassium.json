@@ -1,0 +1,44 @@
+{
+  "dataTier": 1,
+  "industries": [
+    {
+      "id": "fertilizers",
+      "name": "Fertilizers & Agriculture",
+      "icon": "🌾",
+      "share": "~95% of all potassium use — the dominant application by an enormous margin",
+      "uses": [
+        "Potassium chloride (KCl, muriate of potash, MOP) is the dominant potash fertilizer — mined from underground sylvinite (KCl + NaCl) deposits or surface brines and applied directly or blended into NPK fertilizers",
+        "Potassium sulfate (SOP, K₂SO₄) for chloride-sensitive crops: tobacco, potatoes, fruits, vegetables, citrus, and hops — commands a premium over MOP as it avoids chloride phytotoxicity",
+        "Potassium nitrate (KNO₃) for drip irrigation fertigation systems and foliar feeding — supplies both potassium and nitrogen without chloride in high-value horticultural crops",
+        "Potassium is an essential macronutrient: regulates stomatal opening (water use efficiency), activates 60+ enzymes, controls phloem loading for sugar transport, and improves drought tolerance",
+        "Global potash trade is highly concentrated: Canada, Russia, and Belarus historically controlled ~60% of world supply, making potash a geopolitically sensitive commodity (Belarus sanctions and Russia-Ukraine war caused major supply disruptions 2021–2022)"
+      ],
+      "companies": [
+        { "name": "Nutrien", "hq": "Canada", "tier": "major", "volume": "~14 Mt KCl/yr capacity", "share": "~20% of global potash capacity", "use": "World's largest potash producer by capacity. Operates six conventional shaft mines in Saskatchewan (Allan, Cory, Lanigan, Patience Lake, Rocanville, Vanscoy). Also world's largest agricultural retail network (Nutrien Ag Solutions)." },
+        { "name": "Mosaic Company", "hq": "USA", "tier": "major", "volume": "~9 Mt KCl/yr capacity", "share": "~13% of global potash capacity", "use": "World's second-largest potash producer. Mines potash in Saskatchewan, New Mexico, and Brazil (Ona project). Distributes MOP and SOP fertilizers globally. Major producer of phosphate fertilizers enabling full NPK supply." },
+        { "name": "Belaruskali", "hq": "Belarus", "tier": "major", "volume": "~12 Mt KCl/yr capacity", "share": "~17% of global potash capacity", "use": "World's largest single potash producer by mine output. Operates the Soligorsk mining complex — among the world's largest potash mines. Under Western sanctions since 2021 following political crisis; exports redirected through Russian ports." },
+        { "name": "Uralkali (EuroChem)", "hq": "Russia", "tier": "major", "volume": "~12 Mt KCl/yr capacity", "share": "~17% of global potash capacity", "use": "Russia's largest potash producer. Operates the Berezniki and Solikamsk mines in the Perm region of the Ural Mountains. Sanctions and logistics restrictions following 2022 Ukraine invasion significantly disrupted exports." },
+        { "name": "K+S Group", "hq": "Germany", "tier": "large", "volume": "~4 Mt KCl/yr capacity", "share": "~5% of global potash capacity", "use": "Germany's largest potash producer. Operates underground mines in Germany and the Bethune solution mine in Saskatchewan, Canada. Also world's largest salt producer (Morton Salt)." },
+        { "name": "ICL Group", "hq": "Israel", "tier": "large", "volume": "~5 Mt KCl/yr capacity", "share": "~7% of global potash capacity", "use": "Extracts potassium and bromine from Dead Sea brines at Sodom, Israel — the world's lowest-altitude mineral operation. Also produces SOP and specialty potassium fertilizers. Major dead sea potash exporter to Asia." }
+      ]
+    },
+    {
+      "id": "industrial",
+      "name": "Industrial Chemicals & Manufacturing",
+      "icon": "⚗️",
+      "share": "~5% of potassium use",
+      "uses": [
+        "Potassium hydroxide (KOH, caustic potash) produced by electrolysis of KCl brine — used to manufacture liquid soaps and detergents, potassium carbonate (K₂CO₃) for glass and welding fluxes, and as an electrolyte in alkaline batteries",
+        "Potassium carbonate (K₂CO₃, potash) — historical origin of the word 'potash' from leaching wood ash — used in specialty glass (optical, TV screens), welding fluxes, food additives, and as a CO₂ absorbent",
+        "Potassium permanganate (KMnO₄) as oxidizing agent for water treatment, wastewater purification (iron/manganese removal), and organic chemical synthesis",
+        "Potassium iodide (KI) for thyroid radiation protection (Chernobyl, Fukushima emergency stockpiles), photographic chemicals, and nutritional iodine supplementation in salt",
+        "Potassium nitrate (KNO₃) as oxidizer in black powder (75% KNO₃, 15% charcoal, 10% sulfur) for fireworks, pyrotechnics, and rocket propellant; also for heat treatment salt baths in metallurgy"
+      ],
+      "companies": [
+        { "name": "Olin Corporation", "hq": "USA", "tier": "large", "volume": null, "share": null, "use": "Produces potassium hydroxide as co-product of potassium chloride electrolysis at chlor-alkali plants. Supplies KOH for detergent, battery, and chemical manufacturing markets." },
+        { "name": "ICL Group (ICL Specialty Fertilizers)", "hq": "Israel", "tier": "major", "volume": null, "share": "~30% of global potassium nitrate market", "use": "World's largest potassium nitrate producer. Manufactures KNO₃ from potassium chloride and nitric acid for use in specialty fertigation fertilizers, industrial heat transfer fluids, and pyrotechnic applications." },
+        { "name": "Kemira", "hq": "Finland", "tier": "large", "volume": null, "share": null, "use": "Major specialty chemical producer using potassium hydroxide and potassium carbonate in water treatment chemicals, paper processing aids, and oil field chemistry applications." }
+      ]
+    }
+  ]
+}

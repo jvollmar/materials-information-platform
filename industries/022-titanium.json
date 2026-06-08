@@ -1,0 +1,80 @@
+{
+  "dataTier": 1,
+  "industries": [
+    {
+      "id": "aerospace",
+      "name": "Aerospace & Defense Structures",
+      "icon": "✈️",
+      "share": "~50% of titanium use by value",
+      "uses": [
+        "Titanium alloys (Ti-6Al-4V, the workhorse alloy, and Ti-10V-2Fe-3Al for high-strength landing gear) used in aircraft fan blades, compressor discs, engine nacelles, airframe bulkheads, fasteners, and hydraulic tubing",
+        "Boeing 787 Dreamliner uses ~15% titanium by structural weight — more than any previous commercial aircraft; Airbus A350 XWB uses ~14% titanium. Titanium's 880 MPa yield strength at 4.5 g/cm³ density is unmatched by aluminum or steel",
+        "Military aircraft make even heavier use: F-22 Raptor ~39% titanium by structural weight, SR-71 Blackbird ~93% titanium — essential for sustained supersonic flight where skin temperatures exceed aluminum's limits",
+        "Jet engine components: fan discs, compressor blades and vanes, and combustor casings in Ti-6Al-4V and higher-temperature alloys (Ti-6242, Ti-17) that operate up to ~540°C in the compressor section",
+        "Titanium fasteners: millions of Ti-6Al-4V fasteners replace steel in airframe assembly, saving significant weight across hundreds of thousands of attachment points per aircraft"
+      ],
+      "companies": [
+        { "name": "VSMPO-AVISMA", "hq": "Russia", "tier": "major", "volume": "~30,000 t Ti/yr", "share": "~30% of global titanium sponge and mill product supply", "use": "World's largest titanium producer. Historically supplied ~35% of Boeing's and ~60% of Airbus's titanium needs. Russia-Ukraine war severely disrupted supply; Western aerospace urgently diversifying away from VSMPO." },
+        { "name": "Howmet Aerospace (formerly Arconic)", "hq": "USA", "tier": "major", "volume": null, "share": "~20% of aerospace titanium forgings", "use": "Leading manufacturer of titanium aerospace forgings (jet engine discs, structural bulkheads) and titanium fasteners. Supplies Boeing, Airbus, GE Aviation, Pratt & Whitney, and Rolls-Royce." },
+        { "name": "Precision Castparts (Berkshire Hathaway)", "hq": "USA", "tier": "major", "volume": null, "share": "~25% of aerospace titanium castings and forgings", "use": "World's largest aerospace structural component manufacturer. Produces titanium castings, forgings, and fasteners for virtually every commercial and military aircraft program including F-35, 787, A350." },
+        { "name": "ATI (Allegheny Technologies)", "hq": "USA", "tier": "major", "volume": "~10,000 t Ti mill products/yr", "share": "~15% of US titanium mill products", "use": "Major US titanium sponge, ingot, and mill product manufacturer. Produces sheet, plate, bar, and billet for aerospace structures and jet engine components. Key domestic supplier as aerospace diversifies from Russian VSMPO." },
+        { "name": "Toho Titanium", "hq": "Japan", "tier": "large", "volume": "~12,000 t Ti sponge/yr", "share": "~12% of global titanium sponge capacity", "use": "Japan's largest titanium sponge producer using the Kroll process (reduction of TiCl₄ with magnesium). Supplies sponge to aerospace, industrial, and medical titanium melters globally." }
+      ]
+    },
+    {
+      "id": "titanium-dioxide",
+      "name": "Titanium Dioxide Pigment (TiO₂)",
+      "icon": "🎨",
+      "share": "~90% of titanium ore use — note: TiO₂ pigment uses ilmenite/rutile ore, not titanium metal",
+      "uses": [
+        "TiO₂ is the world's most important white pigment — used in paints, coatings, plastics, paper, inks, cosmetics, and food whitening. Its refractive index (2.7) and light scattering efficiency are unmatched by any other white pigment",
+        "Paint and coatings industry consumes ~57% of TiO₂ — every litre of white or light-colored paint contains roughly 200–300g TiO₂ for opacity and UV protection",
+        "Plastics consume ~22% of TiO₂ — used in polyolefins, PVC, engineering plastics, and masterbatches for whiteness, UV stabilization, and opacity in packaging, pipes, and consumer goods",
+        "Paper and laminate consume ~12% of TiO₂ — coats printing paper for brightness and opacity; used in decorative laminates for furniture and flooring (melamine-impregnated TiO₂ paper)",
+        "Chloride process (preferred): TiCl₄ produced from rutile ore + Cl₂, purified, then oxidized to TiO₂ + Cl₂ (recycled). Sulfate process uses ilmenite ore + H₂SO₄. Chloride process produces higher purity pigment grade."
+      ],
+      "companies": [
+        { "name": "Chemours (DuPont spinoff)", "hq": "USA", "tier": "major", "volume": "~1.2 Mt TiO₂/yr", "share": "~17% of global TiO₂ market", "use": "World's largest TiO₂ producer. Operates chloride-process plants in the US, Mexico, and Taiwan. Ti-Pure™ brand supplied to paint (Sherwin-Williams, PPG), plastics, and paper manufacturers globally." },
+        { "name": "Tronox Holdings", "hq": "USA / Australia", "tier": "major", "volume": "~1.1 Mt TiO₂/yr", "share": "~15% of global TiO₂ market", "use": "Vertically integrated TiO₂ and zircon producer. Mines ilmenite and rutile in Australia, South Africa, and US, then refines to TiO₂ pigment at plants in the US, Netherlands, and Australia." },
+        { "name": "Venator Materials (Huntsman spinoff)", "hq": "UK", "tier": "large", "volume": "~0.5 Mt TiO₂/yr", "share": "~7% of global TiO₂ market", "use": "Major European TiO₂ producer using both chloride and sulfate processes. Supplies titanium dioxide to European paint, plastics, and specialty coatings markets." },
+        { "name": "Kronos Worldwide", "hq": "USA / Germany", "tier": "large", "volume": "~0.5 Mt TiO₂/yr", "share": "~7% of global TiO₂ market", "use": "Major TiO₂ producer using both chloride and sulfate processes at plants in Germany, Belgium, Norway, and Canada. Supplies paint, plastics, and paper industries in Europe and North America." }
+      ]
+    },
+    {
+      "id": "medical",
+      "name": "Medical Implants & Biomedical",
+      "icon": "🏥",
+      "share": "~5% of titanium metal use",
+      "uses": [
+        "Ti-6Al-4V ELI (extra-low interstitials) for orthopedic implants: hip and knee joint replacements, bone screws, plates, and spinal fusion cages — biocompatibility, osseointegration, and fatigue resistance are key properties",
+        "Commercially pure titanium (cp-Ti, Grade 1–4) for dental implants — titanium osseointegrates (bone grows directly onto titanium surface without fibrous tissue) making it the gold standard for tooth replacement",
+        "Cardiac pacemaker and defibrillator housings in Grade 1 cp-Ti — hermetically sealed titanium cases protect electronics from body fluids over 10–15 year device lifetimes",
+        "Surgical instruments in titanium for MRI-compatible tools that are non-magnetic, lightweight, and autoclavable",
+        "Beta-titanium alloys (Ti-15Mo, Ti-35Nb) with lower elastic modulus closer to cortical bone, reducing stress shielding around implants and improving long-term bone health"
+      ],
+      "companies": [
+        { "name": "Stryker Corporation", "hq": "USA", "tier": "major", "volume": null, "share": "~12% of global orthopedic implant market", "use": "Leading orthopedic implant manufacturer. Produces titanium hip cups, knee tibial trays, trauma plates, and spinal cages. Uses Ti-6Al-4V and cp-Ti across its Orthopaedics and Spine divisions." },
+        { "name": "Zimmer Biomet", "hq": "USA", "tier": "major", "volume": null, "share": "~17% of global orthopedic implant market", "use": "World's largest orthopedic reconstructive implant company. Manufactures titanium hip stems, acetabular cups, and knee implants. Trabecular Metal™ uses porous titanium structure for bone ingrowth." },
+        { "name": "Nobel Biocare (Envista Holdings)", "hq": "Switzerland / USA", "tier": "major", "volume": null, "share": "~10% of global dental implant market", "use": "Pioneer and major producer of titanium dental implants. Introduced the first commercially successful osseointegrated implant system in 1965. Manufactures cp-Ti and Ti-6Al-4V dental fixtures and abutments." }
+      ]
+    },
+    {
+      "id": "industrial",
+      "name": "Chemical Processing & Industrial",
+      "icon": "⚙️",
+      "share": "~20% of titanium metal use",
+      "uses": [
+        "Titanium heat exchangers, pressure vessels, reactor liners, and piping in chlor-alkali plants — titanium's immunity to wet chlorine, chlorinated brines, and hypochlorite solutions is unmatched by any other affordable metal",
+        "Desalination plant condenser tubing and heat exchanger plates in Ti Grade 2 — seawater corrosion resistance eliminates the biofouling and pitting failures common with copper-nickel alloys",
+        "Titanium anodes (mixed metal oxide coated, RuO₂/TiO₂) as dimensionally stable anodes (DSA) for chlor-alkali electrolysis, copper electrorefining, and cathodic protection systems",
+        "Power plant condenser tubes in nuclear and fossil fuel plants using titanium for seawater cooling applications where copper-nickel alloys are susceptible to ammonia and sulfide attack",
+        "Pulp and paper bleaching equipment, pharmaceutical reactor vessels, and food processing equipment where product purity and freedom from metal contamination are critical"
+      ],
+      "companies": [
+        { "name": "Haynes International", "hq": "USA", "tier": "large", "volume": null, "share": null, "use": "Produces high-performance titanium and nickel alloy products for chemical processing, aerospace, and industrial gas turbine applications where standard Ti-6Al-4V is insufficient for temperature or corrosion demands." },
+        { "name": "Sandvik Materials Technology", "hq": "Sweden", "tier": "large", "volume": null, "share": null, "use": "Major producer of titanium tube, pipe, and strip for chemical processing, desalination, and offshore oil and gas applications. Also produces titanium welding wire and powder for additive manufacturing." },
+        { "name": "TIMET (Precision Castparts)", "hq": "USA", "tier": "major", "volume": "~15,000 t Ti mill products/yr", "share": "~20% of global titanium mill products", "use": "One of the world's largest titanium melters and mill product producers. Produces sponge, ingot, billet, sheet, and plate for aerospace, industrial, and medical markets. Owned by Precision Castparts (Berkshire Hathaway)." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,319 @@
+{
+  "dataTier": 1,
+  "industries": [
+    {
+      "id": "nd-supply",
+      "name": "Rare Earth Mining & Separation",
+      "icon": "⛏️",
+      "share": "100% of Nd must pass through this supply chain",
+      "uses": [
+        "Mining of bastnäsite, monazite, and ion-adsorption clay ores containing neodymium",
+        "Solvent extraction and ion-exchange separation to isolate NdPr (neodymium-praseodymium) oxide from mixed REE (rare earth elements) streams",
+        "Metal reduction to produce neodymium metal (electrolysis of NdF₃ (neodymium fluoride))",
+        "Alloying with iron and boron to produce NdFeB (neodymium-iron-boron) alloy flakes for magnet manufacturing"
+      ],
+      "companies": [
+        {
+          "name": "China Rare Earth Group",
+          "hq": "China",
+          "tier": "major",
+          "volume": "~14,000 t Nd/yr",
+          "share": "~45% of global Nd output",
+          "use": "State-owned group controlling the majority of China's rare earth mining and separation. Produces the bulk of the world's NdPr (neodymium-praseodymium) oxide through operations in Inner Mongolia and Jiangxi."
+        },
+        {
+          "name": "Lynas Rare Earths",
+          "hq": "Australia",
+          "tier": "large",
+          "volume": "~4,000 t NdPr (neodymium-praseodymium)/yr",
+          "share": "~20% of non-Chinese supply",
+          "use": "World's largest non-Chinese rare earth producer. Mines at Mt Weld, Western Australia (world's richest REE (rare earth elements) deposit) and processes at LAMP facility in Malaysia."
+        },
+        {
+          "name": "MP Materials",
+          "hq": "USA",
+          "tier": "large",
+          "volume": "~3,000 t NdPr (neodymium-praseodymium)/yr",
+          "share": "~15% of non-Chinese supply",
+          "use": "Operates Mountain Pass mine in California — the only producing rare earth mine in the USA. Completed NdPr (neodymium-praseodymium) separation facility in 2022; supplies magnet-grade material to General Motors."
+        },
+        {
+          "name": "Neo Performance Materials",
+          "hq": "Canada",
+          "tier": "medium",
+          "volume": "~1,500 t NdPr (neodymium-praseodymium)/yr",
+          "share": "~7% of non-Chinese supply",
+          "use": "Processes separated rare earth materials at facilities in Estonia and China. Supplies NdPr (neodymium-praseodymium) oxide and magnet alloys to European and North American magnet manufacturers."
+        },
+        {
+          "name": "Energy Fuels",
+          "hq": "USA",
+          "tier": "small",
+          "volume": null,
+          "share": null,
+          "use": "Began producing commercial NdPr (neodymium-praseodymium) oxide from its White Mesa Mill in Utah in 2023. A key element of US government efforts to rebuild domestic rare earth processing capacity."
+        },
+        {
+          "name": "Arafura Resources",
+          "hq": "Australia",
+          "tier": "small",
+          "volume": null,
+          "share": null,
+          "use": "Developing the Nolan's NdPr (neodymium-praseodymium) project in Australia's Northern Territory. Holds one of the world's highest-grade NdPr (neodymium-praseodymium) deposits outside China; targeted to begin production ~2027."
+        }
+      ]
+    },
+    {
+      "id": "nd-magnets",
+      "name": "NdFeB (neodymium-iron-boron) Magnet Manufacturing",
+      "icon": "🧲",
+      "share": "~85% of all Nd consumption",
+      "uses": [
+        "Sintered NdFeB (neodymium-iron-boron) magnets (highest energy density of any permanent magnet) for motors and generators",
+        "Bonded NdFeB (neodymium-iron-boron) for compact, complex-shaped components in sensors and consumer electronics",
+        "Hot-deformed NdFeB (neodymium-iron-boron) for textured ring magnets in electric power steering and robotics",
+        "Dysprosium-enhanced NdFeB (neodymium-iron-boron) for high-temperature EV motor applications (>150°C)",
+        "Grain-boundary diffusion treatment to reduce heavy REE (rare earth elements) content while maintaining performance"
+      ],
+      "companies": [
+        {
+          "name": "Shin-Etsu Chemical",
+          "hq": "Japan",
+          "tier": "major",
+          "volume": "~3,000 t Nd consumed/yr",
+          "share": "~12% of global NdFeB (neodymium-iron-boron) market",
+          "use": "World's largest NdFeB (neodymium-iron-boron) producer outside China. Major supplier of high-performance sintered magnets for hard disk drives, wind turbines, and increasingly EV traction motors."
+        },
+        {
+          "name": "Beijing Zhong Ke San Huan (ZKSH)",
+          "hq": "China",
+          "tier": "major",
+          "volume": "~2,500 t Nd consumed/yr",
+          "share": "~10% of global NdFeB (neodymium-iron-boron) market",
+          "use": "China's largest NdFeB (neodymium-iron-boron) magnet producer. Supplies magnets for consumer electronics, EV motors, and industrial applications. Key link in China's fully integrated REE (rare earth elements) supply chain."
+        },
+        {
+          "name": "TDK Corporation",
+          "hq": "Japan",
+          "tier": "major",
+          "volume": "~1,500 t Nd consumed/yr",
+          "share": "~6% of global NdFeB (neodymium-iron-boron) market",
+          "use": "Major Japanese NdFeB (neodymium-iron-boron) producer with factories in Japan, China, and Germany. Primary supplier of hard disk drive voice coil and spindle magnets; expanding into EV motor magnets."
+        },
+        {
+          "name": "Proterial (formerly Hitachi Metals)",
+          "hq": "Japan",
+          "tier": "large",
+          "volume": "~1,200 t Nd consumed/yr",
+          "share": "~5% of global NdFeB (neodymium-iron-boron) market",
+          "use": "Holds foundational NdFeB (neodymium-iron-boron) patents (Sagawa patents). Key supplier of high-performance sintered magnets to Japanese automakers for hybrid and EV traction motors."
+        },
+        {
+          "name": "Vacuumschmelze (VAC)",
+          "hq": "Germany",
+          "tier": "medium",
+          "volume": "~400 t Nd consumed/yr",
+          "share": "~2% of global NdFeB (neodymium-iron-boron) market",
+          "use": "Europe's leading rare earth magnet producer. Supplies NdFeB (neodymium-iron-boron) magnets for wind turbines, industrial motors, and medical devices. A key element of European magnet sovereignty efforts."
+        },
+        {
+          "name": "Arnold Magnetic Technologies",
+          "hq": "USA",
+          "tier": "medium",
+          "volume": "~300 t Nd consumed/yr",
+          "share": "~1% of global NdFeB (neodymium-iron-boron) market",
+          "use": "USA's primary manufacturer of NdFeB (neodymium-iron-boron) and Sm-Co (samarium-cobalt) permanent magnets. Key supplier to US defense contractors and industrial motor manufacturers. Working on domestic magnet sourcing."
+        }
+      ]
+    },
+    {
+      "id": "nd-ev",
+      "name": "Electric Vehicle Propulsion",
+      "icon": "🚗",
+      "share": "~20% of Nd consumption and rapidly growing",
+      "uses": [
+        "Interior permanent magnet (IPM (interior permanent magnet)) synchronous motors consuming ~1.5–3 kg NdFeB (neodymium-iron-boron) per vehicle",
+        "Axial flux motors using concentrated NdFeB (neodymium-iron-boron) for higher power density in performance EVs",
+        "E-axle drive units integrating NdFeB (neodymium-iron-boron) motor, reducer, and inverter for space efficiency",
+        "NdFeB (neodymium-iron-boron) in wheel-hub direct-drive motors for commercial EVs and autonomous vehicles",
+        "Traction motor magnets must meet IEC 60034 for sustained high-temperature performance"
+      ],
+      "companies": [
+        {
+          "name": "BYD",
+          "hq": "China",
+          "tier": "major",
+          "volume": "~2,500 t Nd/yr",
+          "share": "~8% of global EV magnet demand",
+          "use": "World's largest EV and plug-in hybrid manufacturer (3M+ vehicles/year). Vertically integrated: owns magnet suppliers and is investing in NdPr (neodymium-praseodymium) processing. Largest single EV consumer of Nd."
+        },
+        {
+          "name": "Tesla",
+          "hq": "USA",
+          "tier": "large",
+          "volume": "~1,400 t Nd/yr",
+          "share": "~5% of global EV magnet demand",
+          "use": "Uses IPM (interior permanent magnet) motors with NdFeB (neodymium-iron-boron) in Model 3, Model Y, and Cybertruck. Model 3 rear motor uses ~2 kg NdFeB (neodymium-iron-boron). Produced 1.8M vehicles in 2023. Sources magnets from multiple Asian suppliers."
+        },
+        {
+          "name": "Toyota Motor",
+          "hq": "Japan",
+          "tier": "large",
+          "volume": "~1,600 t Nd/yr",
+          "share": "~5% of global EV/hybrid magnet demand",
+          "use": "World's largest automaker; pioneered NdFeB (neodymium-iron-boron) use in the Prius hybrid motor since 1997. Produces 3+ million hybrids annually, each using ~1–2 kg NdFeB (neodymium-iron-boron). Has invested in Lynas for supply security."
+        },
+        {
+          "name": "Volkswagen Group",
+          "hq": "Germany",
+          "tier": "large",
+          "volume": "~900 t Nd/yr",
+          "share": "~3% of global EV magnet demand",
+          "use": "Rapidly scaling EV production (ID.3, ID.4, Audi e-tron). Signed supply agreements with rare earth companies to secure Nd supply for German and European manufacturing plants."
+        },
+        {
+          "name": "General Motors",
+          "hq": "USA",
+          "tier": "medium",
+          "volume": "~600 t Nd/yr",
+          "share": "~2% of global EV magnet demand",
+          "use": "Uses NdFeB (neodymium-iron-boron) motors in Chevrolet Bolt, Silverado EV, and GMC Hummer EV. Signed direct supply agreement with MP Materials for US-sourced magnets beginning 2025."
+        },
+        {
+          "name": "BMW Group",
+          "hq": "Germany",
+          "tier": "medium",
+          "volume": "~500 t Nd/yr",
+          "share": null,
+          "use": "NdFeB (neodymium-iron-boron) motors in BMW i4, iX, and Mini Electric. Developing next-generation circular economy magnet recycling programs to reclaim Nd from end-of-life EV motors."
+        }
+      ]
+    },
+    {
+      "id": "nd-wind",
+      "name": "Wind Energy Generation",
+      "icon": "🌬️",
+      "share": "~12% of Nd consumption and growing",
+      "uses": [
+        "Direct-drive permanent magnet generators (PMG (permanent magnet generator)s) using 300–600 kg NdFeB (neodymium-iron-boron) per MW of capacity",
+        "Geared permanent magnet generators (hybrid drivetrains) for offshore wind applications",
+        "NdFeB (neodymium-iron-boron) pole pieces in doubly-fed induction generators for onshore wind",
+        "High-temperature-grade NdFeB (neodymium-iron-boron) required for generator windings operating at 80–120°C",
+        "Recyclability of NdFeB (neodymium-iron-boron) magnets from decommissioned turbines is a growing industry focus"
+      ],
+      "companies": [
+        {
+          "name": "Goldwind",
+          "hq": "China",
+          "tier": "large",
+          "volume": "~900 t Nd/yr",
+          "share": "~18% of PMG (permanent magnet generator) turbine market",
+          "use": "World's second-largest wind turbine maker and pioneer of direct-drive PMG (permanent magnet generator) technology. Its 3–6 MW turbines each contain ~500–900 kg of NdFeB (neodymium-iron-boron) magnets. Largest PMG (permanent magnet generator) turbine fleet globally."
+        },
+        {
+          "name": "Vestas",
+          "hq": "Denmark",
+          "tier": "large",
+          "volume": "~700 t Nd/yr",
+          "share": "~14% of PMG (permanent magnet generator) turbine market",
+          "use": "World's largest wind turbine manufacturer. The V236-15.0 MW offshore turbine uses direct-drive PMG (permanent magnet generator) with ~3+ tonnes of NdFeB (neodymium-iron-boron) magnets. Commissioned RE supply chain study for circularity."
+        },
+        {
+          "name": "Siemens Gamesa",
+          "hq": "EU / Spain",
+          "tier": "large",
+          "volume": "~600 t Nd/yr",
+          "share": "~12% of PMG (permanent magnet generator) turbine market",
+          "use": "Major offshore wind turbine supplier using direct-drive PMG (permanent magnet generator) in the SG 14–236 DD. Strong presence in European offshore wind; requires high-temperature NdFeB (neodymium-iron-boron) for North Sea conditions."
+        },
+        {
+          "name": "GE Vernova",
+          "hq": "USA",
+          "tier": "medium",
+          "volume": "~400 t Nd/yr",
+          "share": null,
+          "use": "Makes the Haliade-X (14–15 MW) offshore wind turbine with permanent magnet generator. Partnered with MP Materials to explore US-sourced NdFeB (neodymium-iron-boron) for American wind turbine manufacturing."
+        },
+        {
+          "name": "Enercon",
+          "hq": "Germany",
+          "tier": "medium",
+          "volume": "~300 t Nd/yr",
+          "share": null,
+          "use": "German turbine pioneer using direct-drive annular generator technology. Primarily onshore market; its E-160 and E-175 turbines use NdFeB (neodymium-iron-boron) for high-torque, low-speed direct-drive generation."
+        },
+        {
+          "name": "Ming Yang Smart Energy",
+          "hq": "China",
+          "tier": "medium",
+          "volume": "~350 t Nd/yr",
+          "share": null,
+          "use": "Rapidly growing Chinese OEM deploying large direct-drive offshore turbines (MySE 16.0–242). Uses high-performance NdFeB (neodymium-iron-boron) in generators for China's offshore wind expansion program."
+        }
+      ]
+    },
+    {
+      "id": "nd-electronics",
+      "name": "Consumer Electronics & Hard Drives",
+      "icon": "📱",
+      "share": "~5% of Nd consumption",
+      "uses": [
+        "Voice coil motors (VCM — voice coil motor) in hard disk drive read/write heads — ~5 g NdFeB (neodymium-iron-boron) per HDD",
+        "Spindle drive magnets holding the rotating disk platters at precise speed",
+        "NdFeB (neodymium-iron-boron) in smartphone vibration motors, loudspeakers, and camera optical image stabilization",
+        "Earbuds and headphone drivers using NdFeB (neodymium-iron-boron) for high-sensitivity sound reproduction",
+        "NdFeB (neodymium-iron-boron) in precision actuators for laptops, robotics, and industrial automation"
+      ],
+      "companies": [
+        {
+          "name": "Seagate Technology",
+          "hq": "USA",
+          "tier": "medium",
+          "volume": "~180 t Nd/yr",
+          "share": "~35% of global HDD magnet demand",
+          "use": "World's largest hard disk drive maker. Each HDD uses ~5g of NdFeB (neodymium-iron-boron) in the voice coil motor and spindle. Produces ~170M+ units/year. Studying NdFeB (neodymium-iron-boron) recycling from decommissioned drives."
+        },
+        {
+          "name": "Western Digital",
+          "hq": "USA",
+          "tier": "medium",
+          "volume": "~140 t Nd/yr",
+          "share": "~27% of global HDD magnet demand",
+          "use": "Major HDD producer (HGST + WD brands). Significant NdFeB (neodymium-iron-boron) consumer for data center storage drives. Also acquires NdFeB (neodymium-iron-boron) for flash storage device actuators."
+        },
+        {
+          "name": "Apple",
+          "hq": "USA",
+          "tier": "large",
+          "volume": "~350 t Nd/yr",
+          "share": "~9% of consumer electronics magnets",
+          "use": "NdFeB (neodymium-iron-boron) in iPhone Taptic Engine (vibration), MagSafe charger array, MacBook speakers, AirPods drivers, and Apple Watch. Apple sources REE (rare earth elements) supply chain data from suppliers under its conflict minerals policy."
+        },
+        {
+          "name": "Samsung Electronics",
+          "hq": "South Korea",
+          "tier": "large",
+          "volume": "~280 t Nd/yr",
+          "share": "~7% of consumer electronics magnets",
+          "use": "NdFeB (neodymium-iron-boron) in Galaxy smartphone haptic motors, Galaxy Buds speakers, and QLED TV speaker systems. Samsung is investing in rare earth supply chain transparency under its ESG strategy."
+        },
+        {
+          "name": "Sony Group",
+          "hq": "Japan",
+          "tier": "medium",
+          "volume": "~100 t Nd/yr",
+          "share": null,
+          "use": "NdFeB (neodymium-iron-boron) in PlayStation DualSense controller haptic actuators, Sony WH-1000XM headphone drivers, and digital cinema projector lens actuators."
+        },
+        {
+          "name": "Nidec Corporation",
+          "hq": "Japan",
+          "tier": "large",
+          "volume": "~250 t Nd/yr",
+          "share": "~6% of consumer electronics magnets",
+          "use": "World's largest producer of small precision motors. Uses NdFeB (neodymium-iron-boron) extensively in HDD spindle motors, fan motors, and automotive actuators. Supplies to virtually all major electronics OEMs."
+        }
+      ]
+    }
+  ]
+}

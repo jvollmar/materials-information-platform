@@ -1,0 +1,37 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "alloys",
+      "name": "Hardening Alloys & Electrical Contacts",
+      "icon": "⚙️",
+      "share": "~50% of osmium use",
+      "uses": [
+        "Osmium-iridium (Os-Ir) alloy — historically used for fountain pen nib tips and stylus tips for record players — the hardest of all natural alloys. Virtually obsolete in fountain pens (now replaced by synthetic iridium), but Os-Ir tips remain in some premium instruments",
+        "Osmium alloys for electrical contacts in telecommunications relays and high-reliability switching equipment where wear resistance under repeated contact cycling is required",
+        "Osmium is the densest naturally occurring element (22.59 g/cm³) — occasional specialty uses exploit this extreme density in counterweights and inertial sensors",
+        "Platinum-osmium alloys for implantable electrodes, pacemaker tip electrodes, and neural interface contacts — osmium's biocompatibility and hardness are useful in miniaturized electrode applications"
+      ],
+      "companies": [
+        { "name": "Johnson Matthey", "hq": "UK", "tier": "major", "volume": null, "share": "~25% of platinum group metal refining", "use": "Major PGM refiner recovering osmium as a byproduct of platinum and palladium refining from South African and Russian PGM ores. Produces osmium metal and Os-Ir alloy for specialty applications. World osmium supply is only ~1 tonne per year." },
+        { "name": "Heraeus", "hq": "Germany", "tier": "major", "volume": null, "share": "~20% of PGM products market", "use": "Refines and supplies osmium metal and osmium compounds for specialty industrial, scientific, and chemical applications. Produces Os-Ir alloy for specialty electrical contacts and instruments." }
+      ]
+    },
+    {
+      "id": "chemistry",
+      "name": "Chemical Synthesis & Staining",
+      "icon": "🔬",
+      "share": "~50% of osmium use",
+      "uses": [
+        "Osmium tetroxide (OsO₄): powerful oxidizing agent for cis-dihydroxylation of alkene double bonds in organic synthesis — produces vicinal diols with high stereospecificity. Catalytic Sharpless asymmetric dihydroxylation (Nobel Prize 2001) uses OsO₄ with a chiral ligand",
+        "Osmium tetroxide biological staining: OsO₄ fixes and stains lipid membranes in transmission electron microscopy (TEM) — the standard preparation for visualizing cell membranes, organelles, and myelin sheaths in biological ultrastructure studies",
+        "Osmium tetroxide as fingerprint developer in forensic science — reacts with fatty acid residues in latent fingerprints producing a dark deposit visible on most surfaces",
+        "Osmium is extremely toxic as OsO₄ (volatile, attacks mucous membranes) — all OsO₄ handling requires specialized fume hoods and extreme caution"
+      ],
+      "companies": [
+        { "name": "Sigma-Aldrich (Merck KGaA)", "hq": "USA / Germany", "tier": "major", "volume": null, "share": "~25% of specialty chemistry reagent market", "use": "Major supplier of osmium tetroxide for organic synthesis, biological electron microscopy staining, and research applications. Supplies OsO₄ solutions and crystals to pharmaceutical companies, universities, and research institutions globally." },
+        { "name": "Electron Microscopy Sciences", "hq": "USA", "tier": "large", "volume": null, "share": "~30% of EM preparation supply market", "use": "Specialist supplier of electron microscopy preparation reagents including osmium tetroxide fixative solutions for biological and materials science TEM sample preparation." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "electronics",
+      "name": "Electronics & Data Storage",
+      "icon": "💻",
+      "share": "~50% of ruthenium use",
+      "uses": [
+        "Ruthenium thin films as diffusion barrier and seed layer in copper dual-damascene interconnects at sub-7nm semiconductor nodes — ruthenium's low resistivity and resistance to copper diffusion make it a candidate to replace cobalt liners at the most advanced technology nodes",
+        "Giant magnetoresistance (GMR) read heads in hard disk drives use ruthenium spacer layers in the spin-valve structure — a 0.8nm Ru layer between cobalt-iron magnetic layers creates antiferromagnetic coupling essential to the GMR effect that enabled massive increases in HDD storage density",
+        "Resistive RAM (ReRAM) and phase-change memory cells use ruthenium oxide (RuO₂) electrodes for non-volatile memory in embedded applications",
+        "Ruthenium-based electrode coatings (RuO₂/TiO₂ mixed oxide, dimensionally stable anodes, DSA) for chlor-alkali electrolysis cells — the standard anode coating for industrial chlorine production replacing graphite anodes; also used in electrochlorination and electroplating"
+      ],
+      "companies": [
+        { "name": "Seagate Technology", "hq": "USA", "tier": "major", "volume": null, "share": "~40% of global HDD market", "use": "World's largest hard disk drive manufacturer. Major consumer of ruthenium for GMR and TMR read head spin-valve structures. Each HDD contains nanogram-scale ruthenium layers in the read sensor stack across billions of drives produced annually." },
+        { "name": "Western Digital", "hq": "USA", "tier": "major", "volume": null, "share": "~35% of global HDD market", "use": "Major HDD and NAND flash manufacturer. Uses ruthenium in spin-valve GMR/TMR read head structures for hard drives. Also developing ruthenium-based electrode materials for next-generation 3D NAND and DRAM memory." },
+        { "name": "Heraeus", "hq": "Germany", "tier": "major", "volume": null, "share": "~30% of platinum group metal refining", "use": "Major precious metal refiner and ruthenium product manufacturer. Produces ruthenium sputtering targets for HDD and semiconductor applications, ruthenium plating solutions, and ruthenium catalysts for chemical synthesis." }
+      ]
+    },
+    {
+      "id": "catalysts",
+      "name": "Catalysts & Chemical Synthesis",
+      "icon": "⚗️",
+      "share": "~30% of ruthenium use",
+      "uses": [
+        "Ruthenium-based ammonia synthesis catalysts: newer Ru/carbon catalysts are 10–20× more active than traditional iron catalysts at lower temperature and pressure, enabling smaller-scale, distributed green ammonia production from renewable hydrogen",
+        "Grubbs ruthenium carbene catalysts (Grubbs 1st and 2nd generation) for olefin metathesis — Nobel Prize 2005 (Chauvin, Grubbs, Schrock). Used in pharmaceutical synthesis (macrolide antibiotics), polymer chemistry (ROMP), and specialty chemical production",
+        "Ruthenium tetroxide (RuO₄) as oxidant for dihydroxylation of alkenes and oxidation of primary and secondary alcohols in fine chemical and pharmaceutical synthesis",
+        "Ru/Al₂O₃ catalysts for hydrogenation of benzene to cyclohexane (nylon intermediate) and for Fischer-Tropsch synthesis of long-chain hydrocarbons from syngas in gas-to-liquids processes"
+      ],
+      "companies": [
+        { "name": "Johnson Matthey", "hq": "UK", "tier": "major", "volume": null, "share": "~25% of platinum group metal catalyst market", "use": "Major catalyst manufacturer and platinum group metal refiner. Produces ruthenium-based catalysts for ammonia synthesis, hydrogenation, and fine chemical applications. Also refines and recycles ruthenium from industrial spent catalysts." },
+        { "name": "Evonik Industries", "hq": "Germany", "tier": "large", "volume": null, "share": null, "use": "Produces ruthenium-based homogeneous catalysts for pharmaceutical and specialty chemical synthesis. Supplies Grubbs-type Ru carbene catalysts under the Umicore-licensed HOVEYDA catalyst brand for industrial-scale olefin metathesis." }
+      ]
+    },
+    {
+      "id": "alloys",
+      "name": "Platinum Alloys & Jewelry",
+      "icon": "💍",
+      "share": "~20% of ruthenium use",
+      "uses": [
+        "Ruthenium hardens platinum and palladium jewelry alloys — Pt-Ru (3.5–5% Ru) and Pd-Ru alloys provide improved scratch resistance and hardness for fine jewelry while maintaining the white color and hypoallergenic properties of platinum group metals",
+        "Ruthenium alloyed with titanium (Ti-0.1%Ru) dramatically improves corrosion resistance of titanium in reducing acid environments — used in chemical plant equipment handling hydrochloric and sulfuric acids",
+        "Electrical contacts: ruthenium in gold and palladium contact alloys for low-force electrical connectors, relay contacts, and potentiometer tracks — ruthenium reduces contact wear and maintains low contact resistance",
+        "Fountain pen nibs tipped with ruthenium alloy — more durable than traditional osmium-iridium tips"
+      ],
+      "companies": [
+        { "name": "Tanaka Kikinzoku Kogyo", "hq": "Japan", "tier": "major", "volume": null, "share": "~20% of Asian PGM products market", "use": "Major precious metal products company producing ruthenium alloys for electrical contacts, jewelry, and electronic applications. Also produces ruthenium sputtering targets and plating solutions for HDD and semiconductor industries." },
+        { "name": "Umicore", "hq": "Belgium", "tier": "major", "volume": null, "share": "~20% of global PGM refining", "use": "Major platinum group metal refiner recovering ruthenium from secondary sources (spent catalysts, electronic scrap). Produces refined ruthenium metal, ruthenium chemicals, and ruthenium-containing electrode coatings for chlor-alkali." }
+      ]
+    }
+  ]
+}

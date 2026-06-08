@@ -1,0 +1,307 @@
+{
+  "dataTier": 1,
+  "industries": [
+    {
+      "id": "li-mining",
+      "name": "Lithium Mining & Primary Refining",
+      "icon": "⛏️",
+      "share": "All lithium use passes through this upstream supply chain",
+      "uses": [
+        "Hard-rock spodumene mining (LiAlSi₂O₆ — lithium aluminum silicate mineral) in Australia: crushed ore is roasted at 1,050°C to convert alpha to beta spodumene, then acid-leached with H₂SO₄ (sulfuric acid) to produce Li₂CO₃ (lithium carbonate) or LiOH (lithium hydroxide) for battery markets",
+        "Solar evaporation of lithium-rich brines from Atacama salt flats (Chile, Argentina, Bolivia): brine is pumped to lined evaporation ponds and concentrated over 12–18 months before lithium is precipitated as Li₂CO₃ (lithium carbonate) using soda ash",
+        "DLE (direct lithium extraction) using ion exchange sorbents, solvent extraction, or nanofiltration membranes can reduce brine processing from 18 months to hours with lower land and water footprint — the leading next-generation production method",
+        "Global lithium demand is projected to grow 4–6× by 2030 driven by EV adoption; new supply from Australia, Chile, Argentina, Zimbabwe, and the US is urgently needed to prevent structural supply deficits"
+      ],
+      "companies": [
+        {
+          "name": "Albemarle Corporation",
+          "hq": "USA",
+          "tier": "major",
+          "volume": "~180,000 t LCE/yr (lithium carbonate equivalent)",
+          "share": "~20% of global lithium supply",
+          "use": "World's largest lithium producer. Operates Greenbushes (world's highest-grade spodumene mine, Western Australia), Silver Peak brine (Nevada — oldest lithium operation in the US), and La Negra lithium carbonate / hydroxide plant in Chile."
+        },
+        {
+          "name": "SQM (Sociedad Química y Minera)",
+          "hq": "Chile",
+          "tier": "major",
+          "volume": "~150,000 t LCE/yr",
+          "share": "~15% of global lithium supply",
+          "use": "Chile's largest lithium company. Extracts lithium brine from the Atacama Salar (world's richest known lithium brine at 1,500–2,000 mg/L concentration). Produces battery-grade Li₂CO₃ (lithium carbonate) and LiOH (lithium hydroxide) for global EV supply chains."
+        },
+        {
+          "name": "Ganfeng Lithium",
+          "hq": "China",
+          "tier": "major",
+          "volume": "~100,000 t LCE/yr",
+          "share": "~10% of global lithium supply",
+          "use": "China's largest lithium company. Holds equity stakes in spodumene and brine deposits across Argentina, Australia, Mexico, and Ireland. Vertically integrated from mining through LiOH (lithium hydroxide) conversion, lithium metal production, and battery cell manufacturing."
+        },
+        {
+          "name": "Pilbara Minerals",
+          "hq": "Australia",
+          "tier": "large",
+          "volume": "~680,000 t spodumene concentrate/yr",
+          "share": null,
+          "use": "Operates the Pilgangoora lithium-tantalum spodumene mine in Western Australia — one of the world's largest hard-rock lithium deposits. Sells concentrate to converters in China, Japan, and South Korea. Building in-house lithium chemical production capability."
+        },
+        {
+          "name": "Lithium Americas",
+          "hq": "Canada",
+          "tier": "medium",
+          "volume": null,
+          "share": null,
+          "use": "Developing Thacker Pass in Nevada (the largest known US lithium resource — a lithium clay deposit requiring different extraction chemistry than brine or hard rock) and the Cauchari-Olaroz brine project in Argentina, both targeting production by 2026–2027."
+        },
+        {
+          "name": "Piedmont Lithium",
+          "hq": "USA",
+          "tier": "small",
+          "volume": null,
+          "share": null,
+          "use": "Developing a spodumene mine in North Carolina and a LiOH (lithium hydroxide) conversion plant in Tennessee as part of the US government's effort to build a domestic lithium battery material supply chain independent of Chinese processing."
+        },
+        {
+          "name": "Core Lithium",
+          "hq": "Australia",
+          "tier": "small",
+          "volume": null,
+          "share": null,
+          "use": "Operates the Finniss spodumene project in Australia's Northern Territory — among the first new Australian lithium mines in a decade. Produces direct shipping ore for Chinese converters while evaluating on-site concentration and refining."
+        }
+      ]
+    },
+    {
+      "id": "li-batteries",
+      "name": "EV & Energy Storage Battery Manufacturing",
+      "icon": "🔋",
+      "share": "~75% of lithium consumption",
+      "uses": [
+        "LFP (lithium iron phosphate — LiFePO₄) cathode batteries: thermally stable, long cycle life, lower cost — used in BYD vehicles, Tesla Standard Range, and stationary grid storage; each MWh requires approximately 80 kg of Li₂CO₃ (lithium carbonate)",
+        "NMC (nickel-manganese-cobalt oxide) high-energy cathode (NMC 811: 80% Ni, 10% Mn, 10% Co) for long-range EVs; NCA (nickel-cobalt-aluminum oxide) used by Tesla/Panasonic — these higher-nickel chemistries use LiOH (lithium hydroxide) rather than lithium carbonate",
+        "LiPF₆ (lithium hexafluorophosphate — the ionic conductor dissolved in organic carbonate solvents) serves as the electrolyte salt in virtually all commercial lithium-ion cells; each cell contains a lithium-bearing liquid or polymer electrolyte between anode and cathode",
+        "Grid-scale BESS (battery energy storage systems) deployments exceeded 50 GWh globally in 2023 and are accelerating as solar and wind generation require large-scale energy storage for grid stability"
+      ],
+      "companies": [
+        {
+          "name": "CATL (Contemporary Amperex Technology)",
+          "hq": "China",
+          "tier": "major",
+          "volume": "~80,000 t LCE/yr",
+          "share": "~37% of global EV battery market",
+          "use": "World's largest EV battery manufacturer. Supplies Tesla, BMW, Volkswagen, and 300+ other customers. Pioneer of CTP (cell-to-pack — eliminating separate battery module packaging to increase energy density) technology. Also developing Na-ion (sodium-ion) batteries as a lithium-free low-cost option."
+        },
+        {
+          "name": "LG Energy Solution",
+          "hq": "South Korea",
+          "tier": "major",
+          "volume": "~50,000 t LCE/yr",
+          "share": "~14% of global EV battery market",
+          "use": "Second-largest EV battery maker. Supplies GM (Ultium platform), Stellantis, Hyundai, and Ford. Building major US gigafactories in Ohio, Michigan, and Tennessee under JV (joint venture) partnerships with OEM customers."
+        },
+        {
+          "name": "BYD",
+          "hq": "China",
+          "tier": "major",
+          "volume": "~60,000 t LCE/yr",
+          "share": "~16% of global EV battery market",
+          "use": "Vertically integrated EV maker and battery producer. Developed the Blade Battery (LFP — lithium iron phosphate) with excellent thermal safety in a structural pack format. Sold 3+ million electric vehicles in 2023. Expanding rapidly into Europe, Southeast Asia, and Latin America."
+        },
+        {
+          "name": "Panasonic Energy",
+          "hq": "Japan",
+          "tier": "large",
+          "volume": "~30,000 t LCE/yr",
+          "share": "~9% of global EV battery market",
+          "use": "Tesla's primary cylindrical cell partner at Gigafactory Nevada. Co-developing the 4680 large-format cylindrical cell using NCA (nickel-cobalt-aluminum oxide) chemistry. Also the world's largest producer of consumer electronics lithium-ion batteries."
+        },
+        {
+          "name": "Samsung SDI",
+          "hq": "South Korea",
+          "tier": "large",
+          "volume": "~25,000 t LCE/yr",
+          "share": "~8% of global EV battery market",
+          "use": "Produces prismatic and cylindrical cells for BMW, Stellantis, and Rivian. Building the StarPlus Energy JV (joint venture) plant in Kokomo, Indiana with Stellantis. Pioneering the 46-series large-format cylindrical cell platform."
+        },
+        {
+          "name": "SK On",
+          "hq": "South Korea",
+          "tier": "large",
+          "volume": "~20,000 t LCE/yr",
+          "share": "~6% of global EV battery market",
+          "use": "SK Group's battery subsidiary supplying Ford (F-150 Lightning, Mustang Mach-E), Volkswagen, and Hyundai. Building US plants in Georgia and Kentucky through the BlueOval SK and other JV partnerships."
+        },
+        {
+          "name": "AESC (Envision Group)",
+          "hq": "Japan/China",
+          "tier": "medium",
+          "volume": null,
+          "share": null,
+          "use": "Former Nissan battery division, now independently supplying Nissan and Renault. Building gigafactories in Sunderland (UK), Tennessee (US), and Japan to serve European and North American EV production hubs."
+        }
+      ]
+    },
+    {
+      "id": "li-pharma",
+      "name": "Pharmaceuticals (Psychiatric Medicine)",
+      "icon": "💊",
+      "share": "~3% of lithium consumption",
+      "uses": [
+        "Lithium carbonate (Li₂CO₃) and lithium citrate are first-line mood stabilizers for bipolar disorder — among the oldest continuously used psychiatric medications (approved 1949), and still considered the gold standard for mania prevention and long-term suicide risk reduction",
+        "Lithium augmentation added to antidepressants significantly improves response rates in treatment-resistant unipolar depression for patients who have not responded to multiple antidepressant trials alone",
+        "Neuroprotective research: lithium promotes neurogenesis, reduces tau protein accumulation (implicated in Alzheimer's disease), and inhibits GSK-3β (glycogen synthase kinase-3β — an enzyme whose overactivity contributes to neurodegeneration)",
+        "Low-dose lithium supplementation (lithium orotate, lithium aspartate) is sold as an OTC nutritional supplement in some markets at sub-pharmaceutical doses for mood support, though clinical evidence at these doses is still limited"
+      ],
+      "companies": [
+        {
+          "name": "Teva Pharmaceuticals",
+          "hq": "Israel",
+          "tier": "major",
+          "volume": null,
+          "share": "~20% of global lithium pharma market",
+          "use": "World's largest generic drug company. Major manufacturer of generic Li₂CO₃ (lithium carbonate) tablets and extended-release capsules for bipolar disorder, produced to USP (United States Pharmacopeia) and BP (British Pharmacopoeia) quality standards."
+        },
+        {
+          "name": "Noven Pharmaceuticals (Teva)",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Manufactures Lithobid (lithium carbonate extended-release) — a recognized US branded lithium formulation for bipolar disorder featuring controlled-release technology that reduces peak plasma fluctuations between doses."
+        },
+        {
+          "name": "Albemarle Corporation",
+          "hq": "USA",
+          "tier": "large",
+          "volume": "~200 t Li/yr pharmaceutical grade",
+          "share": null,
+          "use": "World's largest lithium producer; manufactures pharmaceutical-grade Li₂CO₃ (lithium carbonate) and LiCl (lithium chloride) API (active pharmaceutical ingredient) under GMP (good manufacturing practice) standards for drug companies globally."
+        },
+        {
+          "name": "Eli Lilly",
+          "hq": "USA",
+          "tier": "medium",
+          "volume": null,
+          "share": null,
+          "use": "Historical manufacturer of Lithane brand lithium; markets lithium psychiatric formulations across multiple global regions as part of its broader CNS (central nervous system) pharmaceutical portfolio."
+        },
+        {
+          "name": "GlaxoSmithKline",
+          "hq": "UK",
+          "tier": "medium",
+          "volume": null,
+          "share": null,
+          "use": "Markets lithium citrate liquid formulations for patients unable to tolerate tablet lithium carbonate — particularly important for pediatric and geriatric bipolar disorder management where flexible dosing and liquid form are needed."
+        }
+      ]
+    },
+    {
+      "id": "li-glass",
+      "name": "Glass-Ceramics & Specialty Optical Glass",
+      "icon": "🔬",
+      "share": "~7% of lithium consumption",
+      "uses": [
+        "LAS (lithium aluminosilicate — a glass-ceramic made by controlled crystallization of lithium aluminum silicate glass) achieves near-zero thermal expansion from −50°C to +700°C — the essential property for glass cooktop panels, astronomical telescope mirror blanks, and precision calibration standards",
+        "Lithium oxide added to aluminosilicate glass dramatically improves drop and scratch resistance — the basis of Corning's Gorilla Glass technology protecting smartphone, tablet, and laptop screens across billions of devices",
+        "Li₂CO₃ (lithium carbonate) added to glass batches reduces melt viscosity and melting temperature by 50–100°C, saving 5–10% of furnace energy across a range of industrial glass production applications",
+        "Lithium disilicate (Li₂Si₂O₅ ceramic — marketed as IPS e.max) is the gold standard for all-ceramic dental crown restorations, combining excellent translucency with flexural strength (360–500 MPa) that withstands normal chewing forces for decades"
+      ],
+      "companies": [
+        {
+          "name": "Corning Incorporated",
+          "hq": "USA",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "Produces Gorilla Glass (lithium aluminosilicate) protecting screens of 8+ billion devices worldwide across six generations. Also manufactures ZERODUR glass-ceramic using lithium for astronomical telescope mirror blanks for the European Southern Observatory (ESO) and others."
+        },
+        {
+          "name": "Schott AG",
+          "hq": "Germany",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Produces CERAN LAS (lithium aluminosilicate) glass-ceramic cooktop surfaces used in virtually every induction and radiant cooktop globally. Also produces ZERODUR precision glass-ceramic for telescope mirrors and DURAN borosilicate for laboratory glassware."
+        },
+        {
+          "name": "Eurokera (Saint-Gobain / NEG JV)",
+          "hq": "France",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "World's largest manufacturer of glass-ceramic cooktop surfaces (LAS — lithium aluminosilicate). Surfaces marketed as CERAN and Eurokera brand to Bosch, Siemens, Miele, Electrolux, and other global appliance makers."
+        },
+        {
+          "name": "Ivoclar Vivadent",
+          "hq": "Liechtenstein",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Produces IPS e.max Li₂Si₂O₅ (lithium disilicate) CAD/CAM milling blocks and pressable ingots for dental crowns, veneers, and bridges. Lithium disilicate is the world's most widely prescribed high-strength all-ceramic dental material."
+        },
+        {
+          "name": "Nippon Electric Glass (NEG)",
+          "hq": "Japan",
+          "tier": "medium",
+          "volume": null,
+          "share": null,
+          "use": "Major specialty glass manufacturer producing lithium-containing glass-ceramics for cooktop surfaces and precision optical substrates for electronic display and scientific instrument applications."
+        }
+      ]
+    },
+    {
+      "id": "li-grease",
+      "name": "Lubricating Greases",
+      "icon": "⚙️",
+      "share": "~5% of lithium consumption",
+      "uses": [
+        "Lithium 12-hydroxystearate soap is the dominant grease thickener globally — lithium-thickened greases account for approximately 65% of all industrial and automotive grease sold, more than all other thickener types combined",
+        "Lithium grease outperforms calcium and sodium soap greases in water washout resistance, service temperature range (−30°C to +130°C), and mechanical shear stability — making it the standard for automotive wheel bearings, chassis joints, and industrial machinery",
+        "Lithium complex greases (adding a complexing acid such as azelaic acid, boric acid, or sebacic acid) extend the upper service temperature to ~200°C for oven conveyor bearings, steel mill roll necks, and high-temperature industrial applications",
+        "Wind turbine pitch and yaw bearings, EV powertrain actuators, and aerospace landing gear use lithium complex greases formulated for long relubrication intervals of 6–24 months under demanding continuous-duty conditions"
+      ],
+      "companies": [
+        {
+          "name": "Shell",
+          "hq": "Netherlands/UK",
+          "tier": "major",
+          "volume": null,
+          "share": "~15% of global lubricants market",
+          "use": "Produces Gadus series lithium complex greases for automotive and industrial applications. Shell is one of the world's largest lubricant companies with lithium-thickened products for wheel bearings, electric motor bearings, and general industrial machinery."
+        },
+        {
+          "name": "ExxonMobil",
+          "hq": "USA",
+          "tier": "major",
+          "volume": null,
+          "share": "~15% of global lubricants market",
+          "use": "Manufactures Mobilgrease series lithium and lithium-complex greases. Mobilgrease XHP 222 lithium complex is a widely used industry reference product for heavy equipment wheel bearings and on-highway vehicle applications."
+        },
+        {
+          "name": "Castrol (BP)",
+          "hq": "UK",
+          "tier": "large",
+          "volume": null,
+          "share": "~8% of global lubricants market",
+          "use": "Produces Spheerol and Tribol series lithium and lithium-complex greases for automotive, industrial, and marine applications sold under the Castrol and BP brands globally."
+        },
+        {
+          "name": "TotalEnergies Lubrifiants",
+          "hq": "France",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Produces Multis EP lithium complex grease and Ceran lithium-thickened products for industrial, mining, and automotive applications under Total and Elf brands across Europe, Africa, and Asia."
+        },
+        {
+          "name": "Fuchs Petrolub",
+          "hq": "Germany",
+          "tier": "large",
+          "volume": null,
+          "share": "~5% of global lubricants market",
+          "use": "World's largest independent lubricant manufacturer. Produces RENOLIT lithium and lithium complex greases for precision bearings, food-grade applications (RENOLIT FG series), and industrial machinery across European and Asian markets."
+        }
+      ]
+    }
+  ]
+}

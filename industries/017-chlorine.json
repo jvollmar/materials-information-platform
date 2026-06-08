@@ -1,0 +1,81 @@
+{
+  "dataTier": 1,
+  "industries": [
+    {
+      "id": "pvc",
+      "name": "PVC & Vinyl Plastics",
+      "icon": "🏭",
+      "share": "~35% of chlorine use",
+      "uses": [
+        "Chlorine reacts with ethylene to form 1,2-dichloroethane (EDC), then cracked to vinyl chloride monomer (VCM) — the feedstock for polyvinyl chloride (PVC), the world's third-largest-volume plastic",
+        "Rigid PVC for pipes, fittings, window profiles (UPVC), guttering, electrical conduit, and vinyl siding — dominant material due to low cost, corrosion resistance, and fire retardance",
+        "Flexible PVC compounded with plasticizers (phthalates, DINP) for cable insulation, flooring (luxury vinyl tile), medical tubing, blood bags, IV bags, and upholstery",
+        "CPVC (chlorinated PVC) for hot water pipe systems and fire sprinkler systems — higher chlorine content gives improved heat resistance versus standard PVC",
+        "PVC production is the largest single use of chlorine globally — PVC contains 57% chlorine by weight, locking the element into long-lasting polymer products"
+      ],
+      "companies": [
+        { "name": "Shin-Etsu Chemical", "hq": "Japan", "tier": "major", "volume": "~4 Mt PVC/yr", "share": "~30% of global PVC capacity", "use": "World's largest PVC producer. Operates integrated chlor-alkali, VCM, and PVC plants in Japan and the US (via Shintech). Supplies PVC resin to pipe, profile, and film manufacturers globally." },
+        { "name": "Westlake Corporation", "hq": "USA", "tier": "major", "volume": "~3 Mt PVC/yr", "share": "~10% of global PVC capacity", "use": "Fully integrated US chlor-alkali, VCM, and PVC producer. Operates chlor-alkali plants in Louisiana and Texas feeding PVC resin plants. Major supplier to US pipe, window, and siding markets." },
+        { "name": "Mexichem (Orbia)", "hq": "Mexico", "tier": "major", "volume": "~2.5 Mt PVC/yr", "share": "~8% of global PVC capacity", "use": "Largest PVC producer in the Americas outside the US. Fully integrated from salt through chlor-alkali to VCM and PVC resin. Supplies pipe, fittings, and specialty PVC compounds across Latin America and Europe." },
+        { "name": "Inovyn (INEOS)", "hq": "UK / Belgium", "tier": "major", "volume": "~3.5 Mt PVC/yr", "share": "~12% of global PVC capacity", "use": "Europe's largest PVC and chlor-alkali producer. Operates chlor-alkali, VCM, and PVC plants across UK, Belgium, Norway, and Germany. Supplies European pipe, profile, and flexible film markets." }
+      ]
+    },
+    {
+      "id": "water",
+      "name": "Water Treatment & Disinfection",
+      "icon": "💧",
+      "share": "~20% of chlorine use",
+      "uses": [
+        "Chlorine gas (Cl₂) dosed directly into municipal water treatment plants for primary disinfection — kills bacteria, viruses, and protozoa; residual protects distribution network",
+        "Sodium hypochlorite (NaOCl, liquid bleach) generated from chlorine for use where gas handling is impractical — swimming pools, small water systems, and household disinfection",
+        "Chloramines (monochloramine) formed by reacting chlorine with ammonia — provide more stable residual in water distribution systems, reduce disinfection byproduct (trihalomethane) formation",
+        "Chlorine dioxide (ClO₂) for taste and odor control, biofilm removal, and primary disinfection in systems where trihalomethane formation is a regulatory concern",
+        "Wastewater effluent disinfection before discharge to receiving waters — chlorination followed by dechlorination with sodium bisulfite to protect aquatic life"
+      ],
+      "companies": [
+        { "name": "Veolia Water Technologies", "hq": "France", "tier": "major", "volume": null, "share": null, "use": "World's largest water and wastewater treatment operator. Manages municipal water systems serving hundreds of millions of people using chlorine-based disinfection. Operates on-site chlorine generation and hypochlorite dosing systems." },
+        { "name": "SUEZ Water Technologies", "hq": "France", "tier": "major", "volume": null, "share": null, "use": "Major water utility operator and treatment technology company using chlorine, chloramines, and chlorine dioxide for municipal water disinfection across North America, Europe, and Asia-Pacific." },
+        { "name": "Evoqua Water Technologies", "hq": "USA", "tier": "large", "volume": null, "share": null, "use": "Leading supplier of on-site sodium hypochlorite generation systems (OSEC) and chlorine dioxide generators for municipalities, food processing, and industrial water treatment." },
+        { "name": "Olin Corporation", "hq": "USA", "tier": "major", "volume": null, "share": "~20% of US chlorine capacity", "use": "Largest US chlorine producer. Supplies chlorine gas in ton containers to municipal water utilities and liquid caustic soda as co-product. Also supplies sodium hypochlorite to commercial and industrial customers." }
+      ]
+    },
+    {
+      "id": "solvents",
+      "name": "Solvents, Refrigerants & Specialty Chemicals",
+      "icon": "🧪",
+      "share": "~20% of chlorine use",
+      "uses": [
+        "Chlorinated solvents: methylene chloride (DCM), trichloroethylene (TCE), and perchloroethylene (PCE, 'perc') used for metal degreasing, dry cleaning, and pharmaceutical synthesis — most under regulatory pressure due to toxicity and carcinogenicity",
+        "HFCs (hydrofluorocarbons) and HFOs — modern refrigerants replacing ozone-depleting CFCs — are manufactured via chlorine chemistry (HCl reacts with fluorine compounds)",
+        "HCFCs (HCFC-22 for air conditioning) still widely used in developing countries; being phased out under Montreal Protocol by 2030",
+        "Chlorine used to produce silicone precursors: Müller-Rochow reaction produces methylchlorosilanes from silicon and methyl chloride — backbone of all silicone polymers",
+        "Carbon tetrachloride (CCl₄) and chloroform (CHCl₃) as intermediates in pharmaceutical, agrochemical, and fluorochemical synthesis"
+      ],
+      "companies": [
+        { "name": "Honeywell International", "hq": "USA", "tier": "major", "volume": null, "share": "~30% of global HFO refrigerant market", "use": "Pioneer of HFO (hydrofluoroolefin) refrigerants. Produces Solstice HFO-1234yf (automotive AC) and HFO-1234ze using chlorine-based synthesis routes. Also produces HCFC-22 and HFC-134a." },
+        { "name": "Chemours (DuPont)", "hq": "USA", "tier": "major", "volume": null, "share": "~25% of global refrigerant market", "use": "Major refrigerant manufacturer producing Opteon HFO and Freon HFC refrigerants using chlorine feedstocks. Largest global supplier of fluoropolymers including PTFE (Teflon)." },
+        { "name": "Dow", "hq": "USA", "tier": "major", "volume": null, "share": null, "use": "Produces chlorinated intermediates for silicone manufacturing (methyl chloride) and epoxy resins (epichlorohydrin). Major producer of chlorinated solvents and chlorine-derived specialty chemicals." },
+        { "name": "Solvay", "hq": "Belgium", "tier": "major", "volume": null, "share": null, "use": "Major European producer of chlorinated solvents, hydrogen chloride, and chlorine-derived specialty chemicals for pharmaceutical, agrochemical, and fluorine chemistry applications." }
+      ]
+    },
+    {
+      "id": "agrochemicals",
+      "name": "Agrochemicals & Pharmaceuticals",
+      "icon": "🌿",
+      "share": "~15% of chlorine use",
+      "uses": [
+        "Chlorine is a key building block in agrochemical synthesis — approximately 40% of all pesticides and herbicides contain at least one chlorine atom in their structure",
+        "Herbicides: atrazine (Cl), 2,4-D (2 Cl), glyphosate synthesis uses HCl, acetochlor (Cl) — dominant row crop weed control chemistries in corn, soy, and wheat",
+        "Fungicides: chlorothalonil, propiconazole, tebuconazole — broad-spectrum foliar fungicides for cereal, fruit, and vegetable crops",
+        "Insecticides: chlorpyrifos, permethrin, chlorfenapyr — widely used in crop protection and vector control (malaria mosquitoes)",
+        "Pharmaceuticals: chlorine present in ibuprofen synthesis, sertraline (Zoloft), clonazepam, amoxicillin — approximately 30% of active pharmaceutical ingredients contain chlorine"
+      ],
+      "companies": [
+        { "name": "Bayer Crop Science", "hq": "Germany", "tier": "major", "volume": null, "share": "~20% of global agrochemical market", "use": "World's largest agrochemical company (following Monsanto acquisition). Produces chlorine-containing herbicides, fungicides, and insecticides including glufosinate and propiconazole for global crop protection." },
+        { "name": "Syngenta (ChemChina)", "hq": "Switzerland / China", "tier": "major", "volume": null, "share": "~18% of global agrochemical market", "use": "Major agrochemical producer making chlorine-containing herbicides (atrazine, metolachlor) and fungicides (azoxystrobin, propiconazole, difenoconazole) for global crop protection markets." },
+        { "name": "BASF Agricultural Solutions", "hq": "Germany", "tier": "major", "volume": null, "share": "~10% of global agrochemical market", "use": "Major producer of chlorine-containing fungicides (boscalid, metconazole), herbicides, and insecticides. Integrates chlorine chemistry from its Verbund chemical production network into agrochemical synthesis." },
+        { "name": "Pfizer", "hq": "USA", "tier": "large", "volume": null, "share": null, "use": "Major pharmaceutical company using chlorinated intermediates in active pharmaceutical ingredient synthesis. Azithromycin, sertraline, and numerous other blockbuster drugs require chlorine-based synthesis chemistry." }
+      ]
+    }
+  ]
+}

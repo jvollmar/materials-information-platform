@@ -1,0 +1,98 @@
+{
+  "dataTier": 1,
+  "industries": [
+    {
+      "id": "transport",
+      "name": "Transportation & Aerospace",
+      "icon": "✈️",
+      "share": "~35% of aluminum use",
+      "uses": [
+        "Aircraft fuselage skin, wing panels, floor beams, and bulkheads in 2xxx (Al-Cu) and 7xxx (Al-Zn-Mg) alloys — aluminum comprises ~70–80% of a modern commercial aircraft's structural weight",
+        "Automotive body panels, hoods, doors, and trunk lids in 6xxx series aluminum sheet — each kilogram of steel replaced by aluminum saves ~2 kg vehicle weight and reduces lifetime fuel consumption",
+        "Aluminum space frames and structural extrusions in premium vehicles (Audi A8, Jaguar XJ) and all-aluminum body trucks (Ford F-150 since 2015)",
+        "Ship superstructures, naval vessel hulls, and high-speed ferry hulls where corrosion resistance and weight savings offset higher material cost versus steel",
+        "Railway passenger car bodies, metro car shells, and high-speed train structures (Shinkansen, TGV) using extruded aluminum profiles and welded assemblies"
+      ],
+      "companies": [
+        { "name": "Constellium", "hq": "France", "tier": "major", "volume": null, "share": "~20% of aerospace aluminum sheet", "use": "Leading aerospace aluminum producer. Supplies 7xxx and 2xxx alloy sheet, plate, and extrusions to Airbus and Boeing for fuselage, wing, and structural applications. Also major automotive aluminum sheet supplier." },
+        { "name": "Novelis (Hindalco)", "hq": "USA / India", "tier": "major", "volume": "~4 Mt/yr", "share": "~20% of global rolled aluminum", "use": "World's largest aluminum rolling company. Supplies aluminum body sheet to Ford (F-150 body), Jaguar Land Rover, Audi, and other OEMs. Also produces aerospace plate and can body stock." },
+        { "name": "Kaiser Aluminum", "hq": "USA", "tier": "large", "volume": null, "share": null, "use": "Major US producer of aerospace and automotive aluminum plate, sheet, and extrusions. Supplies structural aluminum to Boeing, Lockheed Martin, and automotive Tier 1 suppliers." },
+        { "name": "Aleris (now Novelis)", "hq": "USA", "tier": "large", "volume": null, "share": "~10% of aerospace aluminum plate", "use": "Specialty aerospace aluminum plate producer supplying 7xxx series material to Airbus A350, Boeing 787, and military aircraft programs. Acquired by Novelis in 2020." }
+      ]
+    },
+    {
+      "id": "packaging",
+      "name": "Packaging (Beverage Cans & Foil)",
+      "icon": "🥫",
+      "share": "~25% of aluminum use",
+      "uses": [
+        "Beverage can body stock (3004 alloy: Al-Mn-Mg) and lid/tab stock (5182 alloy: Al-Mg) — the aluminum beverage can is the world's most recycled packaging format, with ~70% recycling rate in the US",
+        "Household aluminum foil (1xxx series, 99%+ pure) for food storage, cooking, and pharmaceutical packaging — produced by rolling to 6–25 micron thickness",
+        "Flexible food packaging laminates: aluminum foil bonded to plastic film for coffee pods, retort pouches, and yogurt lids providing oxygen and moisture barrier",
+        "Pharmaceutical blister packs: aluminum foil heat-sealed to PVC forming individual dose cavities for tablets and capsules — provides tamper evidence and moisture protection",
+        "Aerosol cans for deodorant, hairspray, and shaving cream; aluminum tubes for pharmaceuticals, cosmetics, and food pastes"
+      ],
+      "companies": [
+        { "name": "Ball Corporation", "hq": "USA", "tier": "major", "volume": "~50 billion cans/yr", "share": "~28% of global aluminum can market", "use": "World's largest aluminum beverage can manufacturer. Produces cans for Budweiser, Coca-Cola, PepsiCo, and hundreds of craft brewers across Americas, Europe, and Middle East. Major driver of aluminum recycling programs." },
+        { "name": "Crown Holdings", "hq": "USA", "tier": "major", "volume": "~40 billion cans/yr", "share": "~22% of global aluminum can market", "use": "Second-largest aluminum can manufacturer globally. Produces beverage cans across 47 countries and aluminum aerosol cans for consumer goods brands. Operates extensive can recycling infrastructure." },
+        { "name": "Ardagh Metal Packaging", "hq": "Luxembourg", "tier": "large", "volume": null, "share": "~10% of European can market", "use": "Major European aluminum beverage can producer supplying brewers and soft drink companies. Produced approximately 8 billion cans annually from plants across Europe and the Americas." },
+        { "name": "Novelis (Hindalco)", "hq": "USA / India", "tier": "major", "volume": null, "share": "~50% of North American can sheet market", "use": "Dominant supplier of aluminum can body and lid sheet to Ball, Crown, and other can makers. Its recycled content can sheet (Evercan) uses up to 90% recycled aluminum." }
+      ]
+    },
+    {
+      "id": "construction",
+      "name": "Construction & Architecture",
+      "icon": "🏗️",
+      "share": "~20% of aluminum use",
+      "uses": [
+        "Window frames, curtain wall systems, storefronts, and door frames in 6063 extruded aluminum — corrosion resistant, paintable, and thermally breakable for energy efficiency",
+        "Roofing and cladding panels in aluminum composite material (ACM) and corrugated aluminum for commercial buildings, warehouses, and industrial facilities",
+        "Structural bridge decks in aluminum alloy plate — lighter than steel, eliminating need for bridge strengthening and extending structural life",
+        "Scaffolding and access equipment: aluminum tube and fitting systems 60% lighter than steel equivalents, reducing worker fatigue and transport costs",
+        "Electrical transmission lines: ACSR (aluminum conductor steel-reinforced) uses aluminum for conductivity with a steel core for tensile strength — aluminum conducts at 61% of copper's conductivity but at one-third the weight"
+      ],
+      "companies": [
+        { "name": "Hydro Building Systems", "hq": "Norway", "tier": "major", "volume": null, "share": null, "use": "Leading supplier of aluminum window, door, and curtain wall systems to European construction markets. Produces extruded aluminum profiles for architects and contractors under the Wicona, Technal, and Domal brands." },
+        { "name": "Arconic (formerly Alcoa)", "hq": "USA", "tier": "major", "volume": null, "share": null, "use": "Produces aluminum architectural products including Reynobond aluminum composite panels for building facades. Supplies extruded and rolled aluminum to construction, automotive, and aerospace sectors." },
+        { "name": "Sapa (now Hydro Extrusions)", "hq": "Norway", "tier": "major", "volume": null, "share": "~20% of global aluminum extrusions", "use": "World's largest aluminum extrusion company (now part of Norsk Hydro). Produces custom and standard aluminum profiles for construction, automotive, and industrial customers from 100+ plants globally." }
+      ]
+    },
+    {
+      "id": "electrical",
+      "name": "Electrical & Energy Infrastructure",
+      "icon": "⚡",
+      "share": "~10% of aluminum use",
+      "uses": [
+        "Overhead power transmission lines: ACSR, AAAC, and ACAR aluminum conductors carry the vast majority of the world's high-voltage electricity — aluminum's low weight allows longer spans with fewer towers",
+        "Aluminum busbars and switchgear components in electrical substations and distribution equipment — aluminum's conductivity, weight, and corrosion resistance make it preferred over copper above 35mm² cross-section",
+        "Transformer windings in distribution transformers increasingly use aluminum wire as a lower-cost substitute for copper — accepted where weight and efficiency meet specifications",
+        "Solar panel frames in anodized 6063 aluminum alloy — provides structural support, grounding path, and corrosion resistance for rooftop and utility-scale PV installations",
+        "Heat sinks for power electronics, LED lighting drivers, and computer CPUs — aluminum's thermal conductivity (237 W/m·K) and machinability make it the dominant heat management material"
+      ],
+      "companies": [
+        { "name": "Prysmian Group", "hq": "Italy", "tier": "major", "volume": null, "share": "~25% of global cable market", "use": "World's largest cable manufacturer. Produces aluminum overhead transmission conductors, aluminum-core power cables, and submarine cables for electrical grid infrastructure globally." },
+        { "name": "Nexans", "hq": "France", "tier": "major", "volume": null, "share": "~15% of global cable market", "use": "Major producer of aluminum overhead power lines, underground cables, and industrial cables. Supplies grid operators, renewable energy projects, and industrial customers across 40+ countries." },
+        { "name": "General Cable (now Prysmian)", "hq": "USA", "tier": "large", "volume": null, "share": null, "use": "Major North American aluminum wire and cable manufacturer, acquired by Prysmian in 2018. Produced aluminum building wire, overhead conductors, and utility cables for the US electrical grid." }
+      ]
+    },
+    {
+      "id": "smelting",
+      "name": "Primary Aluminum Smelting",
+      "icon": "⚙️",
+      "share": "Upstream — all aluminum originates here",
+      "uses": [
+        "Hall-Héroult electrolytic smelting dissolves alumina (Al₂O₃) in molten cryolite (Na₃AlF₆) at ~960°C and applies 4–5 volts DC to reduce Al³⁺ to liquid aluminum metal — each tonne of aluminum requires ~13,500 kWh of electricity",
+        "Bayer process refines bauxite ore to alumina: bauxite digested in hot NaOH dissolves aluminum as sodium aluminate, which is then precipitated as aluminum hydroxide and calcined to Al₂O₃",
+        "Secondary (recycled) aluminum smelting requires only ~5% of the energy of primary production — aluminum recycling is one of the highest-value recycling processes in the world",
+        "Aluminum alloying: primary aluminum (99.7%+ pure) is combined with copper, manganese, silicon, magnesium, and zinc at casthouse to produce the ~400 commercial aluminum alloys",
+        "Anode manufacturing: primary smelters consume ~400 kg of carbon (petroleum coke) anodes per tonne of aluminum produced — anodes oxidize during electrolysis and must be replaced regularly"
+      ],
+      "companies": [
+        { "name": "China Hongqiao Group", "hq": "China", "tier": "major", "volume": "~6 Mt Al/yr", "share": "~10% of global primary aluminum", "use": "World's largest primary aluminum producer. Operates integrated coal-power and smelting complexes in Shandong and Yunnan provinces. China as a whole produces ~57% of world primary aluminum." },
+        { "name": "Rusal (En+ Group)", "hq": "Russia", "tier": "major", "volume": "~4 Mt Al/yr", "share": "~6% of global primary aluminum", "use": "World's largest aluminum producer outside China. Operates smelters powered by Siberian hydroelectricity — among the lowest carbon-intensity primary aluminum in the world." },
+        { "name": "Alcoa Corporation", "hq": "USA", "tier": "major", "volume": "~2.5 Mt Al/yr", "share": "~4% of global primary aluminum", "use": "Pioneer of Hall-Héroult process (1888). Operates primary smelters in Australia, Canada, Iceland, Norway, and Spain. Also world's largest bauxite miner and third-largest alumina refiner." },
+        { "name": "Norsk Hydro", "hq": "Norway", "tier": "large", "volume": "~2 Mt Al/yr", "share": "~3% of global primary aluminum", "use": "Integrated aluminum company from bauxite to finished products. Operates hydropower-based smelters in Norway and Brazil with among the lowest CO₂ intensity in the global industry." }
+      ]
+    }
+  ]
+}

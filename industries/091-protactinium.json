@@ -1,0 +1,44 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "research",
+      "name": "Paleoceanography & Nuclear Research",
+      "icon": "🔬",
+      "share": "100% — no commercial applications exist",
+      "uses": [
+        "Protactinium-231 (²³¹Pa, t½ = 32,760 years) is used in geochronology as part of the ²³¹Pa/²³⁰Th dating method for marine sediments and coral — the Pa/Th ratio tracks ocean circulation changes over the past 300,000 years, providing key evidence for past changes in the Atlantic Meridional Overturning Circulation (AMOC)",
+        "²³¹Pa/²³⁰Th ratios in deep-sea sediment cores are among the most powerful tracers of past ocean circulation — the method revealed that AMOC slowed dramatically during the Younger Dryas cold period (~12,900 years ago) and other glacial stadials",
+        "Protactinium-233 (²³³Pa, t½ = 27 days) is a critical intermediate in the thorium fuel cycle: ²³²Th + n → ²³³Th → ²³³Pa → ²³³U (fissile). Pa-233 must be continuously removed from molten salt thorium reactors to prevent neutron losses",
+        "World supply of purified ²³¹Pa is only ~125 grams, held primarily at Chalk River Laboratories (Canada) — one of the rarest separated elements on Earth",
+        "Protactinium was first isolated in macroscopic quantities in 1934 by Aristid von Grosse — separating ~0.1mg from several tons of uranium ore residue in a months-long chemical effort"
+      ],
+      "companies": [
+        {
+          "name": "Canadian Nuclear Laboratories (Chalk River)",
+          "hq": "Canada",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "Holds the world's largest purified protactinium-231 stockpile (~125g), originally separated from uranium processing residues. Supplies Pa-231 to oceanographic and paleoclimate research institutions for sediment core dating and ocean circulation studies."
+        },
+        {
+          "name": "Woods Hole Oceanographic Institution",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "World leader in ²³¹Pa/²³⁰Th paleoceanographic research. Measures Pa/Th ratios in Atlantic sediment cores to reconstruct past AMOC strength over glacial-interglacial cycles — one of the primary scientific consumers of protactinium-231 analytical standards and reference materials."
+        },
+        {
+          "name": "ETH Zürich (Geological Institute)",
+          "hq": "Switzerland",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Major center for uranium-series and Pa/Th geochronology applied to coral dating, cave deposits (speleothems), and marine sediments. Uses Pa-231 reference standards for mass spectrometric measurements of past ocean circulation changes and sea level history."
+        }
+      ]
+    }
+  ]
+}

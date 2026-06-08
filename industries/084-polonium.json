@@ -1,0 +1,34 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "static-elimination",
+      "name": "Anti-Static & Ion Sources",
+      "icon": "⚡",
+      "share": "~70% of polonium use",
+      "uses": [
+        "Polonium-210 (²¹⁰Po, t½ = 138.4 days, alpha emitter) in anti-static ionizing bars: alpha particles ionize air, neutralizing static electricity on paper, plastic film, and textile manufacturing lines. Small sealed ²¹⁰Po sources (0.5–10 μCi) are used in printing presses, packaging lines, and clean rooms",
+        "Nuclear instrument ionization sources: ²¹⁰Po in air-ionization chambers, ion mobility spectrometers, and smoke detectors (though americium-241 is now more common in ionization smoke detectors)",
+        "TE-317 ionizing elements (3M Staticmaster brand): sealed ²¹⁰Po sources in film and lens cleaning brushes for photographers — alpha ionization neutralizes static that attracts dust to camera film and lenses. Requires NRC (Nuclear Regulatory Commission) licensing for purchase in the US"
+      ],
+      "companies": [
+        { "name": "NRD LLC (formerly 3M Nuclear Products)", "hq": "USA", "tier": "large", "volume": null, "share": "~50% of ²¹⁰Po anti-static market", "use": "Major manufacturer of polonium-210 anti-static ionizing bars, brushes, and eliminator units for printing, packaging, film, and electronics manufacturing. Produces licensed ²¹⁰Po sources under NRC authority for industrial static control." }
+      ]
+    },
+    {
+      "id": "nuclear",
+      "name": "Nuclear Initiators & Research",
+      "icon": "⚛️",
+      "share": "~30% of polonium use",
+      "uses": [
+        "Polonium-beryllium (Po-Be) neutron sources: ²¹⁰Po alpha particles impinging on beryllium produce neutrons via the (α,n) reaction — used as portable neutron sources for oil well logging, neutron activation analysis, and reactor startup neutron sources",
+        "Nuclear weapon initiators: ²¹⁰Po-Be 'urchin' initiators were used in early implosion-type fission weapons (Fat Man, early US arsenal) to provide a burst of neutrons at the moment of criticality — now replaced by electronic neutron generators",
+        "Polonium-210 is notoriously toxic — as a pure alpha emitter, it is harmless externally but lethal if ingested or inhaled. Used in the 2006 assassination of Alexander Litvinenko in London, demonstrating its extreme biological toxicity even at microgram quantities",
+        "Thermoelectric power sources: ²¹⁰Po heat sources considered for space applications due to its extremely high power density (~140W/g), but short half-life and production complexity limit practical use"
+      ],
+      "companies": [
+        { "name": "NIIAR (Research Institute of Atomic Reactors)", "hq": "Russia", "tier": "major", "volume": null, "share": "~90% of world ²¹⁰Po production", "use": "World's dominant producer of polonium-210, produced by neutron irradiation of bismuth-209 targets in high-flux research reactors at Dimitrovgrad, Russia. Supplies sealed ²¹⁰Po sources for industrial anti-static, medical, and research applications." }
+      ]
+    }
+  ]
+}

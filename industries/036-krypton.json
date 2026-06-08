@@ -1,0 +1,54 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "lighting",
+      "name": "Lighting & Lasers",
+      "icon": "💡",
+      "share": "~50% of krypton use",
+      "uses": [
+        "Krypton-filled incandescent and halogen lamps: krypton fill gas (vs. argon) reduces tungsten filament evaporation at higher operating temperatures, allowing smaller bulbs with the same lumen output or higher efficiency at the same size",
+        "Krypton fluoride (KrF) excimer lasers emit at 248nm — the primary light source for photolithography of semiconductor wafers from the 250nm to 90nm technology nodes. Although largely displaced by 193nm ArF lasers at advanced nodes, KrF remains in use for less critical layers",
+        "High-intensity krypton arc lamps for film projectors, searchlights, and photographic strobe lights — produce a more continuous spectrum than mercury lamps",
+        "Krypton-85 (radioactive, t½ = 10.8 years) as beta-particle source in self-luminous exit signs, airport runway lighting, and gas-filled spark gap devices; also used to monitor nuclear fuel reprocessing plant emissions as it is released during spent fuel dissolution"
+      ],
+      "companies": [
+        { "name": "Linde plc", "hq": "UK / Ireland", "tier": "major", "volume": null, "share": "~30% of global rare gas market", "use": "World's largest industrial gas company and major krypton producer via cryogenic air separation. Supplies krypton for lighting, KrF excimer lasers, and specialty applications globally." },
+        { "name": "Air Liquide", "hq": "France", "tier": "major", "volume": null, "share": "~25% of global rare gas market", "use": "Major krypton producer and distributor. Supplies krypton for halogen lamps, KrF lithography lasers, and specialty lighting from its global network of air separation units." },
+        { "name": "Coherent (II-VI)", "hq": "USA", "tier": "large", "volume": null, "share": "~30% of excimer laser market", "use": "Major manufacturer of KrF excimer lasers for semiconductor photolithography. Its KrF laser systems at 248nm are still used for non-critical patterning layers at leading chip fabs alongside ArF immersion systems." }
+      ]
+    },
+    {
+      "id": "insulation",
+      "name": "Window Insulation",
+      "icon": "🪟",
+      "share": "~40% of krypton use — largest single application",
+      "uses": [
+        "Krypton fill gas in high-performance triple-pane and thin double-pane insulating glass units (IGUs) — krypton's lower thermal conductivity (9.4 mW/m·K vs. 16.4 for argon) provides superior insulation in narrow gas spaces (6–9mm) where argon is less effective",
+        "Krypton-filled windows achieve U-values below 0.5 W/m²·K in triple-pane configurations, meeting Passive House standard requirements for ultra-low-energy buildings in cold climates",
+        "Premium residential and commercial window manufacturers use krypton in windows where frame size constraints prevent use of wider argon-filled cavities",
+        "Krypton-argon mixtures (typically 10–20% Kr in Ar) provide intermediate insulating performance at lower cost than pure krypton fill"
+      ],
+      "companies": [
+        { "name": "Internorm", "hq": "Austria", "tier": "large", "volume": null, "share": "~10% of European premium window market", "use": "Europe's largest window manufacturer. Produces triple-pane krypton-filled window units for Passive House and ultra-low-energy building applications, primarily in the German-speaking market and Scandinavia." },
+        { "name": "Andersen Corporation", "hq": "USA", "tier": "large", "volume": null, "share": "~20% of US premium window market", "use": "Major US window manufacturer offering krypton-filled glass options in its A-Series and E-Series product lines for energy-efficient residential construction in cold-climate US markets." }
+      ]
+    },
+    {
+      "id": "scientific",
+      "name": "Scientific & Metrology",
+      "icon": "🔬",
+      "share": "~10% of krypton use",
+      "uses": [
+        "Krypton-86 spectral line (orange-red, 605.8nm transition) was the international definition of the metre from 1960 to 1983 — providing a reproducible, artifact-independent length standard before redefinition via the speed of light",
+        "Krypton used in ion thrusters for spacecraft propulsion: krypton is a lower-cost alternative to xenon in Hall-effect thrusters for satellite station-keeping and deep space missions. SpaceX Starlink v2 satellites use krypton ion thrusters",
+        "Krypton-81 (t½ = 229,000 years) for radiometric dating of ancient groundwater and polar ice cores — complements argon-39 and other noble gas tracers in hydrological studies",
+        "Krypton gas used as reference standard in gravimetric surface area measurements (BET method) for microporous materials, activated carbons, and catalyst supports"
+      ],
+      "companies": [
+        { "name": "SpaceX", "hq": "USA", "tier": "major", "volume": null, "share": null, "use": "Largest current consumer of krypton for spacecraft propulsion. Its Starlink v2 mini satellites use krypton ion thrusters instead of xenon for cost reasons — SpaceX's krypton demand has significantly impacted the rare gas market." },
+        { "name": "Busek Company", "hq": "USA", "tier": "small", "volume": null, "share": null, "use": "Spacecraft propulsion company developing krypton-compatible Hall-effect thrusters for small satellite constellations. Krypton's lower cost and adequate performance make it attractive for large commercial satellite fleets." }
+      ]
+    }
+  ]
+}

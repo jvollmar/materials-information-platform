@@ -1,0 +1,56 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "displays",
+      "name": "Flat Panel Displays (ITO)",
+      "icon": "📱",
+      "share": "~75% of indium use",
+      "uses": [
+        "Indium tin oxide (ITO, In₂O₃:Sn ~90:10 by weight) is a transparent conducting oxide — sputtered as a thin film (~100–200nm) on glass or PET film to create invisible electrodes for touchscreens, LCD pixel electrodes, and OLED anodes",
+        "Every LCD display (smartphone, tablet, laptop, TV) uses ITO electrodes on the glass substrate to address individual liquid crystal pixels — a 6-inch smartphone display contains ~150mg of indium as ITO",
+        "Capacitive touchscreen sensors use ITO patterned in rows and columns on PET film or glass — the dominant touch technology in smartphones, tablets, and laptop trackpads globally",
+        "OLED display anodes: ITO provides the hole-injection anode in OLED stacks for OLED smartphones (Samsung Galaxy, Google Pixel) and OLED TVs — indium demand grows with OLED penetration",
+        "ITO replacement is actively researched (silver nanowires, graphene, carbon nanotubes, metal mesh) to reduce indium dependence, but ITO remains dominant due to unmatched combination of conductivity and transparency"
+      ],
+      "companies": [
+        { "name": "Samsung Display", "hq": "South Korea", "tier": "major", "volume": null, "share": "~30% of global OLED display market", "use": "World's largest OLED display manufacturer and major ITO consumer. Uses ITO anodes in its AMOLED panels for Samsung Galaxy smartphones and supplies OLED panels to Apple (iPhone), Sony, and other OEMs. Each OLED panel requires sputtered ITO." },
+        { "name": "LG Display", "hq": "South Korea", "tier": "major", "volume": null, "share": "~15% of global flat panel display market", "use": "Major ITO-consuming display manufacturer. Produces LCD panels (largest TV LCD producer) and OLED panels for LG and Apple. Its W-OLED TV panels use ITO anodes in the OLED emitter stack for each RGB sub-pixel." },
+        { "name": "Umicore", "hq": "Belgium", "tier": "major", "volume": null, "share": "~15% of global ITO sputtering target market", "use": "Major ITO sputtering target manufacturer and indium refiner. Produces ITO targets used to sputter transparent conductive coatings onto glass and film for display and touchscreen manufacturers globally." },
+        { "name": "Nyrstar (Trafigura)", "hq": "Netherlands", "tier": "large", "volume": null, "share": "~10% of world indium production", "use": "Major zinc smelter operator recovering indium as byproduct of zinc smelting from zinc sulfide concentrate. Indium concentrates in the fume and residues of zinc smelting operations and is refined to 4N or 5N purity." }
+      ]
+    },
+    {
+      "id": "solar",
+      "name": "CIGS Thin-Film Solar & Semiconductors",
+      "icon": "☀️",
+      "share": "~15% of indium use",
+      "uses": [
+        "CIGS (copper indium gallium selenide) thin-film solar cells use indium as a major absorber layer component — CuIn₁₋ₓGaₓSe₂ with x~0.3 achieves optimal bandgap for solar energy conversion. Indium content ~15% of CIGS absorber layer weight",
+        "Indium phosphide (InP) substrates and epitaxial wafers for high-performance III-V solar cells, telecom laser diodes (1310nm, 1550nm), and high-frequency HEMTs for 5G radio frequency applications",
+        "InGaAs (indium gallium arsenide) photodetectors and photonic integrated circuits for fiber optic telecom receivers, LiDAR, and near-infrared spectroscopy — InGaAs detects 900–1700nm wavelengths",
+        "InP-based heterojunction bipolar transistors (HBTs) for power amplifiers in 5G mmWave (26GHz, 28GHz) base stations — InP HBTs provide higher frequency and power efficiency than GaAs or silicon at frequencies above 100GHz"
+      ],
+      "companies": [
+        { "name": "Solar Frontier (Showa Shell/Idemitsu)", "hq": "Japan", "tier": "large", "volume": null, "share": "~5% of thin-film solar market", "use": "World's largest CIGS thin-film solar module manufacturer. Uses indium in its copper indium selenide absorber layer — each GW of CIGS solar capacity requires ~50–100 tonnes of indium, making CIGS production a significant indium consumer." },
+        { "name": "II-VI Incorporated (Coherent)", "hq": "USA", "tier": "major", "volume": null, "share": "~30% of InP wafer market", "use": "Major InP wafer and epitaxial structure manufacturer for telecom lasers, photodetectors, and high-frequency HEMTs. Produces InP substrates for data center optical transceivers, 5G radio, and quantum computing photonic devices." }
+      ]
+    },
+    {
+      "id": "alloys",
+      "name": "Solders, Alloys & Bearings",
+      "icon": "⚙️",
+      "share": "~10% of indium use",
+      "uses": [
+        "Lead-free solders: indium-tin (In-Sn, 52In-48Sn, melting point 118°C) and indium-bismuth alloys for low-temperature soldering of heat-sensitive electronics, bonding of optics to mounts, and cryogenic joints",
+        "Indium foil and wire for ultra-high vacuum (UHV) gasket seals in scientific instruments, particle accelerator beampipes, and cryostat flanges — indium's softness and cold-flow properties create metal-to-metal seals at cryogenic temperatures",
+        "Indium-based thermal interface materials (TIM) for bonding CPU and GPU chips to heat spreaders — indium's thermal conductivity (82 W/m·K) and low melting point enable compliant, void-free thermal bonds in high-performance processors",
+        "Indium antimonide (InSb) infrared detectors for 3–5 μm thermal imaging in military heat-seeking missiles, astronomy, and scientific instruments — requires cooling to 77K (liquid nitrogen) for low-noise operation"
+      ],
+      "companies": [
+        { "name": "Indium Corporation", "hq": "USA", "tier": "major", "volume": null, "share": "~20% of indium products market", "use": "World's largest dedicated indium products company. Produces indium metal, ITO sputtering targets, indium solders, indium foil, and thermal interface materials for electronics, solar, and display manufacturing applications globally." },
+        { "name": "Umicore", "hq": "Belgium", "tier": "major", "volume": null, "share": "~15% of global indium refining", "use": "Major indium refiner and ITO sputtering target producer. Refines indium from zinc smelter byproducts and recovers indium from ITO scrap recycling. Produces 4N and 5N indium for display and semiconductor applications." }
+      ]
+    }
+  ]
+}

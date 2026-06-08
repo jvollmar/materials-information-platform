@@ -1,0 +1,55 @@
+{
+  "dataTier": 1,
+  "industries": [
+    {
+      "id": "capacitors",
+      "name": "Tantalum Electrolytic Capacitors",
+      "icon": "💻",
+      "share": "~60% of tantalum use",
+      "uses": [
+        "Tantalum pentoxide (Ta₂O₅) forms a stable, high-dielectric-constant native oxide on tantalum metal powder — this property enables solid tantalum electrolytic capacitors with extremely high capacitance-per-volume, essential where space is critical",
+        "Tantalum capacitors in smartphones, laptops, tablets, and automotive electronics: each smartphone contains 5–10 tantalum capacitors; each laptop 25–50. Tantalum's reliability and volumetric efficiency are unmatched by alternatives for miniaturized electronics",
+        "Automotive electronics (ECUs, ADAS sensors, airbag controllers, transmission modules) increasingly use tantalum capacitors for their reliability across -55°C to +125°C operating range and vibration resistance",
+        "Tantalum powder for capacitor-grade applications must have very high surface area (>50,000 µF·V/g) produced by sodium reduction of K₂TaF₇ to tantalum powder, then pressed and sintered into pellets",
+        "Niobium oxide (Nb₂O₅) capacitors have been developed as a lower-cost alternative to tantalum — CBMM's NbO capacitors compete in portions of the market, but tantalum maintains advantages in highest-performance applications"
+      ],
+      "companies": [
+        { "name": "Kemet (Yageo)", "hq": "USA / Taiwan", "tier": "major", "volume": null, "share": "~25% of tantalum capacitor market", "use": "World's largest tantalum capacitor manufacturer. Produces solid tantalum electrolytic capacitors for automotive, military, medical, and consumer electronics. Acquired by Yageo in 2020. Operates tantalum processing from powder to finished capacitor." },
+        { "name": "Vishay Intertechnology", "hq": "USA", "tier": "major", "volume": null, "share": "~20% of tantalum capacitor market", "use": "Major tantalum and other passive component manufacturer. Produces solid tantalum capacitors for military, aerospace, medical, and industrial electronics where reliability requirements prohibit ceramic alternatives." },
+        { "name": "AVX (Kyocera)", "hq": "USA / Japan", "tier": "major", "volume": null, "share": "~20% of tantalum capacitor market", "use": "Major tantalum capacitor manufacturer. Produces standard and military-qualified tantalum capacitors for automotive, defense, medical, and industrial electronics. Also produces MnO₂ and polymer-anode tantalum capacitor variants." },
+        { "name": "Global Advanced Metals (GAM)", "hq": "Australia", "tier": "major", "volume": null, "share": "~30% of tantalum ore and concentrate supply", "use": "Major tantalum producer operating the Wodgina mine in Western Australia — historically the world's largest tantalum mine. Also processes tantalum ore from African sources into capacitor-grade tantalum powder." }
+      ]
+    },
+    {
+      "id": "superalloys",
+      "name": "Superalloys & High-Temperature Alloys",
+      "icon": "✈️",
+      "share": "~25% of tantalum use",
+      "uses": [
+        "Tantalum at 3–12% in single-crystal nickel superalloys (CMSX-4, René N6, TMS-238) for the most advanced jet engine turbine blade alloys — tantalum increases the γ' volume fraction and improves creep resistance at temperatures approaching 90% of the alloy's melting point",
+        "Ta addition improves oxidation resistance of superalloys by modifying the alumina scale and reducing its growth rate at very high temperatures — critical for extended blade service life in modern high-efficiency engines",
+        "Tantalum carbide (TaC) as a grain boundary strengthening phase in cemented carbide cutting tools — added to WC-Co grades for cutting of stainless steel, nickel alloys, and hard materials where crater wear and built-up edge are problematic",
+        "Tantalum-tungsten (Ta-W) and tantalum-niobium alloys for chemical processing equipment handling HF, HCl, and other aggressive acids at elevated temperatures"
+      ],
+      "companies": [
+        { "name": "Cannon-Muskegon (PCC)", "hq": "USA", "tier": "major", "volume": null, "share": "~20% of superalloy vacuum melt market", "use": "Major superalloy producer making tantalum-containing single-crystal alloys (CMSX-4, CMSX-8) for GE, Pratt & Whitney, and Rolls-Royce turbine blade casting. Produces vacuum induction melted and remelted superalloy master heats." },
+        { "name": "Sandvik Coromant", "hq": "Sweden", "tier": "major", "volume": null, "share": "~15% of global cutting tool market", "use": "World's leading cutting tool manufacturer. Uses tantalum carbide in specialty WC-Co-TaC cemented carbide grades for machining of heat-resistant superalloys, stainless steels, and hardened materials in aerospace and automotive manufacturing." }
+      ]
+    },
+    {
+      "id": "medical",
+      "name": "Medical Implants & Surgical Instruments",
+      "icon": "🏥",
+      "share": "~15% of tantalum use",
+      "uses": [
+        "Tantalum is one of the most biocompatible metals — completely inert in body fluids, non-toxic, and non-carcinogenic. Used in orthopedic reconstruction implants, craniofacial bone plates and mesh, sternal wires, and vascular clips",
+        "Porous tantalum (Trabecular Metal™, Zimmer Biomet): highly porous tantalum foam structure mimics cancellous bone porosity and stiffness — bone grows into the interconnected pores for biological fixation. Used in acetabular hip cups, tibial knee components, and spinal interbody fusion devices",
+        "Tantalum wire sutures for sternal closure after cardiac surgery — tantalum's inertness, pliability, and radiopacity (visible on X-ray) make it ideal for permanent sternal wiring",
+        "Tantalum electrolytic capacitors in pacemakers, implantable defibrillators, and cochlear implants — hermetically sealed in titanium housings, requiring the highest reliability tantalum capacitor grades"
+      ],
+      "companies": [
+        { "name": "Zimmer Biomet", "hq": "USA", "tier": "major", "volume": null, "share": "~17% of orthopedic implant market", "use": "World's largest orthopedic company and owner of the Trabecular Metal porous tantalum technology. Uses porous tantalum in hip, knee, and spinal implants for superior bone ingrowth and biological fixation versus smooth titanium or cobalt-chrome." }
+      ]
+    }
+  ]
+}

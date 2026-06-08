@@ -1,0 +1,56 @@
+{
+  "dataTier": 1,
+  "industries": [
+    {
+      "id": "autocatalyst",
+      "name": "Automotive Catalytic Converters",
+      "icon": "🚗",
+      "share": "~85% of palladium use",
+      "uses": [
+        "Palladium is the primary PGM in modern gasoline three-way catalysts (TWC) — palladium oxidizes carbon monoxide (CO) and unburned hydrocarbons (HC) to CO₂ and H₂O in the hot exhaust gas stream from gasoline engines",
+        "The shift from platinum-dominant to palladium-dominant catalysts (1990s–2000s) was driven by palladium's superior light-off performance at lower temperatures and better hydrocarbon oxidation kinetics for modern low-emission gasoline engines",
+        "Typical modern gasoline TWC: 3–7g total PGM per vehicle, with palladium comprising 60–80% of the PGM loading in most formulations; rhodium handles NOₓ reduction; platinum may be included for additional activity",
+        "Gasoline direct injection (GDI) engines require higher PGM loadings and closer-coupled catalysts compared to port-fuel injection due to higher particulate and NOₓ emissions at cold start — driving increased palladium demand per vehicle",
+        "Palladium demand from autocatalysts has been extraordinarily tight 2016–2022 due to tightening global emission standards (Euro 6d, China 6, India BS6) and growing vehicle production in Asia — driving palladium prices above $3,000/oz in early 2022"
+      ],
+      "companies": [
+        { "name": "Norilsk Nickel (Nornickel)", "hq": "Russia", "tier": "major", "volume": "~2.8 Moz Pd/yr", "share": "~40% of world palladium production", "use": "World's largest palladium producer by a wide margin. Recovers palladium as co-product of nickel-copper sulfide ore mining and smelting at Norilsk and Kola Peninsula. Russia-Ukraine war created significant supply chain concerns for the automotive industry." },
+        { "name": "Anglo American Platinum (Amplats)", "hq": "South Africa", "tier": "major", "volume": "~1.5 Moz Pd/yr", "share": "~22% of world palladium production", "use": "Second-largest palladium producer. Mines palladium as co-product with platinum and rhodium from the Bushveld Igneous Complex. South Africa's UG2 reef has a higher palladium-to-platinum ratio than the Merensky reef." },
+        { "name": "Johnson Matthey", "hq": "UK", "tier": "major", "volume": null, "share": "~25% of global automotive catalyst market", "use": "World's largest automotive catalyst manufacturer. Designs and manufactures palladium-dominant TWC washcoats and substrates for gasoline engine emissions control. Also a major palladium recycler from end-of-life catalytic converters." },
+        { "name": "BASF Catalysts", "hq": "Germany", "tier": "major", "volume": null, "share": "~20% of global automotive catalyst market", "use": "Major automotive catalyst producer and palladium consumer. Manufactures TWC catalyst washcoats for gasoline vehicles and DOC catalysts for diesel vehicles. Recycles palladium and platinum from spent autocatalysts at its PGM recycling facilities." }
+      ]
+    },
+    {
+      "id": "electronics",
+      "name": "Electronics & MLCC Capacitors",
+      "icon": "💻",
+      "share": "~8% of palladium use",
+      "uses": [
+        "Multilayer ceramic capacitors (MLCCs): palladium-silver (Pd-Ag) internal electrode paste was standard in MLCCs until the 1990s — base metal electrodes (BME, nickel) have largely replaced Pd-Ag in commodity MLCCs but precious metal electrodes (PME) remain in high-reliability applications",
+        "Pd-Ag brazing alloys for hermetic sealing of ceramic-to-metal packages in aerospace electronics, pacemakers, and military components where extreme reliability is required",
+        "Palladium plating on electrical contacts and connector pins — palladium-nickel (Pd-Ni) alloy coating provides wear resistance and low contact resistance for connector applications in telecom and computing hardware",
+        "Palladium-silver thick film pastes for hybrid microelectronics, resistor networks, and thick-film conductors on ceramic substrates in automotive electronics and sensor applications"
+      ],
+      "companies": [
+        { "name": "Murata Manufacturing", "hq": "Japan", "tier": "major", "volume": null, "share": "~40% of global MLCC market", "use": "World's largest MLCC manufacturer. Historical major consumer of palladium in PME MLCC internal electrodes; now primarily uses BME (nickel) electrodes but maintains palladium use in high-reliability MLCCs for automotive and aerospace." },
+        { "name": "Heraeus", "hq": "Germany", "tier": "major", "volume": null, "share": "~20% of PGM recycling market", "use": "Major palladium refiner and electronics materials producer. Produces palladium-silver electrode pastes for thick-film electronics, palladium plating solutions for connectors, and recycles palladium from spent electronic components." }
+      ]
+    },
+    {
+      "id": "catalysis",
+      "name": "Industrial Catalysis & Hydrogen",
+      "icon": "⚗️",
+      "share": "~7% of palladium use",
+      "uses": [
+        "Palladium-catalyzed cross-coupling reactions (Suzuki, Heck, Negishi, Buchwald-Hartwig): fundamental tools in pharmaceutical synthesis — used to construct the carbon skeletons of ~30% of all drug candidates in development. Nobel Prize 2010 (Heck, Negishi, Suzuki)",
+        "Palladium membranes for ultra-pure hydrogen purification: hydrogen dissolves in palladium as atomic H, diffuses through, and recombines on the other side — 100% selective membranes for fuel cell-grade hydrogen production",
+        "Pd/C (palladium on carbon) catalyst for hydrogenation of double bonds, removal of protecting groups (CBz deprotection), and reductive amination in pharmaceutical and fine chemical batch synthesis",
+        "Palladium black and Pd/Al₂O₃ for selective hydrogenation of acetylene impurities in ethylene streams — removes ppb-level acetylene that would poison downstream polyethylene catalyst"
+      ],
+      "companies": [
+        { "name": "Pfizer", "hq": "USA", "tier": "major", "volume": null, "share": null, "use": "World's largest pharmaceutical company and major consumer of palladium catalysts for drug synthesis. Pd-catalyzed cross-coupling (Suzuki, Buchwald-Hartwig) reactions are used in synthesis of numerous blockbuster drugs including many kinase inhibitors." },
+        { "name": "Evonik Industries", "hq": "Germany", "tier": "large", "volume": null, "share": "~15% of precious metal catalyst market", "use": "Major producer of Pd/C and Pd/Al₂O₃ heterogeneous catalysts for pharmaceutical hydrogenation and fine chemical synthesis. Also produces palladium-based homogeneous catalyst systems for cross-coupling reactions." }
+      ]
+    }
+  ]
+}

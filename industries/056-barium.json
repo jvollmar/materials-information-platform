@@ -1,0 +1,56 @@
+{
+  "dataTier": 1,
+  "industries": [
+    {
+      "id": "drilling",
+      "name": "Oil & Gas Drilling Fluids",
+      "icon": "🛢️",
+      "share": "~75% of barium use",
+      "uses": [
+        "Barite (barium sulfate, BaSO₄) is ground and added to water-based and oil-based drilling muds as a weighting agent — barite's high density (4.5 g/cm³) and chemical inertness in brine make it the universal choice for increasing mud density to control wellbore pressure",
+        "API-grade barite used in drilling fluids must meet specifications for density, particle size, and solubility — API Spec 13A requires ≥4.20 g/cm³ density and specific chemical limits",
+        "Drilling mud density is adjusted from ~1.0 to >2.4 g/cm³ with barite loading to balance formation pressure and prevent blowouts — offshore deepwater wells with high pore pressures require very high barite loadings",
+        "Barite is consumed (not recovered) during drilling — each well may use hundreds to thousands of tonnes of barite depending on depth and complexity",
+        "World barite production exceeds 9 million tonnes per year, the vast majority going to oilfield use — China, India, Morocco, and the US are the largest producers"
+      ],
+      "companies": [
+        { "name": "Halliburton", "hq": "USA", "tier": "major", "volume": null, "share": "~18% of global oilfield services market", "use": "Major drilling fluid service company and barite consumer. Formulates and supplies weighted drilling muds containing barite to oil and gas operators globally through its Baroid drilling fluids division." },
+        { "name": "Schlumberger (SLB)", "hq": "France / USA", "tier": "major", "volume": null, "share": "~20% of global oilfield services market", "use": "World's largest oilfield services company. Supplies barite-weighted drilling fluids through its M-I SWACO drilling fluids division to exploration and production operators in every major oil and gas basin globally." },
+        { "name": "Excalibar Minerals (Newpark Resources)", "hq": "USA", "tier": "large", "volume": null, "share": "~10% of North American barite market", "use": "Major barite mining, grinding, and distribution company supplying API-grade barite to oilfield drilling fluid manufacturers. Operates barite grinding facilities in Nevada, Louisiana, and internationally." }
+      ]
+    },
+    {
+      "id": "medical",
+      "name": "Medical Imaging (Barium Contrast)",
+      "icon": "🏥",
+      "share": "~10% of barium use",
+      "uses": [
+        "Barium sulfate suspension as oral and rectal X-ray contrast agent for gastrointestinal imaging — barium's high atomic number (Z=56) provides strong X-ray opacity to outline the esophagus, stomach, small bowel, and colon",
+        "Upper GI series and barium swallow studies: patient drinks barium sulfate suspension while X-rays capture swallowing mechanics, esophageal structure, and gastric anatomy",
+        "Barium enema for colon imaging: double-contrast technique with barium and air outlines the mucosal surface of the large intestine for polyp and cancer detection — largely replaced by CT colonography and colonoscopy but still used globally",
+        "Barium sulfate is chemically inert and completely insoluble — passes through GI tract without absorption, making it safe despite barium ion's high toxicity (only the sulfate form is safe)"
+      ],
+      "companies": [
+        { "name": "Bracco Imaging", "hq": "Italy", "tier": "major", "volume": null, "share": "~20% of barium GI contrast market", "use": "Major medical contrast agent producer. Manufactures barium sulfate suspensions (Baroflavine, E-Z-HD) for upper and lower GI fluoroscopic imaging. Also produces iodinated contrast agents for CT and MRI contrast agents." },
+        { "name": "E-Z-EM (Bracco)", "hq": "USA", "tier": "large", "volume": null, "share": "~30% of North American barium contrast market", "use": "Major US barium sulfate contrast agent manufacturer producing a full range of barium preparations for GI imaging procedures at hospitals and radiology centers." }
+      ]
+    },
+    {
+      "id": "industrial",
+      "name": "Industrial Chemicals & Glass",
+      "icon": "⚗️",
+      "share": "~15% of barium use",
+      "uses": [
+        "Barium carbonate (BaCO₃) in specialty glass manufacturing: barium oxide increases refractive index of optical glass for camera and telescope lenses; also used in CRT glass faceplate to absorb X-rays",
+        "Barium titanate (BaTiO₃) as a ferroelectric ceramic: the dielectric material in multilayer ceramic capacitors (MLCCs), piezoelectric transducers, and positive temperature coefficient (PTC) thermistors — BaTiO₃ is one of the most important functional ceramic materials",
+        "Barium carbonate as rat poison (rodenticide) — barium ion is highly toxic when ingested as soluble salts; use declining due to secondary poisoning risk to predators",
+        "Barium peroxide (BaO₂) as initiator in pyrotechnic compositions and as bleaching agent for textiles",
+        "Barium chromate as corrosion-inhibiting primer pigment for aircraft aluminum — being phased out due to hexavalent chromium toxicity under REACH regulations"
+      ],
+      "companies": [
+        { "name": "Murata Manufacturing", "hq": "Japan", "tier": "major", "volume": null, "share": "~40% of global MLCC market", "use": "World's largest MLCC manufacturer and major consumer of barium titanate dielectric ceramic. Each MLCC contains BaTiO₃ ceramic layers 1–3 microns thick; Murata produces hundreds of billions of MLCCs annually, each containing barium." },
+        { "name": "Sakai Chemical Industry", "hq": "Japan", "tier": "large", "volume": null, "share": "~20% of global BaTiO₃ powder market", "use": "Major barium titanate powder producer supplying MLCC manufacturers worldwide. Produces fine BaTiO₃ powder with precise stoichiometry, particle size, and dopant control required for advanced MLCC dielectric layers." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "dataTier": 1,
+  "industries": [
+    {
+      "id": "chemicals",
+      "name": "Chemical Manufacturing (Chlor-Alkali & Soda Ash)",
+      "icon": "⚗️",
+      "share": "~45% of sodium use by volume",
+      "uses": [
+        "Chlor-alkali electrolysis of sodium chloride (brine) produces chlorine gas and sodium hydroxide (caustic soda, NaOH) simultaneously — the two most important commodity chemicals in the world by production volume",
+        "Solvay process converts sodium chloride and limestone into sodium carbonate (soda ash, Na₂CO₃) — essential feedstock for flat glass, container glass, detergents, and paper",
+        "Sodium hydroxide used to manufacture pulp and paper (kraft process), aluminum (Bayer process), soaps, textiles, and as a pH regulator across dozens of industrial processes",
+        "Sodium hypochlorite (NaOCl) produced from chlorine and caustic soda for water treatment, bleaching, and household disinfectants",
+        "Sodium sulfate (Na₂SO₄) byproduct used in detergent powders and kraft paper pulping"
+      ],
+      "companies": [
+        { "name": "Solvay", "hq": "Belgium", "tier": "major", "volume": "~9 Mt soda ash/yr", "share": "~12% of global soda ash capacity", "use": "Invented the Solvay process in 1863; still the world's largest soda ash producer. Operates plants across Europe, North America, and Asia supplying glass manufacturers, detergent producers, and chemical companies." },
+        { "name": "Tronox / Ciner Group", "hq": "USA / Turkey", "tier": "major", "volume": "~8 Mt soda ash/yr combined", "share": "~10% of global capacity", "use": "Ciner operates natural trona-based soda ash mines in Wyoming (cheapest production route); Tronox supplies synthetic soda ash globally. Together represent a major share of world soda ash supply." },
+        { "name": "Olin Corporation", "hq": "USA", "tier": "major", "volume": "~2 Mt Cl₂/yr", "share": "~20% of US chlorine capacity", "use": "Largest US chlorine and caustic soda producer via chlor-alkali electrolysis. Supplies chlorine to PVC manufacturers, water treatment, and pulp/paper industries." },
+        { "name": "Westlake Corporation", "hq": "USA", "tier": "major", "volume": null, "share": "~15% of US chlor-alkali market", "use": "Major integrated chlor-alkali and PVC producer. Electrolyzes sodium chloride brine to produce chlorine and caustic soda for downstream PVC and chemical manufacturing." },
+        { "name": "BASF", "hq": "Germany", "tier": "large", "volume": null, "share": null, "use": "Major consumer and producer of sodium-based chemicals including sodium hydroxide, sodium methylate, and sodium cyanide at its Verbund integrated chemical sites." }
+      ]
+    },
+    {
+      "id": "food",
+      "name": "Food Processing & Agriculture",
+      "icon": "🧂",
+      "share": "~25% of sodium use",
+      "uses": [
+        "Sodium chloride (table salt) as the world's oldest and most widely used food preservative — inhibits microbial growth by reducing water activity in meats, fish, cheeses, and fermented foods",
+        "Sodium bicarbonate (baking soda, NaHCO₃) as a leavening agent in baked goods — reacts with acids to release CO₂ and create rise in breads, cakes, and crackers",
+        "Sodium nitrate and nitrite (NaNO₃, NaNO₂) for curing and color preservation in processed meats including bacon, ham, hot dogs, and deli meats",
+        "Monosodium glutamate (MSG) as umami flavor enhancer in processed foods, soups, sauces, and snack seasonings globally",
+        "Sodium phosphates as emulsifiers, pH buffers, and moisture retention agents in processed cheese, deli meats, and seafood products"
+      ],
+      "companies": [
+        { "name": "Morton Salt (K+S Group)", "hq": "USA / Germany", "tier": "major", "volume": null, "share": "~35% of US salt market", "use": "Leading US producer of food-grade, water-softening, and de-icing salt. Mines rock salt and produces evaporated salt for food processing, agriculture, and water treatment industries." },
+        { "name": "Cargill Salt", "hq": "USA", "tier": "major", "volume": null, "share": "~20% of US salt market", "use": "Major salt producer supplying food manufacturers, agriculture, and chemical industries. Operates solar evaporation facilities, rock salt mines, and vacuum evaporation plants across North America." },
+        { "name": "Ajinomoto", "hq": "Japan", "tier": "major", "volume": "~600,000 t MSG/yr", "share": "~30% of global MSG market", "use": "World's largest producer of monosodium glutamate (MSG). Ferments sugar feedstocks to produce glutamic acid, then neutralizes with sodium hydroxide to form MSG for food manufacturers globally." },
+        { "name": "Compass Minerals", "hq": "USA", "tier": "large", "volume": null, "share": null, "use": "Operates the Goderich mine in Ontario — the world's largest underground salt mine. Produces rock salt for food processing, water conditioning, and highway de-icing applications." },
+        { "name": "Kerry Group", "hq": "Ireland", "tier": "medium", "volume": null, "share": null, "use": "Major food ingredients company using sodium-based preservatives, emulsifiers, and flavor enhancers across its portfolio of processed food ingredients supplied to global food manufacturers." }
+      ]
+    },
+    {
+      "id": "metallurgy",
+      "name": "Metallurgy & Metal Reduction",
+      "icon": "🏭",
+      "share": "~10% of sodium use",
+      "uses": [
+        "Metallic sodium used as reducing agent to produce titanium metal via the Hunter process (Na reduces TiCl₄ to Ti metal) — an alternative to the dominant Kroll process",
+        "Sodium used in production of tetraethyllead (now phased out) and in synthesis of organosodium reagents for specialty chemical manufacturing",
+        "Sodium-sulfur (NaS) batteries for grid-scale energy storage use molten sodium as the anode material operating at ~300°C",
+        "Sodium amalgam (sodium-mercury alloy) historically used in chlor-alkali mercury cell electrolysis — now largely replaced by membrane cell technology",
+        "Liquid sodium metal used as coolant in fast breeder nuclear reactors due to excellent heat transfer properties and low neutron absorption cross-section"
+      ],
+      "companies": [
+        { "name": "TOHO Titanium", "hq": "Japan", "tier": "large", "volume": null, "share": null, "use": "Japanese titanium metal producer using sodium reduction (Hunter process) alongside Kroll process. Supplies aerospace and industrial titanium to manufacturers including Boeing, Airbus, and automotive OEMs." },
+        { "name": "NGK Insulators", "hq": "Japan", "tier": "major", "volume": null, "share": "~90% of NaS battery market", "use": "World's dominant manufacturer of sodium-sulfur (NaS) grid-scale battery systems. Uses molten sodium metal as anode in high-temperature stationary energy storage installations at utilities worldwide." },
+        { "name": "DuPont (Invista)", "hq": "USA", "tier": "medium", "volume": null, "share": null, "use": "Uses sodium in specialty chemical synthesis processes including production of nylon intermediates and organosodium reagents at integrated chemical manufacturing sites." }
+      ]
+    },
+    {
+      "id": "water",
+      "name": "Water Treatment & Municipal Services",
+      "icon": "💧",
+      "share": "~10% of sodium use",
+      "uses": [
+        "Sodium hypochlorite (liquid bleach) as primary disinfectant for municipal drinking water treatment — generated on-site or supplied in bulk to water utilities",
+        "Sodium chloride in ion-exchange water softeners — regenerates resin beds by displacing calcium and magnesium ions that cause hardness",
+        "Sodium aluminate (NaAlO₂) as coagulant aid in water clarification alongside aluminum sulfate (alum)",
+        "Sodium fluoride and sodium fluorosilicate added to municipal water supplies for dental caries prevention (water fluoridation programs)",
+        "Sodium hydroxide for pH adjustment in drinking water treatment to prevent pipe corrosion and optimize disinfection efficiency"
+      ],
+      "companies": [
+        { "name": "Veolia Water Technologies", "hq": "France", "tier": "major", "volume": null, "share": null, "use": "World's largest water treatment company. Operates municipal water and wastewater treatment plants globally using sodium hypochlorite, sodium hydroxide, and sodium-based coagulants at industrial scale." },
+        { "name": "Evoqua Water Technologies", "hq": "USA", "tier": "large", "volume": null, "share": null, "use": "Major supplier of on-site sodium hypochlorite generation systems (OSEC) for municipalities, eliminating the need to transport hazardous chlorine gas to water treatment facilities." },
+        { "name": "Ecolab", "hq": "USA", "tier": "major", "volume": null, "share": null, "use": "Global water treatment and hygiene company. Supplies sodium-based treatment chemicals, sodium hypochlorite, and sodium hydroxide to industrial water systems, food processing plants, and hospitality." }
+      ]
+    },
+    {
+      "id": "deicing",
+      "name": "Highway De-icing & Infrastructure",
+      "icon": "🛣️",
+      "share": "~10% of sodium use (seasonal, Northern Hemisphere)",
+      "uses": [
+        "Rock salt (sodium chloride) spread on roads and highways to lower freezing point of water — effective to approximately -9°C (15°F) without additives",
+        "Liquid brine pre-treatment (23% NaCl solution) applied before snowfall to prevent ice bonding to road surface — more effective and uses less salt than post-storm spreading",
+        "Sodium acetate and sodium formate used as airport runway de-icers where chloride corrosion to aircraft and concrete is a concern",
+        "Salt brine injection into sand/grit mixtures for anti-skid compounds on bridges, intersections, and steep grades"
+      ],
+      "companies": [
+        { "name": "Morton Salt (K+S Group)", "hq": "USA", "tier": "major", "volume": "~8 Mt de-icing salt/yr (US market)", "share": "~35% of US highway salt market", "use": "Dominant US highway de-icing salt supplier. Produces road salt from Weeks Island, Louisiana mine and Great Lakes rock salt operations. Supplies state DOTs and municipalities across the northern US." },
+        { "name": "Cargill Deicing Technology", "hq": "USA", "tier": "major", "volume": null, "share": "~25% of US highway salt market", "use": "Major road salt and liquid brine supplier to US state departments of transportation. Operates the Cleveland salt mine and Lansing, Michigan mine. Also markets ClearLane enhanced deicer." },
+        { "name": "Compass Minerals", "hq": "USA", "tier": "large", "volume": null, "share": "~20% of US highway salt market", "use": "Produces road salt from the world's largest underground salt mine in Goderich, Ontario. Major supplier to US and Canadian highway authorities for winter road maintenance." }
+      ]
+    }
+  ]
+}

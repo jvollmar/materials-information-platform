@@ -1,0 +1,56 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "atomic-clocks",
+      "name": "Atomic Clocks & Frequency Standards",
+      "icon": "⏱️",
+      "share": "~60% of rubidium use",
+      "uses": [
+        "Rubidium-87 vapor cell atomic clocks use the 6.834 GHz hyperfine transition of ⁸⁷Rb to maintain frequency with accuracy of ~1 part in 10¹¹ — less accurate than cesium but far smaller, cheaper, and lower-power",
+        "Rb clocks are used as secondary frequency standards in GPS satellite receivers, mobile phone base station timing (5G requires sub-microsecond synchronization), network timing servers, and scientific instruments",
+        "Military communications: rubidium oscillators in portable, battery-powered frequency references for tactical radio synchronization and field navigation systems",
+        "Rubidium frequency standards serve as holdover references — maintaining accurate time for minutes to hours during GPS signal outages in critical infrastructure",
+        "Each GPS Block IIR and Block IIF satellite carries rubidium atomic frequency standards alongside cesium clocks for backup timing redundancy"
+      ],
+      "companies": [
+        { "name": "Microsemi (Microchip Technology)", "hq": "USA", "tier": "major", "volume": null, "share": "~40% of rubidium oscillator market", "use": "World's largest rubidium atomic clock manufacturer. Produces miniaturized Rb oscillators for GPS, telecommunications, and defense applications. Its SA.45s chip-scale atomic clock (CSAC) is the world's smallest atomic clock." },
+        { "name": "Spectratime (Orolia)", "hq": "Switzerland", "tier": "large", "volume": null, "share": "~20% of space Rb clock market", "use": "Produces rubidium atomic frequency standards for GPS and GNSS satellites. Supplied Rb clocks to Galileo (European GPS) satellite constellation. Acquired by Orolia (now part of Safran Group)." },
+        { "name": "Frequency Electronics (FEI)", "hq": "USA", "tier": "large", "volume": null, "share": null, "use": "Produces precision rubidium oscillators for space, defense, and telecommunications applications. Its space-qualified Rb clocks have flown on numerous military and commercial satellites." }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "Quantum Research & BEC",
+      "icon": "🔬",
+      "share": "~25% of rubidium use",
+      "uses": [
+        "Rubidium-87 is the workhorse atom for Bose-Einstein condensate (BEC) research — the first BEC was achieved with ⁸⁷Rb in 1995 (Cornell, Wieman, Ketterle — 2001 Nobel Prize). Its accessible laser cooling wavelengths (780nm, 795nm) and convenient hyperfine structure make it ideal",
+        "Laser cooling and magneto-optical trapping of Rb atoms for optical lattice clocks, atom interferometry (inertial navigation), and quantum simulation of condensed matter systems",
+        "Rb atom chip traps and Rb BEC systems for quantum computing research — Rb neutral atom arrays are a leading platform for quantum gates and quantum simulation alongside trapped ions",
+        "Rb spectroscopy cells for laser frequency stabilization: saturated absorption spectroscopy of Rb D1 (795nm) and D2 (780nm) lines provides absolute frequency references for laser systems",
+        "Rubidium magnetometers (SERF and Mx types) for ultra-sensitive magnetic field measurement in MEG (magnetoencephalography) brain imaging and geophysical exploration"
+      ],
+      "companies": [
+        { "name": "ColdQuanta (Infleqtion)", "hq": "USA", "tier": "small", "volume": null, "share": null, "use": "Quantum technology company using rubidium BEC and cold atom technology for quantum computing (neutral atom qubits), quantum sensing, and atomic clocks. Its Albert device is a rubidium-based chip-scale atomic clock." },
+        { "name": "Atom Computing", "hq": "USA", "tier": "small", "volume": null, "share": null, "use": "Quantum computing startup using rubidium-87 neutral atoms in optical tweezer arrays as qubits. Demonstrated 1000+ qubit quantum processor using Rb atoms — the largest neutral atom quantum computer announced as of 2023." }
+      ]
+    },
+    {
+      "id": "specialty",
+      "name": "Specialty Glass & Medical",
+      "icon": "🏥",
+      "share": "~15% of rubidium use",
+      "uses": [
+        "Rubidium carbonate in specialty optical glasses: improves refractive index, UV transmission, and chemical durability in camera lenses, fiber optic components, and night vision device optics",
+        "Hyperpolarized rubidium used to polarize xenon-129 gas for MRI lung imaging — Rb vapor optically pumped by laser then spin-exchanges with Xe to produce hyperpolarized ¹²⁹Xe for ventilation imaging of lungs",
+        "Rubidium-82 (⁸²Rb) as PET cardiac imaging agent: produced from strontium-82 generators, ⁸²Rb is a potassium analog rapidly taken up by myocardial cells — used for myocardial perfusion imaging without need for cyclotron",
+        "Rubidium formate drilling fluids: extremely dense clear brine (up to 2.3 g/cm³) for very high-pressure well completions — used where conventional ZnBr₂ brines are insufficient for formation pressure control"
+      ],
+      "companies": [
+        { "name": "Bracco Diagnostics", "hq": "Italy / USA", "tier": "large", "volume": null, "share": "~60% of Rb-82 cardiac PET market", "use": "Produces the CARDIOGEN-82 rubidium-82 generator for cardiac PET myocardial perfusion imaging. The generator contains strontium-82, which decays to rubidium-82 used as the cardiac tracer in nuclear cardiology." },
+        { "name": "Siemens Healthineers", "hq": "Germany", "tier": "large", "volume": null, "share": null, "use": "Major medical imaging company whose PET/CT scanners are used with rubidium-82 cardiac tracers for myocardial perfusion imaging. Manufactures the scanners that detect the ⁸²Rb positron emission from the heart." }
+      ]
+    }
+  ]
+}

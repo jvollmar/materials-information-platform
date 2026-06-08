@@ -1,0 +1,53 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "phosphors",
+      "name": "Phosphors & Display Technology",
+      "icon": "📺",
+      "share": "~65% of europium use",
+      "uses": [
+        "Europium(III) red phosphor (Y₂O₃:Eu³⁺, YVO₄:Eu³⁺): the essential red component in fluorescent lamp tricolor phosphor blends and CRT color television — Eu³⁺ f-f emission at 611nm and 626nm produces the saturated red impossible to achieve with other phosphor systems",
+        "Europium(II) blue phosphor (BaMgAl₁₀O₁₇:Eu²⁺, BAM): the blue component in fluorescent tricolor lamps — Eu²⁺ d-f broadband emission at 450nm provides the cool blue component alongside green (Tb) and red (Eu) for white light",
+        "LED phosphors: Eu²⁺-doped nitride phosphors (Sr₂Si₅N₈:Eu²⁺, CaAlSiN₃:Eu²⁺) produce red emission for warm-white and high-color-rendering LED lighting — essential for achieving CRI>90 in LED bulbs",
+        "Plasma display panel (PDP) phosphors used Eu³⁺ red and Eu²⁺ blue for the highest-quality color rendering in large-format displays — largely obsolete as OLED and LCD have displaced plasma",
+        "Quantum dot displays: Eu-doped quantum dots explored for next-generation narrow-band red emitters in display backlighting applications"
+      ],
+      "companies": [
+        { "name": "Nichia Corporation", "hq": "Japan", "tier": "major", "volume": null, "share": "~15% of LED phosphor market", "use": "World's largest LED manufacturer and major phosphor developer. Produces Eu²⁺-doped nitride and oxide phosphors for warm-white and high-CRI LED lighting applications globally." },
+        { "name": "Merck KGaA (Performance Materials)", "hq": "Germany", "tier": "large", "volume": null, "share": "~10% of rare earth phosphor market", "use": "Major rare earth phosphor manufacturer producing Eu³⁺ red, Eu²⁺ blue, and Tb³⁺ green phosphors for fluorescent lamps and specialty display applications under the Lumilux brand." }
+      ]
+    },
+    {
+      "id": "security",
+      "name": "Security Printing & Anti-Counterfeiting",
+      "icon": "🔐",
+      "share": "~20% of europium use",
+      "uses": [
+        "Europium luminescent inks for banknote security features — Eu³⁺-doped compounds fluoresce bright red under UV (365nm) illumination. Euro banknotes, US dollars, and most world currencies incorporate Eu-based security features invisible to the naked eye",
+        "Europium-doped glass fibers woven into paper currency substrate — fiber fluorescence patterns under UV light are difficult to replicate without the genuine rare earth phosphor",
+        "Product authentication labels: Eu-containing security pigments applied to pharmaceutical packaging, luxury goods, and official documents to verify authenticity with UV inspection devices",
+        "Europium chelate fluorescent labels in time-resolved fluorescence immunoassay (TRFIA) — Eu³⁺ chelates have millisecond fluorescence lifetimes enabling background-free detection in biological assays by time-gating"
+      ],
+      "companies": [
+        { "name": "De La Rue", "hq": "UK", "tier": "major", "volume": null, "share": "~30% of world banknote printing", "use": "World's largest commercial banknote printer. Incorporates europium-based security phosphors and luminescent features into banknotes for over 140 central banks, making it one of the world's largest consumers of security-grade europium compounds." },
+        { "name": "Giesecke+Devrient (G+D)", "hq": "Germany", "tier": "major", "volume": null, "share": "~20% of world banknote printing", "use": "Major banknote and secure document manufacturer using europium luminescent inks and fibers in currency security features. Also produces identity documents, passports, and chip-based payment cards with europium authentication features." }
+      ]
+    },
+    {
+      "id": "medical",
+      "name": "Medical Diagnostics & Research",
+      "icon": "🔬",
+      "share": "~15% of europium use",
+      "uses": [
+        "Europium chelate labels in DELFIA (dissociation-enhanced lanthanide fluorescence immunoassay) technology — the most sensitive immunoassay platform for many clinical analytes including troponin, PSA, and thyroid hormones",
+        "Time-resolved fluorescence (TRF) using Eu³⁺ chelates for high-throughput screening of drug candidates — long fluorescence lifetime (>1ms) eliminates autofluorescence background from biological samples",
+        "Europium-labeled antibodies and DNA probes for fluorescence in situ hybridization (FISH) and gene expression assays in molecular diagnostics",
+        "Europium-doped upconverting nanoparticles for bioimaging and point-of-care lateral flow assays — visible emission when excited by near-infrared light eliminates autofluorescence from biological tissues"
+      ],
+      "companies": [
+        { "name": "PerkinElmer", "hq": "USA", "tier": "major", "volume": null, "share": "~40% of time-resolved fluorescence assay market", "use": "Dominant supplier of DELFIA europium chelate assay reagents for clinical immunoassay and pharmaceutical drug screening. Its LANCE and DELFIA platforms using Eu³⁺ cryptate labels are the industry standard for TR-FRET and TRF assays." }
+      ]
+    }
+  ]
+}

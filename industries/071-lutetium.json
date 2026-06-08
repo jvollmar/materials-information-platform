@@ -1,0 +1,52 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "medical",
+      "name": "Medical Imaging & Radiotherapy",
+      "icon": "🏥",
+      "share": "~55% of lutetium use",
+      "uses": [
+        "Lutetium-177 (¹⁷⁷Lu, t½ = 6.65 days, beta + gamma emitter) is the fastest-growing therapeutic radioisotope — used in targeted radionuclide therapy (PRRT and PSMA-RLT) where lutetium is chelated to a targeting peptide that homes to cancer receptors",
+        "¹⁷⁷Lu-DOTATATE (Lutathera, Novartis): FDA and EMA approved for somatostatin receptor-positive gastroenteropancreatic neuroendocrine tumors (GEP-NETs) — the first FDA-approved radioligand therapy for NETs, 2018",
+        "¹⁷⁷Lu-PSMA-617 (Pluvicto, Novartis): FDA approved 2022 for metastatic castration-resistant prostate cancer (mCRPC) — targets PSMA (prostate-specific membrane antigen) expressed on prostate cancer cells. Landmark VISION trial showed significant survival benefit",
+        "Lutetium-oxyorthosilicate (LSO, Lu₂SiO₅:Ce) and LYSO (Lu₁.₈Y₀.₂SiO₅:Ce) scintillator crystals: the dominant detector material in modern PET scanners — fast decay time (40ns), high density (7.4 g/cm³), and good energy resolution enable time-of-flight PET with exceptional image quality",
+        "¹⁷⁷Lu demand is growing explosively — Novartis's two approved radioligand therapies and a pipeline of 20+ clinical programs make lutetium one of the hottest critical materials in oncology"
+      ],
+      "companies": [
+        { "name": "Novartis (Advanced Accelerator Applications)", "hq": "Switzerland / France", "tier": "major", "volume": null, "share": "~60% of ¹⁷⁷Lu therapeutic market", "use": "Dominant radioligand therapy company. Markets Lutathera (¹⁷⁷Lu-DOTATATE) for neuroendocrine tumors and Pluvicto (¹⁷⁷Lu-PSMA-617) for prostate cancer — two blockbuster drugs driving unprecedented lutetium demand growth. Building dedicated lutetium production infrastructure." },
+        { "name": "Eckert & Ziegler", "hq": "Germany", "tier": "large", "volume": null, "share": "~20% of ¹⁷⁷Lu isotope supply", "use": "Major ¹⁷⁷Lu isotope producer and radiopharmaceutical manufacturer. Supplies carrier-free (no-carrier-added, n.c.a.) ¹⁷⁷Lu to Novartis and other radioligand therapy developers. Also produces ¹⁷⁷Lu-labeled therapeutic compounds for clinical programs." },
+        { "name": "Siemens Healthineers", "hq": "Germany", "tier": "major", "volume": null, "share": "~30% of PET scanner market", "use": "Major PET scanner manufacturer and major LYSO scintillator crystal consumer. Its Biograph Vision PET/CT and Biograph Vision Quadra (the world's longest axial FOV PET scanner) use LYSO scintillator crystals containing lutetium." },
+        { "name": "Saint-Gobain Crystals", "hq": "France", "tier": "major", "volume": null, "share": "~25% of LSO/LYSO crystal market", "use": "Major LSO and LYSO scintillator crystal grower for PET detector modules. Supplies lutetium oxyorthosilicate crystals to Siemens, GE, and Philips for incorporation into PET scanner detector rings." }
+      ]
+    },
+    {
+      "id": "catalysts",
+      "name": "Petroleum Refining & Catalysis",
+      "icon": "🛢️",
+      "share": "~30% of lutetium use",
+      "uses": [
+        "Lutetium in FCC (fluid catalytic cracking) catalyst formulations as a rare earth stabilizer — lutetium oxide improves zeolite thermal stability and vanadium passivation in high-performance FCC catalysts used in petroleum refining",
+        "Lutetium-based Lewis acid catalysts for organic synthesis — Lu³⁺ is a strong Lewis acid used in Diels-Alder reactions, Friedel-Crafts alkylations, and other carbon-carbon bond forming reactions in fine chemical synthesis",
+        "Lutetium alkoxide and lutetium trifluoromethanesulfonate (Lu(OTf)₃) as water-stable Lewis acid catalysts for asymmetric synthesis and polymerization reactions"
+      ],
+      "companies": [
+        { "name": "Grace (W.R. Grace)", "hq": "USA", "tier": "large", "volume": null, "share": null, "use": "Major FCC catalyst manufacturer incorporating rare earth oxides including lutetium in premium FCC catalyst formulations for petroleum refinery applications requiring maximum thermal stability and catalytic activity." }
+      ]
+    },
+    {
+      "id": "specialty",
+      "name": "Specialty Materials",
+      "icon": "🔬",
+      "share": "~15% of lutetium use",
+      "uses": [
+        "Lutetium aluminum garnet (LuAG:Ce, Lu₃Al₅O₁₂:Ce) scintillator for high-energy physics detectors and medical CT — faster decay than YAG:Ce with higher density for better gamma stopping power",
+        "Lutetium gallium garnet (LGG) as substrate for epitaxial growth of magnetic garnet films in magneto-optical research",
+        "Lutetium is the heaviest and most expensive stable lanthanide — used in specialty applications where its specific nuclear or optical properties justify the premium over lighter rare earths"
+      ],
+      "companies": [
+        { "name": "Crytur", "hq": "Czech Republic", "tier": "large", "volume": null, "share": "~15% of specialty scintillator crystal market", "use": "Major producer of LuAG:Ce, YAG:Ce, and other garnet scintillator crystals for high-energy physics (CERN CMS detector), medical CT, and electron microscopy detector applications." }
+      ]
+    }
+  ]
+}

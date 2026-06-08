@@ -1,0 +1,264 @@
+{
+  "dataTier": 1,
+  "industries": [
+    {
+      "id": "hg-asgm",
+      "name": "Artisanal & Small-Scale Gold Mining (ASGM)",
+      "icon": "⚠️",
+      "share": "~38% of global mercury consumption — largest single use",
+      "uses": [
+        "Mercury amalgamation: miners mix liquid mercury with gold-bearing ore to form gold-mercury amalgam",
+        "Amalgam is then heated (often with a torch) to vaporize the mercury and recover the gold",
+        "An estimated 10–19 million miners in 70+ countries use this method — primarily informal sector",
+        "Releases ~1,000 tonnes of Hg into environment annually; largest global source of mercury pollution",
+        "Minamata Convention requires nations to reduce and ultimately eliminate ASGM mercury use"
+      ],
+      "companies": [
+        {
+          "name": "UN Environment Programme (UNEP)",
+          "hq": "Kenya",
+          "tier": "major",
+          "volume": "Tracks ~1,500 t Hg/yr in this sector",
+          "share": null,
+          "use": "Coordinates global monitoring of ASGM mercury use through the Global Mercury Partnership. Funds national action plans and supports transitions to mercury-free mining techniques."
+        },
+        {
+          "name": "Artisanal Gold Council",
+          "hq": "Canada",
+          "tier": "medium",
+          "volume": null,
+          "share": null,
+          "use": "NGO developing mercury-free processing technology (direct smelting, shaking tables) and deploying it in active ASGM regions in South America, Africa, and Southeast Asia."
+        },
+        {
+          "name": "UNIDO — United Nations Industrial Development Organization",
+          "hq": "Austria",
+          "tier": "medium",
+          "volume": null,
+          "share": null,
+          "use": "Implements the Global Mercury Project and National Action Plans for ASGM mercury reduction. Has trained thousands of miners in mercury-free methods across 7 target countries."
+        },
+        {
+          "name": "Pure Earth (Blacksmith Institute)",
+          "hq": "USA",
+          "tier": "small",
+          "volume": null,
+          "share": null,
+          "use": "Environmental nonprofit remediating mercury contamination from ASGM sites in low- and middle-income countries. Also funds community health programs for mercury-exposed populations."
+        }
+      ]
+    },
+    {
+      "id": "hg-pvc",
+      "name": "Vinyl Chloride Monomer (VCM (vinyl chloride monomer)) Production",
+      "icon": "🏭",
+      "share": "~26% of global mercury consumption — China-specific industrial use",
+      "uses": [
+        "Mercury(II) chloride catalyst converts acetylene (from coal via calcium carbide) to vinyl chloride monomer (VCM (vinyl chloride monomer))",
+        "VCM (vinyl chloride monomer) is the precursor to PVC — one of the world's most-produced plastics",
+        "China's coal-rich regions use this acetylene-based route rather than the ethylene route used elsewhere",
+        "Approximately 700,000–800,000 tonnes of mercury-based catalyst in use across Chinese PVC plants",
+        "China has committed to transition to mercury-free gold-based catalysts under Minamata obligations"
+      ],
+      "companies": [
+        {
+          "name": "Xinjiang Zhongtai Chemical",
+          "hq": "China",
+          "tier": "major",
+          "volume": "~200 t Hg/yr consumed",
+          "share": "~12% of acetylene-based VCM (vinyl chloride monomer) capacity",
+          "use": "One of China's largest PVC producers using the acetylene-to-VCM (vinyl chloride monomer) route. Xinjiang's coal resources make this route economical despite mercury intensity. Largest single mercury consumer for VCM (vinyl chloride monomer)."
+        },
+        {
+          "name": "Xinjiang Tianye Group",
+          "hq": "China",
+          "tier": "large",
+          "volume": "~120 t Hg/yr consumed",
+          "share": "~7% of acetylene-based VCM (vinyl chloride monomer) capacity",
+          "use": "Major Xinjiang-based chemical company with calcium carbide / acetylene / VCM (vinyl chloride monomer) integrated operations. Has piloted low-mercury catalyst trials to reduce Hg loading per tonne of PVC."
+        },
+        {
+          "name": "Ordos Junzheng Energy & Chemical",
+          "hq": "China",
+          "tier": "large",
+          "volume": "~100 t Hg/yr consumed",
+          "share": "~6% of acetylene-based VCM (vinyl chloride monomer) capacity",
+          "use": "Inner Mongolia's largest coal-chemical group. Produces PVC via the acetylene route using mercury catalysts. Subject to Minamata-driven production limits under China's chemical sector regulations."
+        },
+        {
+          "name": "Johnson Matthey",
+          "hq": "UK",
+          "tier": "medium",
+          "volume": null,
+          "share": null,
+          "use": "Has developed gold-chloride catalyst technology to replace mercury in VCM (vinyl chloride monomer) production. Supplying AuCl₃ (gold chloride)-based catalyst to Chinese PVC plants as mercury phase-down alternative."
+        },
+        {
+          "name": "BASF SE",
+          "hq": "Germany",
+          "tier": "small",
+          "volume": null,
+          "share": null,
+          "use": "Research and development partner for mercury-free VCM (vinyl chloride monomer) catalysts. Not a mercury consumer in this sector, but supplies catalyst transition technology and chemical engineering services."
+        }
+      ]
+    },
+    {
+      "id": "hg-lighting",
+      "name": "Fluorescent & Specialty Lighting",
+      "icon": "💡",
+      "share": "~10% of global mercury consumption (rapidly declining)",
+      "uses": [
+        "Low-pressure mercury vapor in fluorescent tubes and compact fluorescent lamps (CFLs) — 3–10 mg Hg each",
+        "High-intensity discharge (HID) lamps: metal halide, mercury vapor — 20–200 mg Hg each",
+        "Ultra-high-pressure mercury (UHPM (ultra-high-pressure mercury)) lamps in DLP projectors, UV curing, and lithography tools",
+        "Mercury-xenon arc lamps for solar simulators and optical inspection systems",
+        "Germicidal UV-C lamps using mercury vapor for water purification and air disinfection"
+      ],
+      "companies": [
+        {
+          "name": "Osram",
+          "hq": "Germany",
+          "tier": "large",
+          "volume": "~30 t Hg/yr consumed",
+          "share": "~15% of specialty lamp market",
+          "use": "Global lighting manufacturer still producing mercury-based specialty lamps for professional and industrial applications (projectors, UV curing, medical). LED transition has cut mercury use sharply."
+        },
+        {
+          "name": "Signify (Philips Lighting)",
+          "hq": "Netherlands",
+          "tier": "large",
+          "volume": "~25 t Hg/yr consumed",
+          "share": "~12% of specialty lamp market",
+          "use": "Former world leader in fluorescent lighting; rapidly transitioning to LED. Still manufactures mercury-based UV-C germicidal lamps for water treatment and food safety applications."
+        },
+        {
+          "name": "Trojan Technologies",
+          "hq": "Canada",
+          "tier": "medium",
+          "volume": "~8 t Hg/yr consumed",
+          "share": null,
+          "use": "Leading manufacturer of mercury UV lamps for drinking water and wastewater disinfection. Is transitioning municipal customers to UV-LED technology, reducing mercury dependency."
+        },
+        {
+          "name": "Heraeus",
+          "hq": "Germany",
+          "tier": "medium",
+          "volume": "~10 t Hg/yr consumed",
+          "share": null,
+          "use": "Specialty mercury lamp producer for semiconductor lithography (KrF excimer lamp precursors), UV curing systems, and scientific instruments. Supplies UHPM (ultra-high-pressure mercury) lamps for EUV research."
+        },
+        {
+          "name": "Nichia Corporation",
+          "hq": "Japan",
+          "tier": "small",
+          "volume": "~3 t Hg/yr consumed",
+          "share": null,
+          "use": "World's largest LED maker, but retains some fluorescent lamp production for legacy markets. Investing heavily in UV-C LED to replace mercury germicidal lamps in medical and industrial settings."
+        }
+      ]
+    },
+    {
+      "id": "hg-dental",
+      "name": "Dental Amalgam",
+      "icon": "🦷",
+      "share": "~3% of global mercury consumption (declining under Minamata)",
+      "uses": [
+        "Dental amalgam: ~50% mercury + silver, tin, copper alloy — used for posterior tooth restorations",
+        "Amalgam is self-setting, highly durable (15–30 year lifespan), and low-cost compared to alternatives",
+        "Minamata Convention Phase-Down: 140+ countries committed to reducing amalgam use by 2030",
+        "Alternatives (composite resin, glass ionomer, ceramics) are increasingly preferred for anterior and pediatric use",
+        "Amalgam waste from dental clinics is a significant mercury release pathway into wastewater"
+      ],
+      "companies": [
+        {
+          "name": "Dentsply Sirona",
+          "hq": "USA",
+          "tier": "large",
+          "volume": "~15 t Hg/yr consumed",
+          "share": "~30% of dental amalgam market",
+          "use": "World's largest dental products company and the leading producer of dental amalgam (Dispersalloy, Tytin brands). Has committed to provide amalgam alternatives and phase down production."
+        },
+        {
+          "name": "SDI Limited",
+          "hq": "Australia",
+          "tier": "medium",
+          "volume": "~8 t Hg/yr consumed",
+          "share": "~15% of dental amalgam market",
+          "use": "One of the few remaining large-scale amalgam manufacturers globally. Also markets composite alternatives (Aura, Palfique) as part of its transition strategy under Minamata obligations."
+        },
+        {
+          "name": "GC Corporation",
+          "hq": "Japan",
+          "tier": "medium",
+          "volume": "~5 t Hg/yr consumed",
+          "share": "~10% of dental amalgam market",
+          "use": "Japanese dental materials maker with amalgam products primarily for Asian and developing markets. Also manufactures glass ionomer (GC Fuji) as a mercury-free alternative."
+        },
+        {
+          "name": "Kerr Dental (Envista Holdings)",
+          "hq": "USA",
+          "tier": "small",
+          "volume": "~3 t Hg/yr consumed",
+          "share": "~6% of dental amalgam market",
+          "use": "Produces Tytin amalgam alloy for dental restorations. Envista has committed to providing non-amalgam alternatives and supporting the transition away from mercury-containing dental materials."
+        },
+        {
+          "name": "Solstice Dental (Coltene)",
+          "hq": "Switzerland",
+          "tier": "small",
+          "volume": "~2 t Hg/yr consumed",
+          "share": "~4% of dental amalgam market",
+          "use": "Niche amalgam producer for specialty dental markets. Coltene has prioritized composite and glass ionomer product lines as part of its move away from mercury-containing restoratives."
+        }
+      ]
+    },
+    {
+      "id": "hg-chloralkali",
+      "name": "Chlor-Alkali Production",
+      "icon": "⚗️",
+      "share": "~4% of global mercury consumption (largely phased out in West)",
+      "uses": [
+        "Mercury amalgam electrolysis cells produce chlorine gas and sodium hydroxide (caustic soda)",
+        "Amalgam cells were once dominant; now largely replaced by membrane and diaphragm cells",
+        "EU closed all mercury chlor-alkali plants by 2017; USA and Japan phased out by 2015",
+        "Some remaining mercury chlor-alkali capacity persists in India, China, and parts of Latin America",
+        "Each mercury cell plant contains 1,000–3,000 tonnes of liquid mercury — requiring careful decommissioning"
+      ],
+      "companies": [
+        {
+          "name": "Covestro",
+          "hq": "Germany",
+          "tier": "medium",
+          "volume": "~15 t Hg/yr (legacy decommissioning)",
+          "share": null,
+          "use": "Former operator of mercury chlor-alkali plants in Brunsbuettel and Leverkusen, Germany (closed 2014–2016). Still managing legacy mercury waste cleanup at former facility sites."
+        },
+        {
+          "name": "Olin Corporation",
+          "hq": "USA",
+          "tier": "medium",
+          "volume": "~10 t Hg/yr (legacy)",
+          "share": null,
+          "use": "Largest US chlor-alkali producer; completed transition away from mercury amalgam cells to membrane technology. Manages historical mercury-contaminated sites from legacy manufacturing."
+        },
+        {
+          "name": "Tronox Holdings",
+          "hq": "USA",
+          "tier": "small",
+          "volume": null,
+          "share": null,
+          "use": "Chemical company managing legacy mercury obligations from former Kerr-McGee and Huntsman chlor-alkali facilities. Mercury in legacy use context — not active production."
+        },
+        {
+          "name": "Gujarat Alkalies and Chemicals (GACL)",
+          "hq": "India",
+          "tier": "medium",
+          "volume": "~20 t Hg/yr consumed",
+          "share": null,
+          "use": "India's largest chlor-alkali producer. Has been transitioning from mercury cells to membrane cells at its Vadodara and Dahej facilities as part of India's Minamata compliance program."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "phosphors",
+      "name": "Phosphors & Displays",
+      "icon": "📺",
+      "share": "~35% of yttrium use",
+      "uses": [
+        "Yttrium oxide (Y₂O₃) host lattice doped with europium (Eu³⁺) produces the brilliant red phosphor in fluorescent lamps, color CRT televisions, and white LEDs — Y₂O₃:Eu is the standard red component in tricolor fluorescent lamp phosphor blends",
+        "Yttrium aluminum garnet (YAG, Y₃Al₅O₁₂) doped with cerium (Ce³⁺) converts blue GaN LED emission to broad yellow-green spectrum — YAG:Ce is the dominant phosphor in white LED lighting worldwide, used in billions of LED bulbs and backlights",
+        "Y₂O₃:Eu red phosphor in plasma display panels (PDPs) and projection TV systems — largely obsolete as LCD and OLED have displaced plasma and CRT",
+        "Yttrium vanadate (YVO₄:Eu) red phosphor for fluorescent lamps — higher efficiency and color purity than Y₂O₃:Eu in tricolor compact fluorescent lamps",
+        "Scintillator crystals: yttrium aluminum perovskite (YAP) and gadolinium yttrium silicate for gamma ray and X-ray detection in medical imaging (PET scanners) and high-energy physics detectors"
+      ],
+      "companies": [
+        { "name": "Nichia Corporation", "hq": "Japan", "tier": "major", "volume": null, "share": "~15% of global LED market", "use": "World's largest LED manufacturer and major YAG:Ce phosphor producer. Developed and patented YAG:Ce white LED phosphor technology in 1996. Produces YAG:Ce for its LED packages and supplies phosphor to other LED manufacturers." },
+        { "name": "Intematix (Enphys Acquisition)", "hq": "USA", "tier": "large", "volume": null, "share": "~15% of LED phosphor market", "use": "Major LED phosphor manufacturer producing YAG:Ce, nitride red, and specialty phosphors for white LED lighting, display backlighting, and automotive LED applications globally." },
+        { "name": "Merck KGaA (Electronics)", "hq": "Germany", "tier": "large", "volume": null, "share": null, "use": "Produces specialty phosphors including YAG:Ce and other yttrium-based phosphors for LED lighting, display, and scientific detector applications. Operates phosphor synthesis and coating operations in Germany and globally." }
+      ]
+    },
+    {
+      "id": "refractory",
+      "name": "Specialty Ceramics & Refractories",
+      "icon": "🔥",
+      "share": "~30% of yttrium use",
+      "uses": [
+        "Yttria-stabilized zirconia (YSZ, 3–8 mol% Y₂O₃ in ZrO₂): prevents the destructive tetragonal-to-monoclinic phase transformation on cooling, producing tough, wear-resistant zirconia ceramics for dental crowns, knife blades, watch cases, and pump components",
+        "YSZ thermal barrier coatings (TBC) on nickel superalloy turbine blades by electron beam physical vapor deposition (EB-PVD) or atmospheric plasma spray — reduces blade temperature by 150–300°C, enabling higher turbine inlet temperatures and greater engine efficiency",
+        "YSZ electrolyte in solid oxide fuel cells (SOFCs) — cubic-stabilized YSZ conducts oxide ions (O²⁻) at 800–1000°C for electrochemical power generation with 60%+ electrical efficiency",
+        "Yttrium oxide crucibles and furnace liners for melting reactive metals (uranium, thorium, plutonium) — Y₂O₃ is chemically inert to most molten metals at high temperature",
+        "Y₂O₃ additions to aluminum, magnesium, and titanium alloys improve high-temperature oxidation resistance and creep properties in gas turbine components and aerospace structures"
+      ],
+      "companies": [
+        { "name": "Saint-Gobain", "hq": "France", "tier": "major", "volume": null, "share": "~15% of advanced ceramics market", "use": "Major producer of YSZ thermal barrier coating powders, YSZ electrolyte discs for solid oxide fuel cells, and yttria-stabilized zirconia grinding media and wear components for industrial applications." },
+        { "name": "Tosoh Corporation", "hq": "Japan", "tier": "major", "volume": null, "share": "~20% of dental zirconia market", "use": "World's largest producer of yttria-stabilized zirconia powder for dental ceramic applications. Its TZ-3YE and multi-layer zirconia powders are sintered into dental crowns, bridges, and implant abutments by dental labs globally." },
+        { "name": "Oerlikon Metco", "hq": "Switzerland", "tier": "large", "volume": null, "share": "~25% of thermal spray coating market", "use": "Major supplier of YSZ thermal barrier coating powders and plasma spray equipment for gas turbine blade coating. Supplies GE Aviation, Pratt & Whitney, Rolls-Royce, and Siemens Energy with TBC coating services and materials." }
+      ]
+    },
+    {
+      "id": "lasers",
+      "name": "Lasers & Medical",
+      "icon": "⚕️",
+      "share": "~35% of yttrium use",
+      "uses": [
+        "Nd:YAG (neodymium-doped yttrium aluminum garnet) laser: the workhorse solid-state laser emitting at 1064nm — used for laser cutting and welding of metals, dental procedures, ophthalmology (YAG capsulotomy for posterior capsule opacification after cataract surgery), tattoo removal, and hair removal",
+        "Er:YAG (erbium:YAG) laser at 2940nm for dental cavity preparation, skin resurfacing, and surgical tissue ablation — water absorption at 2940nm produces precise, low-thermal-damage tissue removal",
+        "Ho:YAG (holmium:YAG) at 2100nm for kidney stone fragmentation (lithotripsy), prostate surgery (HoLEP), and orthopedic arthroscopy delivered through flexible optical fibers",
+        "Yb:YAG (ytterbium:YAG) thin-disk and fiber lasers at 1030nm for high-power industrial cutting and welding — high efficiency (>30% wall plug), excellent beam quality, compact format replacing CO₂ lasers in many metalworking applications",
+        "Q-switched Nd:YAG at 1064nm and frequency-doubled 532nm for tattoo removal, pigmented lesion treatment, and onychomycosis (nail fungus) laser therapy"
+      ],
+      "companies": [
+        { "name": "Coherent (II-VI)", "hq": "USA", "tier": "major", "volume": null, "share": "~20% of solid-state laser market", "use": "Major manufacturer of Nd:YAG, Er:YAG, and Yb:YAG laser systems for industrial, medical, and scientific applications. Produces YAG crystal boules and finished laser gain media in addition to complete laser systems." },
+        { "name": "Trumpf", "hq": "Germany", "tier": "major", "volume": null, "share": "~30% of industrial laser market", "use": "World's largest industrial laser manufacturer. Produces Yb:YAG disk lasers (TruDisk) and Yb fiber lasers for sheet metal cutting, welding, and additive manufacturing. Major consumer of yttrium in YAG crystal gain media." },
+        { "name": "Cynosure (Hologic)", "hq": "USA", "tier": "large", "volume": null, "share": "~15% of aesthetic laser market", "use": "Major medical aesthetic laser company producing Nd:YAG and Er:YAG laser systems for tattoo removal, skin rejuvenation, hair removal, and pigmented lesion treatment in dermatology and aesthetics clinics globally." }
+      ]
+    }
+  ]
+}

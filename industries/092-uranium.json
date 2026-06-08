@@ -1,0 +1,91 @@
+{
+  "dataTier": 1,
+  "industries": [
+    {
+      "id": "nuclear-power",
+      "name": "Nuclear Power Generation",
+      "icon": "⚛️",
+      "share": "~95% of uranium use",
+      "uses": [
+        "Uranium-235 (0.72% of natural uranium) is the only naturally fissile nuclide — it splits when struck by a thermal neutron, releasing ~200 MeV of energy and 2–3 additional neutrons that sustain a chain reaction. Uranium fuel powers ~10% of world electricity generation",
+        "Low-enriched uranium (LEU, 3–5% U-235) ceramic UO₂ pellets in zirconium alloy cladding tubes form the fuel rods for light water reactors (PWR and BWR) — the global standard for commercial nuclear power. Each PWR fuel assembly contains ~500kg UO₂",
+        "Uranium conversion and enrichment: natural uranium hexafluoride (UF₆) is enriched to 3–5% U-235 by gas centrifuge cascade — depleted uranium (DU, 0.3% U-235) is the byproduct, stored as UF₆ or converted to UO₂/U₃O₈",
+        "High-assay low-enriched uranium (HALEU, 5–20% U-235) for advanced reactor designs including microreactors, molten salt reactors, and fast reactors under development by NuScale, TerraPower, and others",
+        "World uranium mine production ~50,000 tonnes U/yr. Kazakhstan (~43%), Canada (~15%), Namibia (~11%), Australia (~8%), and Uzbekistan (~7%) are the largest producers. Russia and China control significant enrichment capacity"
+      ],
+      "companies": [
+        {
+          "name": "Kazatomprom",
+          "hq": "Kazakhstan",
+          "tier": "major",
+          "volume": "~22,000 t U/yr",
+          "share": "~43% of world uranium mine production",
+          "use": "World's largest uranium producer. Operates in-situ leach (ISL) uranium mines across Kazakhstan — ISL mining dissolves uranium in place without conventional mining. Supplies UO₂ and U₃O₈ to nuclear utilities globally."
+        },
+        {
+          "name": "Cameco",
+          "hq": "Canada",
+          "tier": "major",
+          "volume": "~9,000 t U/yr",
+          "share": "~15% of world uranium production",
+          "use": "World's second-largest uranium producer. Operates McArthur River (world's highest-grade uranium mine) and Cigar Lake in Saskatchewan, Canada. Also operates the Key Lake and Blind River/Port Hope conversion facilities."
+        },
+        {
+          "name": "Orano (formerly Areva)",
+          "hq": "France",
+          "tier": "major",
+          "volume": "~5,000 t U/yr",
+          "share": "~10% of world uranium production",
+          "use": "Major integrated nuclear fuel cycle company. Mines uranium in Niger (SOMAÏR, COMINAK), Kazakhstan, and Canada. Operates conversion (Comurhex), enrichment (Georges Besse II centrifuge plant), and fuel fabrication (FBFC) facilities."
+        },
+        {
+          "name": "Urenco",
+          "hq": "UK / Netherlands / Germany",
+          "tier": "major",
+          "volume": null,
+          "share": "~30% of Western uranium enrichment capacity",
+          "use": "Major uranium enrichment company using gas centrifuge technology. Operates enrichment plants in UK (Capenhurst), Netherlands (Almelo), Germany (Gronau), and USA (Eunice, NM). Supplies LEU to nuclear utilities across Europe and North America."
+        },
+        {
+          "name": "Westinghouse Electric",
+          "hq": "USA",
+          "tier": "major",
+          "volume": null,
+          "share": "~35% of Western nuclear fuel market",
+          "use": "World's largest nuclear fuel assembly manufacturer. Fabricates UO₂ fuel pellets and assembles fuel rods into complete PWR and BWR fuel assemblies at plants in Sweden, UK, Spain, and USA for nuclear utilities globally."
+        }
+      ]
+    },
+    {
+      "id": "specialty",
+      "name": "Specialty & Defense Applications",
+      "icon": "🛡️",
+      "share": "~5% of uranium use",
+      "uses": [
+        "Depleted uranium (DU, 0.3% U-235) armor-piercing kinetic energy penetrators: DU's very high density (19.1 g/cm³), self-sharpening property during penetration, and pyrophoric nature make it the premier tank round material — used in US Army M829 series and other NATO ammunition",
+        "DU vehicle armor: M1A1/A2 Abrams tank turret and hull armor incorporates DU mesh between steel plates — DU's density provides exceptional protection-to-weight ratio versus rolled homogeneous armor steel",
+        "Uranium counterweights and ballast: DU's extreme density (19.1 g/cm³) used in aircraft flight control counterweights (Boeing 747, DC-10), yacht keels, and radiation shielding containers — being replaced by tungsten in civilian applications",
+        "Uranium glass ('Vaseline glass'): uranium oxide (0.1–2%) added to glass produces a characteristic yellow-green color that fluoresces strongly under UV light — a collector's item; production largely ceased after WWII",
+        "Uranium catalysts: uranium oxides historically used as catalysts for sulfuric acid production and organic synthesis — now replaced by vanadium and other catalysts"
+      ],
+      "companies": [
+        {
+          "name": "Alliant Techsystems / Northrop Grumman",
+          "hq": "USA",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "Major US defense contractor producing DU kinetic energy penetrators (M829A3, M829A4) for US Army M1A2 Abrams tank main guns. Manufactures DU penetrator rods machined to precise tolerances for maximum armor penetration."
+        },
+        {
+          "name": "Nuclear Fuel Services (BWX Technologies)",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Processes and converts depleted uranium hexafluoride (DUF₆) to more stable uranium oxide forms for storage and potential future use, and handles uranium materials for US government and commercial nuclear programs."
+        }
+      ]
+    }
+  ]
+}

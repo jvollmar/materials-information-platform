@@ -1,0 +1,78 @@
+{
+  "dataTier": 1,
+  "industries": [
+    {
+      "id": "metalfab",
+      "name": "Metal Fabrication & Welding",
+      "icon": "🔧",
+      "share": "~50% of argon use",
+      "uses": [
+        "TIG (tungsten inert gas, GTAW) welding uses pure argon shielding to protect the tungsten electrode and weld pool from atmospheric oxygen and nitrogen — essential for welding aluminum, titanium, stainless steel, and exotic alloys",
+        "MIG (metal inert gas, GMAW) welding of aluminum uses 100% argon; steel MIG welding uses Ar-CO₂ blends (C25: 75% Ar + 25% CO₂) — argon provides arc stability and spatter reduction",
+        "Plasma cutting uses argon-hydrogen or argon-nitrogen gas mixtures to form a high-temperature plasma jet that melts and blows away metal — used for stainless steel and aluminum cutting",
+        "Laser welding assist gas: argon purges the weld zone in high-power fiber and CO₂ laser welding to prevent oxidation of the keyhole and weld bead in precision applications",
+        "Arc welding of duplex and super-duplex stainless steels requires argon-rich backing gas to maintain correct austenite/ferrite phase balance in the heat-affected zone"
+      ],
+      "companies": [
+        { "name": "Linde plc", "hq": "UK / Ireland", "tier": "major", "volume": null, "share": "~30% of global industrial gas market", "use": "World's largest industrial gas company. Produces argon via cryogenic air separation at hundreds of ASU plants globally. Distributes in cylinders, bulk liquid, and dedicated pipelines to welding and metal fabrication customers." },
+        { "name": "Air Liquide", "hq": "France", "tier": "major", "volume": null, "share": "~25% of global industrial gas market", "use": "Second-largest industrial gas company. Major argon producer and distributor for welding, semiconductor, and steel applications. Operates cylinder filling plants and bulk argon delivery fleets worldwide." },
+        { "name": "Air Products", "hq": "USA", "tier": "major", "volume": null, "share": "~12% of global industrial gas market", "use": "Major US and Asian argon producer and distributor. Supplies argon and specialty welding gas blends to metal fabricators, shipbuilders, pipeline contractors, and automotive manufacturers." },
+        { "name": "Messer Group", "hq": "Germany", "tier": "large", "volume": null, "share": "~5% of global industrial gas market", "use": "Major European and Chinese industrial gas company. Produces and distributes argon for welding, heat treatment, and semiconductor applications across Europe, Americas, and Asia." }
+      ]
+    },
+    {
+      "id": "steel",
+      "name": "Steel & Metal Production",
+      "icon": "🏭",
+      "share": "~25% of argon use",
+      "uses": [
+        "Argon-oxygen decarburization (AOD) converter process: argon-oxygen mixtures injected into molten steel to reduce carbon content below 0.03% without oxidizing chromium — essential for producing stainless steel grades from 304 to duplex",
+        "RH (Ruhrstahl-Heraeus) degassing: steel ladle placed in vacuum vessel; argon bubbled through melt to stir and remove dissolved hydrogen, nitrogen, and carbon — produces ultra-clean steel for automotive exposed panels and electrical steels",
+        "Ladle argon stirring (LAS): argon bubbled through porous plug in ladle bottom homogenizes temperature, composition, and floats non-metallic inclusions to slag surface",
+        "Continuous casting: argon purges SEN (submerged entry nozzle) to prevent re-oxidation of steel and skull formation at nozzle walls during casting of billets, blooms, and slabs",
+        "Argon atmosphere furnaces for annealing of grain-oriented electrical steel, preventing surface oxidation during heat treatment cycles"
+      ],
+      "companies": [
+        { "name": "ArcelorMittal", "hq": "Luxembourg", "tier": "major", "volume": null, "share": null, "use": "World's largest steel company and one of the world's largest argon consumers. Uses argon in AOD converters at all stainless steel plants, RH degassers, ladle metallurgy stations, and continuous casting at dozens of integrated steelworks." },
+        { "name": "Outokumpu", "hq": "Finland", "tier": "large", "volume": null, "share": "~8% of global stainless steel production", "use": "World's largest stainless steel producer. Heavy user of argon in AOD converter process for all austenitic (304, 316) and ferritic stainless grades at its Tornio, Finland and Sheffield, UK stainless steel plants." },
+        { "name": "Aperam", "hq": "Luxembourg", "tier": "large", "volume": null, "share": "~5% of global stainless steel production", "use": "Major stainless steel producer using argon in AOD converter decarburization and ladle metallurgy at its plants in Brazil, Belgium, and France." }
+      ]
+    },
+    {
+      "id": "semiconductors",
+      "name": "Semiconductor & Electronics Manufacturing",
+      "icon": "💻",
+      "share": "~15% of argon use",
+      "uses": [
+        "Czochralski crystal pulling: argon atmosphere in silicon crystal growth furnaces prevents silicon melt and growing ingot from oxidizing — argon is the only gas compatible with molten silicon at 1420°C",
+        "PVD (physical vapor deposition) sputtering: argon ions in low-pressure plasma bombard a metal target (copper, aluminum, titanium, tungsten), ejecting atoms that deposit as thin films on silicon wafers in chip fabrication",
+        "Ion implantation: argon used as carrier gas and chamber purge in ion implantation systems that dope silicon wafers with boron, phosphorus, or arsenic to create transistor junctions",
+        "Plasma etch: argon-based plasma chemistry used in RIE (reactive ion etching) and ICP etching for patterning dielectric and metal layers in advanced chip fabrication",
+        "Wafer cleaning and chamber conditioning: argon plasma cleans quartz process tubes and chamber walls between wafer runs in CVD and diffusion furnaces"
+      ],
+      "companies": [
+        { "name": "TSMC", "hq": "Taiwan", "tier": "major", "volume": null, "share": "~54% of global advanced foundry market", "use": "World's largest chip foundry and one of the world's largest semiconductor argon consumers. Uses UHP argon in crystal growth, PVD sputtering of copper and barrier layers, and plasma etch processes across its 3nm–28nm fabs." },
+        { "name": "Applied Materials", "hq": "USA", "tier": "major", "volume": null, "share": "~20% of semiconductor equipment market", "use": "World's largest semiconductor equipment manufacturer. Its PVD (physical vapor deposition) sputtering systems are the dominant argon consumers in chip fabs — each chamber cycles through argon for metal film deposition on wafers." },
+        { "name": "Lam Research", "hq": "USA", "tier": "major", "volume": null, "share": "~15% of semiconductor equipment market", "use": "Leading plasma etch and deposition equipment supplier. Argon-based plasma is central to its Kiyo etch systems used for patterning advanced logic and memory chips at TSMC, Samsung, and Intel." }
+      ]
+    },
+    {
+      "id": "lighting",
+      "name": "Lighting & Scientific Instrumentation",
+      "icon": "💡",
+      "share": "~10% of argon use",
+      "uses": [
+        "Incandescent and halogen lamp fill gas: argon (often with nitrogen or krypton) at reduced pressure fills bulb to slow tungsten filament evaporation and prevent blackening — extends lamp life versus vacuum",
+        "Fluorescent lamp fill: argon-mercury vapor at low pressure sustains the electrical discharge that produces UV light, which then excites phosphor coatings to emit visible light",
+        "Argon ion lasers (Ar⁺) produce intense blue-green lines (488nm, 514nm) used in flow cytometry, confocal microscopy, DNA sequencing, and laser light shows — largely displaced by solid-state lasers",
+        "Geiger-Müller tubes and ionization chambers for radiation detection and dosimetry use argon (with halogen quench gas) as the ionizable detection medium",
+        "Argon purge in high-performance analytical instruments: glove boxes for air-sensitive sample handling, ICP-OES and ICP-MS plasma torches for trace elemental analysis"
+      ],
+      "companies": [
+        { "name": "Coherent (formerly II-VI)", "hq": "USA", "tier": "large", "volume": null, "share": null, "use": "Major laser manufacturer producing argon ion lasers for scientific, medical, and industrial applications. Also produces solid-state alternatives (488nm diode lasers) replacing gas argon ion lasers in flow cytometry." },
+        { "name": "Thermo Fisher Scientific", "hq": "USA", "tier": "major", "volume": null, "share": null, "use": "World's largest analytical instrument manufacturer. Its ICP-MS and ICP-OES instruments use argon plasma at ~8,000K to atomize and ionize samples for trace elemental analysis — one of the largest scientific argon consumers." },
+        { "name": "Signify (Philips Lighting)", "hq": "Netherlands", "tier": "major", "volume": null, "share": null, "use": "World's largest lighting company. Historically one of the largest argon consumers for fluorescent lamp production; transitioning to LED but still produces fluorescent tubes for industrial and commercial markets requiring argon fill." }
+      ]
+    }
+  ]
+}
