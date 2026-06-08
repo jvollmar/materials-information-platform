@@ -1,0 +1,32 @@
+{
+  "discovered": 2010,
+  "discoverer": "2010, JINR Dubna / Oak Ridge National Laboratory / Vanderbilt University / University of Nevada Las Vegas collaboration — confirmed 2016",
+  "country": "USA / Russia (international collaboration)",
+  "named_by": "IUPAC",
+  "named": 2016,
+  "etymology": "Tennessee — the US state that is home to Oak Ridge National Laboratory, which produced the critical berkelium-249 target material that made tennessine's synthesis possible, as well as Vanderbilt University (Nashville) whose scientists participated in the discovery collaboration. Tennessee's contribution of the rarest and most difficult-to-produce target material was decisive.",
+  "timeline": [
+    {
+      "year": 2010,
+      "event": "First synthesis of element 117 (tennessine) reported. confirmed 2016"
+    },
+    {
+      "year": 2012,
+      "event": "Longest-lived known isotope: 294Ts, t½ = 51 milliseconds. Individual atoms detected by DGFRS."
+    },
+    {
+      "year": 2016,
+      "event": "IUPAC formally confirms the discovery and approves the name 'tennessine' and symbol 'Te'. Element 117 officially joins the periodic table."
+    },
+    {
+      "year": 2020,
+      "event": "The tennessine discovery required 22 milligrams of berkelium-249 — an amount that required 250 days of continuous irradiation in Oak Ridge's High Flux Isotope Reactor to produce. After irradiation, the berkelium was chemically separated and shipped to Dubna while still highly radioactive. The race against berkelium's 330-day half-life and the calcium-48 beam's finite availability made the experiment one of the most logistically demanding in element discovery history."
+    },
+    {
+      "year": 2024,
+      "event": "Research continues at JINR Dubna, GSI/FAIR, RIKEN, and other facilities. Element 117 represents the current frontier of nuclear synthesis — beyond it lies terra incognita, where nuclear stability predictions become increasingly uncertain and experimental access requires advances in accelerator technology and target production."
+    }
+  ],
+  "story": "Tennessine is named after Tennessee in direct recognition that without Oak Ridge's unique capability to produce berkelium-249, the element could not have been discovered. ORNL is one of very few facilities in the world capable of irradiating actinide targets to produce transplutonium elements in useful quantities. Tennessee earned its element through infrastructure, patience, and 250 days of continuous reactor operation.",
+  "source_note": "Discovered by Oganessian group (2010) at JINR Dubna with ORNL, Vanderbilt, and UNLV collaboration. Named after Tennessee (home of ORNL). Target material (Bk-249) produced at Oak Ridge. Confirmed by IUPAC 2016."
+}

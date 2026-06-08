@@ -1,0 +1,32 @@
+{
+  "discovered": 1984,
+  "discoverer": "1984, GSI Helmholtz Centre for Heavy Ion Research, Darmstadt, Germany",
+  "country": "Germany",
+  "named_by": "IUPAC",
+  "named": 1990,
+  "etymology": "Hassia — the Latin name for Hesse, the German state where the GSI Helmholtz Centre for Heavy Ion Research is located near Darmstadt. Following the tradition of naming elements after their place of discovery, hassium honors the state of Hesse and indirectly its capital Wiesbaden and the Frankfurt region.",
+  "timeline": [
+    {
+      "year": 1984,
+      "event": "1984, GSI Helmholtz Centre for Heavy Ion Research, Darmstadt, Germany"
+    },
+    {
+      "year": 1986,
+      "event": "Longest-lived known isotope: 270Hs, t½ = 10 seconds. Individual atoms detected by SHIP."
+    },
+    {
+      "year": 2016,
+      "event": "IUPAC formally confirms the discovery and approves the name 'hassium' and symbol 'Ha'. Element 108 officially joins the periodic table."
+    },
+    {
+      "year": 1994,
+      "event": "Hassium's most significant chemical achievement: in 2002, a GSI-PSI collaboration formed HsO₄ — hassium tetroxide — and measured its adsorption on metal surfaces using thermochromatography. HsO₄ behaves as expected for a heavier osmium tetroxide (OsO₄) analog, confirming hassium's position in Group 8. This is the heaviest element whose chemistry has been directly measured."
+    },
+    {
+      "year": 2024,
+      "event": "Research continues at JINR Dubna, GSI/FAIR, RIKEN, and other facilities. Element 108 represents the current frontier of nuclear synthesis — beyond it lies terra incognita, where nuclear stability predictions become increasingly uncertain and experimental access requires advances in accelerator technology and target production."
+    }
+  ],
+  "story": "GSI produced hassium by bombarding lead-208 with iron-58 ions — a cold fusion reaction where the combined nucleus requires minimal de-excitation. The HsO₄ chemistry experiment was one of the most technically demanding chemical measurements ever attempted, performed on a few atoms produced per hour.",
+  "source_note": "Discovered by Münzenberg and Hofmann group (1984) at GSI Darmstadt. Named after Hassia (Hesse, Germany). Published in Zeitschrift für Physik A, 1984."
+}

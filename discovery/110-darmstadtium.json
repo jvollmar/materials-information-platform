@@ -1,0 +1,32 @@
+{
+  "discovered": 1994,
+  "discoverer": "1994, GSI Helmholtz Centre for Heavy Ion Research, Darmstadt, Germany",
+  "country": "Germany",
+  "named_by": "IUPAC",
+  "named": 2000,
+  "etymology": "Darmstadt — the German city where the GSI Helmholtz Centre for Heavy Ion Research is located. Following the tradition of naming elements after their discovery location (like hassium for Hesse, berkelium for Berkeley, dubnium for Dubna), darmstadtium honors the city that hosted element 110's discovery.",
+  "timeline": [
+    {
+      "year": 1994,
+      "event": "1994, GSI Helmholtz Centre for Heavy Ion Research, Darmstadt, Germany"
+    },
+    {
+      "year": 1996,
+      "event": "Longest-lived known isotope: 281Ds, t½ = 11 seconds. Individual atoms detected by SHIP."
+    },
+    {
+      "year": 2016,
+      "event": "IUPAC formally confirms the discovery and approves the name 'darmstadtium' and symbol 'Da'. Element 110 officially joins the periodic table."
+    },
+    {
+      "year": 2004,
+      "event": "Darmstadtium was produced by bombarding lead-208 with nickel-62 ions. It is predicted to be a heavier platinum analog in Group 10, but significant relativistic effects alter its electronic structure compared to simple extrapolation. No chemical experiments have been performed due to the short half-lives of accessible isotopes. Darmstadtium represents the continuing work of the GSI program that discovered five elements in ten years."
+    },
+    {
+      "year": 2024,
+      "event": "Research continues at JINR Dubna, GSI/FAIR, RIKEN, and other facilities. Element 110 represents the current frontier of nuclear synthesis — beyond it lies terra incognita, where nuclear stability predictions become increasingly uncertain and experimental access requires advances in accelerator technology and target production."
+    }
+  ],
+  "story": "GSI's SHIP separator enabled the detection of single atoms of element 110 by their unique alpha decay chains — each atom is identified by the characteristic series of alpha decays leading to known lighter elements. The technique is extraordinarily sensitive: finding one atom among 10¹⁸ non-reacting beam particles.",
+  "source_note": "Discovered by Hofmann group (1994) at GSI Darmstadt. Named after Darmstadt, Germany. Published in Zeitschrift für Physik A, 1995."
+}

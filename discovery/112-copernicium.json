@@ -1,0 +1,32 @@
+{
+  "discovered": 1996,
+  "discoverer": "1996, GSI Helmholtz Centre for Heavy Ion Research, Darmstadt, Germany",
+  "country": "Germany",
+  "named_by": "IUPAC",
+  "named": 2002,
+  "etymology": "Nicolaus Copernicus (1473-1543) — the Polish-German astronomer whose heliocentric model (1543) displaced Earth from the center of the universe and began the Scientific Revolution. The naming of element 112 after Copernicus honors the Polish connection (Copernicus was born in Royal Prussia, now Poland) and the revolutionary nature of the periodic table — itself a kind of Copernican reorganization of chemical knowledge.",
+  "timeline": [
+    {
+      "year": 1996,
+      "event": "1996, GSI Helmholtz Centre for Heavy Ion Research, Darmstadt, Germany"
+    },
+    {
+      "year": 1998,
+      "event": "Longest-lived known isotope: 285Cn, t½ = 29 seconds. Individual atoms detected by SHIP."
+    },
+    {
+      "year": 2016,
+      "event": "IUPAC formally confirms the discovery and approves the name 'copernicium' and symbol 'Co'. Element 112 officially joins the periodic table."
+    },
+    {
+      "year": 2006,
+      "event": "Copernicium is predicted by relativistic quantum chemistry to be a gaseous or extremely volatile metal at room temperature — so relativistically modified are its electron orbitals that its metallic bonding is weakened. One preliminary experiment at PSI suggests copernicium may adsorb on gold surfaces differently than mercury (its lighter congener) — potentially consistent with a more noble, volatile character. Named on the 537th anniversary of Copernicus's birth."
+    },
+    {
+      "year": 2024,
+      "event": "Research continues at JINR Dubna, GSI/FAIR, RIKEN, and other facilities. Element 112 represents the current frontier of nuclear synthesis — beyond it lies terra incognita, where nuclear stability predictions become increasingly uncertain and experimental access requires advances in accelerator technology and target production."
+    }
+  ],
+  "story": "The discovery of copernicium in 1996 was announced in February 2010 — 14 years after production — following IUPAC's verification process. It was named on February 19, 2010, the 537th anniversary of Copernicus's birth. The naming connects the man who showed Earth moves around the sun to an element that moves the frontier of the periodic table.",
+  "source_note": "Discovered by Hofmann group (1996) at GSI Darmstadt. Named after Nicolaus Copernicus (1473-1543). Naming announced February 19, 2010 (537th anniversary of Copernicus's birth)."
+}

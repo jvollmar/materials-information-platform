@@ -1,0 +1,32 @@
+{
+  "discovered": "1966, JINR Dubna (Flerov group) — after disputed earlier claims from Stockholm (1957) and Berkeley (1958)",
+  "discoverer": "Flerov group",
+  "country": "USA",
+  "named_by": "IUPAC consensus",
+  "named": 1956,
+  "etymology": "Alfred Nobel (1833–1896) — the Swedish chemist, engineer, and industrialist who invented dynamite (1867) and left his fortune to fund the Nobel Prizes (physics, chemistry, physiology/medicine, literature, peace). Nobel had a complex relationship with his own inventions — he hoped dynamite would be used for peaceful construction but was troubled by its military applications.",
+  "timeline": [
+    {
+      "year": 1957,
+      "event": "The Nobel Institute for Physics in Stockholm claims discovery of element 102, naming it nobelium. Their evidence is disputed — the claimed decay data cannot be reproduced, and the discovery is eventually rejected by IUPAC."
+    },
+    {
+      "year": 1958,
+      "event": "Albert Ghiorso and colleagues at Berkeley report a different nobelium isotope but are also unable to fully reproduce the results. The priority dispute between Stockholm and Berkeley adds to the confusion."
+    },
+    {
+      "year": 1966,
+      "event": "Georgiy Flerov's group at JINR Dubna in Russia produces definitive evidence for element 102 with correctly identified decay chains. IUPAC eventually awards priority to the Dubna group, though the name 'nobelium' proposed by the Stockholm team is retained — the name sticks despite the claimants being wrong."
+    },
+    {
+      "year": 1967,
+      "event": "The Soviet scientists note the irony that an element named after Alfred Nobel was named by a team whose discovery was not confirmed, and the name was retained by international agreement even when the original discoverers were not credited. Nobel himself might have appreciated the bureaucratic complexity."
+    },
+    {
+      "year": 1997,
+      "event": "IUPAC formally resolves the nobelium priority dispute in favor of the Dubna group. The name nobelium and symbol No are retained, having been in use for 40 years despite the contested discovery history."
+    }
+  ],
+  "story": "Nobelium's discovery history is a comedy of disputed claims, retractions, and eventual resolution by international committee — the least Nobel-Prize-worthy path to naming an element after Nobel. The Stockholm team claimed it, couldn't reproduce it, and lost credit; the Berkeley team had better data but also couldn't fully validate it; Dubna ultimately produced the confirmed discovery but inherited a name from the Stockholm team that IUPAC declined to change. Alfred Nobel funded prizes for discoveries that benefit humanity; nobelium is a radioactive element that exists only in particle accelerators. The connection is purely nominal.",
+  "source_note": "Priority awarded to Flerov group, JINR Dubna (1966). Name nobelium proposed by Stockholm (1957), retained by IUPAC despite reassigned priority. Named after Alfred Nobel (1833–1896)."
+}

@@ -1,0 +1,32 @@
+{
+  "discovered": 2003,
+  "discoverer": "2003, JINR Dubna / Lawrence Livermore / Oak Ridge collaboration — confirmed 2016",
+  "country": "USA / Russia (international collaboration)",
+  "named_by": "IUPAC",
+  "named": 2009,
+  "etymology": "Moscow Oblast — the administrative region of Russia that surrounds Moscow and contains Dubna, home of JINR (Joint Institute for Nuclear Research). The naming honors the Russian region where the discovery was made, continuing the geographic naming tradition for superheavy elements.",
+  "timeline": [
+    {
+      "year": 2003,
+      "event": "First synthesis of element 115 (moscovium) reported. confirmed 2016"
+    },
+    {
+      "year": 2005,
+      "event": "Longest-lived known isotope: 290Mc, t½ = 220 milliseconds. Individual atoms detected by DGFRS."
+    },
+    {
+      "year": 2016,
+      "event": "IUPAC formally confirms the discovery and approves the name 'moscovium' and symbol 'Mo'. Element 115 officially joins the periodic table."
+    },
+    {
+      "year": 2013,
+      "event": "Moscovium's decay chain passes through nihonium (element 113) — the detection of moscovium in 2003 provided early supporting evidence for nihonium's existence before RIKEN's confirmed discovery. Moscovium is predicted to be a heavier bismuth analog in Group 15. Its extremely short half-life (220 milliseconds) makes chemical studies essentially impossible with current technology."
+    },
+    {
+      "year": 2024,
+      "event": "Research continues at JINR Dubna, GSI/FAIR, RIKEN, and other facilities. Element 115 represents the current frontier of nuclear synthesis — beyond it lies terra incognita, where nuclear stability predictions become increasingly uncertain and experimental access requires advances in accelerator technology and target production."
+    }
+  ],
+  "story": "The 2003 experiment at Dubna produced moscovium by bombarding americium-243 with calcium-48 ions — the americium target material was supplied by Oak Ridge National Laboratory from US nuclear reactor stockpiles. The multinational nature of the discovery (Russian accelerator, American target material, international team) reflects the global character of superheavy element research.",
+  "source_note": "Discovered by Oganessian group (2003) at JINR Dubna with LLNL and ORNL collaboration. Named after Moscow Oblast, Russia. Confirmed by IUPAC 2016."
+}

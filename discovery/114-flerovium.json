@@ -1,0 +1,32 @@
+{
+  "discovered": 1999,
+  "discoverer": "1999, JINR Dubna / Lawrence Livermore National Laboratory collaboration — confirmed 2012",
+  "country": "USA / Russia (international collaboration)",
+  "named_by": "IUPAC",
+  "named": 2005,
+  "etymology": "Flerov Laboratory of Nuclear Reactions — the division of JINR Dubna where most superheavy elements from 114 onward were synthesized, named after Georgiy Flyorov (1913-1990), the Soviet physicist who founded the laboratory and initiated the Soviet superheavy element research program. Flerov himself had written to Stalin in 1942 urging development of an atomic bomb.",
+  "timeline": [
+    {
+      "year": 1999,
+      "event": "First synthesis of element 114 (flerovium) reported. confirmed 2012"
+    },
+    {
+      "year": 2001,
+      "event": "Longest-lived known isotope: 289Fl, t½ = 1.9 seconds. Individual atoms detected by DGFRS (Dubna Gas-Filled Recoil Separator)."
+    },
+    {
+      "year": 2016,
+      "event": "IUPAC formally confirms the discovery and approves the name 'flerovium' and symbol 'Fl'. Element 114 officially joins the periodic table."
+    },
+    {
+      "year": 2009,
+      "event": "Flerovium sits at the edge of the predicted island of stability — the region around atomic number 114 and neutron number 184 where nuclear theory predicts unusually stable superheavy nuclei. The 289Fl isotope contains 114 protons and 175 neutrons — approaching but not reaching the predicted magic neutron number of 184. Preliminary chemistry suggests flerovium may be more volatile than lead (its lighter Group 14 congener), behaving more like a noble metal."
+    },
+    {
+      "year": 2024,
+      "event": "Research continues at JINR Dubna, GSI/FAIR, RIKEN, and other facilities. Element 114 represents the current frontier of nuclear synthesis — beyond it lies terra incognita, where nuclear stability predictions become increasingly uncertain and experimental access requires advances in accelerator technology and target production."
+    }
+  ],
+  "story": "The Dubna-Livermore collaboration that discovered flerovium (and livermorium, moscovium, and tennessine) was one of the most productive international scientific partnerships of the early 21st century. Dubna supplied the accelerator and expertise; Livermore supplied the actinide target materials from US nuclear stockpiles. The calcium-48 beam — doubly magic and extremely fusion-efficient — was the key to the entire program.",
+  "source_note": "Discovered by Oganessian group at JINR Dubna in collaboration with Lawrence Livermore National Laboratory (1999). Named after Flerov Laboratory of Nuclear Reactions. Confirmed by IUPAC 2012."
+}

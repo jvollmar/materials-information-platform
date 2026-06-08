@@ -1,0 +1,32 @@
+{
+  "discovered": 1952,
+  "discoverer": "Albert Ghiorso, Gregory Choppin, Bernard Harvey, Stanley Thompson & Glenn Seaborg",
+  "country": "USA (Lawrence Berkeley National Laboratory)",
+  "named_by": "Glenn Seaborg et al.",
+  "named": 1955,
+  "etymology": "From Enrico Fermi (1901-1954) — the Italian-American physicist who designed and built the world's first nuclear reactor (Chicago Pile-1, 1942), demonstrated the first self-sustaining nuclear chain reaction, and was one of the key architects of the Manhattan Project. Fermi died of stomach cancer in November 1954, almost certainly caused by radiation exposure during his career.",
+  "timeline": [
+    {
+      "year": 1952,
+      "event": "Fermium-255 is found in the same Ivy Mike thermonuclear test debris that produced einsteinium — the bomb's extraordinary neutron flux drives uranium nuclei through a rapid series of neutron captures, producing nuclei far heavier than anything previously created. Fermium is the heaviest element produced by this process."
+    },
+    {
+      "year": 1952,
+      "event": "The discovery of fermium is classified along with einsteinium — the same military secrecy that prevented publication of einsteinium's discovery also suppressed fermium. The two elements share the same classified discovery file, the same three-year publication delay, and the same origin in thermonuclear test debris."
+    },
+    {
+      "year": 1954,
+      "event": "Enrico Fermi dies of stomach cancer on November 28, 1954, in Chicago. His name is immediately proposed for element 100 — a fitting tribute from colleagues who had worked alongside him in the Manhattan Project."
+    },
+    {
+      "year": 1955,
+      "event": "The discovery of both einsteinium and fermium is published. Element 100 is named fermium in honor of Enrico Fermi. The two elements, discovered together from the same source, are named after two of the 20th century's most consequential physicists."
+    },
+    {
+      "year": 1960,
+      "event": "Fermium-257 (t½ = 100.5 days) is identified as the longest-lived fermium isotope and the practical endpoint of reactor-based transuranic production. Elements beyond fermium cannot be made by simple neutron capture — each neutron capture causes fission before another can occur. Fermium marks the practical boundary of the periodic table for reactor synthesis."
+    }
+  ],
+  "story": "Fermium and einsteinium share almost everything: the same discovery event (a hydrogen bomb test), the same classified status, the same team of discoverers, and the same year of public announcement. They are the twin products of humanity's most destructive weapon, named after two men who — in different ways — enabled and were troubled by that weapon. Fermi built the first reactor and supervised the Trinity test; Einstein urged Roosevelt to start the program and spent his remaining years in regret. Fermium's position at the practical limit of neutron-capture synthesis — elements beyond it can't be made in reactors — gives it an appropriate finality: the element named after the man who first sustained a nuclear chain reaction sits at the boundary beyond which that same chain reaction cannot reach.",
+  "source_note": "Discovered from Ivy Mike test debris (November 1952), simultaneously with einsteinium. Classified until 1955. Named after Enrico Fermi (1901-1954). Published in Physical Review, 1955."
+}

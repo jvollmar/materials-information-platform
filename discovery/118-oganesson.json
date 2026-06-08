@@ -1,0 +1,32 @@
+{
+  "discovered": 2002,
+  "discoverer": "2002, JINR Dubna / Lawrence Livermore National Laboratory collaboration — confirmed 2015",
+  "country": "USA / Russia (international collaboration)",
+  "named_by": "IUPAC",
+  "named": 2008,
+  "etymology": "Yuri Oganessian (born 1933) — the Russian-Armenian nuclear physicist who directed the superheavy element research program at JINR Dubna and is the architect of the calcium-48 hot fusion technique that produced elements 113 through 118. Oganessian is the only living person after Seaborg to have an element named after him. He remains scientifically active at Dubna.",
+  "timeline": [
+    {
+      "year": 2002,
+      "event": "First synthesis of element 118 (oganesson) reported. confirmed 2015"
+    },
+    {
+      "year": 2004,
+      "event": "Longest-lived known isotope: 294Og, t½ = 0.89 milliseconds. Only 5 atoms ever detected — the rarest substance ever intentionally created."
+    },
+    {
+      "year": 2016,
+      "event": "IUPAC formally confirms the discovery and approves the name 'oganesson' and symbol 'Og'. Element 118 officially joins the periodic table."
+    },
+    {
+      "year": 2012,
+      "event": "Oganesson is the heaviest confirmed element and the last element in Period 7 and the last in the periodic table as it currently stands. It completes the p-block of Period 7. Relativistic calculations predict oganesson will be a solid at room temperature — not a gas like its lighter noble gas congeners (helium through radon) — because relativistic effects destabilize its p-block shell, making its 'noble gas' electronic configuration far less stable than in lighter elements. With a half-life of 0.89 milliseconds, no chemistry is possible."
+    },
+    {
+      "year": 2024,
+      "event": "Research continues at JINR Dubna, GSI/FAIR, RIKEN, and other facilities. Element 118 represents the current frontier of nuclear synthesis — beyond it lies terra incognita, where nuclear stability predictions become increasingly uncertain and experimental access requires advances in accelerator technology and target production."
+    }
+  ],
+  "story": "Oganessian's naming is a remarkable tribute to a living scientist. His development of the calcium-48 hot fusion technique — recognizing that the doubly magic Ca-48 nucleus forms a highly stable compound nucleus with actinide targets — enabled the discovery of six elements (113-118) in roughly a decade. Without his insight and the decades of work building JINR's infrastructure, the current end of the periodic table would be element 106 or 107. He is the last man to discover elements — for now.",
+  "source_note": "Discovered by Oganessian group (2002) at JINR Dubna in collaboration with Lawrence Livermore National Laboratory. Named after Yuri Oganessian (born 1933). Only 5 atoms detected in all experiments. Confirmed by IUPAC 2015."
+}

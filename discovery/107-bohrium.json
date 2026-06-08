@@ -1,0 +1,32 @@
+{
+  "discovered": 1981,
+  "discoverer": "Münzenberg and Hofmann group",
+  "country": "Germany",
+  "named_by": "IUPAC",
+  "named": 1987,
+  "etymology": "Niels Bohr (1885-1962) — the Danish physicist whose atomic model (1913) introduced quantum mechanics to atomic structure and whose complementarity principle and Copenhagen interpretation shaped 20th-century physics. Bohr received the 1922 Nobel Prize in Physics and directed the Institute for Theoretical Physics in Copenhagen, which also predicted hafnium's location in the periodic table.",
+  "timeline": [
+    {
+      "year": 1981,
+      "event": "1981, GSI Helmholtz Centre for Heavy Ion Research, Darmstadt, Germany (Münzenberg and Hofmann group)"
+    },
+    {
+      "year": 1983,
+      "event": "Longest-lived known isotope: 270Bh, t½ = 61 seconds. Individual atoms detected by SHIP velocity filter."
+    },
+    {
+      "year": 2016,
+      "event": "IUPAC formally confirms the discovery and approves the name 'bohrium' and symbol 'Bo'. Element 107 officially joins the periodic table."
+    },
+    {
+      "year": 1991,
+      "event": "Bohrium was first produced at GSI by bombarding bismuth-209 with chromium-54 ions. A 2000 experiment at the Paul Scherrer Institute detected volatile BhO₃Cl molecules — confirming that bohrium forms oxychlorides analogous to rhenium, consistent with its position in Group 7. Named after the physicist whose atomic model explained chemical periodicity."
+    },
+    {
+      "year": 2024,
+      "event": "Research continues at JINR Dubna, GSI/FAIR, RIKEN, and other facilities. Element 107 represents the current frontier of nuclear synthesis — beyond it lies terra incognita, where nuclear stability predictions become increasingly uncertain and experimental access requires advances in accelerator technology and target production."
+    }
+  ],
+  "story": "GSI discovered elements 107 through 112 in a remarkable sequence from 1981 to 1996, using bismuth and lead targets and transition metal beams. The SHIP separator — designed by Münzenberg and Hofmann — was the key instrument that enabled detection of single atoms of these superheavy elements.",
+  "source_note": "Discovered by Münzenberg and Hofmann group (1981) at GSI Darmstadt. Named after Niels Bohr. Published in Zeitschrift für Physik A, 1981."
+}

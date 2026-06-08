@@ -1,0 +1,32 @@
+{
+  "discovered": 1994,
+  "discoverer": "1994, GSI Helmholtz Centre for Heavy Ion Research, Darmstadt, Germany",
+  "country": "Germany",
+  "named_by": "IUPAC",
+  "named": 2000,
+  "etymology": "Wilhelm Conrad Röntgen (1845-1923) — the German physicist who discovered X-rays in 1895 and received the very first Nobel Prize in Physics in 1901. Röntgen's discovery of X-rays revolutionized medicine, physics, and ultimately enabled the X-ray spectroscopy techniques used to confirm superheavy element discoveries.",
+  "timeline": [
+    {
+      "year": 1994,
+      "event": "1994, GSI Helmholtz Centre for Heavy Ion Research, Darmstadt, Germany"
+    },
+    {
+      "year": 1996,
+      "event": "Longest-lived known isotope: 282Rg, t½ = 100 seconds. Individual atoms detected by SHIP."
+    },
+    {
+      "year": 2016,
+      "event": "IUPAC formally confirms the discovery and approves the name 'roentgenium' and symbol 'Ro'. Element 111 officially joins the periodic table."
+    },
+    {
+      "year": 2004,
+      "event": "Roentgenium was produced at GSI in November 1994 — just months after darmstadtium — by bombarding bismuth-209 with nickel-64 ions. The 282Rg isotope with its 100-second half-life is relatively long-lived for this region of the periodic table. Roentgenium is predicted to have unusual properties — relativistic effects stabilize its 7s electrons, potentially giving it gold-like rather than silver-like chemistry."
+    },
+    {
+      "year": 2024,
+      "event": "Research continues at JINR Dubna, GSI/FAIR, RIKEN, and other facilities. Element 111 represents the current frontier of nuclear synthesis — beyond it lies terra incognita, where nuclear stability predictions become increasingly uncertain and experimental access requires advances in accelerator technology and target production."
+    }
+  ],
+  "story": "The naming after Röntgen honors the man whose discovery of X-rays was essential to element verification: the characteristic X-ray spectra produced when superheavy atoms decay provide one of the key identifiers confirming new elements. Röntgen's rays, used to identify the elements named after his successors, now grace an element bearing his own name.",
+  "source_note": "Discovered by Hofmann group (1994) at GSI Darmstadt using bismuth-209 + nickel-64. Named after Wilhelm Röntgen (1845-1923). Published in Zeitschrift für Physik A, 1995."
+}

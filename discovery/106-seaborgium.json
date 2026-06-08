@@ -1,0 +1,32 @@
+{
+  "discovered": 1974,
+  "discoverer": "Ghiorso group",
+  "country": "USA / Russia (international collaboration)",
+  "named_by": "IUPAC",
+  "named": 1980,
+  "etymology": "Glenn T. Seaborg (1912-1999) — the American nuclear chemist who co-discovered elements 94 through 102 (plutonium through nobelium) and proposed the actinide concept that reorganized the periodic table. Seaborg received the 1951 Nobel Prize in Chemistry and served as chairman of the Atomic Energy Commission. Element 106 was named after him while he was still alive — making him the only person in history to have an element named after him during his lifetime.",
+  "timeline": [
+    {
+      "year": 1974,
+      "event": "1974, Lawrence Berkeley National Laboratory (Ghiorso group)"
+    },
+    {
+      "year": 1976,
+      "event": "Longest-lived known isotope: 271Sg, t½ = 1.9 minutes. Individual atoms detected by the SHIP separator at GSI and SHIP at Berkeley."
+    },
+    {
+      "year": 2016,
+      "event": "IUPAC formally confirms the discovery and approves the name 'seaborgium' and symbol 'Se'. Element 106 officially joins the periodic table."
+    },
+    {
+      "year": 1984,
+      "event": "Seaborgium chemistry has been studied at the Paul Scherrer Institute — volatile SgO₂Cl₂ compounds were formed and measured by isothermal gas chromatography, confirming seaborgium is a heavier tungsten analog in Group 6. Named after the man who proposed the actinide concept, seaborgium sits exactly where that concept predicted a 6d transition metal should be."
+    },
+    {
+      "year": 2024,
+      "event": "Research continues at JINR Dubna, GSI/FAIR, RIKEN, and other facilities. Element 106 represents the current frontier of nuclear synthesis — beyond it lies terra incognita, where nuclear stability predictions become increasingly uncertain and experimental access requires advances in accelerator technology and target production."
+    }
+  ],
+  "story": "The naming of element 106 after a living scientist was controversial — IUPAC initially resisted, citing a rule against naming elements after living persons. Seaborg himself initially objected on grounds of modesty. The IUPAC rule was eventually set aside and seaborgium was officially adopted in 1997.",
+  "source_note": "Discovered by Ghiorso group (1974) at UC Berkeley using californium-249 + oxygen-18. Named after Glenn T. Seaborg. IUPAC approved 1997."
+}

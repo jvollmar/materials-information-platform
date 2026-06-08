@@ -1,0 +1,32 @@
+{
+  "discovered": 2000,
+  "discoverer": "2000, JINR Dubna / Lawrence Livermore National Laboratory collaboration — confirmed 2012",
+  "country": "USA / Russia (international collaboration)",
+  "named_by": "IUPAC",
+  "named": 2006,
+  "etymology": "Lawrence Livermore National Laboratory — the US national laboratory in Livermore, California, that supplied the plutonium and curium target materials for the synthesis of flerovium, livermorium, moscovium, and oganesson, and whose scientists co-authored the discovery papers. Named in honor of the laboratory's essential contribution.",
+  "timeline": [
+    {
+      "year": 2000,
+      "event": "First synthesis of element 116 (livermorium) reported. confirmed 2012"
+    },
+    {
+      "year": 2002,
+      "event": "Longest-lived known isotope: 293Lv, t½ = 53 milliseconds. Individual atoms detected by DGFRS."
+    },
+    {
+      "year": 2016,
+      "event": "IUPAC formally confirms the discovery and approves the name 'livermorium' and symbol 'Li'. Element 116 officially joins the periodic table."
+    },
+    {
+      "year": 2010,
+      "event": "Livermorium was produced by bombarding curium-248 with calcium-48 — the curium target supplied by Lawrence Livermore from US nuclear material stockpiles. It is predicted to be a heavier polonium analog in Group 16. The very short half-life prevents any chemical characterization. Livermorium is the second element named after a US national laboratory (the first being lawrencium, named after Ernest Lawrence)."
+    },
+    {
+      "year": 2024,
+      "event": "Research continues at JINR Dubna, GSI/FAIR, RIKEN, and other facilities. Element 116 represents the current frontier of nuclear synthesis — beyond it lies terra incognita, where nuclear stability predictions become increasingly uncertain and experimental access requires advances in accelerator technology and target production."
+    }
+  ],
+  "story": "Lawrence Livermore National Laboratory was founded in 1952 by Ernest Lawrence and Edward Teller as a second nuclear weapons laboratory (alongside Los Alamos). Its scientists' role in the superheavy element program — providing target materials unavailable elsewhere — earned it an element named in its honor. The laboratory that helped build hydrogen bombs had an element named after it from hydrogen bomb test debris.",
+  "source_note": "Discovered by Oganessian group (2000) at JINR Dubna in collaboration with Lawrence Livermore National Laboratory. Named after LLNL. Confirmed by IUPAC 2012."
+}

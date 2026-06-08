@@ -1,0 +1,32 @@
+{
+  "discovered": 1968,
+  "discoverer": "Flerov group",
+  "country": "USA / Russia (international collaboration)",
+  "named_by": "IUPAC",
+  "named": 1974,
+  "etymology": "Dubna — the city in Russia (Moscow Oblast) where the Joint Institute for Nuclear Research (JINR) is located, and where much of the transactinide element research was performed. Named in honor of the Dubna laboratory, acknowledging the Soviet/Russian contribution to superheavy element discovery.",
+  "timeline": [
+    {
+      "year": 1968,
+      "event": "First synthesis of element 105 (dubnium) reported. disputed, both credited"
+    },
+    {
+      "year": 1970,
+      "event": "Longest-lived known isotope: 268Db, t½ = 29 hours. Individual atoms; 268Db's 29-hour half-life enables atom-at-a-time aqueous chemistry."
+    },
+    {
+      "year": 2016,
+      "event": "IUPAC formally confirms the discovery and approves the name 'dubnium' and symbol 'Du'. Element 105 officially joins the periodic table."
+    },
+    {
+      "year": 1978,
+      "event": "Dubnium's 268Db isotope with its 29-hour half-life is long enough to perform aqueous chemical separations one atom at a time. Studies at the Paul Scherrer Institute have shown that Db's extraction behavior in aqueous solutions shows measurable relativistic deviations from what would be expected for a simple heavier tantalum — demonstrating that relativistic quantum effects are detectable in chemical behavior."
+    },
+    {
+      "year": 2024,
+      "event": "Research continues at JINR Dubna, GSI/FAIR, RIKEN, and other facilities. Element 105 represents the current frontier of nuclear synthesis — beyond it lies terra incognita, where nuclear stability predictions become increasingly uncertain and experimental access requires advances in accelerator technology and target production."
+    }
+  ],
+  "story": "Dubna proposed 'nielsbohrium' (after Niels Bohr); Berkeley proposed 'hahnium' (after Otto Hahn). IUPAC resolved in 1997 with 'dubnium' — a compromise honoring the Dubna laboratory's contributions while not accepting either disputed name.",
+  "source_note": "Priority shared between Flerov (1968, Dubna) and Ghiorso (1970, Berkeley). Named after Dubna, Russia by IUPAC ruling 1997."
+}

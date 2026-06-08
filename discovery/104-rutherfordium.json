@@ -1,0 +1,32 @@
+{
+  "discovered": 1964,
+  "discoverer": "Flerov group",
+  "country": "USA / Russia (international collaboration)",
+  "named_by": "IUPAC",
+  "named": 1970,
+  "etymology": "Ernest Rutherford (1871-1937) — New Zealand-born physicist who discovered the atomic nucleus (1911), demonstrated that radioactivity involves transmutation of elements, and established the nuclear model of the atom. Rutherford is considered the father of nuclear physics. He received the 1908 Nobel Prize in Chemistry.",
+  "timeline": [
+    {
+      "year": 1964,
+      "event": "First synthesis of element 104 (rutherfordium) reported. disputed, both credited"
+    },
+    {
+      "year": 1966,
+      "event": "Longest-lived known isotope: 267Rf, t½ = 1.3 hours. Individual atoms detected using recoil separators."
+    },
+    {
+      "year": 2016,
+      "event": "IUPAC formally confirms the discovery and approves the name 'rutherfordium' and symbol 'Ru'. Element 104 officially joins the periodic table."
+    },
+    {
+      "year": 1974,
+      "event": "Rutherfordium is the first transactinide element — the first element beyond the actinide series, beginning the 6d transition metal row. Its chemistry is studied atom-at-a-time at the Paul Scherrer Institute in Switzerland, where researchers have confirmed it behaves as a heavier hafnium analog — but relativistic effects measurably alter its properties compared to simple extrapolation."
+    },
+    {
+      "year": 2024,
+      "event": "Research continues at JINR Dubna, GSI/FAIR, RIKEN, and other facilities. Element 104 represents the current frontier of nuclear synthesis — beyond it lies terra incognita, where nuclear stability predictions become increasingly uncertain and experimental access requires advances in accelerator technology and target production."
+    }
+  ],
+  "story": "Both Dubna (using Ne-22 on Pu-242) and Berkeley (using C-12 on Cf-249) produced element 104 in separate experiments. The naming dispute — Dubna proposed 'kurchatovium' after Soviet physicist Igor Kurchatov; Berkeley proposed 'rutherfordium' — was resolved by IUPAC in 1997 in favor of rutherfordium.",
+  "source_note": "Priority shared between Flerov (1964, Dubna) and Ghiorso (1969, Berkeley). Named after Ernest Rutherford by IUPAC ruling 1997."
+}

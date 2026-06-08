@@ -1,0 +1,32 @@
+{
+  "discovered": 1982,
+  "discoverer": "1982, GSI Helmholtz Centre for Heavy Ion Research, Darmstadt, Germany",
+  "country": "Germany",
+  "named_by": "IUPAC",
+  "named": 1988,
+  "etymology": "Lise Meitner (1878-1968) — the Austrian-Swedish physicist who co-discovered nuclear fission in 1938 (with Otto Hahn and Fritz Strassmann) and provided the theoretical explanation for it. She was denied the Nobel Prize that Hahn received in 1944 — widely considered one of the most egregious omissions in Nobel Prize history. Element 109 is her permanent monument in chemistry.",
+  "timeline": [
+    {
+      "year": 1982,
+      "event": "1982, GSI Helmholtz Centre for Heavy Ion Research, Darmstadt, Germany"
+    },
+    {
+      "year": 1984,
+      "event": "Longest-lived known isotope: 278Mt, t½ = 7.6 seconds. Single atom detected in the first experiment."
+    },
+    {
+      "year": 2016,
+      "event": "IUPAC formally confirms the discovery and approves the name 'meitnerium' and symbol 'Me'. Element 109 officially joins the periodic table."
+    },
+    {
+      "year": 1992,
+      "event": "Meitnerium was produced by bombarding bismuth-209 with iron-58 ions — a single atom was detected in the first experiment, identified by its alpha decay chain. The naming after Lise Meitner is widely regarded as chemistry's way of correcting the historical injustice of the Nobel Committee. She fled Nazi Germany, worked in Sweden during the war, and despite being nominated for the Nobel Prize 48 times was never awarded one."
+    },
+    {
+      "year": 2024,
+      "event": "Research continues at JINR Dubna, GSI/FAIR, RIKEN, and other facilities. Element 109 represents the current frontier of nuclear synthesis — beyond it lies terra incognita, where nuclear stability predictions become increasingly uncertain and experimental access requires advances in accelerator technology and target production."
+    }
+  ],
+  "story": "When Lise Meitner provided the theoretical explanation for nuclear fission in 1939 — while in exile in Sweden, having fled Nazi Germany — she used Einstein's mass-energy equivalence to calculate the energy released when a uranium nucleus splits. Her contribution was fundamental; the Nobel Prize went to Hahn alone. Element 109, named in her honor, is her recognition in the language of chemistry.",
+  "source_note": "Discovered by Münzenberg and Hofmann group (1982) at GSI Darmstadt. Named after Lise Meitner (1878-1968). Published in Zeitschrift für Physik A, 1982."
+}

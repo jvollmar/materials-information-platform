@@ -1,0 +1,32 @@
+{
+  "discovered": "1955, Lawrence Berkeley National Laboratory (Ghiorso, Harvey, Choppin, Thompson, Seaborg)",
+  "discoverer": "Harvey, Choppin, Thompson, Seaborg",
+  "country": "USA",
+  "named_by": "IUPAC consensus",
+  "named": 1955,
+  "etymology": "Dmitri Ivanovich Mendeleev (1834–1907) — the Russian chemist who created the periodic table of the elements in 1869. The periodic table is the organizing framework that made the discovery of every subsequent element possible, including all transuranic elements. Naming element 101 after Mendeleev was universally recognized as the most fitting tribute possible.",
+  "timeline": [
+    {
+      "year": 1869,
+      "event": "Dmitri Mendeleev publishes his periodic table, predicting properties of missing elements with extraordinary accuracy. His framework is the conceptual foundation that makes the search for transuranic elements meaningful — without the periodic table's organizing logic, element 101 would simply be an unknown radioactive substance."
+    },
+    {
+      "year": 1955,
+      "event": "Albert Ghiorso, Bernard Harvey, Gregory Choppin, Stanley Thompson, and Glenn Seaborg bombard einsteinium-253 — itself an extraordinarily rare and difficult-to-obtain element — with alpha particles in the Berkeley 60-inch cyclotron on February 18, 1955. The reaction is so difficult that the team works through the night, recoil-separating each product atom individually."
+    },
+    {
+      "year": 1955,
+      "event": "The team detects exactly 17 atoms of element 101 — the first element ever discovered one atom at a time. The technique of recoil separation and individual atom detection, developed for mendelevium, becomes the standard method for discovering all heavier elements. Seaborg names it mendelevium in recognition that the periodic table made the discovery possible."
+    },
+    {
+      "year": 1955,
+      "event": "The Soviet Union disputes the American claim to mendelevium's discovery, as Cold War rivalries extended to element discovery credit. The USSR proposed the name 'mendelevium' independently — a case where both sides agreed on the name, though not on who discovered it first. IUPAC eventually awards priority to the Berkeley team."
+    },
+    {
+      "year": 1958,
+      "event": "The discovery of mendelevium using a single-atom-at-a-time technique establishes the methodology that will be used for all subsequent transactinide element discoveries — each new element beyond mendelevium is found by detecting individual atoms rather than by chemical analysis of bulk quantities."
+    }
+  ],
+  "story": "Mendelevium's discovery in 1955 was one of chemistry's great conceptual moments: using the organizing framework of the man being honored (Mendeleev's periodic table) to find the element named after him. The one-atom-at-a-time technique required to detect it — so few atoms that they had to be counted individually — represented a new frontier in analytical chemistry. No bulk sample of mendelevium has ever been assembled; the element exists only as individual atoms detected by their radioactive decay. The man whose periodic table predicted elements decades before their discovery is honored by an element that can only be detected one atom at a time.",
+  "source_note": "Produced by Ghiorso, Harvey, Choppin, Thompson, and Seaborg (February 18, 1955) at UC Berkeley. Named after Dmitri Mendeleev. Published in Physical Review, 1955."
+}

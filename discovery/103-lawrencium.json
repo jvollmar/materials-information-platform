@@ -1,0 +1,32 @@
+{
+  "discovered": "1961, Lawrence Berkeley National Laboratory (Ghiorso group); confirmed with JINR Dubna collaboration",
+  "discoverer": "Ghiorso group",
+  "country": "USA",
+  "named_by": "Glenn Seaborg",
+  "named": 1957,
+  "etymology": "Ernest Orlando Lawrence (1901–1958) — the American physicist who invented the cyclotron in 1929–1930, the particle accelerator that made the discovery of all transuranic elements from neptunium to lawrencium possible. Lawrence founded the laboratory that became LBNL and trained a generation of nuclear physicists. He received the 1939 Nobel Prize in Physics.",
+  "timeline": [
+    {
+      "year": 1929,
+      "event": "Ernest Lawrence conceives and builds the first cyclotron at the University of California Berkeley — a device that accelerates charged particles in a spiral path using alternating electric fields and a magnetic field. The cyclotron enables particle physics and nuclear chemistry experiments at energies previously impossible, directly enabling transuranic element synthesis."
+    },
+    {
+      "year": 1958,
+      "event": "Ernest Lawrence dies on August 27, 1958, before the element bearing his name is discovered. He had spent his career building ever-larger cyclotrons and the laboratory that would make these discoveries possible."
+    },
+    {
+      "year": 1961,
+      "event": "Albert Ghiorso, Torbjørn Sikkeland, Almon Larsh, and Robert Latimer at Berkeley bombard californium-252 with boron-10 and boron-11 ions in the Heavy Ion Linear Accelerator (HILAC) in February and March 1961, producing lawrencium-257 and lawrencium-258. The element completes the actinide series."
+    },
+    {
+      "year": 1965,
+      "event": "JINR Dubna produces additional lawrencium isotopes and contributes decay data that helps confirm the Berkeley discovery. The collaboration between Berkeley and Dubna — despite Cold War tensions — establishes a pattern for later element discoveries."
+    },
+    {
+      "year": 2015,
+      "event": "A team at JAEA and RIKEN in Japan measures the first ionization energy of lawrencium using a surface ionization technique with about 1000 atoms — finding it lower than expected, confirming that Lr has a 7p¹ ground state configuration rather than 6d¹ predicted by simpler theory. The measurement is one of the finest examples of atom-at-a-time chemistry ever performed."
+    }
+  ],
+  "story": "Ernest Lawrence's cyclotron made essentially every transuranic element discovery possible — the machine he invented in 1930 was scaled up and modified into the instruments that produced neptunium, plutonium, and every element through lawrencium. It was appropriate that the last actinide element — the one that closes the f-block of the periodic table — should carry Lawrence's name. Lawrencium completes a series that began when his cyclotron first achieved enough energy to create new atoms. The 2015 Japanese measurement of lawrencium's ionization energy — performed on a thousand atoms, each living for seconds — is the kind of precision experiment that Lawrence would have found both impressive and somewhat alien to his large-scale, high-energy approach to physics.",
+  "source_note": "Discovered by Ghiorso, Sikkeland, Larsh, and Latimer (1961) at UC Berkeley. Named after Ernest O. Lawrence (1901–1958). Confirmed with JINR Dubna (1965). Published in Physical Review Letters, 1961."
+}
