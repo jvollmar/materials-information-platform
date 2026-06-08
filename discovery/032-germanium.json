@@ -1,0 +1,44 @@
+{
+  "discovered": 1886,
+  "discoverer": "Clemens Winkler",
+  "country": "Germany",
+  "named_by": "Clemens Winkler",
+  "named": 1886,
+  "etymology": "Latin: Germania — the Latin name for Germany. Winkler named it after his homeland, following the established tradition of naming elements after countries. Germany had just achieved unification in 1871, and Winkler's patriotic naming reflected a new national pride.",
+  "timeline": [
+    {
+      "year": 1871,
+      "event": "Mendeleev predicts 'eka-silicon' — an element below silicon in his periodic table. He predicts an atomic weight of 72, a density of 5.5 g/cm³, a dark grey metal, an oxide of the form XO₂, and specific chemical properties. He is so confident in his prediction he publishes detailed descriptions of an element no one has found."
+    },
+    {
+      "year": 1885,
+      "event": "A new silver ore is found in the Himmelsfürst mine in Freiberg, Saxony, Germany. The mineral (later named argyrodite, Ag₈GeS₆) has an unusual composition — its percentages do not add up correctly to 100% even after accounting for all known elements. The mine's mineralogist suspects a new element."
+    },
+    {
+      "year": 1886,
+      "event": "Clemens Winkler, a professor at the Freiberg Mining Academy, receives a sample of argyrodite for analysis. After months of painstaking work, he identifies and isolates a new element — a greyish-white metal making up about 7% of the mineral. He names it germanium after Germany."
+    },
+    {
+      "year": 1886,
+      "event": "Winkler compares germanium's properties to Mendeleev's predictions for eka-silicon and finds remarkable agreement: predicted density 5.5, measured 5.35; predicted atomic weight 72, measured 72.6; predicted grey metal with dioxide formula GeO₂, confirmed; predicted specific gravity of oxide 4.7, measured 4.703. Another extraordinary confirmation of the periodic table."
+    },
+    {
+      "year": 1886,
+      "event": "Initial controversy erupts when some chemists suggest germanium might be Mendeleev's predicted 'eka-cadmium' rather than eka-silicon. Mendeleev himself carefully compares the properties and confirms: germanium is exactly eka-silicon. The periodic table has now successfully predicted three elements (gallium, scandium, germanium) that were subsequently found."
+    },
+    {
+      "year": 1945,
+      "event": "Germanium's semiconductor properties are discovered at Bell Labs during wartime research. Silicon was initially ignored in favor of germanium because germanium's semiconductor properties were more easily exploited with 1940s technology."
+    },
+    {
+      "year": 1947,
+      "event": "John Bardeen, Walter Brattain, and William Shockley invent the transistor at Bell Labs using germanium — the device that launches the electronics revolution. They receive the 1956 Nobel Prize in Physics. Germanium is the semiconductor of the first transistor revolution before silicon takes over."
+    },
+    {
+      "year": 1955,
+      "event": "Gordon Teal at Texas Instruments develops silicon transistors that outperform germanium above 75°C — the beginning of silicon's replacement of germanium in general electronics. Germanium retreats to specialized applications: infrared optics, fiber optic cables, and solar cells."
+    }
+  ],
+  "story": "Germanium's discovery was the third and most dramatic confirmation of Mendeleev's periodic table predictions. When Winkler compared his measurements to Mendeleev's 15-year-old published predictions, the agreement was almost uncanny. The predicted and measured atomic weights, densities, chemical formulas, and properties matched so closely that even the skeptics who had doubted the periodic table's predictive power fell silent. Winkler reportedly said he felt as if he were holding Mendeleev's prediction in his hands. Germanium went on to host the world's first transistor — the device that created the modern electronics industry — before silicon quietly took over.",
+  "source_note": "Predicted by Mendeleev as 'eka-silicon' (1871). Discovered by Winkler (1886) in argyrodite mineral, Freiberg, Saxony. Published in Journal für praktische Chemie, 1886."
+}

@@ -1,0 +1,40 @@
+{
+  "discovered": 1791,
+  "discoverer": "William Gregor",
+  "country": "United Kingdom (Cornwall, England)",
+  "named_by": "Martin Heinrich Klaproth",
+  "named": 1795,
+  "etymology": "From the Titans of Greek mythology — the powerful primordial gods who preceded the Olympians. Klaproth chose the name for its strength and grandeur, following his practice of naming elements after mythological figures. The name also reflects the element's extraordinary strength-to-weight ratio.",
+  "timeline": [
+    {
+      "year": 1791,
+      "event": "William Gregor, an English clergyman and amateur mineralogist, is studying the black magnetic sand from the Manaccan valley in Cornwall, England. He separates the magnetic component (ilmenite, FeTiO₃) and treats it with acid, finding an oxide he cannot identify as any known element. He calls it 'manaccanite' after the valley and publishes his findings in Crell's Annalen — a discovery that largely goes unnoticed."
+    },
+    {
+      "year": 1795,
+      "event": "Martin Heinrich Klaproth, the German chemist who also discovered uranium and zirconium, independently analyzes the Hungarian mineral rutile (TiO₂) and finds the same unknown oxide. He names it titanium after the Titans of Greek mythology and publishes a full characterization — his more prominent position in European chemistry ensures this announcement receives wide attention. Gregor's prior discovery is eventually acknowledged."
+    },
+    {
+      "year": 1825,
+      "event": "Jöns Jacob Berzelius makes the first attempt to isolate titanium metal by reducing titanium tetrachloride with potassium, producing a highly impure black powder. The metal is too contaminated with nitrogen and carbon to characterize properly."
+    },
+    {
+      "year": 1887,
+      "event": "Lars Nilson and Otto Pettersson (the same Nilson who discovered scandium) produce titanium of 95% purity by reducing titanium tetrachloride with sodium — still not pure enough to determine the true physical properties of the metal."
+    },
+    {
+      "year": 1910,
+      "event": "Matthew Hunter at General Electric produces the first pure titanium metal (99.9%) by reducing titanium tetrachloride with sodium in a sealed steel cylinder — the 'Hunter process.' He measures titanium's properties for the first time: extraordinarily light, extremely strong, and resistant to corrosion. Pure titanium is obtained 119 years after Gregor's discovery."
+    },
+    {
+      "year": 1940,
+      "event": "Wilhelm Kroll develops the Kroll process — reducing titanium tetrachloride with magnesium in an inert atmosphere — which becomes the basis of all commercial titanium production. The process is still used today, making Kroll arguably the most important figure in titanium's industrial history."
+    },
+    {
+      "year": 1952,
+      "event": "Titanium enters aerospace applications as its extraordinary properties — 45% lighter than steel with equal or greater strength, and resistant to corrosion at high temperatures — are recognized. The SR-71 Blackbird spy plane, developed in the late 1950s, is 93% titanium by structural weight."
+    }
+  ],
+  "story": "William Gregor made his discovery in a Cornish valley as a hobby — he was an ordained minister whose scientific work was a passionate sideline. His 1791 paper on 'manaccanite' was modest and went largely unnoticed, and Klaproth, who discovered the same element independently four years later, received the credit for naming it and bringing it to international attention. Gregor was gracious about this — he acknowledged Klaproth's right to name the element. The irony is that titanium, named for its mythological strength, took 119 years from discovery to pure isolation — longer than almost any other element — because it bonds so aggressively with nitrogen and oxygen that it absorbs them during any reduction attempt unless perfectly protected.",
+  "source_note": "Discovered by Gregor (1791) in Manaccan, Cornwall. Named titanium by Klaproth (1795). Pure metal first isolated by Hunter (1910)."
+}

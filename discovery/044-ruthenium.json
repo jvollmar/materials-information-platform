@@ -1,0 +1,40 @@
+{
+  "discovered": 1844,
+  "discoverer": "Karl Ernst Claus",
+  "country": "Russia (Kazan)",
+  "named_by": "Karl Ernst Claus",
+  "named": 1844,
+  "etymology": "Latin: Ruthenia — the medieval Latin name for Russia (or more specifically the Kievan Rus region). Claus, a Baltic German chemist working at Kazan University in Russia, named it in honor of his adopted country, Russia.",
+  "timeline": [
+    {
+      "year": 1808,
+      "event": "Jöns Jacob Berzelius and Gottfried Osann examine the residue remaining after platinum ore is dissolved in aqua regia. Osann believes he has found three new elements, which he calls pluranium, rutenium, and polinium. His claims are disputed by Berzelius, who analyzes the same residues and finds nothing new."
+    },
+    {
+      "year": 1826,
+      "event": "Gottfried Osann again claims to have found two new metals (rutenium and pluranium) in platinum ore residues from the Ural Mountains. Again his claims are challenged. The confusion arises because the platinum group metals are extremely difficult to separate from each other and from their complex compounds."
+    },
+    {
+      "year": 1840,
+      "event": "Karl Ernst Claus, a Baltic German pharmacist and chemist working at Kazan University in Russia, receives a sample of platinum ore residue from St. Petersburg. He begins a systematic, meticulous analysis of the residue."
+    },
+    {
+      "year": 1844,
+      "event": "After four years of careful work, Claus isolates a new platinum group metal from the Ural platinum ore residues. He produces a small sample of the metal and characterizes it as the sixth platinum group element, confirming Osann's earlier intuition but correcting his chemistry. He names it ruthenium for Russia."
+    },
+    {
+      "year": 1844,
+      "event": "Berzelius initially disputes Claus's discovery, arguing the supposed new metal is impure platinum. Claus patiently sends samples and provides detailed analysis, and the great Swedish chemist eventually acknowledges the discovery — a notable intellectual reversal."
+    },
+    {
+      "year": 1960,
+      "event": "Giant magnetoresistance (GMR) — discovered in part through studies of ruthenium spacer layers in magnetic multilayers — enables a dramatic increase in hard disk drive storage density. The 2007 Nobel Prize in Physics is awarded for this discovery (Fert and Grünberg), and ruthenium's role in enabling it makes it central to the data storage revolution."
+    },
+    {
+      "year": 2005,
+      "event": "Ruthenium-based Grubbs catalysts win their inventors (Grubbs, Schrock, Chauvin) the Nobel Prize in Chemistry for olefin metathesis — a reaction fundamental to pharmaceutical synthesis, polymer chemistry, and fine chemical production. Ruthenium's catalytic role had been quietly transforming chemistry for decades."
+    }
+  ],
+  "story": "Ruthenium's discovery required extraordinary patience. The platinum group metals — ruthenium, rhodium, palladium, osmium, iridium, and platinum — are among the most chemically similar elements in the periodic table, and separating them requires techniques that simply didn't exist in the early 19th century. Osann fumbled the discovery twice; Berzelius dismissed it; only Claus, working methodically for four years in a Russian provincial university far from the centers of European science, had the patience and skill to isolate the element definitively. Claus is barely remembered today, yet his discovery gave chemistry one of its most useful catalysts — the Grubbs ruthenium carbene that now underpins pharmaceutical synthesis worldwide.",
+  "source_note": "Disputed early claims by Osann (1808, 1826). Definitive isolation by Claus (1844) at Kazan University. Named for Russia (Ruthenia). Published in Liebig's Annalen der Chemie, 1845."
+}

@@ -1,0 +1,36 @@
+{
+  "discovered": 1913,
+  "discoverer": "Kazimierz Fajans & Oswald Helmuth Göhring / Fredrick Soddy & John Arnold Cranston (independently)",
+  "country": "Germany / United Kingdom",
+  "named_by": "Otto Hahn & Lise Meitner",
+  "named": 1918,
+  "etymology": "From proto- (before) + actinium — protactinium is so named because it decays into actinium. The prefix 'proto-' indicates it is the parent (precursor) of actinium in the uranium-235 decay chain. An earlier name, 'brevium' (from Latin brevis, short) was given to the short-lived Pa-234 isotope by Fajans and Göhring in 1913.",
+  "timeline": [
+    {
+      "year": 1913,
+      "event": "Kazimierz Fajans and Oswald Helmuth Göhring, German-Polish researchers at Karlsruhe, identify a short-lived radioactive isotope (Pa-234, t½ = 1.17 minutes) in the uranium decay chain. They name it 'brevium' for its extremely short half-life. This is the first observation of element 91, but the isotope is too short-lived to characterize chemically."
+    },
+    {
+      "year": 1918,
+      "event": "Otto Hahn and Lise Meitner in Berlin, and Fredrick Soddy and John Cranston in Glasgow, simultaneously and independently identify a much longer-lived isotope — Pa-231 (t½ = 32,760 years) — in uranium ore. The long half-life allows chemical characterization. Hahn and Meitner name it 'protactinium' because it decays to actinium."
+    },
+    {
+      "year": 1918,
+      "event": "IUPAC eventually credits all four discoverers — Fajans and Göhring for the first isotope (brevium/Pa-234), and Hahn, Meitner, Soddy, and Cranston for the chemically characterized Pa-231. Hahn and Meitner's name 'protactinium' is adopted officially."
+    },
+    {
+      "year": 1934,
+      "event": "Aristid von Grosse isolates 2 milligrams of pure protactinium oxide from 0.1 grams of the element — the first isolation in visible quantity, requiring the processing of several tonnes of uranium ore residues from the Belgian Congo."
+    },
+    {
+      "year": 1961,
+      "event": "The British Atomic Energy Authority produces about 125 grams of protactinium-231 — the world's largest supply — from uranium processing residues. This sample remains the basis of virtually all Pa-231 chemistry research conducted worldwide since then."
+    },
+    {
+      "year": 1980,
+      "event": "The Pa-231/Th-230 ratio in marine sediments is developed as a paleoceanographic tracer — measuring past changes in ocean circulation. The ratio provides evidence for changes in the Atlantic Meridional Overturning Circulation during past ice ages, becoming a key tool in paleoclimate research."
+    }
+  ],
+  "story": "Protactinium's discovery is one of the most complex priority situations in element history — four different people in two different countries, working independently and simultaneously, identified different isotopes of the same element. The first observers (Fajans and Göhring) found an isotope so short-lived it couldn't be characterized chemically; the second group (Hahn, Meitner, Soddy, Cranston) found the long-lived isotope that could actually be studied. Lise Meitner, who would later co-discover nuclear fission, contributed substantially to protactinium's characterization before her most famous work. The element that precedes actinium in a radioactive decay chain now quietly enables one of the most important tools in climate science: reading past ocean circulation from sediment chemistry.",
+  "source_note": "Pa-234 (brevium) identified by Fajans and Göhring (1913). Pa-231 independently identified by Hahn and Meitner (Berlin) and Soddy and Cranston (Glasgow), both 1918. Named protactinium by Hahn and Meitner."
+}

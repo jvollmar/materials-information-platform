@@ -1,0 +1,40 @@
+{
+  "discovered": 1829,
+  "discoverer": "Jöns Jacob Berzelius",
+  "country": "Sweden",
+  "named_by": "Jöns Jacob Berzelius",
+  "named": 1829,
+  "etymology": "From Thor — the Norse god of thunder, strength, and storms, wielder of the hammer Mjolnir. Berzelius, a Swede, chose the name from Norse mythology to honor the Scandinavian tradition. An earlier 'thorium' had been named by Berzelius himself in 1815 for a different mineral, which later proved to be impure yttrium phosphate — so the name was re-used for the genuine new element in 1829.",
+  "timeline": [
+    {
+      "year": 1815,
+      "event": "Berzelius analyzes a mineral from the Falun copper mine and believes he has found a new element — he names it 'thorium' after Thor. Further investigation proves the mineral is yttrium phosphate contaminated with silicate. Berzelius withdraws the name but saves it for future use."
+    },
+    {
+      "year": 1828,
+      "event": "Morten Thrane Esmark, a Norwegian priest and amateur mineralogist (and son of a famous Norwegian mineralogist), finds an unusual black mineral on the island of Løvøya in Norway. He sends samples to his father, who sends them to Berzelius."
+    },
+    {
+      "year": 1829,
+      "event": "Berzelius analyzes the Norwegian mineral and finds it contains a new earth unlike anything previously known. He isolates a tin-white metallic powder and names it thorium — recycling the name he had withdrawn in 1815. The mineral is named thorite in honor of the discovery."
+    },
+    {
+      "year": 1898,
+      "event": "Marie Curie and Gerhard Carl Schmidt independently discover that thorium is radioactive — the second element found to be naturally radioactive, after uranium. Schmidt publishes his observation first by weeks; Marie Curie publishes independently. The discovery that thorium decays radioactively is fundamental to understanding radioactive decay series."
+    },
+    {
+      "year": 1899,
+      "event": "Carl Auer von Welsbach uses thorium oxide in his incandescent gas mantle — a fabric coated with 99% ThO₂ and 1% CeO₂ that glows brilliantly white when heated. The Welsbach mantle transforms gas lighting and makes thorium one of the most commercially significant radioactive materials of the early 20th century."
+    },
+    {
+      "year": 1959,
+      "event": "The Molten Salt Reactor Experiment (MSRE) and the Shippingport Atomic Power Station's light water breeder reactor program begin exploring thorium as a nuclear fuel — thorium-232 absorbs neutrons to become uranium-233, a fissile fuel. India begins its three-stage nuclear program explicitly designed around its large thorium reserves."
+    },
+    {
+      "year": 2011,
+      "event": "Interest in thorium reactors surges following the Fukushima disaster — thorium fuel cycles produce less long-lived transuranic waste and are considered proliferation-resistant. Several nations and companies announce thorium reactor programs, though commercial thorium power remains unrealized."
+    }
+  ],
+  "story": "Berzelius named thorium twice — once for a mineral that turned out to be something else entirely, and once for a genuine new element. His persistence in using the same name is one of chemistry's minor curiosities. Thorium's history splits neatly into two eras: before and after the discovery of radioactivity. Before 1898, thorium was an unremarkable rare earth. After 1898, it became one of only a handful of naturally occurring radioactive elements, and its decay chain includes radon (the indoor air hazard) and radium. The gas mantle — one of the most widely used thorium applications of the 20th century — placed mildly radioactive thorium oxide in billions of camping lanterns and gas lights worldwide. Thorium's potential as a nuclear fuel remains one of the energy debates of the 21st century.",
+  "source_note": "Discovered by Berzelius (1829) in Norwegian thorite mineral. Named after Thor (Norse god). Radioactivity discovered by Schmidt and Curie (1898). Published in Annalen der Physik und Chemie, 1829."
+}

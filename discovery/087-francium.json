@@ -1,0 +1,40 @@
+{
+  "discovered": 1939,
+  "discoverer": "Marguerite Perey",
+  "country": "France (Institut du Radium, Paris)",
+  "named_by": "Marguerite Perey",
+  "named": 1946,
+  "etymology": "From France — Marguerite Perey, a French physicist, named her discovered element after her homeland France. The naming continued the tradition begun by Marie Curie (who named polonium after Poland) of honoring one's country through an element name. Francium was the last element discovered in nature (as opposed to being artificially produced).",
+  "timeline": [
+    {
+      "year": 1870,
+      "event": "Mendeleev predicts an element below cesium in the alkali metal group — the heaviest and most reactive alkali metal. He calls it 'eka-cesium' and predicts it will be extremely reactive. The element proves impossible to find for 69 years because it occurs only fleetingly in radioactive decay chains."
+    },
+    {
+      "year": 1925,
+      "event": "Several scientists claim to discover element 87 — 'virginium' (Allison, USA), 'alkalinium' (Friend, UK), 'russium' (Shtark, USSR) — none confirmed. The difficulty is that francium is so short-lived it cannot accumulate in detectable quantities; it exists only as a fleeting product of radioactive decay."
+    },
+    {
+      "year": 1939,
+      "event": "Marguerite Perey, a young physicist at the Institut du Radium in Paris who had been Marie Curie's personal laboratory assistant, is purifying actinium samples when she notices a decay product with anomalous behavior. She meticulously isolates and characterizes the new radioactive element by its decay properties."
+    },
+    {
+      "year": 1939,
+      "event": "Perey correctly identifies the new element as the product of alpha decay of actinium-227 — it is actinium's 'daughter' element 87. She demonstrates it is an alkali metal heavier than cesium, matching Mendeleev's long-predicted eka-cesium. The discovery makes Perey the last person to discover a naturally occurring element."
+    },
+    {
+      "year": 1946,
+      "event": "Perey names the element francium after France. The naming ceremony of sorts delayed because the paper was written during the German occupation of France; Perey waited until after liberation to formally name it. In 1962, she becomes the first woman elected to the French Academy of Sciences — partly on the strength of francium's discovery."
+    },
+    {
+      "year": 1995,
+      "event": "Researchers at SUNY Stony Brook create the first visible sample of francium — about 200,000 atoms trapped in a magneto-optical trap at extremely low temperature. This is the first time francium has been observed in bulk (rather than inferred from radioactive emissions) in the 56 years since its discovery."
+    },
+    {
+      "year": 2000,
+      "event": "TRIUMF laboratory in Canada begins systematic laser spectroscopy of francium atoms — studying the heavy atom's electronic structure to test relativistic quantum chemistry and probe parity violation in atomic physics."
+    }
+  ],
+  "story": "Marguerite Perey made her discovery while performing what was essentially a service job — purifying actinium for senior researchers at the Institut du Radium. She noticed an anomaly in the decay products, pursued it with scientific rigor, and identified a new element. Her story is one of science's better examples of careful observation by someone without a prestigious position: she was a laboratory technician, not a professor or researcher, when she found francium. Perey named it France but thought of it as hers — and the French Academy's eventual election of her, the first woman in that body's 350-year history, acknowledged the achievement. Francium is the most unstable naturally occurring element: no more than 20-30 grams exist anywhere on Earth at any given time, continuously born and continuously dying in uranium ore.",
+  "source_note": "Discovered by Marguerite Perey (1939) at Institut du Radium, Paris. Named after France (1946). Last naturally occurring element to be discovered. Published in Comptes Rendus, 1939."
+}

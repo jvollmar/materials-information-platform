@@ -1,0 +1,40 @@
+{
+  "discovered": 1898,
+  "discoverer": "William Ramsay & Morris Travers",
+  "country": "United Kingdom",
+  "named_by": "William Ramsay & Morris Travers",
+  "named": 1898,
+  "etymology": "Greek: neos (new) — simply named 'the new one' because it was a newly discovered element. Ramsay's son suggested the name after the family discussed options at the dinner table.",
+  "timeline": [
+    {
+      "year": 1894,
+      "event": "Lord Rayleigh and William Ramsay discover argon by noticing that nitrogen isolated from air is consistently 0.5% denser than nitrogen from chemical sources. After painstaking investigation, they isolate the mystery component — argon, the first noble gas. The discovery of a whole new group of chemically inert elements shocks the scientific world."
+    },
+    {
+      "year": 1895,
+      "event": "William Ramsay isolates helium from the mineral cleveite, confirming that the mysterious solar spectral line observed in 1868 corresponds to a real terrestrial element. He now suspects there is an entire family of inert gases between helium and argon in the periodic table."
+    },
+    {
+      "year": 1898,
+      "event": "Ramsay and his assistant Morris Travers obtain 15 liters of liquid argon from the newly established industrial air liquefaction process. In May, they allow it to evaporate and examine the most volatile fraction — finding krypton. In July, they examine the least volatile fraction — finding xenon. Between these two, they search for the missing element between helium and argon."
+    },
+    {
+      "year": 1898,
+      "event": "On June 12, 1898, Ramsay and Travers isolate neon from liquid air by fractional distillation, collecting the fraction that boils between helium and argon. When they pass an electric discharge through it, the gas glows with a brilliant scarlet-orange light unlike any previously seen. Travers later writes: 'The blaze of crimson light from the tube told its own story and was a sight to dwell upon and never forget.'"
+    },
+    {
+      "year": 1898,
+      "event": "Ramsay's young son William suggests naming the new element 'novum' (Latin for new). The family settles on 'neon' from the Greek neos — simpler and more elegant. Within weeks, krypton and xenon are also isolated and named, making 1898 the most productive year in the history of element discovery."
+    },
+    {
+      "year": 1910,
+      "event": "French engineer Georges Claude develops a practical method for liquefying large quantities of air and separating its components, enabling commercial production of neon, argon, and other noble gases for the first time."
+    },
+    {
+      "year": 1912,
+      "event": "Georges Claude displays the first neon lamp at the Paris Motor Show — two 12-meter tubes of glowing red-orange neon gas. He patents the technology and introduces it to the United States in 1923, selling the first neon signs to a Los Angeles Packard automobile dealership for $1,250 each. The neon sign industry is born."
+    }
+  ],
+  "story": "Neon was discovered in a single extraordinary summer by two men working at a frantic pace. Ramsay had predicted a missing noble gas between helium and argon based on the periodicity of atomic weights, and he was determined to find it. The method — fractional distillation of liquid air — was brutally simple but technically demanding. The reward was instantaneous and spectacular: the moment they passed electricity through their sample, the tube blazed with a color no one had ever seen produced artificially. Neon's discovery is one of the few in chemistry where the element announced itself visually, dramatically, and unforgettably.",
+  "source_note": "Discovered by Ramsay and Travers, June 12, 1898. Published in the Proceedings of the Royal Society, 1898. Ramsay awarded Nobel Prize in Chemistry 1904 for discovery of noble gases."
+}

@@ -1,0 +1,40 @@
+{
+  "discovered": 1817,
+  "discoverer": "Jöns Jacob Berzelius & Johan Gottlieb Gahn",
+  "country": "Sweden",
+  "named_by": "Jöns Jacob Berzelius",
+  "named": 1817,
+  "etymology": "Greek: Selene (the Moon goddess) — named by Berzelius as a companion to tellurium, which had been named after the Earth (Latin: tellus). Since selenium was found alongside tellurium and had similar properties, Berzelius paired it with the Moon to complement the Earth naming.",
+  "timeline": [
+    {
+      "year": 1817,
+      "event": "Jöns Jacob Berzelius and Johan Gottlieb Gahn are investigating a peculiar red deposit that forms in the lead chambers of their sulfuric acid factory at Gripsholm, Sweden. The deposit has properties inconsistent with any known element — it produces a smell like horseradish when burned and has unusual physical properties. They initially suspect it might be tellurium."
+    },
+    {
+      "year": 1817,
+      "event": "After careful analysis, Berzelius determines the red deposit is not tellurium but a new element with similar but distinct properties. He isolates it and names it selenium after the Greek moon goddess Selene — choosing this name because selenium and tellurium (named for Earth) are chemical siblings. The discovery is published in 1818."
+    },
+    {
+      "year": 1873,
+      "event": "Willoughby Smith discovers that crystalline selenium is a photoconductor — its electrical resistance decreases dramatically when exposed to light. This is the first known photoelectric effect in a solid material, though its mechanism won't be understood for decades."
+    },
+    {
+      "year": 1876,
+      "event": "Werner Siemens and William Adams demonstrate a selenium solar cell — a device that converts light directly to electricity. It is wildly inefficient (~1%) but establishes the principle of photovoltaic electricity generation. Adams and Day publish the first systematic study of the photovoltaic effect in selenium."
+    },
+    {
+      "year": 1938,
+      "event": "Chester Carlson invents xerography (photocopying) using selenium's photoconductor properties — a charged selenium drum is selectively discharged by light, attracting toner to dark areas of an image. Xerox, founded in 1959, makes this technology commercially practical. Billions of photocopies are made using selenium drums."
+    },
+    {
+      "year": 1957,
+      "event": "Klaus Schwarz and Calvin Foltz discover that selenium is an essential trace element for mammals — selenium deficiency in rats causes liver necrosis. Selenium becomes recognized as a micronutrient essential for human health, required for thyroid function and antioxidant enzymes."
+    },
+    {
+      "year": 2011,
+      "event": "Selenium's role in CIGS (copper indium gallium selenide) thin-film solar cells becomes commercially significant as Solar Frontier in Japan and other companies produce CIGS panels with efficiencies exceeding 20% — bringing Willoughby Smith's 1873 photoconductor discovery full circle to large-scale solar energy generation."
+    }
+  ],
+  "story": "Berzelius was a titan of early 19th-century chemistry — he discovered selenium, silicon, thorium, and cerium, and determined the atomic weights of nearly 40 elements. His discovery of selenium came from careful observation of an anomaly in a routine industrial process: an unexpected red deposit in a sulfuric acid factory. The Moon-goddess name paired with tellurium's Earth-goddess name reflects Berzelius's elegant systematic approach to chemistry. Selenium's story also illustrates how a single physical property — its photoconductive response to light — can drive a century's worth of technology, from the first solar cells in 1876 to the photocopier in 1938 to CIGS solar panels today.",
+  "source_note": "Discovered by Berzelius and Gahn (1817) in sulfuric acid factory deposit. Published by Berzelius in Annales de Chimie et de Physique (1818). Named from Greek Selene (Moon)."
+}

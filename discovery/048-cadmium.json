@@ -1,0 +1,40 @@
+{
+  "discovered": 1817,
+  "discoverer": "Friedrich Strohmeyer",
+  "country": "Germany",
+  "named_by": "Friedrich Strohmeyer",
+  "named": 1817,
+  "etymology": "Latin: cadmia / Greek: kadmeia — the ancient name for calamine (zinc carbonate, ZnCO₃) or zinc oxide, both of which are ores containing cadmium as an impurity. The name ultimately derives from Cadmus, the mythological Phoenician prince who founded Thebes and brought the alphabet to Greece. The mineral 'cadmia' was found near ancient Thebes.",
+  "timeline": [
+    {
+      "year": 1817,
+      "event": "Friedrich Strohmeyer, Inspector General of Apothecaries for the Kingdom of Hanover, is investigating a complaint that some zinc carbonate (calamine) sold by pharmacies does not turn white when heated — as pure zinc carbonate should — but instead turns yellow. He investigates the impure calamine and finds it contains an unknown element responsible for the yellow color."
+    },
+    {
+      "year": 1817,
+      "event": "Strohmeyer isolates cadmium metal by roasting the sulfide and reducing the oxide with carbon. He names it cadmium after cadmia, the ancient name for zinc oxide and zinc carbonate ores. The discovery arises entirely from a routine pharmaceutical quality control inspection — one of the more prosaic origins of any element discovery."
+    },
+    {
+      "year": 1817,
+      "event": "In the same year, Karl Samuel Leberecht Hermann and Wilhelm Meissner independently discover cadmium while also investigating the impurities in zinc compounds from Silesia. Three independent discoverers in one year — a testament to how widespread zinc processing was across early 19th-century Europe."
+    },
+    {
+      "year": 1907,
+      "event": "Cadmium sulfide (CdS) is used as a yellow pigment in painting — 'cadmium yellow' becomes prized by artists for its brilliant, lightfast yellow color. Cadmium red (cadmium sulfoselenide) follows, becoming the most valued red pigment of the early 20th century. Artists including Monet, Matisse, and later van Gogh use cadmium pigments extensively."
+    },
+    {
+      "year": 1956,
+      "event": "The first nickel-cadmium (NiCd) rechargeable batteries are commercialized — cadmium's electrochemical properties make it an excellent battery anode material. NiCd batteries dominate portable electronics, power tools, and emergency backup systems for decades."
+    },
+    {
+      "year": 1956,
+      "event": "Itai-itai disease ('it hurts, it hurts') appears in the Toyama prefecture of Japan — caused by cadmium contamination of rice paddies from a mining operation. The disease causes severe bone pain and fractures as cadmium accumulates in kidneys and competes with calcium in bones. It becomes one of the first recognized industrial pollution diseases and leads to strict cadmium regulations."
+    },
+    {
+      "year": 1991,
+      "event": "First Solar begins developing cadmium telluride (CdTe) thin-film solar panels — eventually becoming the world's largest manufacturer of CdTe modules and making cadmium central to the thin-film solar industry."
+    }
+  ],
+  "story": "Cadmium was discovered because a pharmaceutical inspector was doing his job. Strohmeyer's routine quality control inspection of pharmacy supplies — checking that zinc carbonate met purity standards — led to the identification of a new element. It is one of chemistry's more charming origin stories: not a brilliant theorist's prediction, not a spectacular laboratory reaction, but a methodical civil servant noticing that something smelled wrong (or in this case, turned the wrong color). Cadmium's subsequent history is a study in dual nature: the brilliant cadmium yellow and red pigments that enhanced some of the greatest paintings of the 20th century are produced by the same element that caused the agonizing Itai-itai disease in Japan — beauty and toxicity from the same source.",
+  "source_note": "Discovered by Strohmeyer (1817) in impure zinc carbonate, Hanover. Independent discoveries by Hermann and Meissner (1817). Named from cadmia (zinc ore). Published 1818."
+}

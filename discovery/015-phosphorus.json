@@ -1,0 +1,44 @@
+{
+  "discovered": 1669,
+  "discoverer": "Hennig Brand",
+  "country": "Germany (Hamburg)",
+  "named_by": "Hennig Brand",
+  "named": 1669,
+  "etymology": "Greek: phosphoros (light-bearer) — named for its property of glowing in the dark through slow oxidation. The same Greek root gives us 'phosphorescence.' Brand named it after observing the eerie cold glow of white phosphorus in the dark.",
+  "timeline": [
+    {
+      "year": 1669,
+      "event": "Hennig Brand, a Hamburg merchant and alchemist searching for the philosopher's stone, evaporates large quantities of urine (reportedly 50 to 60 buckets) and heats the residue with sand at very high temperature. A waxy white substance distills over and glows with a ghostly green-white light in the dark — the first element discovered by a known individual in recorded history, and the first new element discovered since antiquity. Brand calls it 'cold fire' and keeps the process secret, hoping to profit from it."
+    },
+    {
+      "year": 1680,
+      "event": "Robert Boyle independently discovers phosphorus after learning the general method from Brand's associate Johann Daniel Krafft. Boyle improves the preparation and studies phosphorus's properties systematically — noting its extreme flammability and toxic nature. He publishes the discovery, making phosphorus widely known to the scientific community."
+    },
+    {
+      "year": 1769,
+      "event": "Johan Gottlieb Gahn and Carl Wilhelm Scheele discover that phosphorus is a component of bone ash (calcium phosphate) — a far more accessible source than urine. This allows preparation of phosphorus in much larger quantities and enables the study of phosphorus chemistry."
+    },
+    {
+      "year": 1771,
+      "event": "Carl Scheele develops a practical method for producing phosphorus from bone ash by treating it with sulfuric acid to release phosphoric acid, which is then reduced. This becomes the standard preparation method for over a century."
+    },
+    {
+      "year": 1827,
+      "event": "John Walker invents the friction match by coating a wooden stick with a paste containing antimony sulfide and potassium chlorate. The match required two surfaces — it was Charles Sauria's 1830 white phosphorus formulation that created the 'strike anywhere' match, which could be ignited on any surface."
+    },
+    {
+      "year": 1845,
+      "event": "Anton von Schrötter discovers red phosphorus, a non-toxic, non-flammable allotrope of phosphorus, by heating white phosphorus in a sealed tube. Red phosphorus becomes the basis of the safety match when combined with the striking surface."
+    },
+    {
+      "year": 1888,
+      "event": "Workers in match factories across Europe develop 'phossy jaw' — phosphorus necrosis of the jaw — a horrific occupational disease caused by inhaling white phosphorus fumes. The condition causes the jaw to glow green in the dark and is invariably fatal. Campaigns to ban white phosphorus in matches culminate in the 1906 Berne Convention."
+    },
+    {
+      "year": 1952,
+      "event": "Rosalind Franklin, using X-ray crystallography, and James Watson and Francis Crick, using her data, discover that DNA has a double helix structure with phosphate groups forming the backbone — revealing that phosphorus is central to the molecular basis of all hereditary information."
+    }
+  ],
+  "story": "Phosphorus holds a unique place in history as the first element with a known discoverer and a known discovery date. Every element before it — carbon, sulfur, gold, silver, copper, iron, tin, mercury, lead — was known since antiquity with no individual credited. Brand's 1669 discovery from urine represents the beginning of the age of element discovery. His secret was impractical — it required enormous quantities of urine to produce tiny amounts of phosphorus — but it opened a new era. Phosphorus's two faces perfectly capture its dual nature: it is essential to every living cell (DNA, RNA, ATP, cell membranes all contain phosphorus), yet white phosphorus burns through flesh to bone and was used as a weapon in both World Wars.",
+  "source_note": "Discovered by Brand, Hamburg, 1669. First published account by Boyle (1680). Discovery of bone-derived phosphorus by Scheele and Gahn (1769)."
+}

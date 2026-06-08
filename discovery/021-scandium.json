@@ -1,0 +1,36 @@
+{
+  "discovered": 1879,
+  "discoverer": "Lars Fredrik Nilson",
+  "country": "Sweden",
+  "named_by": "Lars Fredrik Nilson",
+  "named": 1879,
+  "etymology": "Latin: Scandia — the Latin name for Scandinavia. Nilson named it in honor of his home region, following the tradition of naming elements after their country of discovery.",
+  "timeline": [
+    {
+      "year": 1869,
+      "event": "Dmitri Mendeleev publishes his periodic table and predicts the existence of a missing element between calcium and titanium — element 21. He calls it 'ekaboron' (one step above boron in properties) and predicts an atomic weight of about 44, an oxide formula of X₂O₃, and a density of about 3.5 g/cm³. He publishes remarkably precise predictions for an element no one has yet seen."
+    },
+    {
+      "year": 1879,
+      "event": "Lars Fredrik Nilson, a Swedish chemist at Uppsala University, is analyzing the rare mineral euxenite and gadolinite to isolate ytterbium (recently discovered by Marignac). During the separation, he finds an unexpected residue that contains a new element. He isolates its oxide and characterizes the new element, which he names scandium after Scandinavia."
+    },
+    {
+      "year": 1879,
+      "event": "Per Teodor Cleve, also Swedish, immediately recognizes that Nilson's scandium matches Mendeleev's predicted 'ekaboron' — the atomic weight (44.96), oxide formula (Sc₂O₃), density, and chemical behavior all match Mendeleev's predictions with stunning accuracy. This confirmation of Mendeleev's prediction is one of the greatest triumphs of the periodic table."
+    },
+    {
+      "year": 1937,
+      "event": "Metallic scandium is first produced in pure form by electrolysis of molten scandium, potassium, and lithium chlorides — nearly 60 years after the element's discovery, reflecting how difficult scandium metal is to produce."
+    },
+    {
+      "year": 1971,
+      "event": "The first significant commercial use of scandium is developed — scandium iodide added to high-intensity mercury arc lamps produces a light spectrum closely resembling natural daylight, transforming stadium and film studio lighting."
+    },
+    {
+      "year": 1990,
+      "event": "Scandium-aluminum alloys begin to be used in Russian military aircraft (MiG fighters) and eventually in Western high-performance equipment. Tiny additions of scandium (0.1–0.3%) dramatically improve aluminum alloy strength and weldability, and the alloys are adopted for bicycle frames, baseball bats, and lacrosse sticks."
+    }
+  ],
+  "story": "Scandium's discovery was one of the most dramatic confirmations of scientific prediction in history. Mendeleev had not merely predicted that a missing element existed — he had specified its atomic weight, its oxide formula, its density, and its likely chemical properties, all from the logic of his periodic table alone. When Nilson isolated scandium in 1879 and Cleve compared its properties to Mendeleev's predictions, the match was so precise that it silenced the remaining skeptics of the periodic table as a predictive tool. Mendeleev had essentially discovered scandium theoretically nine years before Nilson found it in a Swedish mineral.",
+  "source_note": "Discovered by Nilson (1879) in euxenite mineral. Published in Comptes Rendus de l'Académie des Sciences. Confirmed as Mendeleev's ekaboron by Cleve (1879)."
+}

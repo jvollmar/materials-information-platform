@@ -1,0 +1,36 @@
+{
+  "discovered": 1907,
+  "discoverer": "Georges Urbain / Carl Auer von Welsbach (independently, disputed)",
+  "country": "France / Austria",
+  "named_by": "Georges Urbain",
+  "named": 1907,
+  "etymology": "From Lutetia — the Latin name for the ancient Roman city that became Paris. Urbain, a Parisian, named the last of the stable lanthanides after his home city. Welsbach had proposed the name 'cassiopeium' (Cp), and the naming dispute between Urbain and Welsbach lasted until IUPAC ruled in favor of Urbain's lutetium in 1949.",
+  "timeline": [
+    {
+      "year": 1878,
+      "event": "Marignac discovers ytterbium by separating it from erbia. But his ytterbium is not entirely pure — a heavier fraction remains that will eventually prove to be a new element."
+    },
+    {
+      "year": 1907,
+      "event": "Georges Urbain in Paris applies fractional crystallization to ytterbium preparations and separates two components — one with the properties of ytterbium, and a heavier fraction he calls lutetium after Lutetia (Paris). He publishes in September 1907."
+    },
+    {
+      "year": 1907,
+      "event": "Carl Auer von Welsbach, who had separated praseodymium from neodymium in 1885, independently separates the same two elements from ytterbium and proposes the names neoytterbium and cassiopeium. His results are submitted nearly simultaneously."
+    },
+    {
+      "year": 1909,
+      "event": "Charles James at New Hampshire independently isolates the same new heavy element, confirming both Urbain's and Welsbach's work without prior knowledge of either discovery — a triple independent discovery."
+    },
+    {
+      "year": 1949,
+      "event": "IUPAC settles the long-running priority dispute by ruling in favor of Urbain's 'lutetium' as the official name. The symbol Lu is adopted; cassiopeium and the symbol Cp are retired. Lutetium is the last stable lanthanide to receive its definitive name."
+    },
+    {
+      "year": 2018,
+      "event": "Lutetium-177 (¹⁷⁷Lu, t½ = 6.65 days) becomes the basis for two FDA-approved cancer therapies: Lutathera (lutetium-177 DOTATATE) for gastroenteropancreatic neuroendocrine tumors (2018), and Pluvicto (lutetium-177 PSMA-617) for prostate cancer (2022) — establishing lutetium as one of the most clinically important radioisotopes in oncology."
+    }
+  ],
+  "story": "Lutetium's discovery came with a naming dispute that lasted 42 years — Urbain's Paris (Lutetia) versus Welsbach's constellation Cassiopeia, with James's independent discovery adding a third voice. IUPAC's eventual ruling for lutetium was partly based on Urbain's slightly earlier publication date, but Welsbach's chemical evidence was equally sound. Lutetium has the distinction of being the last stable lanthanide discovered, the heaviest and densest stable lanthanide, and the most expensive stable rare earth by weight. Its modern second life as a cancer-treating radioisotope — with two separate FDA-approved drugs — has transformed it from a chemical curiosity into a therapeutic tool that extends the lives of cancer patients worldwide.",
+  "source_note": "Independently discovered by Urbain (Paris, 1907), Welsbach (Vienna, 1907), and James (New Hampshire, 1909). Named lutetium by Urbain from Lutetia (Paris). IUPAC ruling 1949."
+}

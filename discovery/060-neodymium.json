@@ -1,0 +1,36 @@
+{
+  "discovered": 1885,
+  "discoverer": "Carl Auer von Welsbach",
+  "country": "Austria",
+  "named_by": "Carl Auer von Welsbach",
+  "named": 1885,
+  "etymology": "Greek: neos (new) + didymos (twin) — 'new twin,' because it was the second of the two elements separated from didymium. Its companion praseodymium was the 'green twin'; neodymium was the 'new twin,' separated simultaneously from the same false element.",
+  "timeline": [
+    {
+      "year": 1841,
+      "event": "Mosander discovers 'didymium' within lanthanum oxide and names it for the Greek word for twin, because it is always accompanied by lanthanum. For over four decades, didymium is accepted as a genuine element in the periodic tables of the world."
+    },
+    {
+      "year": 1885,
+      "event": "Carl Auer von Welsbach, working through hundreds of fractional crystallizations of didymium ammonium nitrate, separates two distinct fractions. The pink to violet fraction — neodymium — has spectral lines and colored salts distinct from the green praseodymium fraction. Both are announced simultaneously as new elements."
+    },
+    {
+      "year": 1925,
+      "event": "Pure neodymium metal is produced for the first time in a meaningful quantity by reducing neodymium fluoride with calcium — allowing systematic measurement of the metal's physical and magnetic properties."
+    },
+    {
+      "year": 1964,
+      "event": "J. E. Geusic, H. M. Marcos, and L. G. Van Uitert develop the Nd:YAG laser (neodymium-doped yttrium aluminum garnet) at Bell Labs — one of the most versatile and widely used solid-state lasers in science and industry. Nd:YAG is used for eye surgery, metal welding, rangefinders, and scientific research."
+    },
+    {
+      "year": 1982,
+      "event": "Masato Sagawa at Sumitomo Special Metals in Japan and John Croat at General Motors independently discover neodymium-iron-boron (Nd₂Fe₁₄B) permanent magnets — the strongest permanent magnets known. These magnets revolutionize electric motors, generators, speakers, hard drives, and eventually become essential to every electric vehicle and wind turbine motor."
+    },
+    {
+      "year": 2010,
+      "event": "Demand for neodymium magnets surges as electric vehicles, wind turbines, and consumer electronics expand rapidly. China — which produces approximately 60% of the world's rare earth elements — restricts exports, causing a rare earth crisis that drives international efforts to develop alternative supply chains and recycling programs."
+    }
+  ],
+  "story": "Of all the lanthanides, neodymium may have done the most to change the modern world. The Nd₂Fe₁₄B permanent magnet discovered in 1982 is stronger than any previous magnet material — light enough to be practical in electric motors yet powerful enough to replace much larger electromagnets. The electric vehicle revolution is built on neodymium magnets: every EV traction motor contains them, typically 1–2 kg per vehicle. Wind turbine generators also rely on them. The 'new twin' that Welsbach extracted from a false element in 1885 has become one of the most geopolitically significant materials of the 21st century — nations compete for access to neodymium with the same urgency once reserved for oil.",
+  "source_note": "Discovered by Welsbach (1885) by separation of didymium. Named from Greek neos (new) + didymos (twin). Published in Monatshefte für Chemie, 1885. Nd₂Fe₁₄B magnet discovered by Sagawa and Croat (1982)."
+}

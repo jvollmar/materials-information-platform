@@ -1,0 +1,40 @@
+{
+  "discovered": 1803,
+  "discoverer": "Smithson Tennant",
+  "country": "United Kingdom",
+  "named_by": "Smithson Tennant",
+  "named": 1803,
+  "etymology": "Greek: osme (smell, odor) — named for the distinctive and intensely unpleasant odor of osmium tetroxide (OsO₄), produced when osmium is oxidized in air. The compound smells like a combination of ozone and something decaying, and is extremely toxic to the eyes and respiratory tract. The name immortalizes the most immediately apparent property of osmium chemistry.",
+  "timeline": [
+    {
+      "year": 1800,
+      "event": "Smithson Tennant, an English chemist of independent means, purchases crude platinum from South America to investigate its properties. He is particularly interested in the residue that remains undissolved after crude platinum is dissolved in aqua regia."
+    },
+    {
+      "year": 1803,
+      "event": "Tennant dissolves the undissolved residue in sodium hydroxide and then treats it with acid, obtaining two new metals. One forms a volatile blue-black oxide with a pungent, acrid smell — he names it osmium. The other forms a red-brown salt — he names it iridium for the rainbow of colors its compounds display. Both discoveries are published in a single landmark paper."
+    },
+    {
+      "year": 1803,
+      "event": "Tennant presents his discovery to the Royal Society and is awarded the Copley Medal — the Royal Society's most prestigious award — for the discovery of two new elements. His work demonstrates that crude platinum contains six different metals: platinum, palladium, rhodium, iridium, osmium, and ruthenium."
+    },
+    {
+      "year": 1804,
+      "event": "Tennant is killed in a horse-related accident near Boulogne in France — barely a year after his greatest scientific triumph. He dies at 45, the most consequential element discoverer of his generation, having found two new metals in a single afternoon's work."
+    },
+    {
+      "year": 1898,
+      "event": "Carl Auer von Welsbach introduces osmium filaments for incandescent light bulbs — osmium's very high melting point makes it a good filament material, and Welsbach's 'Osram' bulbs use osmium-tungsten alloy filaments. The company name 'Osram' combines Osmium and Wolfram (tungsten)."
+    },
+    {
+      "year": 1904,
+      "event": "Osmium-iridium (Os-Ir) alloy tips are used for the nibs of fountain pens and for stylus tips in phonograph needles — the hardest naturally occurring alloy, resistant to wear. 'Osmiridium' or 'iridosmine' remains in use for premium pen nibs."
+    },
+    {
+      "year": 1985,
+      "event": "Osmium tetroxide (OsO₄) becomes established as the standard fixative and stain for biological tissue in transmission electron microscopy — it reacts with lipid double bonds to fix and stain cell membranes, making them visible in the electron microscope. Despite its extreme toxicity, OsO₄ remains irreplaceable in biological TEM preparation."
+    }
+  ],
+  "story": "Smithson Tennant made one of the greatest single-session discoveries in chemistry — finding two new elements in a single experiment from the residue of dissolved platinum. He worked in an era when good experimental design and careful observation could yield spectacular results without complex instruments. His death the following year was one of science's crueler losses. Osmium itself is most remarkable for being the densest naturally occurring substance on Earth (22.59 g/cm³) — denser even than gold or platinum — and for producing one of the most toxic simple compounds in all of chemistry (OsO₄) from a metal that otherwise looks innocuous. The element named for its smell is most useful today for making things visible — staining the membranes of cells for electron microscopy.",
+  "source_note": "Discovered by Tennant (1803) from platinum ore residue. Named from Greek osme (smell) for OsO₄'s odor. Published in Philosophical Transactions, 1804. Tennant died 1804."
+}

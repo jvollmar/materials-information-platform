@@ -1,0 +1,40 @@
+{
+  "discovered": 1923,
+  "discoverer": "Dirk Coster & George de Hevesy",
+  "country": "Denmark (Copenhagen)",
+  "named_by": "Dirk Coster & George de Hevesy",
+  "named": 1923,
+  "etymology": "From Hafnia — the Latin name for Copenhagen, the capital of Denmark, where it was discovered at Niels Bohr's Institute for Theoretical Physics. The name honored the city and indirectly honored Niels Bohr, whose atomic theory had predicted where to look for the missing element.",
+  "timeline": [
+    {
+      "year": 1869,
+      "event": "Mendeleev's periodic table predicts the existence of element 72 — a transition metal that should follow lanthanum in the periodic system. The element proves difficult to find because it always occurs mixed with zirconium, from which it is nearly impossible to separate by conventional chemistry."
+    },
+    {
+      "year": 1911,
+      "event": "Multiple false claims for the discovery of element 72 are made. Georges Urbain claims to have found it in rare earth fractions and names it 'celtium' — but his evidence is disputed. X-ray spectroscopy, the decisive test, does not support his claim."
+    },
+    {
+      "year": 1922,
+      "event": "Niels Bohr, accepting the Nobel Prize in Physics in Stockholm, predicts that element 72 will be found associated with zirconium ores rather than rare earth minerals — based on his new electron configuration theory. This publicly stated prediction directs the search correctly."
+    },
+    {
+      "year": 1923,
+      "event": "Dirk Coster, a Dutch physicist, and George de Hevesy, a Hungarian chemist, both working at Bohr's Institute in Copenhagen, apply X-ray spectroscopy to Norwegian zirconium minerals. On January 11, 1923, they detect the X-ray spectral lines characteristic of element 72 — definitively confirming its presence in zirconite."
+    },
+    {
+      "year": 1923,
+      "event": "Coster and de Hevesy announce the discovery and name it hafnium after Hafnia (Copenhagen), honoring the city where the discovery was made. Niels Bohr's prediction had been exactly right. Urbain's 'celtium' claim is definitively rejected."
+    },
+    {
+      "year": 1925,
+      "event": "Anton von Arkel and Jan de Boer produce the first pure hafnium metal using their iodide crystal bar process — heating hafnium iodide in a sealed tube to deposit pure metal on a hot wire."
+    },
+    {
+      "year": 2007,
+      "event": "Intel introduces hafnium oxide (HfO₂) as the gate dielectric in 45nm transistors — replacing silicon dioxide after 40 years. The hafnium high-k dielectric eliminates the quantum tunneling current that was causing enormous power leakage in silicon dioxide layers just a few atoms thick. Every advanced processor since 2007 contains hafnium."
+    }
+  ],
+  "story": "Hafnium was found exactly where Niels Bohr's theory said to look — not in the rare earths as Urbain had claimed, but in zirconium minerals. Bohr's electron configuration theory predicted that element 72 would be a transition metal (like zirconium) rather than a lanthanide, and he said so publicly in his Nobel Prize lecture. When Coster and de Hevesy confirmed the prediction just weeks later, it was one of the most satisfying demonstrations of predictive theory in 20th-century chemistry. The element named after Copenhagen later found its way into every transistor in every modern computer chip — a journey from Bohr's blackboard to the silicon wafer that Bohr himself could never have imagined.",
+  "source_note": "Discovered by Coster and de Hevesy, January 1923, Copenhagen. Named from Hafnia (Copenhagen). Published in Nature, January 20, 1923. Predicted by Bohr's atomic theory."
+}

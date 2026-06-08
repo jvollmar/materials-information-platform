@@ -1,0 +1,40 @@
+{
+  "discovered": 1789,
+  "discoverer": "Martin Heinrich Klaproth",
+  "country": "Germany",
+  "named_by": "Martin Heinrich Klaproth",
+  "named": 1789,
+  "etymology": "From Uranus — the planet discovered by William Herschel in 1781, just eight years before uranium's discovery. Klaproth named the new element after the newly discovered outermost planet of the solar system (Neptune and Pluto were not yet known), following a brief fashion for celestial naming that also produced cerium (Ceres) and palladium (Pallas). The element and the planet share the same root as 'Ouranos,' the Greek sky god.",
+  "timeline": [
+    {
+      "year": 1789,
+      "event": "Martin Heinrich Klaproth analyzes the mineral pitchblende (uraninite, UO₂) from the Joachimsthal mines in Bohemia (now Czech Republic). He finds it contains a new substance unlike any known metal — a black powder he produces by reducing pitchblende with charcoal. He names it uranium after the recently discovered planet Uranus."
+    },
+    {
+      "year": 1841,
+      "event": "Eugène-Melchior Péligot at the École Centrale in Paris proves that what Klaproth produced was not uranium metal but uranium dioxide (UO₂) — still an oxide. Péligot reduces uranium tetrachloride with potassium and produces the first true uranium metal — a dense, silvery, ductile metal."
+    },
+    {
+      "year": 1896,
+      "event": "Henri Becquerel discovers that uranium spontaneously fogs photographic plates even without light exposure — discovering radioactivity in uranium. The investigation of this phenomenon by Marie Curie leads to the discovery of polonium and radium and ultimately transforms physics and chemistry."
+    },
+    {
+      "year": 1938,
+      "event": "Otto Hahn and Fritz Strassmann in Berlin bombard uranium with neutrons and find barium in the products — incomprehensible until Lise Meitner and Otto Frisch (working in exile) correctly interpret the result: uranium nuclei are splitting in two. Nuclear fission is discovered and explained within weeks."
+    },
+    {
+      "year": 1942,
+      "event": "Enrico Fermi and colleagues at the University of Chicago achieve the first self-sustaining nuclear chain reaction — Chicago Pile-1 — using natural uranium. The Manhattan Project is already underway, driven by fear that Nazi Germany is developing the same technology."
+    },
+    {
+      "year": 1945,
+      "event": "The Little Boy atomic bomb — using highly enriched uranium-235 — is detonated over Hiroshima on August 6, 1945. The weapon kills approximately 70,000-80,000 people immediately, with tens of thousands more dying subsequently from radiation. The atomic age begins."
+    },
+    {
+      "year": 1954,
+      "event": "The world's first commercial nuclear power plant begins operation at Obninsk, USSR, using enriched uranium fuel. Uranium enters its second great industrial role — fuel for nuclear power generation. Nuclear power eventually produces approximately 10% of the world's electricity."
+    }
+  ],
+  "story": "No element in chemistry has had a more consequential history than uranium. A mineral curiosity in 1789, a source of pretty yellowish glass by the 19th century, it spent 150 years as a minor industrial material. Then in 1938 Hahn and Strassmann found something in their laboratory that changed the world: uranium nuclei, struck by slow neutrons, split in two. This meant energy — enormous, concentrated energy — could be released by breaking atoms. The consequences unfolded in seven years: the Manhattan Project, Hiroshima, Nagasaki, the Cold War, and the nuclear deterrent that has prevented great-power conflict for 80 years. Uranium's story is the story of the 20th century's defining technology — the most consequential discovery in physics since Newton.",
+  "source_note": "Discovered by Klaproth (1789) in pitchblende. Named after planet Uranus. True metal isolated by Péligot (1841). Radioactivity by Becquerel (1896). Fission by Hahn and Strassmann (1938)."
+}

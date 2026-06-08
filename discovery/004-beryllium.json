@@ -1,0 +1,40 @@
+{
+  "discovered": 1798,
+  "discoverer": "Louis-Nicolas Vauquelin",
+  "country": "France",
+  "named_by": "Martin Heinrich Klaproth (proposed 'beryllium'); René-Just Haüy (proposed 'glucinium')",
+  "named": 1798,
+  "etymology": "Greek: beryllos (beryl, the gemstone) — named after the mineral beryl (Be₃Al₂Si₆O₁₈) in which it was discovered. The competing name 'glucinium' (from Greek glykys, sweet) referred to the sweet taste of beryllium compounds — now known to be dangerously toxic.",
+  "timeline": [
+    {
+      "year": 1798,
+      "event": "Louis-Nicolas Vauquelin, a French chemist, analyzes the mineral beryl (emeralds and aquamarines are gem varieties of beryl) at the request of mineralogist René-Just Haüy, who suspects it contains an unidentified earth. Vauquelin isolates a new alkaline earth oxide — beryllia (BeO) — and recognizes it as distinct from alumina despite superficial similarities. He notes its salts have a faintly sweet taste, leading Haüy to suggest the name glucinium."
+    },
+    {
+      "year": 1798,
+      "event": "German chemist Martin Klaproth independently confirms Vauquelin's discovery and proposes the name beryllium after the mineral beryl. A naming dispute ensues — France prefers glucinium (Gl), while the rest of Europe favors beryllium (Be). The dispute lasts over a century."
+    },
+    {
+      "year": 1828,
+      "event": "Friedrich Wöhler in Germany and Antoine Bussy in France independently isolate metallic beryllium by reducing beryllium chloride with potassium metal. Wöhler notes the metal is grey, hard, and distinctly different from magnesium. This is the same year Wöhler synthesizes urea, overturning vitalism — 1828 is an extraordinary year for chemistry."
+    },
+    {
+      "year": 1869,
+      "event": "Dmitri Mendeleev places beryllium in his periodic table, but assigns it an incorrect atomic weight. Lothar Meyer and Lars Fredrik Nilson later correct the error — beryllium's position in Group 2 is confirmed by its chemical behavior, not its measured atomic weight."
+    },
+    {
+      "year": 1898,
+      "event": "Paul Lebeau produces the first pure sample of beryllium metal by electrolysis of molten beryllium fluoride, enabling systematic study of its physical properties for the first time."
+    },
+    {
+      "year": 1932,
+      "event": "James Chadwick uses beryllium in a landmark nuclear physics experiment — bombarding beryllium with alpha particles produces a penetrating radiation that Chadwick correctly identifies as neutrons, earning him the 1935 Nobel Prize in Physics and discovering the neutron."
+    },
+    {
+      "year": 1957,
+      "event": "The International Union of Pure and Applied Chemistry (IUPAC) officially resolves the 159-year naming dispute in favor of beryllium (not glucinium). France abandons Gl and adopts Be, ending one of chemistry's longest nomenclature controversies."
+    }
+  ],
+  "story": "Beryllium is one of chemistry's most contentious elements — its discovery sparked a naming war between France and the rest of the world that lasted 159 years. The French insisted on glucinium well into the 20th century, and French chemistry textbooks used Gl as the symbol decades after everyone else had moved on. The irony of the sweet-taste name (glucinium) is dark: beryllium compounds are now known to be highly toxic, causing a serious chronic lung disease (berylliosis) in anyone who inhales the dust — and beryllium metal is a known carcinogen. It is perhaps the most dangerous of all the light metals.",
+  "source_note": "Discovery attributed to Vauquelin per his 1798 paper in Annales de Chimie. Isolation credited jointly to Wöhler and Bussy (1828)."
+}

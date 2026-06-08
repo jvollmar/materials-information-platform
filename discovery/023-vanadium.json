@@ -1,0 +1,40 @@
+{
+  "discovered": 1830,
+  "discoverer": "Nils Gabriel Sefström",
+  "country": "Sweden",
+  "named_by": "Nils Gabriel Sefström",
+  "named": 1830,
+  "etymology": "From Vanadis — a Norse name for the goddess Freyja, goddess of beauty and fertility. Sefström chose the name because of the beautiful multicolored compounds vanadium forms. The element had been discovered once before under a different name (erythronium) by Andrés Manuel del Río in 1801, who then retracted his claim.",
+  "timeline": [
+    {
+      "year": 1801,
+      "event": "Andrés Manuel del Río, a Spanish mineralogist working in Mexico, discovers a new element in a brown lead ore (now known as vanadinite) from the Zimapán mine. He names it 'erythronium' (from Greek erythros, red) because its salts turn red on heating. He initially announces the discovery but is then convinced by a French chemist (Hippolyte Victor Collet-Descotils) that he has only rediscovered chromium. Del Río retracts his claim — a mistake he regrets for the rest of his life."
+    },
+    {
+      "year": 1830,
+      "event": "Nils Gabriel Sefström, a Swedish chemist, discovers an unknown element while investigating why some Swedish iron ores produce superior wrought iron. He finds a new oxide in the slag that cannot be identified as any known element. He names it vanadium after Vanadis (Freyja), noting the beautiful colors its compounds display."
+    },
+    {
+      "year": 1831,
+      "event": "Friedrich Wöhler analyzes del Río's original Mexican mineral and confirms it contains the same element Sefström has just discovered — proving del Río had indeed found vanadium 29 years earlier. Del Río, still alive, is vindicated but the name 'vanadium' is retained. He had been the first but lost the credit."
+    },
+    {
+      "year": 1867,
+      "event": "Henry Enfield Roscoe produces pure vanadium metal for the first time by reducing vanadium chloride with hydrogen — 37 years after the element's official discovery. He shows it is a bright silver metal, not the grey powder previously thought."
+    },
+    {
+      "year": 1905,
+      "event": "Henry Ford's engineers discover that vanadium steel — steel containing a small percentage of vanadium — is dramatically stronger and tougher than ordinary steel. Ford uses it throughout the Model T (1908), producing a lighter and stronger car than his competitors. Vanadium steel makes the Model T possible."
+    },
+    {
+      "year": 1911,
+      "event": "Vanadium pentoxide (V₂O₅) is adopted as the catalyst for the contact process to produce sulfuric acid, replacing the earlier platinum catalyst. This remains the dominant industrial process for sulfuric acid production — the world's largest-volume industrial chemical — to the present day."
+    },
+    {
+      "year": 2016,
+      "event": "The world's largest vanadium redox flow battery — 200 MW / 800 MWh — begins construction in Dalian, China, demonstrating vanadium's emerging role in grid-scale energy storage for renewable electricity."
+    }
+  ],
+  "story": "Vanadium has the distinction of being discovered twice by two different people in two different countries — and the first discoverer losing credit both times. Del Río found it in Mexico in 1801, was talked out of his discovery by a colleague, retracted it, and watched Sefström receive credit 29 years later. The story of del Río is one of the saddest in chemistry — a genuine discovery abandoned due to a colleague's mistaken criticism. The element named after a Norse goddess of beauty is perhaps best known today for an unglamorous industrial role: as a catalyst in sulfuric acid manufacture and an additive to steel. But its role in Ford's Model T — quite literally making the automobile age possible — deserves more recognition than it receives.",
+  "source_note": "First discovered by del Río (1801, Mexico, unpublished as new element). Officially discovered by Sefström (1830, Sweden). Named by Sefström. Pure metal by Roscoe (1867)."
+}

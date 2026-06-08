@@ -1,0 +1,40 @@
+{
+  "discovered": 1843,
+  "discoverer": "Carl Gustaf Mosander",
+  "country": "Sweden",
+  "named_by": "Carl Gustaf Mosander",
+  "named": 1843,
+  "etymology": "From Ytterby — the same Swedish village that gave its name to yttrium, ytterbium, and erbium. Terbium is the third of four elements named after this single location. Mosander derived the name by shortening 'Ytterby' to 'Terby' — a slightly different phonetic rendering than 'Ytter-' (yttrium) and 'Er-' (erbium).",
+  "timeline": [
+    {
+      "year": 1839,
+      "event": "Mosander separates yttrium from lanthanum and identifies a second component in yttria. He continues his systematic investigation of the rare earth oxides over the following years."
+    },
+    {
+      "year": 1843,
+      "event": "Mosander announces he has separated the original yttria (from the Ytterby mineral gadolinite) into three distinct fractions: yttrium (colorless compounds), terbium (yellow compounds), and erbium (rose-colored compounds). He names them after Ytterby with varying phonetic derivations."
+    },
+    {
+      "year": 1843,
+      "event": "The scientific community is confused by Mosander's announcement — the colors he describes for terbium and erbium appear to be reversed compared to what later chemists will find. Eventually, when the elements are more purely separated, what Mosander called 'terbium' appears to correspond more to erbium, and vice versa. The names are switched during the later purification era."
+    },
+    {
+      "year": 1886,
+      "event": "Lecoq de Boisbaudran separates terbium more completely from gadolinite fractions and provides the spectroscopic fingerprint that definitively identifies terbium as a discrete element — clearing up the earlier naming confusion."
+    },
+    {
+      "year": 1905,
+      "event": "Georges Urbain obtains reasonably pure terbium oxide and begins to characterize terbium's chemistry more systematically, helping establish it as unambiguously separate from gadolinium and dysprosium."
+    },
+    {
+      "year": 1974,
+      "event": "Terbium-activated lanthanum phosphate and terbium-activated cerium magnesium aluminate become the dominant green phosphors in fluorescent lamps and color CRT televisions — terbium provides the brilliant green component of the red-green-blue phosphor trichromatic system that defines color in fluorescent and early flat-panel displays."
+    },
+    {
+      "year": 2011,
+      "event": "Terbium's role in Terfenol-D (Tb₀.₃Dy₀.₇Fe₂) — a giant magnetostrictive alloy that changes shape dramatically in a magnetic field — finds applications in sonar transducers, precision actuators, and active vibration control systems. Terfenol-D is the most magnetostrictive material known, producing strains up to 2,000 parts per million."
+    }
+  ],
+  "story": "Terbium's history is tangled with that of erbium through a century of confusion about which was which. When Mosander originally separated them in 1843, the colors he assigned to each were apparently reversed — leaving chemists for decades uncertain whether they were discussing the same compounds or different ones. The rare earth elements are so chemically similar that pure separation remained impossible until ion exchange chromatography in the mid-20th century. Terbium is the second-rarest of the stable lanthanides, yet it lights up every fluorescent lamp and illuminates every older CRT and fluorescent-backlit LCD screen in the green component of their color systems. The village of Ytterby, which has lent its syllables to four elements, continues to give through terbium's light.",
+  "source_note": "Discovered by Mosander (1843) from yttria fractions. Named from Ytterby, Sweden (phonetically as 'Terby'). Definitive isolation by Lecoq de Boisbaudran (1886)."
+}

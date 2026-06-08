@@ -1,0 +1,40 @@
+{
+  "discovered": 1875,
+  "discoverer": "Paul Émile Lecoq de Boisbaudran",
+  "country": "France",
+  "named_by": "Paul Émile Lecoq de Boisbaudran",
+  "named": 1875,
+  "etymology": "Latin: Gallia — the Latin name for France. Lecoq de Boisbaudran named it in honor of his homeland. Some historians note that Lecoq (French for rooster) might also have intended a reference to the Latin 'gallus' (rooster), a punning self-reference — though Lecoq himself denied this.",
+  "timeline": [
+    {
+      "year": 1871,
+      "event": "Dmitri Mendeleev predicts the existence of 'eka-aluminum' — an element directly below aluminum in his periodic table with predicted atomic weight of 68, density of 5.9 g/cm³, a low melting point, and an oxide formula Al₂O₃-like. He publishes these precise predictions based purely on the logic of periodicity — the element has never been observed."
+    },
+    {
+      "year": 1875,
+      "event": "Paul Émile Lecoq de Boisbaudran, a French spectroscopist who has spent years developing spectroscopic techniques for element analysis, notices two previously unknown violet spectral lines while examining a sample of zinc ore from the Pyrenees. The lines match no known element. He immediately suspects a new element and works to isolate it."
+    },
+    {
+      "year": 1875,
+      "event": "On August 27, 1875, Lecoq de Boisbaudran isolates a tiny amount of the new element by electrolyzing a zinc solution and detects it spectroscopically. He names it gallium after France (Gallia) and announces the discovery. He obtains only a fraction of a milligram initially."
+    },
+    {
+      "year": 1875,
+      "event": "Mendeleev compares gallium's measured properties to his predictions for eka-aluminum and finds extraordinary agreement: predicted density 5.9, measured 5.91; predicted atomic weight 68, measured 69.7; predicted low melting point, gallium melts at 29.8°C (just above room temperature). The match is so precise it becomes the most convincing validation of the periodic table ever achieved."
+    },
+    {
+      "year": 1875,
+      "event": "Mendeleev, having not yet seen the actual measurements, writes to the French Academy predicting that the measured density of gallium must be wrong — it should be higher than the 4.7 initially reported. When Lecoq de Boisbaudran remeasures the purified sample, he finds 5.91 — exactly what Mendeleev predicted. Mendeleev had corrected an experimental measurement using only his periodic table."
+    },
+    {
+      "year": 1971,
+      "event": "Gallium arsenide (GaAs) semiconductor devices begin to be commercially produced — launching gallium's role in high-frequency electronics. GaAs has electron mobility far exceeding silicon, making it essential for radar, satellite communications, and cellular phones."
+    },
+    {
+      "year": 1993,
+      "event": "Shuji Nakamura at Nichia Corporation, Japan, invents the high-brightness gallium nitride (GaN) blue LED — the achievement that made white LED lighting possible and earned him the 2014 Nobel Prize in Physics. This single invention leads to the LED revolution that is replacing incandescent lighting worldwide."
+    }
+  ],
+  "story": "Gallium's discovery was a triumph for the periodic table as a predictive tool. Mendeleev had not just predicted that element 31 existed — he had predicted its density, atomic weight, melting point, and chemical properties with such precision that when Lecoq de Boisbaudran measured a slightly different density for his new metal, Mendeleev wrote to him from St. Petersburg to say his measurement was wrong. The French chemist remeasured his purified sample and found Mendeleev was right. The periodic table had corrected a laboratory measurement from thousands of miles away, purely through logical deduction. Nothing more dramatically demonstrated the power of Mendeleev's insight.",
+  "source_note": "Predicted by Mendeleev as 'eka-aluminum' (1871). Discovered by Lecoq de Boisbaudran spectroscopically, announced August 27, 1875. Published in Comptes Rendus de l'Académie des Sciences."
+}

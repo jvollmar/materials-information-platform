@@ -1,0 +1,32 @@
+{
+  "discovered": 1950,
+  "discoverer": "Glenn Seaborg, Stanley Thompson, Kenneth Street Jr. & Albert Ghiorso",
+  "country": "USA (University of California, Berkeley)",
+  "named_by": "Glenn Seaborg",
+  "named": 1950,
+  "etymology": "From California — the US state where the University of California is located, and where the element was discovered. The naming continues the geographic tradition in transuranic element naming and honors the state that hosted Berkeley's extraordinary element discovery program. Seaborg also noted the parallel with erbium, named after a geographic location (Ytterby).",
+  "timeline": [
+    {
+      "year": 1950,
+      "event": "Glenn Seaborg, Stanley Thompson, Kenneth Street Jr., and Albert Ghiorso produce californium by bombarding curium-242 with alpha particles in the Berkeley 60-inch cyclotron in February and March 1950. The reaction produces Cf-245 which is identified by its radioactive decay properties and chemical behavior."
+    },
+    {
+      "year": 1950,
+      "event": "The team names the element californium after the state of California and the University of California. The University of California was host to the largest program of synthetic element discovery in history — eventually producing elements 94 through 106 (with contributions to others)."
+    },
+    {
+      "year": 1960,
+      "event": "Californium-252 (t½ = 2.65 years) is identified as a remarkable spontaneous fission neutron source — emitting approximately 2.3 million neutrons per microgram per second. This extraordinary neutron emission rate makes Cf-252 the most intense portable neutron source available."
+    },
+    {
+      "year": 1970,
+      "event": "Californium-252 neutron sources begin commercial production at Oak Ridge National Laboratory and at Dimitrovgrad, Russia. Applications develop rapidly: nuclear reactor startup sources, oil well neutron logging tools, prompt gamma neutron activation analysis for bulk materials, and neutron radiography."
+    },
+    {
+      "year": 1976,
+      "event": "Californium-252 brachytherapy — implanting sealed Cf-252 sources directly in tumors — is pioneered for treating hypoxic (oxygen-poor) tumors that resist conventional radiation. The fast neutrons from Cf-252 are more effective than gamma rays at killing radiation-resistant tumor cells."
+    }
+  ],
+  "story": "Californium was the last element Seaborg's team discovered at Berkeley before the university's cyclotron was superseded by more powerful machines. The naming choice — California — was simpler and more direct than some of Seaborg's other names, reflecting perhaps a certain homecoming quality: this was the laboratory, the state, the institution where so much had happened. Californium-252's spontaneous fission property — discovered a decade after the element itself — gave it unexpected practical value. The ability to produce millions of neutrons per second from a source small enough to hold in one hand has applications from oil well logging to cancer treatment to nuclear weapons inspection. The element named after a state powers instruments that see inside mountains and wells.",
+  "source_note": "Produced by Seaborg, Thompson, Street, and Ghiorso (February-March 1950) at UC Berkeley. Named after California. Published in Physical Review, 1950."
+}

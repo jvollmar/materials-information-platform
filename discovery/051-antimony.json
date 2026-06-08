@@ -1,0 +1,40 @@
+{
+  "discovered": -3000,
+  "discoverer": "Known since antiquity (compounds); isolated as element ~1450",
+  "country": "Global (antiquity) / Europe (isolation)",
+  "named_by": "Known since antiquity",
+  "named": 1450,
+  "etymology": "The origin of 'antimony' is disputed — one theory derives it from the Greek 'anti-monos' (not alone, found with other metals); another from 'anti-moine' (monk's bane), from a legendary medieval poisoning of monks; yet another from the Arabic 'ithmid' (stibnite). The chemical symbol Sb comes from the Latin 'stibium,' from the Greek 'stibi' — the ancient name for the sulfide mineral stibnite (Sb₂S₃).",
+  "timeline": [
+    {
+      "year": -3000,
+      "event": "Antimony sulfide (stibnite, Sb₂S₃) is used as a black eye cosmetic in ancient Egypt and the Middle East — the 'kohl' that darkens eyelashes and eyelids in ancient paintings and still used in some cultures today. Stibnite's silver metallic luster also makes it decorative. Egyptian tomb artifacts include stibnite containers."
+    },
+    {
+      "year": -300,
+      "event": "A small antimony vase found in the ruins of Tello, Chaldea (modern Iraq), dates to approximately 3000 BCE — one of the earliest known intentional uses of metallic antimony, though it is unclear whether this represents smelting of the element or simply working of native antimony found near mineral deposits."
+    },
+    {
+      "year": 1450,
+      "event": "The German monk Basilius Valentinus is credited with the earliest systematic description of metallic antimony in his work 'Triumphwagen Antimonii' (Triumphal Chariot of Antimony) — though historians debate whether this was written by him or compiled later from his notes. The text describes the preparation of metallic antimony from stibnite."
+    },
+    {
+      "year": 1540,
+      "event": "Vannoccio Biringuccio's metallurgical text Pirotechnia provides a clear description of the preparation of antimony metal by heating stibnite with iron — the first widely distributed recipe for producing the element."
+    },
+    {
+      "year": 1789,
+      "event": "Lavoisier includes antimony in his list of chemical elements, formally establishing it as elemental."
+    },
+    {
+      "year": 1884,
+      "event": "Carl Auer von Welsbach uses antimony compounds in his development of the Welsbach gas mantle — a thorium-cerium oxide mantle that produces brilliant white light from gas flames. This application starts the rare earth industry and uses antimony-containing materials."
+    },
+    {
+      "year": 1960,
+      "event": "Antimony trioxide (Sb₂O₃) becomes widely used as a synergist with brominated flame retardants in polymers — the combination is far more effective than either component alone. Virtually every electronic device casing, cable insulation, and foam furniture contains antimony-containing flame retardants."
+    }
+  ],
+  "story": "Antimony is one of chemistry's ancient elements — its sulfide was the eye cosmetic of Egyptian pharaohs and its metal was known in medieval alchemy. The legendary 'Triumphal Chariot of Antimony' — supposedly written by a mysterious Benedictine monk — is one of the most cited texts in the history of alchemy, though its authorship remains disputed. Medieval antimony compounds had a terrifying reputation as both poison and medicine: Paracelsus prescribed antimony compounds enthusiastically; others blamed them for killing patients, monks, and pigs. The truth is that antimony compounds are toxic but were used at therapeutic doses for centuries, including as emetics (to induce vomiting). Today antimony lives invisibly in the flame retardant systems of virtually every electronic device.",
+  "source_note": "Stibnite used since ~3000 BCE. Metallic antimony known ~1450 CE. Element recognized by Lavoisier (1789). Symbol Sb from Latin stibium."
+}

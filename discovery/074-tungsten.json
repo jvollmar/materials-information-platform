@@ -1,0 +1,40 @@
+{
+  "discovered": 1783,
+  "discoverer": "Juan José & Fausto Elhuyar",
+  "country": "Spain (Basque Country)",
+  "named_by": "Carl Wilhelm Scheele (named the ore); Elhuyar brothers (isolated the element)",
+  "named": 1783,
+  "etymology": "The name 'tungsten' comes from the Swedish 'tung sten' (heavy stone) — the name given to the mineral scheelite (calcium tungstate, CaWO₄) by Swedish miners because of its unusual density. The chemical symbol W comes from 'Wolfram' (also Wolframite) — the German name for another tungsten mineral (iron-manganese tungstate), which was named because it 'devoured' tin in smelting processes like a wolf (wolf rahm = wolf's foam).",
+  "timeline": [
+    {
+      "year": 1758,
+      "event": "Axel Fredrik Cronstedt (discoverer of nickel) first notes that the mineral later named scheelite is denser than expected and different from known minerals, but does not investigate its composition further."
+    },
+    {
+      "year": 1781,
+      "event": "Carl Wilhelm Scheele — who seems to appear at every crucial moment in 18th-century chemistry — treats the mineral with hydrochloric acid and obtains a yellow precipitate of an unknown acid ('tungstic acid') that he believes contains a new element. He publishes but is unable to isolate the metal."
+    },
+    {
+      "year": 1783,
+      "event": "Juan José and Fausto Elhuyar, two Spanish brothers who had studied chemistry in Sweden and Germany, reduce the tungsten oxide (from wolframite) with carbon at their laboratory in Vergara, Spain. They obtain a grey metallic powder — tungsten metal. The discovery is the first element isolated in Spain and one of the first discovered by chemists working outside the dominant northern European scientific tradition."
+    },
+    {
+      "year": 1850,
+      "event": "Robert Oxland develops the first commercial production of tungsten metal compounds — including sodium tungstate and tungstic acid — beginning the industrial history of tungsten."
+    },
+    {
+      "year": 1900,
+      "event": "The discovery that tungsten forms stable, very hard carbides transforms metal cutting. Tungsten carbide (WC) in a cobalt binder proves to be dramatically harder and more wear-resistant than high-speed steel, eventually displacing steel in most metal-cutting applications."
+    },
+    {
+      "year": 1904,
+      "event": "Werner von Bolton develops tungsten wire for incandescent light bulb filaments — replacing the tantalum filaments he had introduced the previous year. Tungsten's melting point (3422°C, the highest of all metals) allows the filament to operate at temperatures that produce a bright white light."
+    },
+    {
+      "year": 1913,
+      "event": "Irving Langmuir at GE fills incandescent bulbs with inert gas (argon) rather than vacuum, dramatically extending filament life by reducing evaporation. The tungsten filament light bulb becomes the standard form of electric lighting for the next century."
+    }
+  ],
+  "story": "Tungsten has the highest melting point of any element — 3422°C — and this single property has defined its entire industrial history. The Elhuyar brothers who first isolated it in 1783 in the Basque Country could not have imagined that their grey metallic powder would eventually light the world. The incandescent bulb filament was tungsten's most visible triumph — for a century, the electric light was a tungsten wire glowing in a glass envelope. Today tungsten's role in cemented carbide cutting tools — where WC particles in cobalt binder machine essentially every metal part in every manufactured product — is arguably more economically significant than the light bulb ever was. The heavy stone from Swedish mines has become the hardest working element in modern manufacturing.",
+  "source_note": "Oxide identified by Scheele (1781). Metal isolated by Juan José and Fausto Elhuyar (1783) at Vergara, Spain. Named from Swedish tung sten (heavy stone); symbol W from Wolfram."
+}

@@ -1,0 +1,44 @@
+{
+  "discovered": 1789,
+  "discoverer": "Martin Heinrich Klaproth",
+  "country": "Germany",
+  "named_by": "Martin Heinrich Klaproth",
+  "named": 1789,
+  "etymology": "Arabic: zarqun (vermillion, gold-colored) or Persian: zargun (gold-like) — derived from the Arabic name for the gemstone zircon (zirconium silicate), which occurs in brilliant colors including golden yellow. The mineral zircon has been used as a gemstone since ancient times.",
+  "timeline": [
+    {
+      "year": -2000,
+      "event": "Zircon (zirconium silicate, ZrSiO₄) has been used as a gemstone since ancient times, treasured for its brilliance and range of colors — colorless zircon was used as a diamond substitute. Biblical references to 'jacinth' and 'hyacinth' stones likely refer to zircon varieties."
+    },
+    {
+      "year": 1789,
+      "event": "Martin Heinrich Klaproth, analyzing a sample of zircon (jargon) from Sri Lanka, discovers that it contains an earth not previously identified. He names the new element 'zirconerde' (zirconia) and calls the element zirconium. This is the same year he independently discovers uranium — an extraordinary year for Klaproth."
+    },
+    {
+      "year": 1808,
+      "event": "Humphry Davy attempts to electrolyze zirconia but fails to isolate zirconium metal — it resists electrolytic reduction under the conditions he can achieve."
+    },
+    {
+      "year": 1824,
+      "event": "Jöns Jacob Berzelius obtains impure zirconium metal by heating potassium hexafluorozirconate (K₂ZrF₆) with potassium — producing a black powder he cannot characterize fully, as it is heavily contaminated with oxygen and nitrogen."
+    },
+    {
+      "year": 1914,
+      "event": "Lely and Hamburger produce purer zirconium by decomposing zirconium iodide — but it is still not pure enough to reveal the true properties of the metal."
+    },
+    {
+      "year": 1925,
+      "event": "Anton Eduard van Arkel and Jan Hendrik de Boer produce truly pure, ductile zirconium metal for the first time using the iodide crystal bar process — decomposing zirconium iodide on a hot wire to deposit pure metal. The van Arkel process reveals zirconium's true nature: a lustrous, ductile, corrosion-resistant metal."
+    },
+    {
+      "year": 1940,
+      "event": "Zirconium's extraordinarily low neutron absorption cross-section is measured — making it ideal for nuclear reactor fuel cladding, since it doesn't absorb the neutrons needed to sustain the chain reaction. This property drives the development of zircaloy and zirconium-based nuclear fuel cladding."
+    },
+    {
+      "year": 1975,
+      "event": "Yttria-stabilized zirconia (YSZ) thermal barrier coatings are developed for gas turbine blades — allowing turbine inlet temperatures to increase dramatically, improving efficiency. YSZ coatings become standard in all modern jet engines and gas turbines."
+    }
+  ],
+  "story": "Zirconium sat quietly in the periodic table for 136 years after its discovery — known as an element but impossible to produce in pure form. The black powder Berzelius obtained in 1824 was so contaminated that it gave a completely false picture of zirconium's properties. Not until 1925 did van Arkel and de Boer obtain the gleaming, ductile metal that is one of the most corrosion-resistant materials known. The revelation of its true properties then led directly to two of its most important applications: nuclear reactor fuel cladding (because it doesn't absorb neutrons) and the dental crown (because zirconia ceramics are both strong and white). The gemstone zircon that started the story is still used in jewelry today — sometimes called 'fake diamond' despite being its own beautiful mineral.",
+  "source_note": "New earth identified by Klaproth (1789). Named from Arabic zarqun. Pure ductile metal first produced by van Arkel and de Boer (1925) using iodide decomposition."
+}

@@ -1,0 +1,32 @@
+{
+  "discovered": 1949,
+  "discoverer": "Glenn Seaborg, Stanley Thompson & Albert Ghiorso",
+  "country": "USA (University of California, Berkeley)",
+  "named_by": "Glenn Seaborg",
+  "named": 1949,
+  "etymology": "From Berkeley, California — the city where the University of California, Berkeley is located, and where the element was discovered. Seaborg noted the parallel with terbium, which was named after Ytterby, Sweden. Both berkelium (Bk) and terbium (Tb) were named after the places where they were discovered — both names end in '-ium' modified from the place name.",
+  "timeline": [
+    {
+      "year": 1949,
+      "event": "Glenn Seaborg, Stanley Thompson, and Albert Ghiorso at the University of California Berkeley produce berkelium-243 in December 1949 by bombarding americium-241 with alpha particles (helium-4 ions) in the 60-inch cyclotron. The reaction produces Bk-243, which is detected by its characteristic radioactive decay."
+    },
+    {
+      "year": 1949,
+      "event": "The team isolates a minuscule amount of berkelium — fewer than a few million atoms — by ion exchange chromatography, demonstrating its distinct chemistry from neighboring elements. Seaborg names it berkelium after the University of California Berkeley."
+    },
+    {
+      "year": 1958,
+      "event": "Berkelium becomes available in larger quantities through production in high-flux nuclear reactors at Oak Ridge National Laboratory. Irradiating americium targets in the HFIR reactor produces Bk-249 (t½ = 330 days) — the longest-lived and most practically useful isotope."
+    },
+    {
+      "year": 2009,
+      "event": "Oak Ridge National Laboratory begins a multi-year campaign to produce 22 milligrams of berkelium-249 — a massive effort requiring 250 days of continuous reactor irradiation. The Bk-249 is then shipped to JINR Dubna in Russia to be used as the target for synthesizing tennessine (element 117)."
+    },
+    {
+      "year": 2010,
+      "event": "Tennessine (element 117) is discovered by bombarding the ORNL-supplied berkelium-249 target with calcium-48 ions at the Dubna accelerator — making berkelium the essential gateway material for element 117's discovery. Without ORNL's unique Bk-249 production capability, tennessine would not exist."
+    }
+  ],
+  "story": "Berkelium was born in a late-night December session at Berkeley in 1949, produced in such tiny quantities that detection required the most sensitive radiochemical techniques of the era. The parallel to terbium — both named after the places of discovery — was deliberate on Seaborg's part; he was building a systematic periodic table of the actinides with the same structure as the lanthanides. Berkelium's role in the discovery of tennessine six decades later demonstrates how transuranic elements form a chain of dependencies: each heavier element requires a lighter one as its production target. Berkeley's element, produced in enormous effort, was shipped to Russia and used to create the element named after Tennessee. Element discovery had become a global enterprise.",
+  "source_note": "Produced by Seaborg, Thompson, and Ghiorso (December 1949) at UC Berkeley. Named after Berkeley, California. Published in Physical Review, 1950."
+}

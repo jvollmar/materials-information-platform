@@ -1,0 +1,44 @@
+{
+  "discovered": 1807,
+  "discoverer": "Humphry Davy",
+  "country": "United Kingdom",
+  "named_by": "Humphry Davy / Jöns Jacob Berzelius",
+  "named": 1807,
+  "etymology": "English 'potassium' from 'potash' — the residue obtained by evaporating water leached through wood ashes in iron pots (pot + ash). The chemical symbol K comes from 'kalium,' proposed by Berzelius from the Arabic 'al-qali' (the ash), which is also the root of 'alkali.'",
+  "timeline": [
+    {
+      "year": -3000,
+      "event": "Potash (potassium carbonate, K₂CO₃) has been manufactured since ancient times by leaching water through wood ash and evaporating the solution. It was used for making soap, glass, and as a fertilizer — vital industries of the ancient and medieval world. The substance is named 'potash' from the practice of evaporating it in iron pots."
+    },
+    {
+      "year": 1702,
+      "event": "Guillaume Homberg demonstrates that potash and soda (sodium carbonate) are chemically distinct substances, overturning the earlier belief that they were the same material. This distinction is essential to the later discovery of potassium and sodium as separate elements."
+    },
+    {
+      "year": 1807,
+      "event": "On October 19, Humphry Davy electrolyzes molten caustic soda (NaOH) and discovers sodium. Six days later, on October 25, 1807, he turns the same powerful voltaic pile to molten caustic potash (KOH) and witnesses a more dramatic result — globules of shining metal form, many of which immediately catch fire and burn with a lavender-colored flame, some exploding violently when they contact water. Potassium is the first metal discovered to be less dense than water — it floats while burning."
+    },
+    {
+      "year": 1807,
+      "event": "Davy is so overcome by the discovery that witnesses report he could not control his excitement. The violence of potassium's reaction with water — far more explosive than sodium — made the demonstration spectacular. He names it 'potasium' (later standardized to potassium). Berzelius proposes kalium for the symbol K."
+    },
+    {
+      "year": 1808,
+      "event": "Gay-Lussac and Thénard in France develop a cheaper method for producing potassium by reducing potash with iron at red heat — making potassium more accessible for research without the enormous battery Davy required."
+    },
+    {
+      "year": 1840,
+      "event": "Justus von Liebig demonstrates that potassium is an essential nutrient for plant growth — one of the three macronutrients (nitrogen, phosphorus, potassium — N, P, K) required for agriculture. This discovery leads to the potash fertilizer industry, which today feeds much of the world."
+    },
+    {
+      "year": 1861,
+      "event": "Robert Bunsen and Gustav Kirchhoff discover cesium and rubidium using spectroscopy — and use the same technique to confirm that potassium produces distinctive violet spectral lines. The development of spectroscopic analysis of potassium becomes important in geology and cosmochemistry."
+    },
+    {
+      "year": 1950,
+      "event": "Potassium-argon dating is developed as a radiometric dating technique — measuring the decay of radioactive potassium-40 to argon-40 in rocks. The method becomes one of the most important tools for dating geological formations and early human artifacts, with a range from 100,000 years to the age of the solar system."
+    }
+  ],
+  "story": "Potassium's discovery, six days after sodium, completed one of the most remarkable weeks in the history of chemistry. Davy had essentially invented a new way to discover elements — electrolysis of molten compounds — and was applying it systematically to every substance he could find. The sight of potassium burning on water while floating must have been extraordinary: a solid metal lighter than water, catching fire spontaneously, burning with a violet flame while skating across the surface. Today we know this happens because potassium reacts so violently with water that the hydrogen produced ignites immediately — but Davy had never seen anything like it. No one had.",
+  "source_note": "Discovered by Humphry Davy, October 25, 1807. Published in Philosophical Transactions, 1808. Symbol K from Berzelius's 'kalium.'"
+}

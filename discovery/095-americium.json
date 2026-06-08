@@ -1,0 +1,32 @@
+{
+  "discovered": 1944,
+  "discoverer": "Glenn Seaborg, Ralph James, Leon Morgan & Albert Ghiorso",
+  "country": "USA (University of Chicago, Metallurgical Laboratory)",
+  "named_by": "Glenn Seaborg",
+  "named": 1944,
+  "etymology": "From America — the continent where it was discovered. Seaborg named americium after the Americas, following the pattern of europium (named after Europe) and noting that americium was discovered in the United States. The discovery was part of the Manhattan Project and initially classified.",
+  "timeline": [
+    {
+      "year": 1944,
+      "event": "Glenn Seaborg, Ralph James, Leon Morgan, and Albert Ghiorso at the University of Chicago's Metallurgical Laboratory (a Manhattan Project facility) produce americium-241 by bombarding plutonium-239 with neutrons in a nuclear reactor. The neutron capture produces Pu-240, which beta-decays to Am-241."
+    },
+    {
+      "year": 1944,
+      "event": "Seaborg names the new element americium after the Americas, noting the symmetry with europium — both are named after continents, and both are in the same column of the periodic table (the actinide series mirrors the lanthanide series). The discovery is immediately classified."
+    },
+    {
+      "year": 1945,
+      "event": "Seaborg reveals the discovery of americium (and curium) on a children's radio program 'Quiz Kids' in November 1945 — before the formal scientific paper is published. A child asks if he has discovered any new elements; he says yes, and gives the names. This surprise announcement on a children's quiz show is one of chemistry's more unconventional publication events."
+    },
+    {
+      "year": 1958,
+      "event": "Americium-241 smoke detectors are developed. The Am-241 ionization source was first used in domestic smoke detectors in the late 1950s and became universal by the 1970s. An estimated 40,000 kg of americium-241 is distributed globally in smoke detectors — making Am-241 the most widely distributed artificial radionuclide in consumer products."
+    },
+    {
+      "year": 2019,
+      "event": "The European Space Agency begins extracting americium-241 from the UK's civil plutonium stockpile at Sellafield for use in European space power RTGs — developing a European alternative to NASA's Pu-238 RTGs for deep space missions."
+    }
+  ],
+  "story": "Glenn Seaborg's revelation of americium's discovery on a children's radio quiz show is one of the more charming episodes in element history. He had been sitting on the secret as part of wartime classification, then unexpectedly admitted it on air when a child simply asked him directly. The formal scientific announcement followed afterward. Americium's most democratic application — the smoke detector — has saved hundreds of thousands of lives. The tiny sealed Am-241 source in every ionization smoke detector is a remarkable inversion: a radioactive material produced in nuclear reactors for weapons programs, distributed in virtually every home in the developed world, quietly protecting people from fire.",
+  "source_note": "Produced by Seaborg, James, Morgan, and Ghiorso (1944) at the Metallurgical Laboratory, Chicago. Named after Americas. Announced on 'Quiz Kids' radio program, November 1945."
+}

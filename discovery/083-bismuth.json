@@ -1,0 +1,40 @@
+{
+  "discovered": 1400,
+  "discoverer": "Known in medieval Europe; isolated as element ~1753",
+  "country": "Germany / France",
+  "named_by": "Claude François Geoffroy",
+  "named": 1753,
+  "etymology": "The origin of 'bismuth' is uncertain — it may derive from the German 'Wismut' (possibly from 'Wiesen Muth' meaning meadow mine, referring to where it was found) or from the Arabic 'bi ismid' (having the properties of antimony). The element was confused with antimony and tin for centuries before being recognized as distinct. Geoffroy established its elemental nature in 1753.",
+  "timeline": [
+    {
+      "year": 1400,
+      "event": "Bismuth is known in medieval Europe as a distinct substance — miners call it 'Wismuth' in German. It is found in silver and cobalt mines in Saxony and Bohemia, often associated with silver ores. Miners and metalworkers distinguish it from antimony and lead but are unclear about its exact nature."
+    },
+    {
+      "year": 1530,
+      "event": "Georgius Agricola describes bismuth (which he calls 'bisemutum') in his mining and metallurgy writings, distinguishing it from lead, tin, and antimony based on its different melting point and behavior. He notes that Saxony miners use it regularly but cannot determine its category."
+    },
+    {
+      "year": 1597,
+      "event": "Andreas Libavius, an early German chemist, discusses bismuth in his Alchymia and provides descriptions of its properties, but still does not recognize it as a distinct metallic element rather than a variety of lead or tin."
+    },
+    {
+      "year": 1753,
+      "event": "Claude François Geoffroy, a French chemist, systematically demonstrates that bismuth is a distinct element — not a compound or variety of lead, tin, or antimony. He determines its properties carefully and establishes it as a true metallic element with unique characteristics, including its expansion on solidification (unusual for a metal)."
+    },
+    {
+      "year": 1789,
+      "event": "Lavoisier includes bismuth in his list of chemical elements, cementing its elemental status."
+    },
+    {
+      "year": 1949,
+      "event": "Bismuth subsalicylate is developed as a gastrointestinal remedy — the active ingredient in Pepto-Bismol, which becomes one of the world's best-known over-the-counter medications. The pink liquid's effectiveness against nausea, diarrhea, and heartburn makes bismuth a household name despite its obscurity as an element."
+    },
+    {
+      "year": 2003,
+      "event": "Bismuth-209 is discovered to be weakly radioactive — it undergoes alpha decay with a half-life of approximately 20 billion years (longer than the age of the universe). Previously considered the heaviest stable nuclide, bismuth loses its 'stability' claim but retains its practical status as effectively stable for all human purposes."
+    }
+  ],
+  "story": "Bismuth spent centuries being confused with its neighbors — lead, tin, and antimony — because all are dense, low-melting metals found in similar ores. Medieval German miners gave it a name and treated it as practically useful before scientists had a framework for understanding what it was. When Geoffroy finally demonstrated its elemental nature in 1753, he was settling a question that practical metallurgists had been asking for 300 years. Bismuth's most widely recognized modern role — the active ingredient in the pink stomach remedy that has become a symbol of digestive distress — connects a 15th-century mine in Saxony to bathroom medicine cabinets worldwide. The discovery in 2003 that bismuth-209 is technically radioactive was one of physics' stranger recent findings: an element that decays on timescales 20 times longer than the universe has existed.",
+  "source_note": "Known in medieval Europe as Wismuth. Recognized as distinct element by Geoffroy (1753). Recognized as element by Lavoisier (1789). Radioactivity of Bi-209 confirmed by Marcillac et al. (2003)."
+}

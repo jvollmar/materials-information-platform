@@ -1,0 +1,40 @@
+{
+  "discovered": 1945,
+  "discoverer": "Jacob Marinsky, Lawrence Glendenin & Charles Coryell",
+  "country": "USA (Oak Ridge National Laboratory, Tennessee)",
+  "named_by": "Grace Mary Coryell (wife of Charles Coryell)",
+  "named": 1947,
+  "etymology": "From Prometheus — the Titan of Greek mythology who stole fire from the gods and gave it to humanity, and was punished by Zeus with eternal torment. The name was chosen to reflect both the fire of nuclear energy from which promethium was isolated, and the element's potential danger — as Prometheus suffered for bringing fire to mortals, the scientists who work with radioactive promethium must take precautions.",
+  "timeline": [
+    {
+      "year": 1902,
+      "event": "Bohuslav Brauner first suggests that a gap exists in the rare earth series between neodymium and samarium — element 61 must exist. Mendeleev's periodic table predicts it, but it cannot be found in any mineral."
+    },
+    {
+      "year": 1926,
+      "event": "Two groups — one at the University of Illinois (Harris, Hopkins, Yntema) and one in Italy (Rolla and Fernandes) — claim to have discovered element 61 in rare earth minerals. Harris calls it 'illinium'; Rolla calls it 'florentium.' Neither claim can be verified. No natural element 61 exists in detectable quantities."
+    },
+    {
+      "year": 1938,
+      "event": "Hans Bethe's calculations explain why element 61 does not occur in nature: all its isotopes have half-lives short enough that any primordial promethium would have decayed billions of years ago. The element can only be produced artificially."
+    },
+    {
+      "year": 1945,
+      "event": "Jacob Marinsky, Lawrence Glendenin, and Charles Coryell, working at the Oak Ridge National Laboratory as part of the Manhattan Project, analyze fission products from uranium fission using the newly developed ion exchange chromatography technique. They isolate and definitively identify element 61 from nuclear fission products — the first confirmed promethium."
+    },
+    {
+      "year": 1947,
+      "event": "The discovery is declassified (wartime secrecy had delayed publication) and Grace Mary Coryell, wife of Charles Coryell, suggests the name promethium after Prometheus. The scientific community accepts it. The element is the last of the non-radioactive-by-definition elements to be discovered, and the only lanthanide with no stable isotopes."
+    },
+    {
+      "year": 1963,
+      "event": "Promethium-147 (t½ = 2.62 years) is used in thickness gauges for measuring thin film and sheet thickness in manufacturing — its beta radiation penetrates known thicknesses predictably. Also used in some early nuclear-powered pacemakers and spacecraft power sources."
+    },
+    {
+      "year": 1972,
+      "event": "Tiny quantities of natural promethium-145 are detected in pitchblende (uranium ore) — produced continuously by spontaneous fission of uranium-238. The amount in Earth's entire crust at any given time is estimated at less than 570 grams — making it one of the rarest naturally occurring elements."
+    }
+  ],
+  "story": "Promethium is the only lanthanide with no stable isotope and no significant natural occurrence on Earth — it had to be made before it could be studied. The wartime secrecy of the Manhattan Project delayed the announcement of its discovery by two years: Marinsky, Glendenin, and Coryell found it in 1945 but could not publish until 1947. The name, suggested by a scientist's wife rather than the discoverers themselves, is remarkably apt: Prometheus brought fire from the gods to humanity; promethium was brought to existence from the fire of nuclear fission. And like Prometheus's fire, it carries inherent danger — all promethium isotopes are radioactive, and the element demands the same cautious handling as the nuclear processes that create it.",
+  "source_note": "Discovered by Marinsky, Glendenin, and Coryell (1945) at Oak Ridge, Tennessee, via ion exchange chromatography of fission products. Named by Grace Mary Coryell (1947). Published in Journal of the American Chemical Society, 1947."
+}

@@ -1,0 +1,48 @@
+{
+  "discovered": 1766,
+  "discoverer": "Henry Cavendish",
+  "country": "United Kingdom",
+  "named_by": "Antoine Lavoisier",
+  "named": 1783,
+  "etymology": "Greek: hydro (water) + genes (forming) — 'water-former'",
+  "timeline": [
+    {
+      "year": 1671,
+      "event": "Robert Boyle first produces hydrogen gas by dissolving iron filings in dilute sulfuric acid — observing the inflammable air but not recognizing it as a distinct substance."
+    },
+    {
+      "year": 1700,
+      "event": "Nicolas Lémery describes the inflammable gas produced by iron and sulfuric acid in his Cours de Chymie, noting it explodes when ignited, but again fails to identify it as an element."
+    },
+    {
+      "year": 1766,
+      "event": "Henry Cavendish conducts systematic experiments on 'inflammable air' at his London laboratory, precisely measuring its density and properties. He demonstrates it is distinctly lighter than any other known gas — about 11 times lighter than air — and concludes it is a unique substance. This is the definitive discovery of hydrogen as a separate gas, though Cavendish mistakenly identifies it as phlogiston released from metals."
+    },
+    {
+      "year": 1781,
+      "event": "Cavendish and Joseph Priestley independently discover that burning hydrogen produces water — a revolutionary result that undermines the ancient belief in water as an elemental substance."
+    },
+    {
+      "year": 1783,
+      "event": "Antoine Lavoisier names the new gas hydrogène from the Greek for 'water-former,' recognizing it as a true chemical element distinct from phlogiston. Lavoisier's nomenclature, though he did not discover hydrogen, becomes the standard — his meticulous quantitative experiments prove water is a compound of hydrogen and oxygen."
+    },
+    {
+      "year": 1800,
+      "event": "William Nicholson and Anthony Carlisle electrolyze water for the first time using Volta's newly invented electric pile, decomposing it into hydrogen and oxygen. This confirms Lavoisier's composition of water and opens the field of electrochemistry."
+    },
+    {
+      "year": 1898,
+      "event": "James Dewar liquefies hydrogen for the first time at -252.9°C (-423.2°F), just 20 degrees above absolute zero, using a vacuum-jacketed flask of his own design — now called the Dewar flask (thermos bottle)."
+    },
+    {
+      "year": 1913,
+      "event": "Niels Bohr publishes his model of the hydrogen atom — a single proton orbited by a single electron — which explains hydrogen's discrete spectral lines and becomes the foundation of quantum mechanics."
+    },
+    {
+      "year": 1932,
+      "event": "Harold Urey discovers deuterium (²H), the heavy isotope of hydrogen, by distilling liquid hydrogen and analyzing the concentrated residue spectroscopically. The discovery earns Urey the 1934 Nobel Prize in Chemistry."
+    }
+  ],
+  "story": "Hydrogen's discovery is a story of systematic measurement triumphing over theory. Cavendish was a reclusive, obsessive experimenter who barely published but measured everything with extraordinary precision. He correctly characterized hydrogen's properties decades before anyone understood what it was. The irony is that the name 'hydrogen' was given not by its discoverer but by Lavoisier, who was later guillotined during the French Revolution — one of science's most consequential and tragic figures.",
+  "source_note": "Discovery date and attribution per Royal Society records and Cavendish's 1766 paper 'Three Papers Containing Experiments on Factitious Air.'"
+}

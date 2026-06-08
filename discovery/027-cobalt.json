@@ -1,0 +1,44 @@
+{
+  "discovered": 1735,
+  "discoverer": "Georg Brandt",
+  "country": "Sweden",
+  "named_by": "Georg Brandt",
+  "named": 1735,
+  "etymology": "German: Kobold (goblin, evil spirit) — German and Swedish miners called troublesome cobalt-arsenic ores 'Kobold' because they were difficult to smelt and released toxic arsenic oxide fumes. The ores looked like copper or silver but yielded nothing valuable — blamed on the mischievous mine spirits.",
+  "timeline": [
+    {
+      "year": -2600,
+      "event": "Cobalt blue glass and ceramic glazes are used in ancient Egypt, Mesopotamia, and China. The brilliant blue color of cobalt compounds has been prized since antiquity — Egyptian blue (a synthetic cobalt-containing pigment) and Persian blue glass both use cobalt, though the element itself is unrecognized."
+    },
+    {
+      "year": 1550,
+      "event": "German and Bohemian miners in the Erzgebirge (Ore Mountains) encounter a troublesome blue-grey ore that looks like copper or silver but yields neither. Its roasting releases choking arsenic oxide fumes. The miners blame 'Kobolds' — mischievous underground spirits — for the useless, toxic ore. The mineral is called 'kobalt' or 'Kobold.'"
+    },
+    {
+      "year": 1680,
+      "event": "The cobalt ore is used to make cobalt blue glass and smalt (a blue pigment used in painting). The blue color comes from cobalt oxide, but the element cobalt is still not recognized as distinct from the ore's other components."
+    },
+    {
+      "year": 1735,
+      "event": "Georg Brandt, a Swedish chemist who had spent years studying metals and minerals, carefully analyzes the Kobold ore and demonstrates that its blue color is produced by a previously unknown metallic element — not bismuth or arsenic as previously believed. He isolates a small amount of cobalt metal and publishes his findings, making cobalt the first new metal to be isolated since antiquity. It is the sixth element ever discovered with a known discoverer."
+    },
+    {
+      "year": 1780,
+      "event": "Torbern Bergman confirms Brandt's discovery and establishes cobalt as a true element, ending any remaining doubt. Brandt's original identification had been contested by some chemists who believed cobalt blue was produced by bismuth."
+    },
+    {
+      "year": 1864,
+      "event": "Benjamin Silliman Jr. identifies cobalt ore in New Caledonia (Pacific Ocean) — deposits that eventually make New Caledonia one of the world's major cobalt sources. The Democratic Republic of Congo later becomes the world's dominant source."
+    },
+    {
+      "year": 1948,
+      "event": "Dorothy Hodgkin uses X-ray crystallography to determine the structure of vitamin B₁₂ — revealing it contains a cobalt atom at its center, coordinated by a porphyrin-like ring. B₁₂ is the only vitamin containing a metal atom, and cobalt's role in it is essential for neurological function. Hodgkin receives the 1964 Nobel Prize in Chemistry for this work."
+    },
+    {
+      "year": 1990,
+      "event": "Cobalt becomes increasingly critical in lithium-ion battery cathodes (LiCoO₂) as portable electronics proliferate — and demand explodes with the smartphone age. The Democratic Republic of Congo, which supplies over 70% of world cobalt, becomes a geopolitical flashpoint as battery demand surges with electric vehicles."
+    }
+  ],
+  "story": "Cobalt's name preserves a memory of medieval fear. The German miners who cursed the kobold-ore were experiencing real poisoning — arsenic oxide fumes from roasting cobalt arsenide ores are genuinely toxic, and the ore did waste their furnaces and their health while yielding nothing they recognized as valuable. What they didn't know was that the 'useless' ore contained a metal that would become essential to the blue color of European porcelain, the permanent magnets in every electric motor, the catalysts in petroleum refining, and the battery in every smartphone. The kobolds had the last laugh.",
+  "source_note": "Discovered by Brandt (1735), published in Acta Literaria et Scientiarum Sveciae. Confirmed as element by Bergman (1780)."
+}

@@ -1,0 +1,32 @@
+{
+  "discovered": 1952,
+  "discoverer": "Albert Ghiorso, Gregory Choppin, Bernard Harvey, Stanley Thompson & Glenn Seaborg",
+  "country": "USA (Lawrence Berkeley National Laboratory)",
+  "named_by": "Glenn Seaborg et al.",
+  "named": 1955,
+  "etymology": "From Albert Einstein (1879-1955) — the most celebrated physicist of the 20th century, whose mass-energy equivalence (E=mc²) is the theoretical foundation of nuclear energy and nuclear weapons. The naming was announced after Einstein's death in April 1955, making it a posthumous honor. Einsteinium's discovery from nuclear weapon test debris gave the naming a certain dark irony.",
+  "timeline": [
+    {
+      "year": 1952,
+      "event": "The Ivy Mike thermonuclear bomb is detonated on November 1, 1952, at Enewetak Atoll in the Pacific Ocean — the first hydrogen bomb test. The enormous neutron flux inside the explosion causes uranium-238 in the device to undergo multiple rapid neutron captures, producing very heavy transuranic nuclei that had never existed before."
+    },
+    {
+      "year": 1952,
+      "event": "Filter papers from aircraft flying through the mushroom cloud are collected and secretly sent to national laboratories for analysis. At Berkeley, a team led by Albert Ghiorso begins examining the unusual radioactive debris. They find elements with atomic numbers 99 and 100 — einsteinium and fermium — which had never been produced by any other means."
+    },
+    {
+      "year": 1952,
+      "event": "The discovery is immediately classified. The US government does not want the Soviet Union to know that the Ivy Mike bomb had achieved sufficient neutron flux to produce transuranic elements — this information would reveal details of the weapon's design. The scientists cannot publish their discovery for three years."
+    },
+    {
+      "year": 1955,
+      "event": "The discovery is declassified and published. The team names element 99 einsteinium in honor of Albert Einstein, who had died on April 18, 1955. Einstein had never worked on nuclear weapons and had opposed their proliferation, but his theoretical work made them possible. The naming is both honor and irony."
+    },
+    {
+      "year": 2021,
+      "event": "Researchers at Lawrence Berkeley National Laboratory publish the first detailed chemical study of einsteinium — measuring its bond lengths and luminescence spectrum using only 200 nanograms of Es-254 produced at Oak Ridge. The study reveals einsteinium's chemistry differs subtly from neighboring actinides, with a shorter-than-expected bond length."
+    }
+  ],
+  "story": "Einsteinium was born in a hydrogen bomb explosion. The scientists who discovered it were not permitted to say so for three years. When they finally could publish, they named it after a man who had written a letter to Franklin Roosevelt urging the development of atomic weapons (out of fear Germany would develop them first), then spent his remaining years trying to prevent nuclear war, and who died before he could know his name would be attached to an element found in nuclear weapon debris. The 2021 chemical study of einsteinium — measuring its properties using barely visible quantities of material — is one of the finest examples of analytical chemistry ever performed: characterizing an element from a few hundred nanograms, less than a grain of dust, 69 years after its discovery from a bomb.",
+  "source_note": "Discovered from Ivy Mike test debris (November 1952). Discovery classified until 1955. Named after Albert Einstein (1879-1955). Published in Physical Review, 1955."
+}

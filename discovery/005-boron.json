@@ -1,0 +1,44 @@
+{
+  "discovered": 1808,
+  "discoverer": "Humphry Davy / Joseph Louis Gay-Lussac & Louis Jacques Thénard (simultaneously)",
+  "country": "United Kingdom / France",
+  "named_by": "Humphry Davy",
+  "named": 1808,
+  "etymology": "Arabic: buraq / Persian: burah — names for borax (sodium tetraborate), the mineral from which boron was first isolated. The -on suffix follows the convention of carbon and nitrogen.",
+  "timeline": [
+    {
+      "year": 800,
+      "event": "Borax (sodium tetraborate, Na₂B₄O₇·10H₂O) has been used in goldsmithing, glazing ceramics, and as a flux for thousands of years. Medieval Arab alchemists called it buraq and traded it extensively from deposits in Tibet and Persia along the Silk Road. The elemental nature of the boron within borax is entirely unknown."
+    },
+    {
+      "year": 1702,
+      "event": "Wilhelm Homberg produces boric acid (H₃BO₃) by reacting borax with mineral acids — the first purified boron compound — and calls it sal sedativum Hombergi (Homberg's sedative salt), noting it calms stomach upset."
+    },
+    {
+      "year": 1808,
+      "event": "On June 21, French chemists Joseph Louis Gay-Lussac and Louis Jacques Thénard reduce boric acid with potassium metal, producing an impure dark brown substance they correctly identify as a new element. They name it bore."
+    },
+    {
+      "year": 1808,
+      "event": "Nine days later, on June 30, Humphry Davy in London produces boron independently by electrolysis of boric acid, also obtaining an impure product. He names it boracium, later simplified to boron. The simultaneous triple discovery mirrors the nitrogen/oxygen episode of the previous generation. Davy's political influence at the Royal Society ensures the English name 'boron' prevails internationally."
+    },
+    {
+      "year": 1892,
+      "event": "Henri Moissan (later famous for isolating fluorine) and American chemist Ezekiel Weintraub produce boron of significantly higher purity by reduction of boron trioxide with magnesium. True pure boron proves extraordinarily difficult — it reacts with nearly every reducing agent."
+    },
+    {
+      "year": 1909,
+      "event": "Ezekiel Weintraub at General Electric produces the first sample of essentially pure boron (99%+) by hydrogen reduction of boron halides, finally enabling accurate measurement of boron's physical properties."
+    },
+    {
+      "year": 1936,
+      "event": "The discovery that boron-10 (20% of natural boron) absorbs thermal neutrons with extraordinary efficiency leads to its adoption as a neutron absorber in nuclear reactor control rods — a use Davy could never have imagined when he isolated a few specks of impure brown powder in 1808."
+    },
+    {
+      "year": 1953,
+      "event": "Borax Company (now Rio Tinto Minerals) begins large-scale open-pit mining of colemanite and tincal (natural borax) in Boron, California — a town named after the element. The Mojave Desert deposits become the world's largest boron source, supplying fiberglass, detergents, and agriculture globally."
+    }
+  ],
+  "story": "The boron discovery is one of chemistry's great simultaneous-discovery controversies. Gay-Lussac and Thénard had nine days' head start but were working in Paris without knowledge of Davy's work in London. Davy, characteristically aggressive about priority, claimed the discovery as his own and used his considerable prestige to ensure 'boron' rather than 'bore' became the international name. The French, who had been first, were outmaneuvered again — as they had been with hydrogen. The impure brown powder both teams produced bore little resemblance to the hard, lustrous, black crystalline material we now recognize as boron — pure boron wasn't achieved for another century.",
+  "source_note": "Discovery date and attribution per Gay-Lussac & Thénard (June 21, 1808) and Davy (June 30, 1808), both published in 1808."
+}

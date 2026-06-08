@@ -1,0 +1,44 @@
+{
+  "discovered": 1746,
+  "discoverer": "Andreas Sigismund Marggraf",
+  "country": "Germany",
+  "named_by": "Paracelsus (named the mineral); Marggraf (isolated the metal)",
+  "named": 1746,
+  "etymology": "The origin of 'zinc' is uncertain — it may derive from the German 'Zinke' (prong or point) describing the shape of zinc crystals, or from the Persian 'sing' (stone). The name was used for the mineral before the element was isolated. Paracelsus used 'zincum' in the 16th century. The chemical symbol Zn is simply an abbreviation.",
+  "timeline": [
+    {
+      "year": -1000,
+      "event": "Brass (an alloy of copper and zinc) is made by ancient civilizations in the Middle East and India long before zinc is recognized as a distinct metal. The process uses calamine (zinc carbonate or zinc silicate) heated with copper — the zinc from the mineral dissolves into the copper without being recognized as a separate element. Brass appears in ancient Indian artifacts as early as 1000 BCE."
+    },
+    {
+      "year": 200,
+      "event": "Large-scale zinc smelting is practiced in Rajasthan, India, at the site of Zawar — the oldest known zinc smelter, dated to around the 9th century CE with earlier indications of activity. Indian metallurgists develop techniques for producing metallic zinc that are not independently discovered in Europe for nearly a millennium."
+    },
+    {
+      "year": 1374,
+      "event": "Indian manuscripts describe a process for producing metallic zinc by reducing calamine with organic material in closed vessels — demonstrating that zinc smelting in India was a sophisticated and documented technology."
+    },
+    {
+      "year": 1597,
+      "event": "Andreas Libavius, a German alchemist, receives and describes a sample of metallic zinc imported from the East Indies, calling it 'Indian tin' or 'white Indian tin.' This is the first European description of zinc metal, but no one yet recognizes it as a distinct element."
+    },
+    {
+      "year": 1746,
+      "event": "Andreas Sigismund Marggraf, a German chemist, formally identifies zinc as a distinct element by systematically studying the products of heating calamine with charcoal in a sealed container. He collects the condensed vapor — pure zinc metal — and characterizes its properties, demonstrating it is not tin, bismuth, or any other known metal. He publishes the first scientific account of zinc isolation."
+    },
+    {
+      "year": 1805,
+      "event": "Luigi Galvani's electrical experiments and Alessandro Volta's invention of the voltaic pile (using zinc and copper or silver) establish zinc as one of the most electrically active metals. Every battery since Volta has used zinc as an anode in one form or another."
+    },
+    {
+      "year": 1837,
+      "event": "The hot-dip galvanizing process is patented in France — coating iron or steel with a layer of zinc to prevent corrosion. The technique is named after Luigi Galvani, though he did not develop it. Galvanized steel becomes fundamental to construction, infrastructure, and automotive manufacturing."
+    },
+    {
+      "year": 1866,
+      "event": "Georges Leclanché invents the zinc-carbon battery using a zinc anode — the ancestor of all modern dry cell batteries. The familiar AA, AAA, and D cell batteries still use zinc as the anode material, in the same electrochemical role that Leclanché established."
+    }
+  ],
+  "story": "Zinc's story involves a remarkable historical injustice: Indian metallurgists were smelting zinc on an industrial scale over a thousand years before European chemists recognized it as a distinct element. The Zawar smelting complex in Rajasthan was producing zinc in distillation retorts using a process more sophisticated than anything in contemporary Europe — yet this achievement remained unknown to Western science until archaeologists excavated the site in the 1980s. Marggraf in 1746 received the credit for 'discovering' an element that Indian craftsmen had been producing commercially since at least the 9th century. Zinc's invisibility in European consciousness, despite being in brass and in galena ore alongside lead, reflects how thoroughly practical knowledge can be separated from theoretical chemistry.",
+  "source_note": "Indian zinc smelting at Zawar, Rajasthan, from ~9th century CE. Recognized as distinct element by Marggraf (1746). Published in Histoire de l'Académie Royale des Sciences."
+}

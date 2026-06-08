@@ -1,0 +1,36 @@
+{
+  "discovered": 1808,
+  "discoverer": "Humphry Davy",
+  "country": "United Kingdom",
+  "named_by": "Humphry Davy",
+  "named": 1808,
+  "etymology": "Greek: barys (heavy) — named for the unusual heaviness of barium sulfate (barite, BaSO₄), which is denser than most minerals. The mineral baryta (barium oxide) and the ore barite had been known since the 17th century under various names reflecting their surprising density.",
+  "timeline": [
+    {
+      "year": 1600,
+      "event": "Vincenzo Casciarolo, a Bolognese cobbler and amateur alchemist, discovers that barite (barium sulfate) from Monte Paterno can be made to glow in the dark after exposure to sunlight — producing the first known phosphorescent material, which becomes known as the 'Bologna stone' or 'lapis solaris.' This phosphorescence actually comes from impurities, not barium itself."
+    },
+    {
+      "year": 1774,
+      "event": "Carl Wilhelm Scheele identifies barite (barium sulfate) as containing a distinct unknown earth — 'baryta' — different from lime and magnesia. He cannot isolate the element but correctly identifies the presence of a new alkaline earth."
+    },
+    {
+      "year": 1776,
+      "event": "Johan Gottlieb Gahn and others confirm Scheele's identification of baryta as a distinct compound. The new earth is recognized widely, but isolating the metal from it proves impossible with existing chemistry."
+    },
+    {
+      "year": 1808,
+      "event": "Humphry Davy, in his extraordinary year of electrochemical element isolation, applies his electrolytic method to baryta (barium oxide) and produces barium metal — a silvery-white, dense metal. He names it barium from the Greek barys (heavy) reflecting the high density of its compounds. In the same year he also isolates calcium, strontium, and magnesium."
+    },
+    {
+      "year": 1908,
+      "event": "Barium sulfate meal (BaSO₄ suspension) is introduced as a contrast agent for X-ray examination of the gastrointestinal tract. Barium sulfate is insoluble and therefore safe to swallow — it cannot be absorbed — while its high atomic number (56) makes it opaque to X-rays, outlining the stomach and intestines in sharp detail. The 'barium swallow' and 'barium enema' become fundamental diagnostic procedures."
+    },
+    {
+      "year": 1986,
+      "event": "Barium titanate (BaTiO₃) is used in multilayer ceramic capacitors that become essential components of virtually every electronic device — making barium a hidden but critical element in the electronics industry. Each smartphone contains hundreds of tiny BaTiO₃ capacitors."
+    }
+  ],
+  "story": "Barium has a strange double identity. The element itself — a heavy, reactive alkaline earth metal — is toxic and chemically interesting but industrially modest. But barium sulfate, which is completely chemically inert because it will not dissolve in anything in the human body, has been one of medicine's most useful diagnostic tools for over a century. The 'barium meal' — drinking a thick white barium sulfate suspension while doctors watch it flow through your digestive system on an X-ray screen — has diagnosed ulcers, cancers, and obstructions in countless patients. The Bologna stone (1600) was the world's first phosphorescent material and a predecessor of glow-in-the-dark technologies that followed centuries later.",
+  "source_note": "Baryta identified by Scheele (1774). Metal isolated by Davy (1808). Named from Greek barys (heavy). Published in Philosophical Transactions, 1808."
+}

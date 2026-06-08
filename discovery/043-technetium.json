@@ -1,0 +1,40 @@
+{
+  "discovered": 1937,
+  "discoverer": "Carlo Perrier & Emilio Segrè",
+  "country": "Italy",
+  "named_by": "Carlo Perrier & Emilio Segrè",
+  "named": 1947,
+  "etymology": "Greek: technetos (artificial) — the first artificially produced element, technetium was named to reflect its synthetic origin. There is no stable isotope — all technetium isotopes are radioactive and none occur in nature in meaningful quantities. The name is a permanent reminder that this element does not exist naturally in the world we can observe.",
+  "timeline": [
+    {
+      "year": 1869,
+      "event": "Mendeleev's periodic table predicts the existence of element 43, which he calls 'eka-manganese,' with an atomic weight of approximately 100 and chemical properties similar to manganese. The element is searched for in nature for decades without success."
+    },
+    {
+      "year": 1908,
+      "event": "Japanese chemist Masataka Ogawa claims to discover element 43 in the mineral thorianite, naming it 'nipponium' after Japan. The claim is never confirmed and is generally rejected. Analysis of his samples in 2004 suggests he may actually have found rhenium (element 75) rather than element 43."
+    },
+    {
+      "year": 1925,
+      "event": "Walter Noddack, Ida Tacke (later Noddack), and Otto Berg claim to discover element 43 (and element 75) in platinum ores, naming element 43 'masurium' and element 75 'rhenium.' Rhenium is confirmed; masurium is not, and the claim is disputed and eventually rejected."
+    },
+    {
+      "year": 1937,
+      "event": "Emilio Segrè, an Italian physicist at the University of Palermo, visits Ernest Lawrence's cyclotron at Berkeley and asks to be sent a sample of molybdenum that has been bombarded with deuterons. When the irradiated molybdenum foil arrives in Palermo, Segrè and his colleague Carlo Perrier analyze it and find radioactive element 43 — the first artificially produced element. They have made it by nuclear reaction, not found it in nature."
+    },
+    {
+      "year": 1940,
+      "event": "Segrè, by now a refugee from Mussolini's racial laws (he is Jewish) and working at Berkeley, produces technetium-99m — a metastable nuclear isomer with a 6-hour half-life — which will later prove to be one of the most medically important radioactive isotopes ever identified."
+    },
+    {
+      "year": 1947,
+      "event": "Perrier and Segrè formally name the element technetium from the Greek technetos (artificial), after years of referring to it as 'element 43.' The name acknowledges its unique status as the first element that had to be made before it could be studied."
+    },
+    {
+      "year": 1961,
+      "event": "Tc-99m (technetium-99m) medical imaging applications begin to be developed — its near-ideal 140 keV gamma emission and 6-hour half-life make it perfect for nuclear medicine diagnostic scanning. It becomes the most widely used medical radioisotope, used in approximately 40 million procedures annually worldwide."
+    }
+  ],
+  "story": "Technetium holds a peculiar place in chemistry: it is surrounded in the periodic table by stable elements but is itself unstable — all its isotopes decay. This is an anomaly of nuclear physics related to the odd number of protons (43) combined with no particularly stable neutron configuration. The element cannot be found on Earth because any primordial technetium has long since decayed to ruthenium. Yet tiny traces do exist — produced continuously by spontaneous fission of uranium in uranium ore. The story of its false discoveries (nipponium, masurium) before its actual artificial production reflects how difficult it is to find something that isn't really there. Its medical application in nuclear imaging — Segrè's Tc-99m — is one of the great accidental gifts of nuclear physics research.",
+  "source_note": "First artificially produced by Perrier and Segrè (1937) at Palermo, using deuteron-irradiated molybdenum from Lawrence's cyclotron. Named technetium (1947). Published in Nature, 1937."
+}

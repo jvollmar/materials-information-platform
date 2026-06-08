@@ -1,0 +1,44 @@
+{
+  "discovered": -3500,
+  "discoverer": "Known since antiquity",
+  "country": "Global — multiple ancient civilizations",
+  "named_by": "Known since antiquity",
+  "named": -3500,
+  "etymology": "The English word 'tin' comes from the Anglo-Saxon 'tin,' of uncertain ultimate origin — possibly from Proto-Celtic or pre-Celtic European languages. The chemical symbol Sn comes from the Latin 'stannum,' which originally referred to a silver-lead alloy and was later applied to tin. The Latin root is preserved in 'stannous' and 'stannic' chemistry terms.",
+  "timeline": [
+    {
+      "year": -3500,
+      "event": "Bronze — the alloy of copper and tin — appears in the Middle East around 3500 BCE, marking the beginning of the Bronze Age. The tin required for bronze must have been identified and extracted before this, though the earliest tin mining sites are not precisely dated. Cassiterite (tin oxide, SnO₂) was likely the first tin ore worked."
+    },
+    {
+      "year": -3000,
+      "event": "Tin is traded long distances in the ancient world — the Mediterranean lacks tin deposits, and tin from Central Asia, Afghanistan, and later from Cornwall in Britain is transported thousands of miles to supply the bronze industries of Egypt, Mesopotamia, and the Aegean world. The Bronze Age was a global trading network built around tin."
+    },
+    {
+      "year": -450,
+      "event": "The Greek explorer Pytheas sails to Britain around 325 BCE (other accounts say 450 BCE) and describes the 'tin islands' — Cornwall and the Scilly Islands — which had been supplying tin to Mediterranean civilizations for centuries. The Phoenicians were trading Cornish tin even earlier, keeping its source secret."
+    },
+    {
+      "year": 600,
+      "event": "Tinning of iron — coating iron vessels with tin to prevent rust and preserve food — is practiced widely in medieval Europe, producing the first food-grade metal containers. This technology eventually evolves into tinplate steel and the modern tin can."
+    },
+    {
+      "year": 1789,
+      "event": "Lavoisier recognizes tin as one of the fundamental chemical elements in his Traité Élémentaire de Chimie."
+    },
+    {
+      "year": 1810,
+      "event": "Peter Durand patents the tin can for food preservation in England — a technology promoted by Nicolas Appert's earlier work on food preservation by heat. Canned food becomes essential for long naval voyages, military campaigns, and eventually for global food distribution."
+    },
+    {
+      "year": 1959,
+      "event": "Alastair Pilkington develops the float glass process — molten glass is floated on a bath of liquid tin at 1050°C, spreading to a perfectly flat surface as it cools. Every piece of flat glass in the world — windows, windshields, glass tables — is produced this way. The tin bath technology transforms the glass industry."
+    },
+    {
+      "year": 2006,
+      "event": "The RoHS Directive (Restriction of Hazardous Substances) in the European Union requires the elimination of lead from electronic solder, driving the wholesale adoption of tin-silver-copper (SAC) lead-free solders. Modern electronics become entirely dependent on tin-based solders, making tin critical to the global electronics supply chain."
+    }
+  ],
+  "story": "Tin's story is inseparable from bronze — for two millennia, the ability to make bronze was the difference between advanced and primitive civilization. The Bronze Age was defined by access to tin, and the long-distance trade routes that supplied Mediterranean civilizations with Cornish and Central Asian tin were among the first global trade networks. Phoenician merchants kept the location of tin sources secret for centuries as a commercial advantage. Today tin's role is less glamorous but still essential: it is the solder that connects every circuit in every electronic device, and the coating on the tin cans that contain food for billions of people. The float glass process — where every flat window in the world is made on a liquid tin bath — is perhaps tin's most elegant modern contribution.",
+  "source_note": "Known since at least 3500 BCE (Bronze Age). Recognized as chemical element by Lavoisier (1789). Symbol Sn from Latin stannum. Float glass process by Pilkington (1959)."
+}

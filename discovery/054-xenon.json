@@ -1,0 +1,36 @@
+{
+  "discovered": 1898,
+  "discoverer": "William Ramsay & Morris Travers",
+  "country": "United Kingdom",
+  "named_by": "William Ramsay & Morris Travers",
+  "named": 1898,
+  "etymology": "Greek: xenos (stranger, foreigner) — named for its extreme rarity and chemical inertness. Xenon was the rarest of the noble gases discovered in 1898, and its 'stranger' name reflects its elusive nature. The same Greek root gives us 'xenophobia' (fear of strangers) and 'xenograft' (transplant from another species).",
+  "timeline": [
+    {
+      "year": 1898,
+      "event": "After isolating neon (May) and krypton (May 30), Ramsay and Travers continue their systematic fractional distillation of liquid air. In July 1898, they examine the heavy residue remaining after neon, krypton, and argon have been removed — the fraction with the highest boiling point. They find a previously unknown heavy noble gas."
+    },
+    {
+      "year": 1898,
+      "event": "Xenon is isolated on July 12, 1898 — the third noble gas discovered by Ramsay and Travers in their extraordinary summer of 1898. When electricity is passed through the gas, it produces a beautiful blue-white glow. It is rarer than krypton (present at about 87 parts per billion in air versus 1 part per million for krypton) and heavier than any gas previously known except radon. They name it xenon — the stranger."
+    },
+    {
+      "year": 1936,
+      "event": "Xenon flash lamps are developed for high-speed photography — xenon's ability to produce extremely intense, brief flashes of white light makes it ideal for freezing fast motion on film. The technology becomes standard in scientific and commercial photography."
+    },
+    {
+      "year": 1962,
+      "event": "Neil Bartlett at the University of British Columbia successfully reacts xenon with platinum hexafluoride, synthesizing XePtF₆ — the first compound of a noble gas. The discovery overturns the assumption that noble gases are completely chemically inert and opens an entirely new area of chemistry. Xenon difluoride, xenon tetrafluoride, and other compounds quickly follow."
+    },
+    {
+      "year": 1964,
+      "event": "Xenon anesthesia is demonstrated clinically — xenon at 60-70% concentration with oxygen produces smooth, rapid general anesthesia with minimal cardiovascular effects and extremely rapid recovery. It becomes approved as an anesthetic in several countries, though its high cost limits widespread adoption."
+    },
+    {
+      "year": 1998,
+      "event": "The Deep Space 1 spacecraft, launched in 1998, uses xenon ion propulsion — xenon atoms are ionized and accelerated by an electric field to provide thrust. Xenon's high atomic mass makes it an efficient propellant for ion drives, and it becomes the standard propellant for spacecraft station-keeping and deep space missions."
+    }
+  ],
+  "story": "Xenon was the last of the 1898 noble gases to be discovered and the rarest — present in air at 87 parts per billion, it required enormous quantities of liquid air to isolate even a small sample. For 64 years after its discovery it seemed to confirm that noble gases were simply inert, incapable of chemistry. Then Bartlett's 1962 synthesis of a xenon compound created a revolution: if xenon could bond to fluorine, then the entire concept of 'noble' or 'inert' needed revision. Xenon's compounds now include hundreds of known substances, and xenon chemistry has become a legitimate research field. The stranger turned out to be more interesting than it first appeared.",
+  "source_note": "Isolated by Ramsay and Travers, July 12, 1898. Named from Greek xenos (stranger). Published in Proceedings of the Royal Society, 1898. First noble gas compound by Bartlett (1962)."
+}

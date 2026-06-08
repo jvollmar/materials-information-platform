@@ -1,0 +1,40 @@
+{
+  "discovered": 1802,
+  "discoverer": "Anders Gustav Ekeberg",
+  "country": "Sweden",
+  "named_by": "Anders Gustav Ekeberg",
+  "named": 1802,
+  "etymology": "From Tantalus — the figure of Greek mythology condemned by Zeus to stand in a pool of water beneath fruit trees, with both water and fruit receding from him whenever he reached for them. Ekeberg chose this name because of the extraordinary frustration of working with tantalum oxide — it refused to dissolve in most acids, 'tantalizing' the chemist with its insolubility.",
+  "timeline": [
+    {
+      "year": 1801,
+      "event": "Charles Hatchett discovers columbium (niobium) in a black American mineral sent to the British Museum. The discovery of a new refractory metal in a similar mineral prompts European chemists to investigate their own specimens more carefully."
+    },
+    {
+      "year": 1802,
+      "event": "Anders Gustav Ekeberg, a Swedish chemist at Uppsala University who is partially deaf and nearly blind from laboratory accidents, analyzes Finnish and Swedish minerals and finds an oxide he cannot dissolve in acids. He correctly identifies it as a new element and names it tantalum after Tantalus — reflecting his frustration at the oxide's stubbornly insoluble nature."
+    },
+    {
+      "year": 1809,
+      "event": "William Hyde Wollaston examines both Hatchett's columbium oxide and Ekeberg's tantalum oxide and concludes they are identical — that columbium and tantalum are the same element. His authority is such that the erroneous conclusion is accepted for 35 years."
+    },
+    {
+      "year": 1844,
+      "event": "Heinrich Rose definitively separates tantalum from niobium, disproving Wollaston's 35-year-old conclusion. He confirms they are distinct elements and establishes their chemistry separately."
+    },
+    {
+      "year": 1864,
+      "event": "Jean Charles de Marignac produces pure tantalum metal by reducing potassium tantalum fluoride with hydrogen — the first isolation of pure tantalum."
+    },
+    {
+      "year": 1903,
+      "event": "Werner von Bolton, working at the Siemens and Halske company in Germany, produces tantalum wire for incandescent lamp filaments — tantalum's high melting point (2996°C) and ductility make it a better filament than platinum. Tantalum briefly becomes the dominant lamp filament material before tungsten displaces it."
+    },
+    {
+      "year": 1903,
+      "event": "Tantalum electrolytic capacitors — exploiting tantalum pentoxide's high dielectric constant — are developed. Solid tantalum capacitors become essential in military electronics, then consumer electronics, providing high capacitance in small packages. Every smartphone contains multiple tantalum capacitors."
+    }
+  ],
+  "story": "Tantalum was named for mythological punishment, and the irony is complete: tantalum itself is extraordinarily difficult to work with even by modern standards. It resists virtually all acids at room temperature, is almost impossible to weld by conventional means, and must be processed under vacuum or inert gas to prevent contamination. Ekeberg, who was deaf, nearly blind from acid burns, and working with an oxide that refused to behave, chose the name of a man condemned to eternal frustration. Tantalum's use in smartphone capacitors connects it to the Congo, where a large fraction of tantalum ore (coltan — columbite-tantalite) originates, and to one of the most documented examples of resource conflict in the modern world.",
+  "source_note": "Discovered by Ekeberg (1802) in Finnish and Swedish minerals. Named from Tantalus (Greek mythology). Pure metal isolated by Marignac (1864). Confirmed distinct from niobium by Rose (1844)."
+}

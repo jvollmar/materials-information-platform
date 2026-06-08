@@ -1,0 +1,40 @@
+{
+  "discovered": 1801,
+  "discoverer": "Charles Hatchett",
+  "country": "United Kingdom",
+  "named_by": "Heinrich Rose",
+  "named": 1844,
+  "etymology": "From Niobe, daughter of Tantalus in Greek mythology — named by Heinrich Rose in 1844 because niobium was found alongside tantalum and was difficult to separate from it. Niobe is an apt mythological choice: she was punished for hubris by the gods, turned to stone while weeping for her slaughtered children. The element had previously been called columbium (from Columbia, a poetic name for America) by Hatchett — and columbium (Cb) remains the name used in American metallurgy to this day.",
+  "timeline": [
+    {
+      "year": 1734,
+      "event": "John Winthrop the Younger, the first governor of Connecticut, sends a sample of a black mineral called columbite from Massachusetts to the British Museum in the 1730s. The mineral sits in the museum collection for over 60 years before being analyzed."
+    },
+    {
+      "year": 1801,
+      "event": "Charles Hatchett, an English chemist, analyzes the black mineral from the British Museum collection and finds it contains an oxide not corresponding to any known element. He names the new element 'columbium' after Columbia (America), honoring the mineral's American origin. He cannot isolate the metal itself."
+    },
+    {
+      "year": 1802,
+      "event": "Anders Gustav Ekeberg discovers tantalum in Swedish minerals. When his tantalum oxide and Hatchett's columbium oxide are compared, many chemists believe they are identical — the same element. A debate over whether columbium and tantalum are the same element persists for 40 years."
+    },
+    {
+      "year": 1844,
+      "event": "Heinrich Rose resolves the debate definitively. Analyzing both minerals carefully, he separates two distinct oxides — one corresponding to tantalum and a second that he confirms is a genuinely different element. He names it niobium after Niobe (daughter of Tantalus in mythology) to reflect its close relationship to tantalum."
+    },
+    {
+      "year": 1864,
+      "event": "Christian Wilhelm Blomstrand produces the first pure niobium metal by reducing niobium chloride with hydrogen at high temperature — the first isolation of metallic niobium."
+    },
+    {
+      "year": 1961,
+      "event": "IUPAC formally adopts 'niobium' as the official international name for element 41. The United States and some metallurgical industries continue to use 'columbium' — making niobium one of the few elements with two commonly used names in different contexts."
+    },
+    {
+      "year": 1971,
+      "event": "CBMM (Companhia Brasileira de Metalurgia e Mineração) begins large-scale production of ferroniobium from the Araxá pyrochlore deposit in Minas Gerais, Brazil. The deposit is so large and rich that Brazil eventually supplies approximately 85% of the world's niobium — an extraordinary concentration in a single country."
+    }
+  ],
+  "story": "Niobium's history is tangled with tantalum's in an almost literary way — just as Niobe and Tantalus are connected in Greek mythology, the two elements are chemically so similar that chemists argued for 40 years about whether they were the same substance. Charles Hatchett's original American naming — columbium — reflects the patriotic naming conventions of the early 19th century, and American metallurgists maintained 'columbium' for so long that steel standards still sometimes reference Cb rather than Nb. Today Brazil's geological luck with the Araxá deposit has made it the dominant supplier of an element that is invisible but essential — every high-strength structural steel beam and pipeline grade steel almost certainly contains niobium.",
+  "source_note": "Identified by Hatchett (1801) as columbium. Confirmed as distinct from tantalum by Rose (1844), who named it niobium. Metal isolated by Blomstrand (1864). IUPAC adopted niobium 1949 (confirmed 1961)."
+}

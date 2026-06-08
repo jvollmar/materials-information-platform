@@ -1,0 +1,36 @@
+{
+  "discovered": 1886,
+  "discoverer": "Paul Émile Lecoq de Boisbaudran",
+  "country": "France",
+  "named_by": "Paul Émile Lecoq de Boisbaudran",
+  "named": 1886,
+  "etymology": "Greek: dysprositos (hard to get at, difficult to obtain) — named for the extraordinary difficulty of separating it from other rare earth elements. After performing dozens of tedious fractional precipitations to isolate it, Lecoq de Boisbaudran chose a name that expressed his frustration and the element's stubbornness.",
+  "timeline": [
+    {
+      "year": 1878,
+      "event": "Marignac separates ytterbium from erbium, and Cleve separates holmium and thulium — progressively refining the rare earth fractions into purer components. Each separation reveals that what seemed pure was still a mixture."
+    },
+    {
+      "year": 1886,
+      "event": "Paul Émile Lecoq de Boisbaudran — who had earlier discovered gallium and samarium — undertakes the separation of holmium from erbia fractions. Through 32 successive fractional precipitations, he isolates a new oxide fraction with spectral lines different from holmium. The extraordinary labor of the separation inspires his naming choice."
+    },
+    {
+      "year": 1886,
+      "event": "He names the new element dysprosium from the Greek dysprositos — 'hard to get at' — an unusually candid name that preserves the frustration of the discovery process for posterity. It is one of the few element names that captures an emotional experience rather than a property, place, or person."
+    },
+    {
+      "year": 1950,
+      "event": "Pure dysprosium metal is obtained for the first time using ion exchange chromatography — the first technique capable of cleanly separating dysprosium from holmium, which have nearly identical ionic radii. The element that was 'hard to get at' in 1886 finally becomes available in measurable quantities."
+    },
+    {
+      "year": 1982,
+      "event": "Dysprosium is found to dramatically improve the high-temperature performance of neodymium-iron-boron (Nd₂Fe₁₄B) permanent magnets — adding 2–6% dysprosium raises the coercivity (resistance to demagnetization) significantly, making the magnets stable at the temperatures reached inside electric vehicle motors. Dysprosium becomes essential to EV magnet manufacturing."
+    },
+    {
+      "year": 2010,
+      "event": "China's restriction of rare earth exports causes a spike in dysprosium price from under $100/kg to over $2,000/kg — a 20-fold increase in two years — as EV manufacturers realize their motor magnets require dysprosium. The episode exposes critical supply chain vulnerability and drives intensive research into dysprosium-reduced magnet formulations."
+    }
+  ],
+  "story": "Dysprosium's name is a small monument to scientific exasperation. After performing 32 successive fractional precipitations to isolate it — an operation requiring months of tedious laboratory work — Lecoq de Boisbaudran could have named it after a place, a patron, or a mythological figure as convention suggested. Instead he named it for the difficulty of getting it. The name proved prophetic: dysprosium was the last natural element to be obtained in pure form (not until 1950) and remains one of the most difficult to separate commercially. Its modern importance — as the key additive that makes electric vehicle magnets work at operating temperatures — has made this 'hard to get at' element a geopolitical concern.",
+  "source_note": "Discovered by Lecoq de Boisbaudran (1886) in Paris, from holmium fractions. Named from Greek dysprositos (hard to get at). Published in Comptes Rendus, 1886."
+}

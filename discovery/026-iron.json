@@ -1,0 +1,44 @@
+{
+  "discovered": -3500,
+  "discoverer": "Known since antiquity",
+  "country": "Global — multiple ancient civilizations",
+  "named_by": "Known since antiquity",
+  "named": -3500,
+  "etymology": "The English word 'iron' comes from the Anglo-Saxon 'iren' or 'isern,' which derives from Proto-Germanic 'isarna.' The chemical symbol Fe comes from the Latin 'ferrum,' which is also the root of 'ferrous,' 'ferric,' and 'ferrite.' The Latin word may derive from the Etruscan or from an even older Mediterranean root.",
+  "timeline": [
+    {
+      "year": -4000,
+      "event": "The earliest known iron objects are meteoric iron artifacts from ancient Egypt and Mesopotamia — beads, blades, and ornaments made from iron-nickel meteorites. Meteoric iron is recognizable by its high nickel content and was treated as a divine gift from the sky. The ancient Egyptian term for iron, 'bja-n-pt,' means 'metal of heaven.'"
+    },
+    {
+      "year": -3500,
+      "event": "Smelting of iron ore (reduction of iron oxides with charcoal) begins to develop independently in multiple regions, most likely in Anatolia (modern Turkey) and the Caucasus. The process is far more difficult than bronze smelting — requiring much higher temperatures — and develops slowly over centuries."
+    },
+    {
+      "year": -1200,
+      "event": "The Iron Age begins as iron smelting technology spreads across the Near East, Mediterranean, and Europe. The transition from bronze to iron transforms civilization — iron ore is far more abundant and widespread than copper and tin, democratizing access to metal tools and weapons. Iron is harder and holds an edge better than bronze when properly worked."
+    },
+    {
+      "year": -500,
+      "event": "The Chinese independently develop cast iron by achieving furnace temperatures high enough to melt iron completely — allowing it to be poured into molds. Chinese cast iron appears roughly 1,500 years before it is developed in Europe. The Chinese also develop steel — iron with a controlled carbon content — through cementation processes."
+    },
+    {
+      "year": 1709,
+      "event": "Abraham Darby develops the use of coke (coal converted to near-pure carbon) instead of charcoal for iron smelting at Coalbrookdale, England — a critical innovation that breaks the dependence on forests for fuel and enables vast scale-up of iron production. Darby's coke-smelted iron launches the Industrial Revolution."
+    },
+    {
+      "year": 1855,
+      "event": "Henry Bessemer patents the Bessemer converter — blowing air through molten pig iron to burn off excess carbon — producing steel cheaply and rapidly for the first time. Steel production explodes from thousands to millions of tons per year, enabling railroads, bridges, skyscrapers, and industrial machinery at unprecedented scale."
+    },
+    {
+      "year": 1789,
+      "event": "Antoine Lavoisier recognizes iron as one of the fundamental chemical elements in his Traité Élémentaire de Chimie, formally establishing what all previous civilizations had taken for granted: iron is elemental, not a compound or mixture."
+    },
+    {
+      "year": 1913,
+      "event": "Henry Brearly discovers stainless steel (containing chromium), and electric arc furnace steelmaking develops, enabling the recycling of steel scrap — making steel the most recycled material on Earth. Modern civilization uses more iron and steel than all other metals combined."
+    }
+  ],
+  "story": "Iron is the element that arguably most shaped human civilization. The Iron Age transformed warfare, agriculture, construction, and trade across every continent. Yet iron holds a peculiar place in the universe — it is the end product of stellar nucleosynthesis. Stars fuse lighter elements into heavier ones, releasing energy, until they reach iron. Iron fusion absorbs energy rather than releasing it, so when a massive star builds up an iron core, it can no longer sustain itself and explodes as a supernova. The iron in your blood was forged in the death of ancient stars. Every red blood cell carries hemoglobin whose iron atom binds oxygen — the same iron chemistry that made the Iron Age possible keeps you alive with every breath.",
+  "source_note": "Known since at least 4000 BCE (meteoric iron). Smelted iron from ore from approximately 3500 BCE. Recognized as chemical element by Lavoisier (1789). Symbol Fe from Latin ferrum."
+}

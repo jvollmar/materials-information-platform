@@ -1,0 +1,40 @@
+{
+  "discovered": 1735,
+  "discoverer": "Antonio de Ulloa",
+  "country": "Spain / South America",
+  "named_by": "Antonio de Ulloa",
+  "named": 1748,
+  "etymology": "Spanish: platina (little silver, silver-like) — a diminutive of 'plata' (silver). Spanish conquistadors and miners in South America called it 'platina del Pinto' (the little silver of the Pinto River, in modern Colombia) — somewhat dismissively, since they could not melt or work the metal and found it worthless. The name is a rare example of a precious metal named with a diminutive suggesting inferiority.",
+  "timeline": [
+    {
+      "year": -100,
+      "event": "Pre-Columbian peoples of South America, particularly in Ecuador and Colombia, work native platinum — one of the few places where it occurs in usable nuggets — fashioning ornaments and ritual objects. They hammer it together with gold dust using a sintering technique not understood by Europeans for centuries."
+    },
+    {
+      "year": 1557,
+      "event": "Julius Caesar Scaliger, an Italian scholar, writes the first European description of a South American metal that resists all fire — unable to be melted by the smelting techniques available to Spanish metallurgists. The metal is unworkable and the Spaniards discard it as valueless."
+    },
+    {
+      "year": 1735,
+      "event": "Antonio de Ulloa, a Spanish naval officer accompanying a French geodetic expedition to measure the shape of the Earth in Ecuador, encounters platinum in the gold mines of Chocó (Colombia). He collects samples and sends them to Spain, recognizing this is a distinct and unusual metal. His observations, published in 1748, constitute the European scientific discovery of platinum."
+    },
+    {
+      "year": 1741,
+      "event": "Charles Wood, a British metallurgist, independently collects platinum samples in Jamaica and sends them to William Brownrigg in England. Brownrigg's analysis, communicated to the Royal Society in 1750, gives platinum wider European scientific exposure."
+    },
+    {
+      "year": 1783,
+      "event": "Franz Karl Achard and Pierre-François Chabaneau independently develop methods for working platinum into malleable form — Chabaneau's process enables the production of a platinum mass large enough for King Charles IV of Spain to commission a platinum chalice. Platinum begins its transition from curiosity to precious material."
+    },
+    {
+      "year": 1800,
+      "event": "William Hyde Wollaston develops his secret process for purifying and working platinum commercially — producing platinum laboratory ware, wire, and crucibles that transform chemical analysis. His platinum was so pure and his business so successful that he quietly became wealthy from it."
+    },
+    {
+      "year": 1828,
+      "event": "Platinum's catalytic properties for hydrogen combustion are demonstrated by Johann Wolfgang Döbereiner — his 'Döbereiner's lamp' uses a platinum sponge catalyst to ignite hydrogen gas without a flame. This is among the first practical demonstrations of heterogeneous catalysis."
+    }
+  ],
+  "story": "Platinum was dismissed by the Spanish as worthless little silver — a nuisance metal found mixed with gold that they could not smelt or work. They dumped loads of it into the sea or rivers to prevent it from being used to adulterate gold. It took European scientists two centuries to appreciate that they were discarding one of the rarest and most valuable metals on Earth. Pre-Columbian South American metalworkers had understood platinum better: they worked it by sintering platinum dust with gold, a technique that modern materials science recognizes as sophisticated powder metallurgy. The metal named 'little silver' in diminutive Spanish contempt is now worth several times more than the gold it was found with.",
+  "source_note": "Pre-Columbian use documented in Ecuador/Colombia. European discovery by Antonio de Ulloa (1735), published 1748. Independent description by Wood and Brownrigg (1741-1750)."
+}

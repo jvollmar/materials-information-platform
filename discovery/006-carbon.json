@@ -1,0 +1,48 @@
+{
+  "discovered": -3750,
+  "discoverer": "Known since antiquity",
+  "country": "Global — no single discoverer",
+  "named_by": "Antoine Lavoisier",
+  "named": 1789,
+  "etymology": "Latin: carbo (charcoal, coal) — one of the few elements with a name derived directly from a common substance rather than a person or place",
+  "timeline": [
+    {
+      "year": -3750,
+      "event": "Carbon in the form of charcoal has been used by humans since prehistoric times — charcoal drawings in the Lascaux caves of France date to approximately 17,000 BCE. Soot, graphite, and diamond were all known to ancient civilizations without any understanding of their shared elemental nature."
+    },
+    {
+      "year": -2500,
+      "event": "Ancient Egyptians and Romans use charcoal for smelting metals, purifying water, and as a pigment. Diamond is known in India from at least 2500 BCE, prized as a gemstone with no connection made to charcoal or soot."
+    },
+    {
+      "year": 1694,
+      "event": "Florentine scientists experiment with burning diamonds using a large lens to focus sunlight, demonstrating that diamond is combustible — a shocking result, since diamonds were thought indestructible. They note the product of combustion appears to be nothing but air."
+    },
+    {
+      "year": 1772,
+      "event": "Antoine Lavoisier and colleagues burn diamond precisely and identify the combustion product as carbon dioxide — the same gas produced by burning charcoal. This is the first experimental evidence that diamond and charcoal are forms of the same substance."
+    },
+    {
+      "year": 1779,
+      "event": "Carl Wilhelm Scheele demonstrates that graphite, when burned, also produces carbon dioxide — establishing that graphite, charcoal, soot, and diamond are all forms of the same element. Scheele's work is meticulous but he receives little credit."
+    },
+    {
+      "year": 1789,
+      "event": "Antoine Lavoisier lists carbon (carbone) as one of 33 chemical elements in his landmark Traité Élémentaire de Chimie — the first modern chemistry textbook. He gives it its current name from the Latin carbo."
+    },
+    {
+      "year": 1796,
+      "event": "Smithson Tennant proves conclusively that diamond is pure carbon by burning equal weights of diamond and charcoal and showing they produce identical amounts of carbon dioxide — ending any remaining doubt about diamond's composition."
+    },
+    {
+      "year": 1985,
+      "event": "Harold Kroto, Robert Curl, and Richard Smalley discover buckminsterfullerene (C₆₀, buckyball) at Rice University — a third crystalline form of carbon alongside graphite and diamond. They receive the 1996 Nobel Prize in Chemistry."
+    },
+    {
+      "year": 2004,
+      "event": "Andre Geim and Konstantin Novoselov isolate graphene — a single atomic layer of carbon — at the University of Manchester using Scotch tape to peel layers from graphite. They receive the 2010 Nobel Prize in Physics for this deceptively simple experiment."
+    }
+  ],
+  "story": "Carbon is the only element with an entire branch of chemistry named after it — organic chemistry. It is also the only element found naturally in three distinct crystalline forms: graphite (one of the softest materials), diamond (the hardest natural material), and fullerenes. The realization in the 18th century that these utterly different substances are made of the same atoms was one of chemistry's most startling discoveries. Carbon's story is ultimately the story of life itself — every living organism on Earth is built on a carbon framework.",
+  "source_note": "Known since prehistoric times. Recognized as an element by Lavoisier (1789). Diamond's carbon nature proven by Tennant (1796)."
+}

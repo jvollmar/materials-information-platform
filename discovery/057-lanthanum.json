@@ -1,0 +1,40 @@
+{
+  "discovered": 1839,
+  "discoverer": "Carl Gustaf Mosander",
+  "country": "Sweden",
+  "named_by": "Carl Gustaf Mosander",
+  "named": 1839,
+  "etymology": "Greek: lanthanein (to lie hidden, to escape notice) — named because lanthanum hid so effectively within cerium oxide that it remained undetected for decades after cerium was discovered. The name is also the root of 'lanthanide,' the group name for all 15 elements from lanthanum to lutetium.",
+  "timeline": [
+    {
+      "year": 1803,
+      "event": "Jöns Jacob Berzelius and Wilhelm Hisinger discover cerium in the mineral cerite from Bastnaes, Sweden — naming it after the asteroid Ceres, discovered two years earlier. The mineral is analyzed carefully, but the cerium oxide fraction appears to be a single pure compound. A hidden element lurks undetected within it."
+    },
+    {
+      "year": 1839,
+      "event": "Carl Gustaf Mosander, a Swedish chemist and student of Berzelius, suspects that the 'cerium oxide' purified from cerite is not a single substance. He treats it with dilute nitric acid and finds that part dissolves readily while a residue remains. The two fractions produce different compounds — evidence of two distinct elements."
+    },
+    {
+      "year": 1839,
+      "event": "Mosander characterizes the new element in the residue fraction and names it lanthanum from the Greek lanthanein — 'to lie hidden' — because it had concealed itself so effectively within cerium. He presents his findings quietly and doesn't publish immediately, typical of his methodical personality."
+    },
+    {
+      "year": 1843,
+      "event": "Mosander continues separating the lanthanides and discovers that his 'lanthanum oxide' also contains yet another new element — didymium (later split into praseodymium and neodymium in 1885 by von Welsbach). The rare earths keep subdividing as analytical methods improve."
+    },
+    {
+      "year": 1923,
+      "event": "Charles James at the University of New Hampshire develops fractional crystallization methods for separating the rare earth elements to high purity — a laborious but effective technique that makes pure lanthanum compounds available for the first time in quantity."
+    },
+    {
+      "year": 1984,
+      "event": "Lanthanum is used as a dopant in optical glass for camera lenses — lanthanum oxide allows glass with very high refractive index (useful for compact, high-quality optics) without high dispersion. Nearly all premium camera and microscope lenses contain lanthanum oxide."
+    },
+    {
+      "year": 2008,
+      "event": "Lanthanum nickel hydride (LaNi₅H₆) becomes the standard negative electrode material in nickel-metal hydride (NiMH) batteries used in hybrid vehicles — the Toyota Prius and most hybrid cars use lanthanum-containing battery packs, making lanthanum critical to the early phase of automotive electrification."
+    }
+  ],
+  "story": "Mosander's discovery of lanthanum began a cascade that would take most of a century to complete. He found lanthanum hiding in cerium, then found didymium hiding in lanthanum — and didymium itself turned out to be two elements (praseodymium and neodymium). The rare earth elements are chemically so similar that separating them is one of chemistry's most demanding challenges; the techniques for doing so were barely adequate in Mosander's time and remained primitive until ion-exchange chromatography was developed in the mid-20th century. Lanthanum gave its name to the entire lanthanide series — the hidden element became the namesake for a family of 15 elements, all of which hide similar properties beneath similar chemistry.",
+  "source_note": "Discovered by Mosander (1839) in cerite mineral. Named from Greek lanthanein (to lie hidden). Published in Philosophical Magazine, 1842."
+}

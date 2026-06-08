@@ -1,0 +1,36 @@
+{
+  "discovered": 1899,
+  "discoverer": "André-Louis Debierne",
+  "country": "France",
+  "named_by": "André-Louis Debierne",
+  "named": 1899,
+  "etymology": "Greek: aktinos (ray, beam) — named for its intense radioactivity, which produces visible glowing in the dark (actually from the decay products surrounding it). The name is closely related to the source of 'actinide' — the series of heavy elements from actinium to lawrencium takes its group name from actinium.",
+  "timeline": [
+    {
+      "year": 1899,
+      "event": "André-Louis Debierne, a French chemist who was a close friend and colleague of the Curies, discovers actinium while processing uranium ore residues — the same pitchblende residues that the Curies had processed to find polonium and radium. He isolates a fraction associated with iron and titanium that has unusual radioactive properties, naming it actinium."
+    },
+    {
+      "year": 1902,
+      "event": "Friedrich Giesel, a German chemist, independently discovers what he calls 'emanium' in pitchblende — it is later determined to be the same element as Debierne's actinium. Priority is awarded to Debierne."
+    },
+    {
+      "year": 1902,
+      "event": "Rutherford and Soddy, studying radioactive decay chains, identify actinium as the parent of a series of shorter-lived radioactive decay products — establishing actinium's place in the uranium decay chain (actually, actinium-227 is produced from uranium-235, which is a minor branch of the main uranium-238 chain)."
+    },
+    {
+      "year": 1950,
+      "event": "Actinium's blue-white radioactive glow — caused by ionization of surrounding air by its alpha emissions and those of its decay products — is characterized. Small quantities of actinium in the dark glow with an eerie blue luminescence, making it visually striking even in unmeasurably small amounts."
+    },
+    {
+      "year": 2020,
+      "event": "Actinium-225 emerges as one of the most promising radioisotopes in targeted alpha therapy (TAT) for cancer — its 10-day half-life is long enough for pharmaceutical manufacturing and delivery, and its decay chain releases multiple alpha particles per parent atom. Clinical trials of Ac-225 labeled cancer drugs produce remarkable results in prostate cancer and other malignancies."
+    },
+    {
+      "year": 2023,
+      "event": "The global Ac-225 supply crisis becomes acute — demand from oncology clinical trials exceeds production capacity at the handful of facilities (ORNL, US; Dimitrovgrad, Russia; Chalk River, Canada) capable of producing meaningful quantities. Accelerator-based Ac-225 production from radium-226 targets is developed as an alternative supply route."
+    }
+  ],
+  "story": "Actinium was discovered in the immediate aftermath of the Curies' work — Debierne was their close friend and knew what they were looking for. His isolation of actinium was done in the same laboratory, using the same ore residues, following the same methods. The element's blue-white glow in the dark — one of the few elements whose radioactivity is directly visible — gives it an almost mythological quality. Actinium's greatest importance, however, lies in the future rather than the past: actinium-225 is at the frontier of cancer medicine, a radioisotope that may extend the lives of patients with previously untreatable cancers. The supply chain for Ac-225 runs through a handful of research reactors worldwide, making it one of the most strategically important isotopes in modern medicine.",
+  "source_note": "Discovered by Debierne (1899) in pitchblende residues, Paris. Named from Greek aktinos (ray). Independent discovery by Giesel (1902) as 'emanium.' Published in Comptes Rendus, 1899."
+}

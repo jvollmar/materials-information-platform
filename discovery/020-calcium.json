@@ -1,0 +1,40 @@
+{
+  "discovered": 1808,
+  "discoverer": "Humphry Davy",
+  "country": "United Kingdom",
+  "named_by": "Humphry Davy",
+  "named": 1808,
+  "etymology": "Latin: calx or calcis (lime, limestone) — named after lime (calcium oxide, CaO), the material produced by burning limestone (calcium carbonate, CaCO₃). 'Calx' in Latin referred to limestone, chalk, and the burned product. The word 'chalk' itself derives from the same root.",
+  "timeline": [
+    {
+      "year": -3000,
+      "event": "Lime (calcium oxide) and limestone (calcium carbonate) have been used since ancient times. The ancient Egyptians used limestone to build the pyramids. The Romans made concrete using calcium-based lime mortar that hardened through reaction with water and air — some Roman concrete structures remain standing 2,000 years later. Gypsum (calcium sulfate) was used in plaster by the Egyptians as early as 3700 BCE."
+    },
+    {
+      "year": 1755,
+      "event": "Joseph Black distinguishes lime (calcium oxide) from magnesia (magnesium oxide) — two white powders previously confused — by demonstrating they react differently with acids and produce different compounds when exposed to carbon dioxide. He shows that limestone contains 'fixed air' (carbon dioxide) that is released on heating — one of the first quantitative chemical experiments."
+    },
+    {
+      "year": 1808,
+      "event": "Humphry Davy electrolyzes a mixture of lime (calcium oxide) with mercury oxide to produce a calcium-mercury amalgam, then distills off the mercury. He produces calcium metal for the first time — a silvery-white metal that reacts vigorously with water. He names it calcium from the Latin calx. This is part of Davy's extraordinary 1808 year in which he also isolated barium, magnesium, and strontium."
+    },
+    {
+      "year": 1808,
+      "event": "Berzelius and Magnus Pontin in Sweden simultaneously and independently isolate calcium amalgam by electrolysis of lime, confirming Davy's discovery. Unlike Davy, they do not manage to distill pure calcium metal from the amalgam."
+    },
+    {
+      "year": 1842,
+      "event": "Calcium is found to be a major component of teeth and bones — calcium phosphate (hydroxyapatite) forms the mineral matrix of all vertebrate skeletal tissue. This discovery begins the understanding of calcium's fundamental role in biology that extends far beyond structural support."
+    },
+    {
+      "year": 1883,
+      "event": "Sydney Ringer discovers that isolated frog hearts will beat much longer in a saline solution containing calcium than in pure sodium chloride solution — the first demonstration that calcium is essential for muscle contraction. Ringer's solution (containing calcium, sodium, and potassium) is still used in medicine today."
+    },
+    {
+      "year": 1947,
+      "event": "Josef Erlanger and Herbert Gasser share the Nobel Prize in Physiology for work that ultimately reveals calcium's role as a universal cellular signaling molecule. Calcium ions (Ca²⁺) flooding into cells trigger muscle contraction, nerve firing, hormone secretion, and hundreds of other processes — making calcium the most important signaling ion in biology."
+    }
+  ],
+  "story": "Calcium is simultaneously one of the most familiar and most physiologically essential of all elements. It forms our bones and teeth, triggers our muscles to contract (including the heart), enables neurons to fire, and is required for blood to clot. Its compounds form the white cliffs of Dover, the limestone of the Parthenon, the concrete of modern cities, and the chalk of every classroom blackboard. Davy's isolation in 1808 was almost anticlimactic — everyone knew calcium compounds existed, and the existence of the metal was theoretically certain. The interesting question was never whether calcium existed but what it did — and the answer turned out to be: everything.",
+  "source_note": "Isolated by Davy (1808). Simultaneous isolation by Berzelius and Pontin. Named by Davy from Latin calx (lime). Published in Philosophical Transactions, 1808."
+}

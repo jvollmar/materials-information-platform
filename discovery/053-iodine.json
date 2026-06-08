@@ -1,0 +1,40 @@
+{
+  "discovered": 1811,
+  "discoverer": "Bernard Courtois",
+  "country": "France",
+  "named_by": "Humphry Davy & Joseph Louis Gay-Lussac",
+  "named": 1813,
+  "etymology": "Greek: ioeides (violet-colored) — named for the distinctive violet color of iodine vapor and of iodine dissolved in organic solvents. The name was suggested by Gay-Lussac based on the beautiful purple-violet color that is iodine's most immediately visible property.",
+  "timeline": [
+    {
+      "year": 1811,
+      "event": "Bernard Courtois, a French manufacturer of saltpeter (potassium nitrate) in Paris — a substance critical for making gunpowder during the Napoleonic Wars — is processing seaweed ash to extract potassium. When he accidentally adds too much sulfuric acid to the seaweed ash residue, a beautiful violet cloud erupts. On cooling, lustrous dark crystals form. He observes the phenomenon but lacks resources to investigate further."
+    },
+    {
+      "year": 1812,
+      "event": "Courtois shares his observation with two Parisian chemists — Nicolas Clément and Charles Desormes — who study the substance and report it to the French Academy of Sciences. Humphry Davy, visiting Paris, also receives a sample."
+    },
+    {
+      "year": 1813,
+      "event": "Gay-Lussac and Davy simultaneously investigate the new substance and both conclude it is a new element analogous to chlorine. A priority dispute ensues between the two great chemists. Gay-Lussac proposes the name 'iode' (iodine); Davy also claims the naming right. The name iodine from the Greek ioeides (violet) is adopted."
+    },
+    {
+      "year": 1820,
+      "event": "Jean-François Coindet, a Swiss physician, discovers that tincture of iodine treats goiter — a swelling of the thyroid gland caused by iodine deficiency that was endemic in landlocked regions far from seafood. This is one of the first demonstrations of a dietary mineral essential for human health."
+    },
+    {
+      "year": 1839,
+      "event": "John William Draper and others develop the daguerreotype photographic process using silver iodide as the light-sensitive material — beginning photography's century-long dependence on silver halides and iodine chemistry."
+    },
+    {
+      "year": 1924,
+      "event": "The United States begins mandatory iodization of table salt following studies showing widespread iodine deficiency. The simple measure of adding potassium iodide to salt at 1 part per 10,000 essentially eliminates goiter and cretinism (iodine deficiency-caused intellectual disability) in the United States — one of the greatest and most cost-effective public health interventions ever achieved."
+    },
+    {
+      "year": 1986,
+      "event": "Following the Chernobyl nuclear disaster, the distribution of potassium iodide tablets to populations near the reactor prevents thyroid cancer by saturating the thyroid with stable iodine, blocking uptake of radioactive iodine-131 from the fallout. The protocol becomes standard emergency response for nuclear accidents."
+    }
+  ],
+  "story": "Iodine was discovered by an accident born from wartime necessity. Courtois was manufacturing saltpeter for Napoleon's armies — an enterprise so commercial and so pressing that he had neither the time nor resources to investigate his startling purple cloud properly. He gave the substance away to scientists with better equipment, and both Gay-Lussac and Davy raced to characterize it. The irony is that Courtois, who made the original observation, received little of the credit — and none of the financial benefit. His subsequent life was difficult; he died in poverty in 1838. The element he discovered from seaweed ash is now produced from Chilean caliche deposits and Japanese natural gas brines, and it protects billions of people from thyroid disease through iodized salt.",
+  "source_note": "Discovered by Courtois (1811) in Paris. Characterized as element by Gay-Lussac and Davy (1813). Named iodine from Greek ioeides (violet) by Gay-Lussac."
+}

@@ -1,0 +1,40 @@
+{
+  "discovered": 1861,
+  "discoverer": "Robert Bunsen & Gustav Kirchhoff",
+  "country": "Germany",
+  "named_by": "Robert Bunsen & Gustav Kirchhoff",
+  "named": 1861,
+  "etymology": "Latin: rubidus (deep red, dark red) — named for the two characteristic deep red spectral lines by which it was discovered in a flame spectroscope. This was the second element discovered by spectroscopy, demonstrating that the new technique could reliably identify unknown elements by their light signatures.",
+  "timeline": [
+    {
+      "year": 1859,
+      "event": "Robert Bunsen and Gustav Kirchhoff develop the first practical spectroscope and establish the principle of spectral analysis: each element produces a unique set of colored lines when its compounds are vaporized in a flame. Bunsen's famous gas burner (developed in 1855) provides the clean, colorless flame essential for spectroscopic analysis."
+    },
+    {
+      "year": 1860,
+      "event": "Bunsen and Kirchhoff discover cesium — the first element found by spectroscopy — by identifying two blue spectral lines not corresponding to any known element in the mineral water of Dürkheim. They name it from the Latin caesius (sky blue)."
+    },
+    {
+      "year": 1861,
+      "event": "While continuing to analyze mineral waters and mineral residues spectroscopically, Bunsen and Kirchhoff observe two bright red lines in the spectrum of lepidolite (a lithium-bearing mica) that don't match lithium, sodium, potassium, or any known element. They correctly conclude a new element is present."
+    },
+    {
+      "year": 1861,
+      "event": "Bunsen processes approximately 150 kilograms of lepidolite to extract sufficient rubidium for characterization. He isolates rubidium salts — establishing the atomic weight, chemical behavior, and properties of the new element. Metallic rubidium is obtained by reducing rubidium chloride with calcium."
+    },
+    {
+      "year": 1861,
+      "event": "Bunsen and Kirchhoff name the element rubidium from the Latin rubidus (deep red) — the color of its most prominent spectral lines. The naming continues the pattern established with cesium: elements discovered by spectroscopy are named after the color of their signature spectral emission."
+    },
+    {
+      "year": 1995,
+      "event": "Eric Cornell, Carl Wieman, and colleagues at JILA (University of Colorado) achieve the first Bose-Einstein condensate using rubidium-87 atoms cooled to 170 nanokelvin — the first time matter had been observed in this exotic quantum state at ultracold temperatures. Cornell and Wieman share the 2001 Nobel Prize in Physics with Wolfgang Ketterle."
+    },
+    {
+      "year": 2000,
+      "event": "Rubidium atomic clocks become standard timing references in GPS satellite systems and telecommunications networks — rubidium's precise hyperfine transition frequency makes it the basis of secondary frequency standards accurate to better than 1 part in 10¹¹."
+    }
+  ],
+  "story": "Rubidium was discovered in 1861 in one of the most productive years in the history of element discovery. Bunsen and Kirchhoff had invented the spectroscope just two years earlier, and they were applying it systematically to everything they could obtain — minerals, mineral waters, plant ashes, volcanic material. In a single year they found two new elements (cesium and rubidium), fundamentally changed the method of chemical analysis, and demonstrated that spectroscopy could detect elements in quantities far too small for conventional chemistry. Their work transformed astronomy as well — scientists quickly realized the technique could be applied to sunlight and starlight to determine what distant celestial bodies are made of, founding the science of astrophysics.",
+  "source_note": "Discovered by Bunsen and Kirchhoff (1861) in lepidolite mineral. Named from Latin rubidus (deep red). Published in Annalen der Physik und Chemie, 1861."
+}

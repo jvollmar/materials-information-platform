@@ -1,0 +1,40 @@
+{
+  "discovered": 1885,
+  "discoverer": "Carl Auer von Welsbach",
+  "country": "Austria",
+  "named_by": "Carl Auer von Welsbach",
+  "named": 1885,
+  "etymology": "Greek: prasios (leek green) + didymos (twin) — 'green twin,' named for the characteristic green color of its salts and its origin as one of two elements separated from didymium. Neodymium (the 'new twin') was the other element separated in the same experiment. The naming reflects their twinned discovery from a single supposed element.",
+  "timeline": [
+    {
+      "year": 1841,
+      "event": "Carl Gustaf Mosander discovers 'didymium' as an apparently new element within lanthanum oxide — naming it from the Greek didymos (twin) because it is always found alongside lanthanum. Didymium is accepted as a true element for over 40 years."
+    },
+    {
+      "year": 1874,
+      "event": "Delafontaine and Soret observe spectroscopic anomalies in didymium samples that suggest it may be a mixture of more than one element — but the separation proves beyond the techniques of the time."
+    },
+    {
+      "year": 1885,
+      "event": "Carl Auer von Welsbach, an Austrian chemist, applies his exceptional skill in fractional crystallization to didymium ammonium nitrate. After hundreds of tedious crystallizations, he obtains two fractions with distinctly different spectroscopic signatures and different colored salts. He announces he has separated didymium into two elements."
+    },
+    {
+      "year": 1885,
+      "event": "Welsbach names the green-salted fraction praseodymium (prasios = leek green + didymos = twin) and the rose/violet-salted fraction neodymium (neos = new + didymos = twin). The scientific community is initially skeptical — many experts believe didymium is a single element — but Welsbach's spectroscopic evidence is compelling."
+    },
+    {
+      "year": 1886,
+      "event": "Welsbach's separation is confirmed by other chemists who replicate his crystallization procedure. Didymium is officially abandoned as a discrete element. Two new elements enter the periodic table simultaneously from a single source."
+    },
+    {
+      "year": 1931,
+      "event": "Praseodymium oxide (Pr₆O₁₁) becomes used as a yellow-to-orange ceramic glaze in pottery and porcelain — the pigment produces stable, brilliant yellow colors in ceramics that withstand firing temperatures. Praseodymium yellow becomes one of the few rare earth elements with a direct consumer-visible aesthetic application."
+    },
+    {
+      "year": 2019,
+      "event": "Praseodymium-neodymium alloy (PrNd) is used in high-performance permanent magnets for electric vehicle motors and wind turbines — the two elements separated by Welsbach in 1885 are now often used together again, since separating them is expensive and unnecessary for magnet applications."
+    }
+  ],
+  "story": "Welsbach's separation of didymium is one of chemistry's great feats of patient persistence. He performed hundreds of crystallizations — each one requiring careful preparation, filtering, drying, and spectroscopic examination — over a period of months, in an era before any automated analytical equipment existed. The work was meticulous, lonely, and repetitive. When he finally obtained two distinct fractions he knew immediately from their spectral lines and different colored salts that he had genuinely separated two elements. The skepticism he encountered from established chemists who had accepted didymium as an element for 44 years must have been frustrating — but within a year he was vindicated. Welsbach also developed the gas mantle and the flint lighter spark, making him one of the most practically consequential rare earth chemists in history.",
+  "source_note": "Discovered by Welsbach (1885) by separation of didymium (Mosander, 1841). Named from Greek prasios (leek green) + didymos (twin). Published in Monatshefte für Chemie, 1885."
+}

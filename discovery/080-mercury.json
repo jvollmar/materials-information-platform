@@ -1,0 +1,40 @@
+{
+  "discovered": -2000,
+  "discoverer": "Known since antiquity",
+  "country": "Global — China, India, Egypt, Mediterranean civilizations",
+  "named_by": "Known since antiquity",
+  "named": -2000,
+  "etymology": "Mercury is named after the Roman god Mercurius (messenger of the gods, patron of commerce and travelers) — possibly because of the liquid metal's quick, darting movements. The chemical symbol Hg comes from 'hydrargyrum,' the Latinized form of the Greek 'hydrargyros' (water silver) — a perfectly descriptive name for the silvery liquid metal. In medieval alchemy, mercury was one of the three principles and was associated with the planet Mercury.",
+  "timeline": [
+    {
+      "year": -2000,
+      "event": "Mercury is found in Egyptian tombs dating to around 1500 BCE, and mercury sulfide (cinnabar, HgS) is used as a red pigment in cave paintings in Spain dating to approximately 30,000 BCE. Mercury itself occurs naturally as a liquid metal near cinnabar deposits and was observed and collected by ancient peoples across Eurasia."
+    },
+    {
+      "year": -400,
+      "event": "Theophrastus, a Greek philosopher and student of Aristotle, describes the preparation of mercury by heating cinnabar — one of the earliest recorded descriptions of a chemical reduction reaction. Mercury quickly becomes one of the most studied substances in ancient and medieval chemistry."
+    },
+    {
+      "year": 210,
+      "event": "Chinese Emperor Qin Shi Huang, who built the Great Wall and unified China, dies — reportedly from mercury poisoning caused by mercury 'immortality pills' prescribed by his court physicians. His elaborate tomb reportedly contains rivers of liquid mercury as a cosmological representation. The contrast between mercury's association with immortality and its actual toxicity was not understood."
+    },
+    {
+      "year": 1500,
+      "event": "The 'great pox' (syphilis) epidemic sweeps Europe after spreading from the Americas. Mercury ointments and fumigation become the primary treatment — 'a night with Venus, a lifetime with Mercury' becomes a saying. The treatment is sometimes effective (mercury has antimicrobial properties) but also often poisonous. Mercury treatment of syphilis continues until Ehrlich's Salvarsan (1909)."
+    },
+    {
+      "year": 1643,
+      "event": "Evangelista Torricelli invents the barometer using liquid mercury — the column of mercury whose height reflects atmospheric pressure. The invention enables systematic weather observation and altitude measurement, and mercury barometers remain the most accurate pressure-measuring instruments for three centuries."
+    },
+    {
+      "year": 1714,
+      "event": "Daniel Gabriel Fahrenheit invents the mercury thermometer and establishes his temperature scale. Gabriel Fahrenheit's instruments achieve previously impossible accuracy in temperature measurement, transforming medicine, meteorology, and chemistry."
+    },
+    {
+      "year": 1956,
+      "event": "Minamata disease appears in the Japanese fishing village of Minamata — caused by methylmercury pollution from a chemical plant dumping mercury waste into Minamata Bay. The methylmercury bioaccumulates in fish, then in humans, causing devastating neurological damage. The Minamata disaster becomes the defining case study in environmental toxicology and drives global mercury regulation."
+    }
+  ],
+  "story": "Mercury is the only metal that is liquid at room temperature, and this extraordinary property fascinated human civilization for millennia. Its silver-liquid appearance, its ability to dissolve gold and silver (forming amalgams), its use in extracting gold from ore, its toxic power, and its planetary association made it the most mystical substance in alchemy. Alchemists believed mercury was the prima materia — the raw material from which all metals were made. The same metal that Chinese emperors drank seeking immortality, that European syphilis patients sweated under in fumigation chambers, that Torricelli used to measure the sky, was simultaneously being released into Minamata Bay 250 years later to destroy a Japanese fishing community. Mercury's history is one of fascination, exploitation, and ultimately reckoning.",
+  "source_note": "Known since antiquity; cinnabar pigment use ~30,000 BCE. Liquid mercury found in Egyptian tombs ~1500 BCE. Recognized as element by Lavoisier (1789). Symbol Hg from Greek hydrargyros."
+}

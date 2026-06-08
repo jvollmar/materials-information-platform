@@ -1,0 +1,36 @@
+{
+  "discovered": 1940,
+  "discoverer": "Edwin McMillan & Philip Abelson",
+  "country": "USA (University of California, Berkeley)",
+  "named_by": "Edwin McMillan & Philip Abelson",
+  "named": 1940,
+  "etymology": "From Neptune — the planet beyond Uranus in the solar system. Since uranium was named after Uranus (the planet beyond Saturn), it was natural to name the element beyond uranium — the first element heavier than uranium ever produced — after the next planet outward. The planetary naming sequence continues with plutonium (Pluto).",
+  "timeline": [
+    {
+      "year": 1934,
+      "event": "Enrico Fermi and colleagues in Rome bombard uranium with neutrons, observing radioactive products they believe may be new transuranic elements. The results are ambiguous — what they actually observe is uranium fission products, though this is not understood until 1938."
+    },
+    {
+      "year": 1940,
+      "event": "Edwin McMillan at the Berkeley cyclotron is studying the recoil of uranium nuclei when bombarded with neutrons. He finds a radioactive product with a 2.3-day half-life that stays embedded in the uranium target (unlike fission products, which recoil away). He suspects a transuranic element."
+    },
+    {
+      "year": 1940,
+      "event": "McMillan asks Philip Abelson, a young physicist at the Carnegie Institution, to help with chemical identification. Using ion exchange techniques, they demonstrate the 2.3-day activity belongs to element 93 — a new element beyond uranium that they call neptunium, after the planet Neptune."
+    },
+    {
+      "year": 1940,
+      "event": "The discovery of neptunium is announced in June 1940 — just before the world becomes consumed by World War II and uranium/transuranic research becomes classified. Neptunium is the first synthetic element and the first element heavier than uranium ever isolated."
+    },
+    {
+      "year": 1944,
+      "event": "McMillan shares the 1951 Nobel Prize in Chemistry with Glenn Seaborg for the discovery of neptunium and heavier transuranic elements. The award recognizes that their work opened an entirely new domain of chemistry — the transactinide elements."
+    },
+    {
+      "year": 2015,
+      "event": "Oak Ridge National Laboratory restarts production of neptunium-237 targets for irradiation in the HFIR reactor to produce plutonium-238 — the heat source for NASA deep space missions. Neptunium's industrial role is to be the parent material from which Pu-238 is produced for spacecraft RTGs."
+    }
+  ],
+  "story": "The discovery of neptunium in 1940 crossed a threshold that had existed since chemistry began: the boundary of the natural elements. Everything before element 93 could be found somewhere in nature; neptunium, produced in a particle accelerator from uranium-235 plus a neutron, was genuinely new to the universe. McMillan and Abelson's careful chemical work to confirm the new element's identity — performed against the backdrop of a world sliding into war — had a sense of historic importance about it. The transuranic elements would soon be produced in enormous quantities for the world's most destructive weapons; in 1940, two physicists were just trying to understand what happened when uranium absorbed a neutron.",
+  "source_note": "Discovered by McMillan and Abelson (1940) at Berkeley. Named after planet Neptune. Published in Physical Review, 1940. McMillan shared 1951 Nobel Prize in Chemistry with Seaborg."
+}

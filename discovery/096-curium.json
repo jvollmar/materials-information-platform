@@ -1,0 +1,32 @@
+{
+  "discovered": 1944,
+  "discoverer": "Glenn Seaborg, Ralph James & Albert Ghiorso",
+  "country": "USA (University of Chicago, Metallurgical Laboratory)",
+  "named_by": "Glenn Seaborg",
+  "named": 1944,
+  "etymology": "From Pierre and Marie Curie — the first element named after specific scientists since Gadolinium (after Gadolin in 1886). Seaborg honored both Curies together, noting that the Curies' discovery of radioactivity was fundamental to all the transuranic element research. It was also appropriate that an actinide (the series paralleling the lanthanides that Marie helped discover) should carry their name.",
+  "timeline": [
+    {
+      "year": 1944,
+      "event": "Glenn Seaborg, Ralph James, and Albert Ghiorso bombard plutonium-239 with helium ions (alpha particles) in the 60-inch Berkeley cyclotron during the summer of 1944, producing curium-242. The discovery is part of the Manhattan Project and immediately classified."
+    },
+    {
+      "year": 1944,
+      "event": "Seaborg names element 96 curium after Pierre and Marie Curie — the scientists whose discovery of radioactivity made all transuranic element research possible. He also reveals it simultaneously with americium on the 'Quiz Kids' radio program in November 1945."
+    },
+    {
+      "year": 1947,
+      "event": "Louis Werner and Isadore Perlman produce the first weighable amount of curium compound — 30 micrograms of Cm-242 as curium hydroxide — by intense neutron irradiation of plutonium in a nuclear reactor. The amount is barely visible to the naked eye."
+    },
+    {
+      "year": 1997,
+      "event": "The Cassini spacecraft is launched to Saturn carrying curium-244 (and other radioisotopes) in its nuclear power sources. The Alpha Particle X-ray Spectrometer (APXS) on the Mars Pathfinder rover and subsequent Mars rovers uses curium-244 as the alpha source — curium bombards samples with alpha particles and the resulting X-ray spectrum reveals elemental composition."
+    },
+    {
+      "year": 2003,
+      "event": "The Opportunity and Spirit Mars rovers each carry an APXS containing about 3 milligrams of Cm-244 — curium's alpha emissions have directly characterized Martian rocks and soil, contributing enormously to our understanding of Mars's geological history. Curium has literally touched the surface of Mars."
+    }
+  ],
+  "story": "Seaborg's decision to name curium after Pierre and Marie Curie was both scientifically appropriate and personally meaningful — the Curies' discovery of radioactivity in pitchblende ore was the foundation upon which everything Seaborg had built his career. The naming also acknowledged that the actinide series, which Seaborg was systematically exploring, was conceptually related to the lanthanides that had occupied 19th-century chemists including those who trained in the tradition the Curies represented. Curium's quiet contribution to Mars exploration — alpha-bombarding rocks in rovers' instrument arms — is one of the stranger but most productive roles any element has played in space science. The element named after the discoverers of radioactivity helps us understand the geology of another world.",
+  "source_note": "Produced by Seaborg, James, and Ghiorso (summer 1944) at the Metallurgical Laboratory, Chicago. Named after Pierre and Marie Curie. Announced November 1945 on 'Quiz Kids' radio program."
+}

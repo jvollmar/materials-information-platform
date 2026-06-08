@@ -1,0 +1,32 @@
+{
+  "discovered": 2004,
+  "discoverer": "Morita group",
+  "country": "Japan",
+  "named_by": "IUPAC",
+  "named": 2010,
+  "etymology": "Nihon (日本) — the Japanese name for Japan, written in kanji as 'the origin of the sun.' This is the first element to be discovered in Asia. The naming honors Japan's contribution to heavy element research and RIKEN's decade-long effort to produce element 113. The element's discovery was announced with considerable national pride in Japan.",
+  "timeline": [
+    {
+      "year": 2004,
+      "event": "First synthesis of element 113 (nihonium) reported. confirmed 2016"
+    },
+    {
+      "year": 2006,
+      "event": "Longest-lived known isotope: 286Nh, t½ = 9.5 seconds. 3 atoms detected over 9 years of experiments (2004-2012)."
+    },
+    {
+      "year": 2016,
+      "event": "IUPAC formally confirms the discovery and approves the name 'nihonium' and symbol 'Ni'. Element 113 officially joins the periodic table."
+    },
+    {
+      "year": 2014,
+      "event": "The discovery of nihonium required extraordinary patience: Kosuke Morita's group at RIKEN bombarded bismuth-209 with zinc-70 ions for 553 days of beam time over nine years, detecting just 3 atoms of element 113. The fourth atom, detected in 2012, completed a full decay chain to known element 105 (dubnium), providing the unambiguous identification IUPAC required for confirmation."
+    },
+    {
+      "year": 2024,
+      "event": "Research continues at JINR Dubna, GSI/FAIR, RIKEN, and other facilities. Element 113 represents the current frontier of nuclear synthesis — beyond it lies terra incognita, where nuclear stability predictions become increasingly uncertain and experimental access requires advances in accelerator technology and target production."
+    }
+  ],
+  "story": "RIKEN's quest for element 113 was a national scientific project — Japan had no element named for it, and the scientific community wanted to change that. The perseverance required — nine years, three atoms — reflects the extreme difficulty of the task. When IUPAC awarded priority in 2016, Japanese newspapers ran front-page stories celebrating the discovery with the same intensity as a major sports victory. The name nihonium and symbol Nh were chosen immediately.",
+  "source_note": "Discovered by Morita group (first detection August 2004) at RIKEN Nishina Center. Three atoms detected 2004-2012. IUPAC priority awarded 2016. Named after Japan (Nihon/日本)."
+}

@@ -1,0 +1,36 @@
+{
+  "discovered": 1878,
+  "discoverer": "Jean Charles Galissard de Marignac",
+  "country": "Switzerland",
+  "named_by": "Jean Charles Galissard de Marignac",
+  "named": 1878,
+  "etymology": "From Ytterby — the Swedish village that has now given its name to four elements: yttrium (Y, 1794), terbium (Tb, 1843), erbium (Er, 1843), and ytterbium (Yb, 1878). Ytterbium takes the full first syllable 'Ytterb-' from the village name, completing the quartet. No other location in the world has contributed four element names.",
+  "timeline": [
+    {
+      "year": 1843,
+      "event": "Mosander separates yttria into three components: yttrium, terbium, and erbium. His 'erbium' fraction is still a mixture, and further separations over the following decades progressively refine it."
+    },
+    {
+      "year": 1878,
+      "event": "Jean Charles Galissard de Marignac, a Swiss chemist who had earlier discovered gadolinium spectroscopically, applies careful fractional crystallization to erbia (erbium oxide) and separates a new fraction with different absorption spectra. He calls the new element ytterbium, completing the Ytterby quartet."
+    },
+    {
+      "year": 1907,
+      "event": "Georges Urbain and Carl Auer von Welsbach both find anomalies in ytterbium — independently concluding it is still a mixture. Urbain separates two elements: neoytterbium (which retains the name ytterbium) and lutecium (later standardized to lutetium). A naming dispute between Urbain and Welsbach ensues."
+    },
+    {
+      "year": 1953,
+      "event": "Ion exchange chromatography finally allows ytterbium to be obtained in genuine high purity, enabling accurate characterization of its properties — a full 75 years after its discovery."
+    },
+    {
+      "year": 2001,
+      "event": "Ytterbium fiber lasers (Yb-doped silica fiber, emitting at 1030-1090nm) begin to replace Nd:YAG lasers in many industrial applications — cutting, welding, and marking metals. Ytterbium fiber lasers achieve extraordinary beam quality and efficiency (electrical-to-optical conversion >30%), transforming industrial laser cutting and eventually enabling the manufacturing of electric vehicles and precision components."
+    },
+    {
+      "year": 2015,
+      "event": "Ytterbium optical lattice clocks achieve accuracy of 1 second in 10 billion years — surpassing cesium atomic clocks by orders of magnitude. Ytterbium becomes the frontrunner for redefining the SI second beyond the current cesium standard."
+    }
+  ],
+  "story": "Ytterbium completes one of element history's most remarkable geographic coincidences — four elements from a single Swedish quarry village. When Marignac discovered ytterbium in 1878, Ytterby had already lent its name to three elements; he added a fourth, using essentially the full village name. The village itself is unremarkable — a small island near Stockholm with a feldspar quarry — but the mineral gadolinite found there was unusually rich in the rare earth elements that 19th-century chemists found so fascinating and so difficult to separate. Ytterbium fiber lasers now cut the steel sheets used in automotive manufacturing with extraordinary precision — the products of Ytterby's quarry help build the cars of the 21st century.",
+  "source_note": "Discovered by Marignac (1878) in Geneva, from erbia fractions. Named from Ytterby, Sweden. Published in Archives des Sciences Physiques et Naturelles, 1878."
+}

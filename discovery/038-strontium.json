@@ -1,0 +1,40 @@
+{
+  "discovered": 1790,
+  "discoverer": "Adair Crawford & William Cruickshank",
+  "country": "United Kingdom (Scotland)",
+  "named_by": "Humphry Davy",
+  "named": 1808,
+  "etymology": "From Strontian, a village in the Scottish Highlands where the mineral strontianite (strontium carbonate, SrCO₃) was discovered in a lead mine. The mineral was named after the village, and the element after the mineral. Strontian is one of the very few elements named after a specific village rather than a country or region.",
+  "timeline": [
+    {
+      "year": 1787,
+      "event": "Workers in the lead mines of Strontian, Argyllshire, Scotland encounter an unusual green-tinged mineral in the mine shafts. The mineral is collected as a curiosity and sent to Edinburgh for analysis. It is initially thought to be a variety of witherite (barium carbonate) or a fluorite mineral."
+    },
+    {
+      "year": 1790,
+      "event": "Adair Crawford, a Scottish physician and chemist, and William Cruickshank analyze the Strontian mineral and conclude it contains a new alkaline earth distinct from baryta (barium oxide) and lime (calcium oxide). Crawford publishes a paper presenting evidence for a new earth, naming the mineral 'strontianite.'"
+    },
+    {
+      "year": 1792,
+      "event": "Richard Kirwan challenges Crawford's findings, arguing that strontianite is merely impure witherite. A debate ensues in the Scottish and English scientific community about whether a new element is genuinely present."
+    },
+    {
+      "year": 1798,
+      "event": "Thomas Charles Hope conclusively demonstrates that strontianite contains a distinct new alkaline earth by showing the characteristic properties of strontium compounds — particularly its brilliant crimson flame color, which is dramatically different from the pale green of barium and the yellow of sodium."
+    },
+    {
+      "year": 1808,
+      "event": "Humphry Davy isolates strontium metal by electrolysis of moist strontium chloride, producing a strontium-mercury amalgam from which he distills the pure metal. He names it strontium after the mineral strontianite and the village of Strontian."
+    },
+    {
+      "year": 1898,
+      "event": "The discovery of radioactivity by Becquerel (1896) and the subsequent identification of radioactive strontium-90 as a major fission product of nuclear weapons tests makes strontium-90 one of the most feared components of nuclear fallout — it mimics calcium and deposits in bones and teeth, where it irradiates bone marrow."
+    },
+    {
+      "year": 1957,
+      "event": "Baby Tooth Survey launched in St. Louis by scientists alarmed at strontium-90 levels from nuclear weapons testing — measuring Sr-90 in children's baby teeth to track environmental radioactive contamination. The survey becomes a landmark in environmental health science and helps drive the 1963 Partial Nuclear Test Ban Treaty."
+    }
+  ],
+  "story": "Strontium was discovered in one of the most geographically specific element-discovery stories — traced to a single lead mine in a small Scottish village called Strontian. The village name lives on in every periodic table in the world. Strontium's crimson flame (used in fireworks, emergency flares, and signal lights) is its most visible property, but its most consequential 20th-century role was far darker: strontium-90, produced by nuclear weapons testing, was the radioactive contaminant that most alarmed public health officials during the Cold War. Because strontium mimics calcium in the body, it concentrates in children's bones and teeth, irradiating developing tissue. The Baby Tooth Survey that tracked its spread helped change history.",
+  "source_note": "Identified by Crawford and Cruickshank (1790). Confirmed as new earth by Hope (1798). Metal isolated by Davy (1808). Named from Strontian, Argyllshire, Scotland."
+}

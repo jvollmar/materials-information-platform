@@ -1,0 +1,44 @@
+{
+  "discovered": 1825,
+  "discoverer": "Hans Christian Ørsted",
+  "country": "Denmark",
+  "named_by": "Humphry Davy",
+  "named": 1812,
+  "etymology": "From 'alum,' the aluminum potassium sulfate mineral used since antiquity as a mordant in dyeing and for medicinal purposes. Davy originally proposed 'alumium,' then 'aluminum.' The British settled on 'aluminium' (with an extra 'i') which became the international IUPAC standard. The United States retained 'aluminum,' making this one of the few element names that differ between American and British English.",
+  "timeline": [
+    {
+      "year": -2000,
+      "event": "Alum (potassium aluminum sulfate) has been used since ancient times as a mordant in textile dyeing, a styptic to stop bleeding, and a water purifier. Ancient Egyptians, Greeks, and Romans all used alum extensively without knowing it contained a metal."
+    },
+    {
+      "year": 1808,
+      "event": "Humphry Davy attempts to isolate the metal in alum by electrolysis, following his successful isolation of sodium and potassium. He fails to produce pure metal but is certain a new element exists. He proposes the name 'alumium' (later changed to 'aluminum') and predicts the metal will be extremely light."
+    },
+    {
+      "year": 1825,
+      "event": "Hans Christian Ørsted — better known for discovering electromagnetism — produces the first sample of aluminum metal in Copenhagen by reacting aluminum chloride with potassium amalgam. The product is contaminated and barely metallic, but it is the first isolation of the element. Ørsted is so uncertain of his result that he does not widely publicize it."
+    },
+    {
+      "year": 1827,
+      "event": "Friedrich Wöhler improves Ørsted's method by using metallic potassium instead of amalgam to reduce aluminum chloride, producing small gray balls of aluminum metal for the first time in recognizable form. He measures its low density and characterizes its properties. Wöhler generally receives credit for the definitive first isolation."
+    },
+    {
+      "year": 1845,
+      "event": "Wöhler produces aluminum in larger quantities and determines its density (2.7 g/cm³) — confirming Davy's prediction of extreme lightness. Aluminum is at this point more expensive than gold or platinum due to the difficulty of production."
+    },
+    {
+      "year": 1855,
+      "event": "Henri Sainte-Claire Deville develops a cheaper production method using sodium reduction of aluminum chloride, enabling the first commercial production. Napoleon III commissions aluminum cutlery for his most honored guests — common guests use gold and silver. The Washington Monument's apex, placed in 1884, is made of aluminum as a symbol of great value."
+    },
+    {
+      "year": 1886,
+      "event": "Charles Hall in the United States (age 22) and Paul Héroult in France (age 23) simultaneously and independently discover the electrolytic process for producing aluminum from alumina dissolved in molten cryolite. The Hall-Héroult process reduces the price of aluminum by 99% within a decade, transforming it from a precious curiosity to the most widely used non-ferrous metal in the world."
+    },
+    {
+      "year": 1888,
+      "event": "Karl Josef Bayer develops the Bayer process for extracting alumina (Al₂O₃) from bauxite ore using hot caustic soda, completing the industrial aluminum production chain. Together with Hall-Héroult, the Bayer process remains the foundation of all primary aluminum production today."
+    }
+  ],
+  "story": "Aluminum's story is one of the most dramatic price collapses in industrial history. In 1852, aluminum cost $1,200 per kilogram — more expensive than gold. By 1887, after Hall and Héroult's discovery, it cost $0.60 per kilogram. A metal once reserved for emperors became the material of kitchen foil. The curious fact is that aluminum is the most abundant metal in Earth's crust — but it binds so tightly to oxygen that separating it requires electricity, which until the 19th century simply didn't exist in useful quantities. The Washington Monument's aluminum capstone, once the ultimate symbol of wealth, now sits atop a structure most people photograph without a second thought.",
+  "source_note": "First isolated by Ørsted (1825), definitive isolation by Wöhler (1827). Named by Davy (1812). Hall-Héroult process discovered simultaneously 1886."
+}

@@ -1,0 +1,40 @@
+{
+  "discovered": 1772,
+  "discoverer": "Daniel Rutherford",
+  "country": "United Kingdom (Scotland)",
+  "named_by": "Jean-Antoine Chaptal",
+  "named": 1790,
+  "etymology": "Greek: nitron (native soda) + genes (forming) — 'niter-former,' because nitric acid was known to be produced from it. Earlier names included 'mephitic air' (Rutherford), 'azote' (Lavoisier, meaning 'no life' in Greek), still used in French today.",
+  "timeline": [
+    {
+      "year": 1772,
+      "event": "Daniel Rutherford, a 23-year-old medical student in Edinburgh working under Joseph Black, burns substances in a closed container of air until combustion ceases, then absorbs the carbon dioxide with caustic potash, and finds a residual gas that neither supports combustion nor sustains life. He calls it 'mephitic air' (noxious air) and publishes it as his doctoral dissertation — the first isolation of nitrogen, though Rutherford does not recognize it as an element."
+    },
+    {
+      "year": 1772,
+      "event": "Carl Wilhelm Scheele, Henry Cavendish, and Joseph Priestley all independently isolate the same 'residual air' in the same year. Priority is generally awarded to Rutherford because his published dissertation appears first, but nitrogen's discovery is truly one of the great simultaneous discoveries in chemistry."
+    },
+    {
+      "year": 1777,
+      "event": "Antoine Lavoisier names the gas azote (from Greek a-zotos, without life) after demonstrating that animals die in it. The name azote remains the official name in French, Portuguese, and several other languages today, making nitrogen one of the few elements with genuinely different names in major languages."
+    },
+    {
+      "year": 1790,
+      "event": "French chemist Jean-Antoine Chaptal renames the element nitrogène (nitrogen in English) because it is a component of nitric acid (HNO₃) and nitre (potassium nitrate, KNO₃). The name spreads through English-speaking science and eventually becomes the international standard alongside azote."
+    },
+    {
+      "year": 1895,
+      "event": "Lord Rayleigh and William Ramsay discover argon by noticing that nitrogen extracted from air is slightly denser than nitrogen from chemical reactions — an anomaly of 1 part in 200 that leads to the discovery of an entire new group of elements, the noble gases."
+    },
+    {
+      "year": 1909,
+      "event": "Fritz Haber demonstrates the synthesis of ammonia from atmospheric nitrogen and hydrogen at high temperature and pressure over an iron catalyst — the Haber-Bosch process, which allows industrial fixation of atmospheric nitrogen for the first time. This discovery eventually enables feeding half the world's current population through nitrogen fertilizers."
+    },
+    {
+      "year": 1913,
+      "event": "Carl Bosch scales up Haber's laboratory process at BASF to industrial production, creating the first large-scale synthetic nitrogen fixation plant at Oppau, Germany. Haber receives the 1918 Nobel Prize and Bosch the 1931 Nobel Prize for this transformative technology."
+    }
+  ],
+  "story": "Nitrogen makes up 78% of Earth's atmosphere — we breathe it with every breath — yet it took until 1772 for anyone to identify it as a distinct substance. The reason is precisely its inertness: nitrogen doesn't do anything obvious. It doesn't burn, doesn't support combustion, doesn't react with most things. It was discovered by noticing what was left after everything reactive had been removed. Today nitrogen has a split identity: the same element that comprises the inert bulk of our air also forms the most powerful explosives known — TNT, nitroglycerin, and nuclear warhead components all rely on nitrogen chemistry.",
+  "source_note": "Discovery attributed to Rutherford (1772) per his doctoral dissertation 'Dissertatio Inauguralis de Aere Fixo Dicto, aut Mephitico.' Named by Chaptal (1790)."
+}

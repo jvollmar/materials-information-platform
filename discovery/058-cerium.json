@@ -1,0 +1,40 @@
+{
+  "discovered": 1803,
+  "discoverer": "Jöns Jacob Berzelius & Wilhelm Hisinger / Martin Heinrich Klaproth (independently)",
+  "country": "Sweden / Germany",
+  "named_by": "Jöns Jacob Berzelius & Wilhelm Hisinger",
+  "named": 1803,
+  "etymology": "From Ceres — the first asteroid, discovered on January 1, 1801, by Giuseppe Piazzi. Berzelius and Hisinger named cerium after the newly discovered asteroid, which was itself named after the Roman goddess of grain and harvest. The naming fashion briefly extended to palladium (from the asteroid Pallas, 1802), creating a small cluster of celestially-named elements from the early 1800s.",
+  "timeline": [
+    {
+      "year": 1751,
+      "event": "Axel Fredrik Cronstedt (the same chemist who discovered nickel) investigates a brown-red mineral called 'tungsten' from the Bastnaes mine in Sweden. The mineral is later named cerite after its primary component, but Cronstedt does not identify the unusual element within it."
+    },
+    {
+      "year": 1803,
+      "event": "Jöns Jacob Berzelius and Wilhelm Hisinger, two Swedish chemists, analyze cerite from Bastnaes and isolate a new oxide they cannot identify as any known element. They name it cerium after the asteroid Ceres, discovered just two years earlier. Their paper is submitted in July 1803."
+    },
+    {
+      "year": 1803,
+      "event": "Martin Heinrich Klaproth in Germany independently discovers the same new element in the same mineral and publishes first — creating a priority dispute. Historical consensus grants Berzelius and Hisinger priority since their investigation was more complete, but Klaproth is credited as co-discoverer."
+    },
+    {
+      "year": 1839,
+      "event": "Mosander discovers that cerium oxide contains lanthanum (1839) and later didymium — demonstrating that what Berzelius had characterized as 'cerium' was actually a mixture. The true cerium is refined out from these contaminants."
+    },
+    {
+      "year": 1875,
+      "event": "Carl Auer von Welsbach develops the incandescent gas mantle using thorium oxide and cerium oxide — a fabric mantle impregnated with 99% ThO₂ and 1% CeO₂ that glows brilliantly white when heated by a gas flame. The invention transforms gas lighting worldwide and makes the streets of European and American cities far brighter than before, bridging the transition between gas and electric lighting."
+    },
+    {
+      "year": 1903,
+      "event": "Welsbach also develops mischmetal — an alloy of mixed rare earths (~50% cerium) — which when rubbed against iron produces pyrophoric sparks. Mischmetal becomes the flint in every cigarette lighter and fire starter manufactured worldwide — a use that continues today."
+    },
+    {
+      "year": 1970,
+      "event": "Cerium oxide (CeO₂) is adopted as an automotive exhaust catalyst — it stores and releases oxygen to help maintain the stoichiometric air-fuel ratio needed for optimal three-way catalytic converter operation. Every catalytic converter on every modern vehicle contains cerium."
+    }
+  ],
+  "story": "Cerium's discovery captures the excitement of the early 1800s, when the asteroid belt had just been discovered and naming things after celestial bodies was fashionable. Berzelius — who would go on to determine the atomic weights of nearly 40 elements, discover silicon, selenium, thorium, and cerium, and introduce modern chemical notation — was at the beginning of his extraordinary career. The story of cerium is also the story of how difficult it is to separate the rare earths from each other: what was initially called 'cerium' turned out to be a mixture of several elements, and a century of painstaking chemistry was required to truly purify it. Today cerium's most visible legacy is the spark from a lighter — a tiny piece of mischmetal rubbed against a steel wheel, producing pyrophoric sparks of burning cerium.",
+  "source_note": "Discovered by Berzelius and Hisinger (1803) in cerite, Sweden. Independently by Klaproth (1803). Named after asteroid Ceres. Published in Afhandlingar i Fysik, Kemi och Mineralogi, 1804."
+}

@@ -1,0 +1,44 @@
+{
+  "discovered": 1868,
+  "discoverer": "Pierre Janssen & Norman Lockyer (independently)",
+  "country": "France / United Kingdom",
+  "named_by": "Norman Lockyer & Edward Frankland",
+  "named": 1868,
+  "etymology": "Greek: Helios (the sun god) — the only element named after a celestial body, because it was discovered in the sun before it was found on Earth",
+  "timeline": [
+    {
+      "year": 1868,
+      "event": "On August 18, during a total solar eclipse in India, French astronomer Pierre Janssen observes a bright yellow spectral line at 587.49nm in the solar chromosphere that matches no known element on Earth. He initially assumes it is sodium (whose yellow D lines are nearby) but notes the wavelength is slightly different."
+    },
+    {
+      "year": 1868,
+      "event": "On October 20, two months later and independently of Janssen, English astronomer Norman Lockyer observes the same mysterious yellow line in sunlight using a spectroscope without waiting for an eclipse — a technical breakthrough. He and chemist Edward Frankland conclude it represents an unknown element and name it helium after Helios, the Greek sun god. Both Janssen and Lockyer are simultaneously awarded credit — a rare joint discovery recognized by the French Academy of Sciences."
+    },
+    {
+      "year": 1882,
+      "event": "Italian physicist Luigi Palmieri detects the helium spectral line in gases from Mount Vesuvius — the first suggestion that helium might exist on Earth, though the finding goes largely unnoticed."
+    },
+    {
+      "year": 1895,
+      "event": "William Ramsay isolates helium on Earth for the first time by heating the uranium mineral cleveite in dilute sulfuric acid and analyzing the released gas with a spectroscope. The spectrum matches Lockyer's solar line exactly. Helium becomes the only element discovered in space before being found on Earth — a gap of 27 years."
+    },
+    {
+      "year": 1895,
+      "event": "Per Teodor Cleve and Abraham Langlet in Uppsala independently isolate helium from cleveite within weeks of Ramsay, and accurately measure its atomic weight."
+    },
+    {
+      "year": 1903,
+      "event": "Large amounts of helium are discovered in natural gas wells in Dexter, Kansas — the United States becomes the world's dominant helium source. The gas is so abundant it extinguishes flames, confusing early drillers who expected to find oil."
+    },
+    {
+      "year": 1908,
+      "event": "Heike Kamerlingh Onnes liquefies helium for the first time in Leiden, Netherlands, reaching 4.2 Kelvin (-268.95°C) — the lowest temperature achieved at that time and the last of all gases to be liquefied."
+    },
+    {
+      "year": 1938,
+      "event": "Pyotr Kapitsa discovers helium-II, the superfluid phase of liquid helium-4 below 2.17K (the lambda point), in which helium flows without any viscosity — climbing up and over container walls and conducting heat with infinite efficiency."
+    }
+  ],
+  "story": "Helium holds a unique place in the history of science: it is the only element ever discovered by astronomy before chemistry. For 27 years, helium existed only as a line in the sun's spectrum — a ghost element whose Earthly existence was pure speculation. William Ramsay's isolation in 1895 was so unexpected that he initially suspected his equipment was contaminated. He verified the result three times before writing to Lockyer: 'I have discovered the solar element.' Lockyer's reply is said to have been one of pure astonishment.",
+  "source_note": "Discovery credited jointly to Janssen and Lockyer per historical consensus. Isolation on Earth credited to Ramsay (1895) per Royal Society records."
+}

@@ -1,0 +1,36 @@
+{
+  "discovered": 1803,
+  "discoverer": "Smithson Tennant",
+  "country": "United Kingdom",
+  "named_by": "Smithson Tennant",
+  "named": 1803,
+  "etymology": "Latin: iris, iridis (rainbow) — named for the remarkable variety of vivid colors displayed by iridium's compounds and salts. Tennant observed that iridium's chloride complex produced strikingly different colors depending on oxidation state and ligand — reds, blues, yellows, and greens. The rainbow-goddess name captures this chromatic variety perfectly.",
+  "timeline": [
+    {
+      "year": 1803,
+      "event": "Smithson Tennant, working with the black residue that resists dissolution of crude platinum in aqua regia, isolates two new metals in the same experiment. The second metal forms red-brown compounds with brilliant colors — he names it iridium after Iris, the Greek goddess of the rainbow, for the spectrum of colors its compounds display."
+    },
+    {
+      "year": 1813,
+      "event": "John George Children and Robert Hatchett produce iridium metal in a small but pure quantity by reducing iridium oxide. Iridium proves extremely hard and brittle — one of the most resistant metals to chemical attack known."
+    },
+    {
+      "year": 1834,
+      "event": "John Isaac Hawkins develops a nib alloy for fountain pen tips using iridium — one of the earliest practical applications of the metal. The extreme hardness of iridium at a microscopic tip prevents wear, and iridium-tipped gold nibs become standard for quality writing instruments."
+    },
+    {
+      "year": 1889,
+      "event": "The International Prototype Kilogram (IPK) is manufactured from a 90% platinum - 10% iridium alloy — the addition of iridium (10%) hardens the platinum without significantly affecting its density or corrosion resistance. This cylinder, kept under triple glass bell jars in Sèvres, France, defines the kilogram from 1889 to 2019."
+    },
+    {
+      "year": 1980,
+      "event": "Luis and Walter Alvarez, Frank Asaro, and Helen Michel report an anomalously high iridium concentration in geological clay layers at the Cretaceous-Paleogene boundary worldwide — the K-Pg boundary, 66 million years ago. Since iridium is rare in Earth's crust but relatively abundant in meteorites, this 'iridium anomaly' becomes the key evidence for the asteroid impact theory of the non-avian dinosaur extinction."
+    },
+    {
+      "year": 2001,
+      "event": "Iridium spark plug tips (see iridium industrial uses) become standard in premium automotive spark plugs — iridium's exceptional hardness and high melting point allow electrode tip diameters of 0.4mm versus 2.5mm for copper, producing a more concentrated spark that fires reliably for 160,000 km."
+    }
+  ],
+  "story": "Iridium has two extraordinary claims to fame separated by 177 years. In 1803 it was found in platinum residue and named for its rainbow of colors. In 1980 it was found at the geological boundary marking the end of the dinosaurs — and its presence proved that an asteroid had killed them. The iridium layer at the K-Pg boundary is global: wherever geologists drill through rocks 66 million years old, they find the same thin iridium-enriched clay. This chemical fingerprint was the definitive evidence for the impact hypothesis that had been proposed by Luis Alvarez and rejected by many paleontologists. An element discovered from platinum scraps in a London laboratory turns out to be the smoking gun for Earth's most famous mass extinction.",
+  "source_note": "Discovered by Tennant (1803) simultaneously with osmium. Named from Latin iris (rainbow) for colored compounds. Published in Philosophical Transactions, 1804. K-Pg iridium anomaly: Alvarez et al., Science, 1980."
+}

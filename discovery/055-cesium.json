@@ -1,0 +1,40 @@
+{
+  "discovered": 1860,
+  "discoverer": "Robert Bunsen & Gustav Kirchhoff",
+  "country": "Germany",
+  "named_by": "Robert Bunsen & Gustav Kirchhoff",
+  "named": 1860,
+  "etymology": "Latin: caesius (sky blue, bluish gray) — named for the two bright blue spectral lines by which it was discovered. Cesium was the first element discovered by spectroscopy, and its name established a tradition of naming spectroscopically discovered elements after the color of their spectral signature.",
+  "timeline": [
+    {
+      "year": 1859,
+      "event": "Robert Bunsen and Gustav Kirchhoff develop the spectroscope and establish spectral analysis as an analytical method. Bunsen's famous gas burner (1855) provides the clean flame essential for the technique. They immediately begin applying spectroscopy to mineral waters, plant ashes, and other natural materials."
+    },
+    {
+      "year": 1860,
+      "event": "While analyzing the mineral waters of Dürkheim in the Rhineland-Palatinate using their new spectroscope, Bunsen and Kirchhoff observe two bright blue lines in the spectrum that correspond to no known element. They correctly conclude that a new element is present."
+    },
+    {
+      "year": 1860,
+      "event": "Bunsen processes approximately 44,000 liters of Dürkheim mineral water to extract enough cesium salts for characterization — an astonishing quantity required because cesium is present at extremely low concentrations. He isolates cesium as the alum salt and names it caesium (later standardized to cesium) after the Latin for sky blue."
+    },
+    {
+      "year": 1882,
+      "event": "Carl Setterberg produces metallic cesium for the first time by electrolysis of molten cesium cyanide — demonstrating cesium is even more reactive than rubidium and potassium, catching fire spontaneously in air and exploding violently in water."
+    },
+    {
+      "year": 1955,
+      "event": "The first cesium atomic clock is built by Louis Essen and Jack Parry at the National Physical Laboratory in Teddington, England. The clock uses the precise microwave frequency of cesium-133's hyperfine transition (9,192,631,770 Hz) as its oscillator."
+    },
+    {
+      "year": 1967,
+      "event": "The SI second is redefined based on the cesium-133 hyperfine transition — the fundamental unit of time is now defined by cesium physics. Every second of every clock in the world is referenced ultimately to the vibration of cesium atoms, making this the most consequential application of any single element to global measurement standards."
+    },
+    {
+      "year": 1995,
+      "event": "The NIST-7 cesium fountain clock achieves an accuracy of 1 second in 6 million years. Modern cesium fountain clocks and cesium optical lattice clocks push this to 1 second in hundreds of millions of years. The element Bunsen found in mineral water now defines time itself."
+    }
+  ],
+  "story": "Cesium was the first element discovered by an entirely new method — spectroscopy — and in doing so inaugurated a new era in element discovery. Bunsen and Kirchhoff realized immediately that their spectroscope was a universal detector: any element, anywhere, in any amount, would reveal itself by its unique spectral fingerprint. Within a year they had found cesium and rubidium; within a decade spectroscopy had been applied to the sun and stars, founding astrophysics. Cesium itself went from mineral water curiosity to the foundation of the world's timekeeping system — the SI second is literally defined by the vibration frequency of cesium-133. Every GPS receiver, every computer clock, every financial transaction timestamp ultimately traces back to cesium atoms in a laboratory.",
+  "source_note": "Discovered by Bunsen and Kirchhoff (1860) in Dürkheim mineral water. First discovered by spectroscopy. Named from Latin caesius (sky blue). Published in Annalen der Physik, 1861."
+}

@@ -1,0 +1,44 @@
+{
+  "discovered": 1808,
+  "discoverer": "Humphry Davy",
+  "country": "United Kingdom",
+  "named_by": "Humphry Davy",
+  "named": 1808,
+  "etymology": "From Magnesia, a district in Thessaly, Greece, where the mineral magnesite (magnesium carbonate) was found in abundance. The same region also gave its name to manganese and to the magnetic mineral magnetite — all from the same geographic root.",
+  "timeline": [
+    {
+      "year": 1618,
+      "event": "A farmer near Epsom, Surrey, England, discovers that his cows refuse to drink from a local spring despite being thirsty — but that the water heals skin rashes. The bitter-tasting water is found to contain magnesium sulfate, which becomes known as Epsom salt — still used in baths and as a laxative today."
+    },
+    {
+      "year": 1755,
+      "event": "Joseph Black, the Scottish chemist who also discovered carbon dioxide, distinguishes magnesia (magnesium oxide) from lime (calcium oxide) by demonstrating they are chemically distinct substances. He notes that magnesia does not cause kidney stones when used medicinally, unlike lime compounds. This is the first clear identification of a distinct magnesium compound."
+    },
+    {
+      "year": 1792,
+      "event": "Anton Rupprecht reduces magnesium oxide with carbon at very high temperature and obtains an impure sample of magnesium metal — the first indication that a metal underlies the mineral, though the sample is too impure to characterize properly."
+    },
+    {
+      "year": 1808,
+      "event": "Humphry Davy isolates magnesium metal by electrolyzing a mixture of magnesium oxide and mercury oxide — obtaining a magnesium-mercury amalgam, then distilling off the mercury. The metal he obtains is impure but clearly a new element. He names it magnium initially, then settles on magnesium."
+    },
+    {
+      "year": 1831,
+      "event": "Antoine Bussy produces the first pure magnesium metal in significant quantity by reducing anhydrous magnesium chloride with potassium metal — the same reduction method Wöhler used for beryllium. Bussy's magnesium is bright and silvery, burns in air with a brilliant white flame, and can be properly characterized for the first time."
+    },
+    {
+      "year": 1852,
+      "event": "Robert Bunsen (of Bunsen burner fame) develops electrolysis of molten magnesium chloride as a method for producing magnesium metal, pioneering the approach that becomes the basis of commercial production."
+    },
+    {
+      "year": 1886,
+      "event": "Commercial production of magnesium metal begins in Germany. Its brilliant white burning flame — producing magnesium oxide — makes it ideal for photography flash powder, used by photographers for decades before electronic flash was invented."
+    },
+    {
+      "year": 1914,
+      "event": "Magnesium alloys begin to be used in aircraft construction in World War I — the beginning of magnesium's role as an aerospace structural material. Its combination of low density and reasonable strength makes it attractive for aircraft frames and engine components."
+    }
+  ],
+  "story": "Magnesium has an unusual naming history — three elements (magnesium, manganese, and the magnetic mineral magnetite) all derive their names from the same Greek district, Magnesia. The district was apparently rich in interesting minerals. Humphry Davy, who discovered more elements than any other person in history, added magnesium to his remarkable list in 1808 — the same year he discovered barium, calcium, and strontium. But it was Antoine Bussy's 1831 isolation of pure magnesium that enabled science to properly understand the element. Today, magnesium's most celebrated property — its spectacular white burning flame — is the same one that made photographers' flash powder so dangerous.",
+  "source_note": "Isolated impurely by Davy (1808). Pure metal first produced by Bussy (1831). Named by Davy from Magnesia alba (white magnesia)."
+}

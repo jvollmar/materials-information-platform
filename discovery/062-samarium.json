@@ -1,0 +1,40 @@
+{
+  "discovered": 1879,
+  "discoverer": "Paul Émile Lecoq de Boisbaudran",
+  "country": "France",
+  "named_by": "Paul Émile Lecoq de Boisbaudran",
+  "named": 1879,
+  "etymology": "From samarskite — the mineral from which samarium was first isolated, named after Vasili Samarsky-Bykhovets, a Russian mining official who allowed German scientists access to the Ural Mountains mineral samples. Samarium is thus named after a person (indirectly) — one of the very few elements whose name traces to a specific individual who was not a scientist.",
+  "timeline": [
+    {
+      "year": 1839,
+      "event": "The black mineral later named samarskite is found in the Ural Mountains of Russia. It contains a complex mixture of rare earth and other elements and becomes an important source of multiple rare earth elements as separation chemistry improves."
+    },
+    {
+      "year": 1847,
+      "event": "Heinrich Rose names the mineral samarskite in honor of Colonel Vasili Samarsky-Bykhovets, Chief of Staff of the Russian Corps of Mining Engineers, who provided access to the Ural Mountain mineral deposits for scientific study. This naming decision ultimately propagates to the element samarium."
+    },
+    {
+      "year": 1879,
+      "event": "Paul Émile Lecoq de Boisbaudran — who had discovered gallium by spectroscopy four years earlier — applies spectroscopic analysis to 'didymium' extracted from samarskite. He finds spectral lines that do not belong to any known element and isolates a new element from the mineral. He names it samarium after samarskite."
+    },
+    {
+      "year": 1901,
+      "event": "Eugène-Anatole Demarçay, a French chemist, separates europium from samarium — demonstrating that what Lecoq de Boisbaudran had called 'samarium' was in fact a mixture. Pure samarium is finally characterized with the europium fraction removed."
+    },
+    {
+      "year": 1970,
+      "event": "Samarium-cobalt (SmCo₅) permanent magnets are developed at the US Air Force Materials Laboratory — the first rare earth permanent magnets. SmCo magnets are significantly stronger than alnico or ferrite magnets and maintain their properties at high temperatures, revolutionizing miniaturized motors and electronics."
+    },
+    {
+      "year": 1975,
+      "event": "Second-generation SmCo magnets (Sm₂Co₁₇) achieve even higher energy products and improved temperature stability — becoming the magnets of choice for aerospace, military, and medical device applications where temperature extremes or radiation environments would degrade neodymium magnets."
+    },
+    {
+      "year": 2018,
+      "event": "Lutetium-177 DOTATATE (Lutathera), a targeted cancer therapy, uses a concept pioneered by samarium-153 EDTMP (Quadramet) — samarium-153 treatment of bone pain from cancer metastases, approved by the FDA in 1997, established the principle of radiopharmaceutical bone-targeting therapy that later lutetium drugs refined."
+    }
+  ],
+  "story": "Samarium has the unusual distinction of being named, through a chain of nominative decisions, after a Russian bureaucrat who never did any chemistry. Samarsky-Bykhovets allowed German scientists access to Russian mineral samples; one of those minerals was named after him; and when an element was found in that mineral, it inherited the name. The colonel never knew an element would bear his name. Samarium-cobalt magnets, developed a century later, enabled the Sony Walkman, miniaturized hard disk drives, and precise positioning systems — applications whose dependence on a handful of mining officials' decisions a century earlier is one of history's more improbable supply chain stories.",
+  "source_note": "Discovered by Lecoq de Boisbaudran (1879) in samarskite. Named after samarskite (named for Samarsky-Bykhovets). Published in Comptes Rendus de l'Académie des Sciences, 1879."
+}

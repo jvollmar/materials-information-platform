@@ -1,0 +1,40 @@
+{
+  "discovered": 1794,
+  "discoverer": "Johan Gadolin",
+  "country": "Finland (then part of Sweden)",
+  "named_by": "Anders Gustaf Ekeberg",
+  "named": 1797,
+  "etymology": "From Ytterby, a small village on the island of Resarö near Stockholm, Sweden, where the black mineral gadolinite (named later after its discoverer Gadolin) was found in a quarry. Ytterby is unique in element naming: four elements are named after this single village — yttrium (Y), ytterbium (Yb), erbium (Er), and terbium (Tb).",
+  "timeline": [
+    {
+      "year": 1787,
+      "event": "Carl Axel Arrhenius, a Swedish army lieutenant and amateur mineralogist, discovers an unusually dense black mineral in a feldspar quarry at Ytterby, an island near Stockholm. He names it 'ytterbite' after the village and sends samples to chemists for analysis."
+    },
+    {
+      "year": 1794,
+      "event": "Johan Gadolin, a Finnish chemist at Åbo Academy (now Turku, Finland), analyzes the ytterbite mineral and finds it contains a new oxide — 38% of the mineral's weight — that is unlike any known earth. He names it 'ytterbia' after the mine, and publishes a careful analysis identifying the new element-containing earth."
+    },
+    {
+      "year": 1797,
+      "event": "Anders Gustaf Ekeberg confirms Gadolin's analysis and gives the new earth the name 'yttria' (the element later being called yttrium). The mineral ytterbite is renamed 'gadolinite' in honor of Gadolin."
+    },
+    {
+      "year": 1828,
+      "event": "Friedrich Wöhler — the same chemist who isolated beryllium and later synthesized urea — reduces yttrium chloride with potassium to obtain impure yttrium metal, the first isolation of the element."
+    },
+    {
+      "year": 1843,
+      "event": "Carl Gustav Mosander separates yttria into three components by fractional precipitation, discovering that what Gadolin had thought was a single new earth actually contained three distinct elements: yttrium, erbium, and terbium. All three take their names from Ytterby. The village becomes the only geographic location to give its name to four elements."
+    },
+    {
+      "year": 1878,
+      "event": "Jean Charles Galissard de Marignac separates another new element from yttria — ytterbium — completing the quartet of elements from the same Ytterby mineral."
+    },
+    {
+      "year": 1964,
+      "event": "J. E. Geusic and colleagues at Bell Labs develop the Nd:YAG laser — yttrium aluminum garnet doped with neodymium — which becomes one of the most versatile and widely used lasers in science and industry, used for everything from eye surgery to metal cutting."
+    }
+  ],
+  "story": "Ytterby is a small Swedish quarry village that has contributed more to the periodic table than any other place on Earth. Four elements bear names derived from this single location — a record that speaks to the extraordinary richness of the rare-earth minerals found there. The story begins in 1787 when a military officer with a hobby in mineralogy picked up a curious black rock. Over the next century, chemists extracting the secrets of that rock would find not one, not two, but four new elements hidden within it. Johan Gadolin, the Finnish chemist who started it all, is commemorated in the name of the mineral gadolinite — and indirectly in the element gadolinium, named after him by Marignac.",
+  "source_note": "New earth identified by Gadolin (1794). Named yttrium by Ekeberg (1797). Mineral renamed gadolinite in Gadolin's honor. Metal isolated by Wöhler (1828)."
+}

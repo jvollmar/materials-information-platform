@@ -1,0 +1,40 @@
+{
+  "discovered": 1898,
+  "discoverer": "Marie Curie & Pierre Curie",
+  "country": "France (Polish-born discoverer)",
+  "named_by": "Marie Curie",
+  "named": 1898,
+  "etymology": "From Poland — Marie Curie, born Maria Sklodowska in Warsaw, named her first discovered element after her homeland, which at the time was partitioned between Russia, Germany, and Austria-Hungary and did not exist as an independent nation. The naming was a deliberate political act — a declaration of Polish national identity through chemistry. Poland regained independence in 1918, twenty years after polonium was named.",
+  "timeline": [
+    {
+      "year": 1896,
+      "event": "Henri Becquerel discovers that uranium spontaneously emits rays that expose photographic plates — the discovery of radioactivity. Marie Curie, a young Polish student working in Paris, decides to investigate this phenomenon for her doctoral thesis, choosing a subject her supervisor considers a dead end."
+    },
+    {
+      "year": 1898,
+      "event": "Marie and Pierre Curie begin systematic investigation of pitchblende (uranium ore) and discover that it is far more radioactive than the uranium it contains — meaning additional radioactive elements must be present. Marie develops the term 'radioactivity' to describe the phenomenon."
+    },
+    {
+      "year": 1898,
+      "event": "On July 18, 1898, the Curies announce the discovery of a new radioactive element in pitchblende, which they have isolated in a fraction that behaves chemically like bismuth. Marie names it polonium after Poland — her homeland under foreign occupation. This is the first element named after a country for political rather than geographic reasons."
+    },
+    {
+      "year": 1898,
+      "event": "In December 1898, the Curies announce the discovery of a second new radioactive element — radium — in the same research program. In a single year, Marie Curie identifies two new elements, both through sheer physical and chemical labor processing enormous quantities of pitchblende ore."
+    },
+    {
+      "year": 1903,
+      "event": "Marie and Pierre Curie share the Nobel Prize in Physics with Becquerel for the discovery of radioactivity. Marie becomes the first woman to win a Nobel Prize. Pierre is killed in a Paris street accident in 1906; Marie wins a second Nobel Prize in Chemistry in 1911 — the only person to win Nobels in two different sciences."
+    },
+    {
+      "year": 1934,
+      "event": "Marie Curie dies of aplastic anemia — almost certainly caused by decades of unprotected exposure to radiation from the radioactive materials she studied. Her notebooks are still radioactive today and are kept in lead-lined boxes in the Bibliothèque nationale de France. Visitors who wish to consult them must sign a waiver."
+    },
+    {
+      "year": 2006,
+      "event": "Alexander Litvinenko, a former FSB officer, is poisoned in London with polonium-210 — administered in his tea. The assassination is the most prominent use of polonium as a weapon in history, drawing worldwide attention to polonium's extraordinary toxicity as an alpha emitter. The UK inquiry concludes in 2016 that Putin probably approved the operation."
+    }
+  ],
+  "story": "Marie Curie is perhaps the most extraordinary scientist in history — and polonium is the element through which her story begins. She chose uranium research when no one else wanted the topic, worked in conditions that would be unthinkable today (no shielding, no protection, constantly handling radioactive materials with her bare hands), and produced discoveries of the first rank while navigating a scientific establishment that barely tolerated women. The element named after Poland — her lost homeland — was her first. She worked with radioactive materials until they killed her, and her personal effects remain dangerously radioactive a century after her death. The notebooks she wrote in a Paris laboratory are a kind of radiation hazard monument to the cost of discovery without protection.",
+  "source_note": "Discovered by Marie and Pierre Curie, announced July 18, 1898. Named after Poland by Marie Curie. Published in Comptes Rendus de l'Académie des Sciences, 1898."
+}

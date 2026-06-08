@@ -1,0 +1,36 @@
+{
+  "discovered": 1879,
+  "discoverer": "Per Teodor Cleve",
+  "country": "Sweden",
+  "named_by": "Per Teodor Cleve",
+  "named": 1879,
+  "etymology": "From Thule — the mythological name used by ancient and medieval geographers for the northernmost land of the known world, sometimes identified with Norway, Iceland, or Scandinavia. Cleve, a Swede, chose this ancient name for the remotest northern land to honor his Scandinavian homeland in a more poetic way than simply naming it after a city or country.",
+  "timeline": [
+    {
+      "year": 1879,
+      "event": "Per Teodor Cleve, while separating the components of erbium oxide from Ytterby minerals, isolates two new elements simultaneously. One he names holmium (after Stockholm); the other he names thulium after Thule, the mythological northernmost land — a romantic, classical choice that reflects the scholarly culture of 19th-century Scandinavian science."
+    },
+    {
+      "year": 1879,
+      "event": "Cleve characterizes thulium's oxide as pale greenish — distinctly different from erbium's rose and holmium's yellow-green. He determines an approximate atomic weight and publishes both discoveries in the same paper, noting the extraordinary difficulty of the separations required."
+    },
+    {
+      "year": 1911,
+      "event": "Charles James at the University of New Hampshire performs 15,000 fractional crystallizations of thulium bromate to produce a highly pure sample of thulium — a heroic effort that becomes a landmark in rare earth chemistry and demonstrates both the difficulty and the achievability of lanthanide separation before ion exchange chromatography."
+    },
+    {
+      "year": 1953,
+      "event": "Pure thulium metal is produced by reduction of thulium fluoride with calcium — a standard rare earth reduction method, but requiring exceptionally pure starting material."
+    },
+    {
+      "year": 1963,
+      "event": "Thulium-170 (t½ = 128.6 days) is proposed as an X-ray source for portable radiography — it decays by gamma emission with energies suitable for medical and industrial X-ray imaging. Small, portable thulium-170 sources can be used for radiography in remote locations without electrical power."
+    },
+    {
+      "year": 1990,
+      "event": "The Tm:YAG laser (thulium-doped YAG, emitting at 2.01 μm) and thulium fiber lasers become medically established for soft tissue surgery, particularly in urology and pulmonology — the 2.01 μm wavelength is strongly absorbed by water, making it precise for cutting and ablating soft tissue with minimal thermal damage."
+    }
+  ],
+  "story": "Thulium was named after a place that doesn't really exist — Thule, the ancient Greeks' term for the mysterious northern limit of the known world. Classical authors debated whether it was Norway, Iceland, or a mythological construction; the point was that it represented the uttermost, unreachable north. Cleve's choice was poetic and fitting for a Scandinavian scientist in 1879: thulium was itself almost unreachably difficult to separate in pure form. Charles James's 15,000 crystallizations to purify it in 1911 stands as one of chemistry's most extreme feats of persistence. Thulium has the distinction of being the rarest of the stable lanthanides — even more difficult to obtain than its legendary namesake.",
+  "source_note": "Discovered by Cleve (1879) from erbium oxide fractions. Named for Thule, the mythological northern land. Published in Comptes Rendus, 1879. Ultrapure separation by James (1911)."
+}

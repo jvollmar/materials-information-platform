@@ -1,0 +1,40 @@
+{
+  "discovered": 1778,
+  "discoverer": "Carl Wilhelm Scheele",
+  "country": "Sweden",
+  "named_by": "Jöns Jacob Berzelius",
+  "named": 1781,
+  "etymology": "Greek: molybdos (lead) — because molybdenite (molybdenum disulfide, MoS₂), the primary ore, was frequently confused with graphite and with galena (lead sulfide), all being black, greasy minerals. The name reflects centuries of confusion before the element was properly identified.",
+  "timeline": [
+    {
+      "year": 1754,
+      "event": "Bengt Andersson Qvist, a Swedish student, examines the black mineral molybdaena (molybdenite) and shows it is distinct from graphite and from galena (lead ore), which it resembles. The mineral had been used to make pencil-like marks, like graphite, and was often confused with lead ore."
+    },
+    {
+      "year": 1778,
+      "event": "Carl Wilhelm Scheele — the same prolific Swedish chemist who discovered chlorine, oxygen, selenium, and manganese — treats molybdenite with nitric acid and obtains a white oxide unlike any known compound. He correctly identifies it as containing an unknown element, distinct from any previously known metal or earth. He publishes a characterization of 'molybdic acid.'"
+    },
+    {
+      "year": 1781,
+      "event": "Peter Jacob Hjelm, following up on Scheele's work, reduces the white molybdic oxide with carbon at high temperature and obtains an impure metal — the first isolation of molybdenum. Berzelius subsequently names the element molybdenum."
+    },
+    {
+      "year": 1893,
+      "event": "Henri Moissan (who isolated fluorine in 1886) produces molybdenum of much higher purity by reducing molybdenum oxide in an electric arc furnace — a new technology that enables production of refractory metals at temperatures previously unattainable."
+    },
+    {
+      "year": 1906,
+      "event": "Molybdenum steel is developed and used in the armored steel of French tank destroyers and the cross-members of early automobiles. Molybdenum dramatically improves steel's strength at high temperatures — making it invaluable for engine components, high-speed cutting tools, and armor plate."
+    },
+    {
+      "year": 1911,
+      "event": "Molybdenum disulfide (MoS₂, essentially the original molybdenite mineral) is recognized as an exceptional dry lubricant — its layered crystal structure allows sheets to slide over each other with minimal friction. MoS₂ becomes standard in aerospace lubrication and any application where oil would fail."
+    },
+    {
+      "year": 1960,
+      "event": "Molybdenum cofactor (MoCo) is found to be present in nitrogen-fixing enzymes (nitrogenase) that allow certain bacteria to fix atmospheric nitrogen — a fundamental biological process that makes life possible in nitrogen-poor soils. Molybdenum is essential for nitrogen fixation, connecting it directly to global agriculture."
+    }
+  ],
+  "story": "Molybdenum was discovered by Scheele, who seemed to have a talent for finding new elements in places others had looked and found nothing. The greasy black mineral molybdenite had been mistaken for graphite, galena, and various lead minerals for centuries — the confusion was so complete that the element's very name commemorates the mistake. Today molybdenum lives a quiet but essential industrial life: it is in your stainless steel kitchen knives (molybdenum gives 316 stainless its chloride resistance), in the catalyst that removes sulfur from petroleum products, and — in vanishingly small amounts — in the enzymes inside nitrogen-fixing bacteria without which the nitrogen cycle that supports all terrestrial life would slow to a halt.",
+  "source_note": "Molybdic acid identified by Scheele (1778). Metal isolated by Hjelm (1781). Named by Berzelius from Greek molybdos (lead). Published in Crells Chemische Annalen."
+}

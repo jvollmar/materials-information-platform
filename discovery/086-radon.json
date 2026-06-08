@@ -1,0 +1,40 @@
+{
+  "discovered": 1899,
+  "discoverer": "Ernest Rutherford & Robert Owens / Friedrich Ernst Dorn (independently)",
+  "country": "Canada (McGill University) / Germany",
+  "named_by": "Named progressively: 'emanation,' 'radium emanation,' then radon (1923)",
+  "named": 1923,
+  "etymology": "From radium — radon was first identified as a gaseous product ('emanation') released by radium during its radioactive decay. The name radon reflects this origin: radium + the noble gas suffix -on (following neon, argon, krypton, xenon). Ramsay and Gray formally proposed 'radon' in 1923 after confirming it was a true noble gas.",
+  "timeline": [
+    {
+      "year": 1899,
+      "event": "Ernest Rutherford and Robert Owens, at McGill University in Montreal, observe that thorium compounds release a radioactive gas — they call it 'thorium emanation.' Rutherford demonstrates it has a definite half-life, making this one of the first observations of radioactive decay kinetics."
+    },
+    {
+      "year": 1900,
+      "event": "Friedrich Ernst Dorn, a German physicist at Halle, discovers that radium also releases a radioactive gas — 'radium emanation.' This is now known to be radon-222. The observation is made independently of Rutherford's thorium emanation work."
+    },
+    {
+      "year": 1902,
+      "event": "Rutherford and Frederick Soddy demonstrate that radioactive decay involves the transmutation of one element into another — using thorium emanation as one of their key examples. This revolutionary conclusion overturns the Victorian belief that atoms are immutable and earns Rutherford the 1908 Nobel Prize in Chemistry."
+    },
+    {
+      "year": 1908,
+      "event": "William Ramsay and Robert Whytlaw-Gray collect enough radium emanation to measure its density and atomic weight — confirming it is a heavy noble gas fitting between xenon and the predicted end of Period 6 in the periodic table. They temporarily name it 'niton' from the Latin nitens (shining) for its luminescence."
+    },
+    {
+      "year": 1923,
+      "event": "The name 'radon' is officially adopted — from radium, its parent element in the decay chain. The name replaces both 'radium emanation' and 'niton.'"
+    },
+    {
+      "year": 1951,
+      "event": "The first evidence linking radon to lung cancer emerges from studies of uranium miners in Schneeberg and Joachimsthal (now in Germany and Czech Republic) — miners in these areas had been dying of lung disease for centuries, and the cause is now identified as radon accumulation in the mines."
+    },
+    {
+      "year": 1984,
+      "event": "Stanley Watras, a nuclear plant construction worker in Pennsylvania, repeatedly triggers radiation monitors entering work — investigations reveal his home has radon levels 700 times the EPA action level. The discovery launches widespread public awareness of indoor radon as a health hazard, and radon testing of homes becomes standard in the US and Europe."
+    }
+  ],
+  "story": "Radon was discovered not as a substance but as a behavior — the mysterious radioactive 'breath' exhaled by thorium and radium. Rutherford's observation that this emanation had a definite half-life was one of the first demonstrations that radioactive decay follows predictable exponential kinetics, a discovery that transformed physics. Radon itself is colorless, odorless, and tasteless — completely undetectable without instruments — which makes it one of the more insidious environmental hazards. It seeps from soil and rock into basements and ground-floor rooms, where it accumulates if not ventilated. In uranium-mining regions of Europe, miners had been dying of what was called 'mountain sickness' for 400 years before radon was identified as the cause. The element discovered as a ghost — invisible decay product of an invisible element — continues to kill more people annually than any other form of radiation exposure.",
+  "source_note": "Thorium emanation observed by Rutherford and Owens (1899). Radium emanation by Dorn (1900). Density measured by Ramsay and Whytlaw-Gray (1908). Named radon (1923)."
+}

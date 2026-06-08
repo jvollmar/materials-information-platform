@@ -1,0 +1,36 @@
+{
+  "discovered": 1940,
+  "discoverer": "Glenn Seaborg, Arthur Wahl, Joseph Kennedy & Edwin McMillan",
+  "country": "USA (University of California, Berkeley)",
+  "named_by": "Glenn Seaborg",
+  "named": 1942,
+  "etymology": "From Pluto — following the planetary naming sequence begun by uranium (Uranus) and continued by neptunium (Neptune), the next element was named after Pluto, then the outermost known planet. The name was chosen by Glenn Seaborg. When Pluto was demoted to dwarf planet in 2006, plutonium retained its name — the only element named after a now-reclassified celestial body.",
+  "timeline": [
+    {
+      "year": 1940,
+      "event": "Glenn Seaborg, Arthur Wahl, Joseph Kennedy, and Edwin McMillan at Berkeley bombard uranium-238 with deuterons in the 60-inch cyclotron in December 1940, producing neptunium-238, which decays to plutonium-238. The first evidence of element 94 is observed."
+    },
+    {
+      "year": 1941,
+      "event": "On February 23-24, 1941, Seaborg and Wahl chemically identify and isolate the first plutonium — a minuscule amount of Pu-238. They also demonstrate plutonium-239's fissile properties — it undergoes fission with slow neutrons, like uranium-235, making it potentially usable as a nuclear weapon fuel. This discovery changes the direction of the Manhattan Project."
+    },
+    {
+      "year": 1942,
+      "event": "The discovery of plutonium is classified as a military secret immediately. Seaborg chooses the name plutonium (after Pluto) and the symbol Pu — later joking that the 'Pu' symbol was chosen to sound humorous, since his colleagues expected he would use 'Pl.'"
+    },
+    {
+      "year": 1945,
+      "event": "The Fat Man plutonium implosion bomb is detonated at Trinity, New Mexico (the first nuclear test, July 16) and over Nagasaki, Japan (August 9). The Nagasaki bomb uses approximately 6.4 kg of Pu-239 in an implosion design. The Hiroshima bomb used uranium-235."
+    },
+    {
+      "year": 1977,
+      "event": "NASA launches Voyager 1 and 2 using plutonium-238 RTGs for electrical power — the same basic design is used in the Cassini mission (1997), New Horizons (2006), and the Mars rovers Curiosity (2012) and Perseverance (2021). Pu-238's 87.7-year half-life provides decades of reliable power for deep space exploration."
+    },
+    {
+      "year": 1994,
+      "event": "The dissolution of the Soviet Union leaves enormous quantities of weapons-grade plutonium — approximately 170 metric tons in Russia — requiring international agreements for disposition. The US-Russia 'Megatons to Megawatts' program converts weapons material to reactor fuel, turning Cold War bombs into electricity."
+    }
+  ],
+  "story": "Plutonium was isolated in microgram quantities in a Berkeley laboratory in 1941, classified as a military secret immediately, and within four years produced in kilogram quantities to destroy a city. No element's journey from laboratory discovery to world-historical consequence was faster or more violent. Glenn Seaborg, who discovered or co-discovered ten elements — more than any other person in history — considered plutonium his most important and most troubling achievement. He spent much of the rest of his life working for nuclear arms control, motivated in part by what plutonium had wrought. Today plutonium quietly powers spacecraft exploring the outer solar system — the same element that destroyed Nagasaki allows Perseverance to rove Mars.",
+  "source_note": "First produced by Seaborg, Wahl, Kennedy, and McMillan (December 1940, Berkeley). Pu-239 fissile properties confirmed February 1941. Named after Pluto. Discovery declassified 1946."
+}

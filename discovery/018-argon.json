@@ -1,0 +1,44 @@
+{
+  "discovered": 1894,
+  "discoverer": "Lord Rayleigh (John William Strutt) & William Ramsay",
+  "country": "United Kingdom",
+  "named_by": "Lord Rayleigh & William Ramsay",
+  "named": 1894,
+  "etymology": "Greek: argos (inactive, idle, lazy) — named for its extreme chemical inertness. Argon does not react with any known substance under ordinary conditions. The name captures what was, at the time, the most striking property of this unprecedented type of element.",
+  "timeline": [
+    {
+      "year": 1785,
+      "event": "Henry Cavendish notices that after removing all oxygen and carbon dioxide from air, there remains a tiny residual bubble of gas — approximately 1/120th of the total volume — that he cannot account for. He correctly suspects it is a distinct substance but cannot identify it. His observation goes unexplained for 109 years."
+    },
+    {
+      "year": 1882,
+      "event": "H.F. Newall and W.N. Hartley independently observe unidentified spectral lines in atmospheric air that do not correspond to any known element, but the significance is not pursued."
+    },
+    {
+      "year": 1882,
+      "event": "Lord Rayleigh begins systematic measurements of the density of gases for his research on the densities of common gases. He uses meticulous methods and obtains highly consistent results — but notices an anomaly in nitrogen."
+    },
+    {
+      "year": 1892,
+      "event": "Lord Rayleigh publishes a note in Nature reporting a troubling discrepancy: nitrogen extracted from air by removing oxygen is consistently 0.5% denser than nitrogen produced from chemical sources such as ammonia or nitrous oxide. The difference is tiny but reproducible across years of measurement. He publishes it as an unexplained puzzle, inviting suggestions."
+    },
+    {
+      "year": 1894,
+      "event": "William Ramsay reads Rayleigh's note and proposes a collaboration. They independently investigate the discrepancy. Ramsay passes atmospheric nitrogen over hot magnesium (which absorbs nitrogen), leaving a residue. Rayleigh removes nitrogen by sparking it with oxygen, leaving a residue. Both obtain the same dense, inert gas. They announce its discovery at the British Association meeting on August 13, 1894."
+    },
+    {
+      "year": 1894,
+      "event": "The announcement causes sensation and skepticism in equal measure. Chemists cannot believe a new element in air has been missed for centuries. Cavendish's 1785 observation is recalled — he had detected argon but could not identify it. Argon constitutes 0.93% of air — far from negligible — yet had been invisible to chemistry for 100 years because it does nothing."
+    },
+    {
+      "year": 1895,
+      "event": "Rayleigh receives the Nobel Prize in Physics (1904) and Ramsay the Nobel Prize in Chemistry (1904) for their complementary roles in argon's discovery and the subsequent identification of the noble gas group. Their collaboration represents one of the most successful interdisciplinary partnerships in scientific history."
+    },
+    {
+      "year": 1898,
+      "event": "Ramsay and Travers isolate neon, krypton, and xenon from liquid air — completing the noble gas group that argon's discovery had predicted. Argon's isolation had opened an entirely new column of the periodic table."
+    }
+  ],
+  "story": "Argon's discovery is one of the most remarkable detective stories in science. An anomaly of 0.5% in gas density — a difference most scientists would have dismissed as experimental error — led Rayleigh and Ramsay to an entirely new group of elements comprising nearly 1% of Earth's atmosphere. The key insight was Rayleigh's stubborn refusal to accept experimental inconsistency. He had measured carefully for years and trusted his measurements over his expectations. Argon's discovery also created a crisis for Mendeleev's periodic table — where did a chemically inert gas fit? The answer was a new column, Group 18, which immediately predicted the existence of the other noble gases not yet discovered.",
+  "source_note": "Announced by Rayleigh and Ramsay, August 13, 1894. Paper published in Philosophical Transactions, 1895. Both awarded Nobel Prizes in 1904."
+}

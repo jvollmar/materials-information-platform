@@ -1,0 +1,40 @@
+{
+  "discovered": 1803,
+  "discoverer": "William Hyde Wollaston",
+  "country": "United Kingdom",
+  "named_by": "William Hyde Wollaston",
+  "named": 1803,
+  "etymology": "Greek: rhodon (rose) — named for the rose-red color of its salts and compounds, particularly rhodium chloride and rhodium sodium chloride solutions. The same Greek root gives us rhododendron (rose tree).",
+  "timeline": [
+    {
+      "year": 1800,
+      "event": "William Hyde Wollaston, a private English scientist of independent means, purchases a substantial quantity of crude platinum from South America. His goal is to develop a commercial process for purifying and manufacturing platinum, which had recently become commercially significant."
+    },
+    {
+      "year": 1803,
+      "event": "Wollaston dissolves crude platinum in aqua regia and treats the solution methodically, precipitating different components. After removing platinum and palladium (which he also discovers the same year), he finds a residue containing beautiful rose-red compounds. He isolates the element responsible and names it rhodium from the Greek rhodon (rose)."
+    },
+    {
+      "year": 1803,
+      "event": "In the same year, working with the same crude platinum, Wollaston also discovers palladium — making him the discoverer of two elements in a single year from a single material. He keeps the discoveries secret initially to protect his commercial platinum-refining process."
+    },
+    {
+      "year": 1804,
+      "event": "Smithson Tennant, working with a similar crude platinum sample, discovers osmium and iridium in 1804. In just two years (1803-1804), four new elements — palladium, rhodium, osmium, and iridium — are discovered from crude platinum ore, transforming understanding of the platinum group."
+    },
+    {
+      "year": 1830,
+      "event": "Wollaston dies having kept his platinum-refining process secret. He had quietly become wealthy from the process, selling platinum laboratory and scientific instruments through an agent without disclosing his identity as the manufacturer."
+    },
+    {
+      "year": 1976,
+      "event": "Rhodium's role in automotive catalytic converters is established — rhodium is uniquely effective at reducing nitrogen oxides (NOₓ) to nitrogen, a reaction platinum and palladium cannot efficiently perform. The three-way catalytic converter using platinum, palladium, and rhodium becomes standard equipment on all gasoline vehicles, eventually eliminating most NOₓ and CO emissions from car exhausts."
+    },
+    {
+      "year": 2021,
+      "event": "Rhodium reaches a price of over $29,000 per troy ounce — briefly making it the most expensive metal in the world by far, more than gold or platinum. Supply constraints from South African mines and surging demand from automotive catalytic converters drive the price to historic levels."
+    }
+  ],
+  "story": "William Hyde Wollaston was one of chemistry's great independent scientists — he had a private laboratory, private funding, and no academic position to protect or obligations to fulfill. This freedom allowed him to pursue practical chemistry with commercial application in mind, and to keep his discoveries secret when it served him. His development of a commercial platinum-refining process was the first industrial-scale processing of platinum group metals, and discovering rhodium and palladium in the process was almost incidental. Today rhodium's extraordinary price reflects a cruel supply-demand reality: 80% of it comes from South African platinum group metal mines, the supply is essentially fixed, and every gasoline-powered car on the road requires it to meet emissions standards.",
+  "source_note": "Discovered by Wollaston (1803) from crude South American platinum. Named from Greek rhodon (rose) for the color of its salts. Published in Philosophical Transactions, 1804."
+}

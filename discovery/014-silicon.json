@@ -1,0 +1,44 @@
+{
+  "discovered": 1824,
+  "discoverer": "Jöns Jacob Berzelius",
+  "country": "Sweden",
+  "named_by": "Jöns Jacob Berzelius",
+  "named": 1824,
+  "etymology": "Latin: silex or silicis (flint, hard stone) — named after flint, the silicon dioxide mineral used by humans for tools since the Stone Age. Berzelius chose the -on suffix (like carbon and boron) rather than -ium to indicate it was a non-metal.",
+  "timeline": [
+    {
+      "year": -8000,
+      "event": "Flint (a form of silicon dioxide, SiO₂) is the dominant tool-making material of the Stone Age. Humans shape it into scrapers, blades, and arrowheads for tens of thousands of years. Silicon's compounds underlie virtually every rock and mineral on Earth, but the elemental nature of silicon is entirely unknown."
+    },
+    {
+      "year": 1787,
+      "event": "Antoine Lavoisier suspects that silica (silicon dioxide, found in quartz, sand, and flint) contains an unknown element, but cannot isolate it. He includes 'silice' in his list of suspected elements in his Traité Élémentaire de Chimie."
+    },
+    {
+      "year": 1811,
+      "event": "Joseph Louis Gay-Lussac and Louis Jacques Thénard attempt to isolate silicon by heating potassium with silicon tetrafluoride. They produce an impure brown powder but do not recognize it as elemental silicon, mistaking it for a compound."
+    },
+    {
+      "year": 1824,
+      "event": "Jöns Jacob Berzelius, the Swedish chemist who also discovered cerium, selenium, and thorium, produces pure amorphous silicon by heating potassium metal with potassium fluorosilicate (K₂SiF₆), then washing the product with water to remove the potassium fluoride byproduct. He correctly identifies the resulting brown powder as a new element and names it silicon."
+    },
+    {
+      "year": 1854,
+      "event": "Henri Sainte-Claire Deville prepares crystalline silicon for the first time by reducing silicon tetrachloride with sodium, producing lustrous gray crystals. This is the first time silicon's metallic appearance is observed — the amorphous form is a brown powder with no metallic luster."
+    },
+    {
+      "year": 1940,
+      "event": "Russell Ohl at Bell Labs discovers the p-n junction in silicon while studying silicon's electrical properties. He notices that a cracked silicon rod produces a significant voltage when exposed to light — the principle behind the solar cell and the transistor, though he does not immediately realize the implications."
+    },
+    {
+      "year": 1954,
+      "event": "Gordon Teal at Texas Instruments grows the first silicon transistor from single-crystal silicon, demonstrating silicon's potential as a semiconductor material. This begins silicon's displacement of germanium in electronics, ultimately creating the Silicon Age."
+    },
+    {
+      "year": 1958,
+      "event": "Jack Kilby at Texas Instruments and Robert Noyce at Fairchild independently invent the integrated circuit using silicon, making the computer revolution possible. The 'silicon' in Silicon Valley refers to this invention — Berzelius's brown powder from 1824 becomes the foundation of the digital world."
+    }
+  ],
+  "story": "Berzelius isolated silicon in 1824 as a chemical curiosity — a brown powder with no obvious uses. No one could have predicted that this element would eventually become the literal foundation of the modern world. Silicon is the second most abundant element in Earth's crust after oxygen, yet it took until the 19th century to isolate it because it bonds so tenaciously to oxygen that separating the two requires extreme chemistry. The transistor, the solar cell, and the integrated circuit — all based on silicon's semiconductor properties — transformed civilization more profoundly than any other single material discovery in human history.",
+  "source_note": "Isolated by Berzelius (1824), published in Annales de Chimie et de Physique. Crystalline form first produced by Deville (1854)."
+}

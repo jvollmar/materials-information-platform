@@ -1,0 +1,44 @@
+{
+  "discovered": -4000,
+  "discoverer": "Known since antiquity",
+  "country": "Global — multiple ancient civilizations",
+  "named_by": "Known since antiquity",
+  "named": -4000,
+  "etymology": "The English word 'silver' comes from the Anglo-Saxon 'seolfor,' derived from Proto-Germanic 'silubra.' The chemical symbol Ag comes from the Latin 'argentum,' which is also preserved in the name of Argentina (the 'silver country') — named by Spanish colonizers who believed it was rich in silver deposits. The Latin root appears in 'argent' (heraldic silver) and in the French word for money, argent.",
+  "timeline": [
+    {
+      "year": -4000,
+      "event": "Silver is one of the first metals worked by humans, occurring naturally in native form (pure metallic silver) in some deposits. Ancient artifacts of silver jewelry and vessels date to at least 4000 BCE in Mesopotamia and Anatolia. Silver's luster, malleability, and relative scarcity made it precious from the earliest civilizations."
+    },
+    {
+      "year": -3000,
+      "event": "The cupellation process — separating silver from lead ores by oxidizing the lead with air — is developed in the Middle East. This allows silver to be extracted from galena (lead sulfide) ore, dramatically increasing the available supply. Silver mines in Anatolia supply the ancient Near Eastern economy."
+    },
+    {
+      "year": -600,
+      "event": "The first silver coins are struck in Lydia (modern Turkey), creating one of the world's first monetary systems based on precious metal. Silver coins rapidly spread through the Greek, Persian, and Mediterranean worlds, establishing silver as the foundation of monetary exchange for the next 2,500 years."
+    },
+    {
+      "year": -480,
+      "event": "The discovery of massive silver deposits at Laurion, near Athens, transforms Athens into the dominant power of the Greek world — the silver funds the Athenian navy that defeats Persia at Salamis (480 BCE) and finances the Periclean building program including the Parthenon."
+    },
+    {
+      "year": 1545,
+      "event": "The discovery of the Cerro Rico silver deposit at Potosí, Bolivia (then Peru) opens the largest silver mine in history. Over the following three centuries, Potosí produces approximately half of all silver mined in the world — a flood of American silver that transforms the European economy and fuels global trade."
+    },
+    {
+      "year": 1789,
+      "event": "Lavoisier includes silver among the fundamental chemical elements in his Traité Élémentaire de Chimie, formally establishing what civilizations had assumed for millennia."
+    },
+    {
+      "year": 1851,
+      "event": "Frederick Scott Archer introduces collodion wet-plate photography using silver compounds — dramatically improving photographic sensitivity and resolution. The photographic industry's use of silver halides as the light-sensitive medium becomes one of the largest industrial silver uses of the 19th and 20th centuries."
+    },
+    {
+      "year": 1893,
+      "event": "The Sherman Silver Purchase Act in the United States and the subsequent shift away from bimetallism (gold and silver as monetary standards) begins silver's transition from monetary metal to industrial commodity — a transformation that took most of the 20th century to complete."
+    }
+  ],
+  "story": "Silver's story spans the entire history of human civilization — from the earliest metalworkers of Anatolia to the solar panels being installed today. For most of recorded history, silver was money: the word 'salary' comes from the Latin for salt, but the phrase 'born with a silver spoon' reflects silver's centuries as the universal medium of exchange. Silver's antimicrobial properties were understood empirically long before bacteria were known — ancient warriors put silver coins in their water containers, Persians used silver vessels, and early American settlers put silver dollars in milk jugs to slow spoiling. Modern medicine has returned to these roots: silver wound dressings and silver-impregnated catheters are now standard in hospital infection control.",
+  "source_note": "Known since at least 4000 BCE. Cupellation process from ~3000 BCE. Recognized as chemical element by Lavoisier (1789). Symbol Ag from Latin argentum."
+}

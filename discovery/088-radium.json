@@ -1,0 +1,40 @@
+{
+  "discovered": 1898,
+  "discoverer": "Marie Curie & Pierre Curie",
+  "country": "France",
+  "named_by": "Marie Curie & Pierre Curie",
+  "named": 1898,
+  "etymology": "Latin: radius (ray) — named for its intense radioactivity. The Curies chose a name that captured the defining property they were studying: the emission of invisible penetrating rays from an element that could not be chemically explained by any known process. The name also gave them the word 'radioactivity' itself, which Marie coined.",
+  "timeline": [
+    {
+      "year": 1898,
+      "event": "Following the discovery of polonium in July 1898, Marie and Pierre Curie continue processing enormous quantities of pitchblende ore. They know from their measurements that another highly radioactive element remains — the barium fraction of pitchblende is far more radioactive than pure barium should be."
+    },
+    {
+      "year": 1898,
+      "event": "On December 26, 1898, the Curies announce the discovery of radium — an element that they have chemically separated as a barium-like precipitate but cannot yet isolate in pure form. The announcement is made to the French Academy of Sciences. Marie notes their new element is 900 times more radioactive than uranium."
+    },
+    {
+      "year": 1902,
+      "event": "After four years of processing one tonne of pitchblende residue — requiring 20,000 crystallizations — the Curies isolate 0.1 gram of radium chloride and determine the atomic weight of radium as 225.93 (modern value: 226.025). The physical labor of this isolation — stirring boiling vats, carrying heavy loads of ore residue — is almost incomprehensible by modern laboratory standards."
+    },
+    {
+      "year": 1903,
+      "event": "Pierre Curie deliberately burns his arm with a radium sample to study the biological effects of radiation — observing a wound that takes weeks to heal. The experiment demonstrates radiation's ability to damage tissue, though the deeper implications are not yet understood."
+    },
+    {
+      "year": 1910,
+      "event": "Marie Curie isolates pure radium metal for the first time by electrolysis — four years after Pierre's death. She works alone through the difficult electrochemical reduction, producing a few milligrams of the brilliant white metal."
+    },
+    {
+      "year": 1917,
+      "event": "Radium dial painting becomes an industrial practice for military watch and instrument dials during World War I. Young women — the 'Radium Girls' — are employed to paint luminous radium onto watch dials, told to lick their brushes to a fine point. Their subsequent cancers, jaw necrosis, and deaths become a landmark case in occupational health law."
+    },
+    {
+      "year": 1934,
+      "event": "Marie Curie dies on July 4, 1934, of aplastic anemia caused by decades of radiation exposure — the same radioactivity she had discovered 36 years earlier. She had worked without any shielding or protective equipment throughout her career, carrying radioactive samples in her pockets, keeping glowing radium vials on her bedside table because she found their soft blue glow beautiful."
+    }
+  ],
+  "story": "Radium's discovery and the story of its discoverer are inseparable — and together they form one of the most extraordinary narratives in the history of science. Marie Curie processed one tonne of uranium ore residue by hand in a leaking shed with no ventilation to obtain 0.1 gram of a compound of an element she had correctly predicted must exist. She worked through grief after Pierre's death, through the hostility of the French Academy (which refused to admit women), through public scandal (her relationship with physicist Paul Langevin was used to try to strip her Nobel Prize), and through the progressive physical deterioration caused by the radiation she was studying. The notebooks she used are still radioactive. The element she named for its rays killed her.",
+  "source_note": "Announced by Marie and Pierre Curie, December 26, 1898. Named from Latin radius (ray). 0.1g isolated after 4 years processing 1 tonne of pitchblende (1902). Marie Curie's Nobel Prizes: Physics 1903, Chemistry 1911."
+}

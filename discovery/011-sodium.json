@@ -1,0 +1,44 @@
+{
+  "discovered": 1807,
+  "discoverer": "Humphry Davy",
+  "country": "United Kingdom",
+  "named_by": "Humphry Davy / Jöns Jacob Berzelius",
+  "named": 1807,
+  "etymology": "English 'sodium' from medieval Latin 'sodanum' (a headache remedy), itself from Arabic 'suda' (headache) — because sodium carbonate was used medicinally. The chemical symbol Na comes from 'natrium,' the Latin name used by Berzelius, derived from the Egyptian 'natron' (a naturally occurring sodium carbonate mineral).",
+  "timeline": [
+    {
+      "year": -3000,
+      "event": "Sodium compounds have been used since ancient times. Natron (naturally occurring sodium carbonate and bicarbonate) was used by ancient Egyptians for mummification, glassmaking, and cleaning. Salt (sodium chloride) has been a fundamental commodity of human civilization for millennia, used for food preservation and as currency — the word 'salary' derives from the Latin 'salarium,' payment in salt."
+    },
+    {
+      "year": 1702,
+      "event": "Guillaume Homberg demonstrates that soda (sodium carbonate) and potash (potassium carbonate) are distinct substances with different properties — a crucial distinction that paves the way for recognizing sodium and potassium as separate elements."
+    },
+    {
+      "year": 1807,
+      "event": "Humphry Davy, using a powerful voltaic pile battery he constructed at the Royal Institution in London, electrolyzes molten caustic soda (sodium hydroxide, NaOH) on October 19, 1807. Small globules of a silvery metal form at the negative electrode — metal so reactive that it bursts into brilliant yellow flame on contact with water. Davy dances around his laboratory in excitement at the sight of a new metal."
+    },
+    {
+      "year": 1807,
+      "event": "Just six days later, on October 25, Davy electrolyzes molten potash (potassium hydroxide) and isolates potassium — an even more reactive metal that explodes violently on contact with water. In eight days, Davy has isolated two new elements, a feat unmatched in the history of chemistry."
+    },
+    {
+      "year": 1808,
+      "event": "Davy names his new metal 'sodium' from 'soda.' Berzelius proposes 'natrium' based on the Egyptian natron, which becomes the basis for the chemical symbol Na used worldwide. The dual naming reflects the competing German and English scientific traditions of the early 19th century."
+    },
+    {
+      "year": 1821,
+      "event": "H. Davy's cousin Edmund Davy produces sodium metal in larger quantities by reducing sodium carbonate with carbon at high temperature, making sodium more accessible for experimental use."
+    },
+    {
+      "year": 1890,
+      "event": "The Castner process for producing sodium metal by electrolysis of molten sodium hydroxide is developed by Hamilton Castner, enabling commercial-scale sodium production for the first time and opening industrial applications."
+    },
+    {
+      "year": 1924,
+      "event": "Commercial production of tetraethyllead (an antiknock gasoline additive) begins using sodium metal as a reducing agent — creating the first mass-market industrial use of sodium metal. Sodium becomes essential to the early automotive industry."
+    }
+  ],
+  "story": "Humphry Davy's discovery of sodium in 1807 was one of the most dramatic moments in chemical history. He had built an enormous battery — the most powerful in the world at the time — specifically to test whether electricity could decompose substances that no chemical reaction could break down. When he applied current to molten caustic soda and saw tiny balls of silvery metal form and then burst into flame, he knew he had found a new element. What made it extraordinary was the speed: six days later he found potassium in the same way. Davy went on to discover barium, calcium, magnesium, and strontium in the same year — the most productive single year of element discovery by one person in history.",
+  "source_note": "Discovered by Humphry Davy, October 19, 1807. Published in Philosophical Transactions of the Royal Society, 1808. Named sodium by Davy; natrium (Na) proposed by Berzelius."
+}

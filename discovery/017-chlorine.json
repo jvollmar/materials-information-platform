@@ -1,0 +1,44 @@
+{
+  "discovered": 1774,
+  "discoverer": "Carl Wilhelm Scheele",
+  "country": "Sweden",
+  "named_by": "Humphry Davy",
+  "named": 1810,
+  "etymology": "Greek: chloros (pale green) — named for the distinctive yellow-green color of the gas. Scheele called it 'dephlogisticated muriatic acid air'; Lavoisier called it 'oxymuriatic acid gas' (believing it contained oxygen); Davy gave it the permanent name chlorine in 1810 after proving it was an element with no oxygen.",
+  "timeline": [
+    {
+      "year": 1774,
+      "event": "Carl Wilhelm Scheele, while investigating the properties of manganese dioxide, treats it with hydrochloric acid and produces a dense yellow-green gas with a suffocating odor. He notes that the gas bleaches litmus paper and kills insects — and that it has a powerful choking quality. Scheele correctly identifies it as a new substance but, working within the phlogiston framework, calls it 'dephlogisticated muriatic acid.' He does not recognize it as an element."
+    },
+    {
+      "year": 1785,
+      "event": "French chemist Claude Louis Berthollet discovers that chlorine dissolved in water (chlorine water) effectively bleaches linen — replacing the slow, sun-dependent bleaching process that had taken weeks with a process taking hours. The discovery transforms the textile industry and enables the industrial revolution's cotton mills to operate at full capacity."
+    },
+    {
+      "year": 1800,
+      "event": "William Cruickshank discovers that chlorine water can purify sewage and prevent fermentation — the first step toward using chlorine for water disinfection. It would be another century before municipal water chlorination was implemented, but the principle is established."
+    },
+    {
+      "year": 1807,
+      "event": "Humphry Davy investigates the 'oxymuriatic acid' and subjects it to every test he can devise to find its oxygen content — as Lavoisier's theory requires. He finds none. He concludes it must be an element and begins arguing that it contains no oxygen at all, in direct contradiction to Lavoisier's framework."
+    },
+    {
+      "year": 1810,
+      "event": "Davy formally proposes the name 'chlorine' (from the Greek chloros, pale green) and declares it a true element. His argument is resisted by many chemists who cling to Lavoisier's oxygen-in-all-acids theory, but eventually the evidence prevails. Chlorine becomes the first halogen to be recognized as an element."
+    },
+    {
+      "year": 1846,
+      "event": "James Young Simpson introduces chloroform (CHCl₃) as a general anesthetic, revolutionizing surgery. Queen Victoria uses chloroform during childbirth in 1853, lending royal approval to the practice and overcoming religious objections to pain relief in labor."
+    },
+    {
+      "year": 1915,
+      "event": "German forces release 168 tons of chlorine gas at Ypres, Belgium on April 22 — the first large-scale use of chemical weapons in warfare. The yellow-green cloud drifts toward Allied trenches and kills approximately 1,000 soldiers. Chlorine's bleaching and oxidizing properties — so useful in peacetime — make it devastating as a weapon."
+    },
+    {
+      "year": 1908,
+      "event": "Jersey City, New Jersey becomes the first city in the United States to continuously chlorinate its drinking water supply — beginning the public health revolution that would eventually eliminate cholera, typhoid, and dysentery from developed-world water supplies, saving tens of millions of lives."
+    }
+  ],
+  "story": "Scheele discovered chlorine in 1774 but died without recognition for it — largely because he failed to publish promptly and because his interpretation (using the phlogiston framework) obscured what he had found. This was a pattern in Scheele's career: he discovered oxygen before Priestley, chlorine before Davy, and manganese before Gahn, but received full credit for none of them. He was possibly the greatest experimental chemist of his century and one of the least celebrated. Chlorine's history also illustrates how the same chemical property — powerful oxidation — makes it simultaneously one of humanity's greatest public health tools (water disinfection) and one of its most horrifying weapons.",
+  "source_note": "Discovered by Scheele (1774). Named by Davy (1810) in his paper 'On a Combination of Oxymuriatic Gas and Oxygene Gas.' Published in Philosophical Transactions."
+}

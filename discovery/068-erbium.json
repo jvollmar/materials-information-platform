@@ -1,0 +1,36 @@
+{
+  "discovered": 1843,
+  "discoverer": "Carl Gustaf Mosander",
+  "country": "Sweden",
+  "named_by": "Carl Gustaf Mosander",
+  "named": 1843,
+  "etymology": "From Ytterby — the Swedish village that has given its name to four elements. Erbium takes the first two letters 'Er' from 'Ytterby,' following the same pattern as yttrium (Yt-) and terbium (Terb-). Ytterbium (Yb) completes the quartet of elements from this single quarry.",
+  "timeline": [
+    {
+      "year": 1843,
+      "event": "Carl Gustaf Mosander separates the original yttria from the Ytterby mineral into three fractions, which he names yttrium (colorless salts), terbium (yellow salts), and erbium (rose-colored salts). The rose color of erbium compounds is among the most beautiful of any element's compounds."
+    },
+    {
+      "year": 1843,
+      "event": "As with terbium, early confusion about which name belongs to which fraction causes decades of uncertainty in the literature. What Mosander originally labeled 'erbium' may have had the colors that should belong to terbium. The names were eventually re-assigned to match later purer separations."
+    },
+    {
+      "year": 1878,
+      "event": "Per Teodor Cleve separates holmium and thulium from erbium oxide — demonstrating that Mosander's 'erbium' was still a mixture. True erbium, fully separated, is a brighter, purer rose-pink than the earlier mixtures."
+    },
+    {
+      "year": 1934,
+      "event": "Wilhelm Klemm and Heinrich Bommer produce metallic erbium by reduction of erbium chloride with potassium — the first isolation of the pure metal, which proves to be silvery and workable."
+    },
+    {
+      "year": 1987,
+      "event": "Erbium-doped fiber amplifiers (EDFAs) are developed by David Payne at Southampton University and simultaneously by Emmanuel Desurvire at Bell Labs — erbium's 1550nm emission wavelength corresponds exactly to the minimum loss window of silica optical fiber. EDFAs allow optical signals to be amplified directly in the fiber without converting to electrical signals, enabling transcontinental and transoceanic fiber optic communications."
+    },
+    {
+      "year": 1990,
+      "event": "Commercial deployment of erbium-doped fiber amplifiers begins, enabling the first transoceanic fiber optic cable systems. The internet as we know it — where data crosses oceans in milliseconds — is made possible by erbium atoms exciting photons in the C-band optical window. Erbium arguably underlies more of modern telecommunications than any other single element."
+    }
+  ],
+  "story": "Erbium's story has a spectacular second act. For 140 years after Mosander's discovery it was a rare earth curiosity — difficult to separate, beautiful in color, without practical application. Then in 1987 researchers noticed that erbium atoms emit light at exactly 1550 nanometers — and this happens to be the wavelength at which silica glass optical fiber is most transparent. An erbium-doped fiber pumped with a laser amplifies passing 1550nm signals directly, eliminating the need for electronic repeaters every 80km in transoceanic cables. This discovery made modern global telecommunications economically viable. Every email, video call, and web page that crosses an ocean passes through erbium-doped optical fiber. The rose-colored element from a Swedish quarry carries the internet.",
+  "source_note": "Discovered by Mosander (1843) from yttria. Named from Ytterby ('Er-'). Refined by Cleve (1878). Metal by Klemm and Bommer (1934). EDFA by Payne and Desurvire (1987)."
+}

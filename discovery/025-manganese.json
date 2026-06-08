@@ -1,0 +1,44 @@
+{
+  "discovered": 1774,
+  "discoverer": "Johan Gottlieb Gahn",
+  "country": "Sweden",
+  "named_by": "Ignatius Gottfried Kaim",
+  "named": 1770,
+  "etymology": "From Magnesia, the Greek district (same root as magnesium and magnetite). The mineral pyrolusite (manganese dioxide) was found near Magnesia in ancient Greece, where it was used by glassmakers to decolorize glass. The name had been in use for the mineral long before the element was recognized.",
+  "timeline": [
+    {
+      "year": -300,
+      "event": "Ancient Egyptian and Roman glassmakers use pyrolusite (manganese dioxide, MnO₂) as a decolorizing agent — it oxidizes iron impurities that cause glass to appear green, producing clearer glass. The black mineral is called 'magnesia' after its source region in Greece."
+    },
+    {
+      "year": 1740,
+      "event": "The black ore pyrolusite begins to be studied chemically. Several chemists note it is distinct from iron and other known metals but cannot isolate the underlying element. Carl Wilhelm Scheele studies it extensively and correctly identifies it as containing a new element — but does not isolate the metal."
+    },
+    {
+      "year": 1770,
+      "event": "Ignatius Gottfried Kaim, a German chemist, proposes the name 'manganese' for the suspected new element in pyrolusite — adapting the mineral's traditional name. The name is accepted before the element itself is isolated, which is unusual in chemistry."
+    },
+    {
+      "year": 1774,
+      "event": "Johan Gottlieb Gahn, a Swedish chemist and mineralogist, heats a mixture of pyrolusite (MnO₂) with charcoal and oil, and obtains small metallic beads of manganese — the first isolation of the metal. Gahn works in the same circle as Scheele, who had prepared the oxide; the isolation of the metal is almost a joint achievement, though Gahn receives the credit."
+    },
+    {
+      "year": 1816,
+      "event": "It is discovered that adding manganese to steel prevents hot-shortness — the tendency of steel to crack when worked at high temperatures, which was caused by sulfur impurities. Manganese forms manganese sulfide instead, which is benign. This makes manganese indispensable to steelmaking."
+    },
+    {
+      "year": 1866,
+      "event": "Robert Mushet patents the addition of spiegeleisen (an iron-manganese-carbon alloy) to Bessemer steel to control the carbon and oxygen content — the first systematic use of manganese in steelmaking. Mushet's modification is essential to making Bessemer steel commercially reliable."
+    },
+    {
+      "year": 1882,
+      "event": "Sir Robert Hadfield discovers Hadfield steel — containing 13% manganese — and finds it to be extraordinarily hard and wear-resistant when work-hardened by impact. Hadfield steel becomes the material of choice for rock crusher jaws, railroad track switches, and military helmets."
+    },
+    {
+      "year": 1866,
+      "event": "Georges Leclanché invents the zinc-carbon battery using manganese dioxide as the cathode — the ancestor of every modern dry cell battery. The alkaline battery, AA, AAA, C, and D cells used worldwide still use manganese dioxide as the cathode material, making Leclanché's chemistry one of the most widely used in the world."
+    }
+  ],
+  "story": "Manganese has a history of being present in plain sight but overlooked. Ancient glassmakers used its ore for centuries without recognizing it as a distinct mineral containing a new element; it was named before it was isolated; and its discoverer Gahn is almost unknown despite the element's importance. Today, steel without manganese is essentially impossible — it is added to virtually every steel alloy to remove sulfur and control properties. The world's steelmakers consume over 90% of manganese production, making it one of the truly indispensable industrial metals. And Leclanché's battery — built around manganese dioxide — powers billions of devices worldwide.",
+  "source_note": "Named by Kaim (1770). Isolated as metal by Gahn (1774). Scheele contributed essential oxide preparation. Published in Bergman's Opuscula Physica et Chemica."
+}

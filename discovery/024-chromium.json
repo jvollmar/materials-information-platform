@@ -1,0 +1,44 @@
+{
+  "discovered": 1798,
+  "discoverer": "Louis-Nicolas Vauquelin",
+  "country": "France",
+  "named_by": "Louis-Nicolas Vauquelin",
+  "named": 1798,
+  "etymology": "Greek: chroma (color) — named for the extraordinary variety of brilliant colors that chromium compounds produce. Chromium compounds include vivid reds (chromium(III) oxide), greens (chrome green), yellows (lead chromate), and oranges — the entire color spectrum is represented among chromium's compounds.",
+  "timeline": [
+    {
+      "year": 1761,
+      "event": "Johann Gottlob Lehmann discovers a bright orange-red mineral in the Ural Mountains of Russia, which he calls 'Siberian red lead' (now known as crocoite, lead chromate PbCrO₄). Its brilliant color makes it prized as a pigment, but its elemental composition is unknown."
+    },
+    {
+      "year": 1770,
+      "event": "Peter Simon Pallas, a German naturalist working for the Russian Academy of Sciences, visits the Ural Mountains and collects more specimens of the red mineral. He notes its unusual color and sends samples to European chemists for analysis."
+    },
+    {
+      "year": 1797,
+      "event": "Louis-Nicolas Vauquelin receives a sample of Siberian red lead and begins systematic analysis. He treats it with hydrochloric acid and potassium carbonate, and obtains a residue he cannot identify as any known element. He notes the residue produces beautiful green and red colors when dissolved in various solutions."
+    },
+    {
+      "year": 1798,
+      "event": "Vauquelin formally identifies the new element in the red mineral, naming it chrome (chromium in English) from the Greek chroma (color) — reflecting the spectacular range of colors its compounds display. He also discovers that chromium is the coloring agent in emeralds (chromium(III) replacing aluminum in beryl) and rubies (chromium(III) in corundum)."
+    },
+    {
+      "year": 1798,
+      "event": "Vauquelin prepares small amounts of chromium metal by heating chromium oxide with carbon — the first isolation of metallic chromium. The metal is hard and brittle in this form."
+    },
+    {
+      "year": 1820,
+      "event": "Chrome yellow (lead chromate, PbCrO₄) becomes a widely used artist's pigment, adopted by Turner, Monet, and Van Gogh for its brilliant yellow color. Chrome green, chrome orange, and chrome red follow. Chromium transforms the palette of 19th-century painting."
+    },
+    {
+      "year": 1912,
+      "event": "Harry Brearley in Sheffield, England, discovers stainless steel while attempting to develop a steel resistant to erosion in rifle barrels. He finds that steel containing more than 10.5% chromium resists corrosion completely — the chromium forms a self-healing passive oxide layer. Stainless steel becomes one of the most important engineering materials of the 20th century."
+    },
+    {
+      "year": 1920,
+      "event": "Decorative chromium electroplating is developed and rapidly adopted for automobile trim, bathroom fixtures, and consumer goods. The bright, mirror-like chromium surface becomes synonymous with modernity and the machine age aesthetic of the 1920s-1950s."
+    }
+  ],
+  "story": "Chromium's discovery grew from one of the most beautiful minerals in the world — crocoite, a brilliant orange-red crystal from the Ural Mountains that looks almost otherworldly. Vauquelin's analysis of this mineral led him to an element whose compounds span essentially the entire visible spectrum — there is barely a color that some chromium compound does not produce. The element that makes rubies red and emeralds green also makes stainless steel corrosion-resistant and gives the chromium-plated bumpers of 1950s automobiles their mirror shine. No other element contributes more to the color of the world around us.",
+  "source_note": "Discovered by Vauquelin (1798) in Siberian red lead (crocoite). Published in Journal des Mines, 1798. Stainless steel discovered by Brearley (1912)."
+}

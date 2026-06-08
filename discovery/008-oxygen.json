@@ -1,0 +1,40 @@
+{
+  "discovered": 1774,
+  "discoverer": "Carl Wilhelm Scheele (1772, unpublished) / Joseph Priestley (1774, published first)",
+  "country": "Sweden / United Kingdom",
+  "named_by": "Antoine Lavoisier",
+  "named": 1777,
+  "etymology": "Greek: oxys (sharp, acid) + genes (forming) — 'acid-former,' because Lavoisier incorrectly believed oxygen was a component of all acids. He was wrong — hydrochloric acid contains no oxygen — but the name stuck.",
+  "timeline": [
+    {
+      "year": 1772,
+      "event": "Carl Wilhelm Scheele, a Swedish apothecary working in Köping, heats mercury oxide and other compounds and collects a gas he calls 'fire air' (eldluft) that causes candles to burn brilliantly and mice to survive longer. He correctly identifies its properties and realizes it is a distinct substance making up part of air. Scheele writes to Lavoisier but does not publish — a catastrophic delay that costs him priority credit."
+    },
+    {
+      "year": 1774,
+      "event": "Joseph Priestley, an English minister and amateur chemist, independently discovers the same gas on August 1, 1774, by focusing sunlight on mercuric oxide with a large burning lens. He collects the released gas and finds that a candle burns in it with a remarkably vigorous flame and a mouse lives much longer than in ordinary air. He calls it 'dephlogisticated air' within the prevailing phlogiston theory."
+    },
+    {
+      "year": 1774,
+      "event": "Priestley visits Paris in October and tells Lavoisier about his discovery over dinner. This conversation transforms Lavoisier's understanding of combustion and launches the Chemical Revolution. Scheele's earlier discovery goes largely unrecognized for decades because he published two years after Priestley."
+    },
+    {
+      "year": 1777,
+      "event": "Antoine Lavoisier names the element oxygène (oxygen) and explains combustion as a chemical reaction with oxygen rather than the release of phlogiston — overturning 100 years of chemical theory. His new framework of chemistry, built on oxygen, becomes the foundation of modern chemistry. Lavoisier's brilliant synthesis earns him the title 'father of modern chemistry.'"
+    },
+    {
+      "year": 1783,
+      "event": "Lavoisier demonstrates that water is composed of hydrogen and oxygen — showing that two 'elemental' substances (water and air) are in fact compounds. This revelation dismantles the ancient Greek four-element theory (earth, water, fire, air) that had dominated scientific thinking for two thousand years."
+    },
+    {
+      "year": 1794,
+      "event": "Antoine Lavoisier is guillotined during the Reign of Terror, despite pleas from the scientific community. The judge reportedly said 'the Republic has no need of scientists.' Mathematician Joseph-Louis Lagrange remarked: 'It took only a moment to cut off that head, but France may not produce another like it in a century.'"
+    },
+    {
+      "year": 1877,
+      "event": "Louis Paul Cailletet and Raoul Pictet independently liquefy oxygen for the first time, reaching temperatures near -183°C, opening the era of cryogenics and industrial gas separation."
+    }
+  ],
+  "story": "The discovery of oxygen is one of science's most contested priority disputes. Scheele discovered it first but published last; Priestley published first but understood it least; Lavoisier understood it best but discovered it not at all — yet received most of the credit. The irony is that Lavoisier's explanation of oxygen, though transformative, contained a fundamental error: he believed oxygen was in all acids, which is why he named it 'acid-former.' It isn't. Hydrochloric acid, for instance, contains none. The name immortalizes a mistake.",
+  "source_note": "Priority dispute: Scheele isolated oxygen in 1772 (unpublished until 1777); Priestley published in 1774. Named by Lavoisier (1777). Most histories credit Priestley with discovery due to publication priority."
+}

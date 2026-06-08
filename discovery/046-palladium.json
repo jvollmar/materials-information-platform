@@ -1,0 +1,40 @@
+{
+  "discovered": 1803,
+  "discoverer": "William Hyde Wollaston",
+  "country": "United Kingdom",
+  "named_by": "William Hyde Wollaston",
+  "named": 1803,
+  "etymology": "From Pallas — the asteroid Pallas, discovered in 1802, which was itself named after Pallas Athena, the Greek goddess of wisdom and crafts. Wollaston named palladium after the newly discovered asteroid, following a brief fashion in 1803 of naming scientific discoveries after celestial objects.",
+  "timeline": [
+    {
+      "year": 1802,
+      "event": "The asteroid Pallas is discovered by Heinrich Olbers on March 28, 1802, named after the goddess Pallas Athena. It is the second asteroid ever discovered, following Ceres (1801). The discovery of these new celestial bodies generates enormous public interest across Europe."
+    },
+    {
+      "year": 1803,
+      "event": "William Hyde Wollaston, processing crude platinum to develop his commercial refining process, isolates a new metal from the aqua regia solution. He notes it is more easily dissolved and has different properties from platinum. He names it palladium after the newly discovered asteroid Pallas."
+    },
+    {
+      "year": 1803,
+      "event": "Wollaston announces the discovery of palladium in an unusual way — he advertises it for sale anonymously in a London shop as 'new silver,' without revealing his identity as discoverer or explaining its origin. This anonymous commercial announcement is unprecedented in scientific history."
+    },
+    {
+      "year": 1803,
+      "event": "Richard Chenevix, an Irish chemist, purchases samples of the 'new silver,' analyzes them, and concludes they are merely platinum alloyed with mercury — a fraud. He publishes this claim in the Royal Society's Philosophical Transactions. Wollaston, still maintaining anonymity, says nothing. For two years palladium's existence as a genuine element is disputed."
+    },
+    {
+      "year": 1805,
+      "event": "Wollaston reveals himself as the discoverer of palladium and presents complete evidence to the Royal Society. Chenevix's fraud claim collapses. Wollaston's long silence during the controversy was a deliberate test — he wanted to see how thoroughly the element could be characterized before revealing his role."
+    },
+    {
+      "year": 1989,
+      "event": "Martin Fleischmann and Stanley Pons at the University of Utah announce 'cold fusion' — claiming that palladium electrodes absorbing deuterium produce anomalous heat through nuclear fusion. The announcement causes worldwide scientific sensation but cannot be replicated and is eventually rejected — though palladium's remarkable ability to absorb hydrogen (up to 900 times its own volume) remains scientifically fascinating."
+    },
+    {
+      "year": 2000,
+      "event": "Palladium exceeds the price of platinum for the first time in history due to supply constraints from Russian stockpile depletion and surging automotive catalyst demand. Palladium's role as the primary metal in gasoline catalytic converters — a use that consumes 80% of world supply — makes it acutely sensitive to automotive production cycles."
+    }
+  ],
+  "story": "Palladium's discovery and announcement were as eccentric as its discoverer. Wollaston — a fastidious, secretive, independently wealthy scientist — chose to introduce a new element to the world by selling it anonymously in a London curiosity shop. When a skeptic published a paper calling it a fraud, Wollaston stayed silent for two years rather than reveal himself and allow the scientific debate to play out. It is one of the strangest episodes in the history of element discovery. Today palladium's importance is entirely practical and urgent: as the primary metal in gasoline catalytic converters, its supply is controlled by a small number of mines in Russia and South Africa, and its price swings can be traced directly to geopolitical events.",
+  "source_note": "Discovered by Wollaston (1803). Named after asteroid Pallas. Dispute with Chenevix resolved 1805. Published in Philosophical Transactions, 1805."
+}

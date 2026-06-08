@@ -1,0 +1,40 @@
+{
+  "discovered": 1925,
+  "discoverer": "Ida Noddack, Walter Noddack & Otto Berg",
+  "country": "Germany",
+  "named_by": "Ida Noddack, Walter Noddack & Otto Berg",
+  "named": 1925,
+  "etymology": "From Rhenus — the Latin name for the Rhine River, which flows through Germany where the discovery was made. The Noddacks chose a geographical name honoring their homeland, following the well-established tradition in element naming. The Rhine is one of Europe's great rivers and a symbol of German culture and history.",
+  "timeline": [
+    {
+      "year": 1871,
+      "event": "Mendeleev predicts two missing elements — 'eka-manganese' (element 75) and 'dvi-manganese' (element 43, technetium). Both lie in the same period as manganese but heavier. The search for these two holes in the periodic table occupies chemists for decades."
+    },
+    {
+      "year": 1908,
+      "event": "Masataka Ogawa claims to discover element 75 in thorianite, naming it 'nipponium' — the claim is not confirmed. The true element 75 proves extraordinarily difficult to find because it occurs in concentrations of parts per billion in molybdenite ore."
+    },
+    {
+      "year": 1925,
+      "event": "Ida Noddack, Walter Noddack, and Otto Berg, using X-ray spectroscopy at the Physikalisch-Technische Reichsanstalt in Berlin, detect both element 75 and what they claim is element 43 in columbite, gadolinite, and molybdenite ores. Their element 75 claim proves correct; their element 43 claim is not reproducible."
+    },
+    {
+      "year": 1925,
+      "event": "The team names element 75 rhenium after the Rhine River and processes 660 kg of molybdenite to extract 1 gram of rhenium — demonstrating both the element's genuine existence and its extraordinary scarcity in nature."
+    },
+    {
+      "year": 1928,
+      "event": "Ida and Walter Noddack produce 1 gram of rhenium metal — at the time the world's entire purified supply — and characterize it as a dense, silvery metal with a very high melting point (3186°C). Rhenium becomes the last naturally occurring non-radioactive element to be discovered."
+    },
+    {
+      "year": 1939,
+      "event": "Ida Noddack, in a remarkable scientific paper often overlooked, suggests that when uranium is bombarded with neutrons it might split into large fragments rather than simply emitting alpha particles — anticipating nuclear fission nine years before Hahn, Strassmann, and Meitner's discovery. Her proposal is dismissed at the time."
+    },
+    {
+      "year": 1960,
+      "event": "Rhenium-platinum bimetallic catalysts are developed for catalytic reforming of naphtha — the process that converts crude naphtha to high-octane gasoline. The Pt-Re catalyst extends catalyst life dramatically and allows lower operating pressures, and it remains the dominant technology for gasoline production refineries to this day."
+    }
+  ],
+  "story": "Rhenium was the last naturally occurring non-radioactive element to be discovered — found in 1925 only because X-ray spectroscopy had finally given chemists a tool sensitive enough to detect it in vanishingly small concentrations. Ida Noddack, who was central to the discovery, also made a prescient suggestion about nuclear fission that the scientific community dismissed because it came from a woman without the institutional backing to press her case. Her prediction was essentially correct — she just lacked the experimental framework to prove it. Rhenium's modern importance — as the element that makes jet engine turbine blades withstand temperatures approaching their melting point — is invisible to the public but fundamental to modern aviation.",
+  "source_note": "Discovered by Ida Noddack, Walter Noddack, and Otto Berg (1925) using X-ray spectroscopy. Named after Rhine River (Rhenus). Published in Naturwissenschaften, 1925."
+}

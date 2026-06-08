@@ -1,0 +1,40 @@
+{
+  "discovered": -6000,
+  "discoverer": "Known since antiquity",
+  "country": "Global — multiple ancient civilizations",
+  "named_by": "Known since antiquity",
+  "named": -6000,
+  "etymology": "The English word 'gold' comes from the Proto-Germanic 'gulþą,' related to words meaning 'yellow' and 'to shine' across Indo-European languages. The chemical symbol Au comes from the Latin 'aurum,' which derives from 'Aurora' (the dawn goddess) — gold's gleaming, sunrise-like color connecting it to light and dawn in Roman thought. The same root gives us 'aureate' and 'aureola.'",
+  "timeline": [
+    {
+      "year": -6000,
+      "event": "Gold objects are among the earliest known metal artifacts — the Varna necropolis in Bulgaria (c. 4600-4200 BCE) contains the world's oldest confirmed gold jewelry, including diadems, bracelets, and scepters. Native gold — pure gold nuggets occurring naturally — was the first metal worked by humans in many regions because it requires no smelting."
+    },
+    {
+      "year": -3000,
+      "event": "Egyptian craftsmen develop sophisticated goldworking techniques — alloying gold with silver and copper, drawing it into wire, beating it into thin leaf, and casting complex shapes using lost-wax casting. The Egyptian state accumulates gold on a massive scale; Tutankhamun's tomb (c. 1323 BCE) contains over 100 kg of gold objects."
+    },
+    {
+      "year": -550,
+      "event": "Croesus, King of Lydia (modern Turkey), mints the first pure gold coins, standardizing their weight and fineness. The phrase 'rich as Croesus' enters language. Gold coins become the universal medium of international trade and state finance across the ancient Mediterranean world."
+    },
+    {
+      "year": -500,
+      "event": "Archimedes, according to legend, discovers the principle of displacement while investigating whether King Hiero II's crown is pure gold or adulterated with silver — jumping from his bath and running naked through the streets of Syracuse shouting 'Eureka!' The story illustrates gold's historical role as the standard of value requiring verification."
+    },
+    {
+      "year": 1789,
+      "event": "Lavoisier lists gold as one of the fundamental chemical elements — formalizing what every civilization had understood empirically for millennia."
+    },
+    {
+      "year": 1848,
+      "event": "Gold is discovered at Sutter's Mill in California on January 24, 1848 — the California Gold Rush begins. Within two years, California's population explodes from 14,000 to 100,000. The pattern repeats in Australia (1851), South Africa (1886), the Klondike (1896), and Alaska (1899), reshaping global demography and economics."
+    },
+    {
+      "year": 1971,
+      "event": "President Nixon ends the Bretton Woods system by suspending the US dollar's convertibility to gold — ending the gold standard that had underpinned global finance since 1944. For the first time in history, the world's major currencies float freely without gold backing. Gold transitions from monetary foundation to investment commodity."
+    }
+  ],
+  "story": "Gold is the element that most consistently captivated human civilization — the only metal that occurs widely in native form, that resists all corrosion, and that displays a color unlike any other natural substance. Every civilization that encountered gold valued it, worked it, and fought for it. Gold drove the Age of Exploration: Columbus's voyages were motivated substantially by the desire for gold; the conquest of the Americas destroyed civilizations for it; the Gold Rushes of the 19th century populated continents. Yet gold's practical utility is relatively modest — it conducts electricity well, is biocompatible, and is used in electronics and dentistry, but its dominance in human history derives entirely from its beauty, its rarity, and its permanence. Gold does not tarnish, rust, or change. It looks in the ground exactly as it looks in the crown.",
+  "source_note": "Known since at least 6000 BCE. Oldest confirmed gold artifacts: Varna necropolis, Bulgaria (~4600-4200 BCE). Recognized as chemical element by Lavoisier (1789). Symbol Au from Latin aurum."
+}

@@ -1,0 +1,44 @@
+{
+  "discovered": 1250,
+  "discoverer": "Albertus Magnus (probable)",
+  "country": "Germany (Holy Roman Empire)",
+  "named_by": "Known since antiquity (compound); Albertus Magnus (element)",
+  "named": 1250,
+  "etymology": "Greek and Latin: arsenikon / arsenicum — from the Greek 'arsenikon' (yellow orpiment, the mineral arsenic trisulfide As₂S₃), which itself may derive from the Persian 'zarnikh' (gold-colored) or from the Greek 'arsen' (male, potent) — reflecting the ancient belief that metals had gender. The name was applied first to the compound, then to the element.",
+  "timeline": [
+    {
+      "year": -2500,
+      "event": "Arsenic compounds have been used since ancient times. Orpiment (As₂S₃, yellow) and realgar (As₄S₄, red-orange) are used as pigments by ancient Egyptians, and arsenical bronze (copper alloyed with arsenic) predates tin bronze in some regions of the ancient world."
+    },
+    {
+      "year": 100,
+      "event": "Dioscorides, a Greek physician, describes arsenic sulfide compounds in his pharmacopoeia De Materia Medica. Arsenic compounds are used medicinally in the ancient world, though the distinction between therapeutic and lethal doses is not well understood."
+    },
+    {
+      "year": 1250,
+      "event": "Albertus Magnus, a German Dominican friar and one of the leading scholars of the medieval period, is credited with first obtaining elemental arsenic (as opposed to its compounds) by heating arsenious oxide with soap. He describes the resulting substance — a grey metallic material — making him likely the first to isolate an element in the Western tradition."
+    },
+    {
+      "year": 1649,
+      "event": "Johann Schröder publishes two methods for preparing arsenic metal: by heating arsenic trioxide with charcoal, and by heating it with potash and soap. These preparations make elemental arsenic more widely available for study."
+    },
+    {
+      "year": 1789,
+      "event": "Lavoisier recognizes arsenic as a chemical element in his Traité Élémentaire de Chimie, formally establishing its elemental status."
+    },
+    {
+      "year": 1836,
+      "event": "James Marsh develops the Marsh test — a highly sensitive method for detecting arsenic in biological samples by converting it to arsine gas (AsH₃) and burning it on a cold surface to leave a telltale metallic arsenic mirror. The test becomes invaluable in forensic toxicology and leads to several famous murder convictions."
+    },
+    {
+      "year": 1858,
+      "event": "The Bradford candy poisoning kills 20 people and sickens 200 more in England when a confectioner accidentally uses arsenic trioxide instead of plaster of Paris as an adulterant in peppermint lozenges. The disaster leads to the Pharmacy Act of 1868 and tighter controls on arsenic sales."
+    },
+    {
+      "year": 1909,
+      "event": "Paul Ehrlich discovers Salvarsan (arsphenamine, compound 606) — the first modern chemotherapeutic agent, used to treat syphilis. Ehrlich's systematic testing of 605 arsenic compounds before finding one that killed the syphilis bacterium without killing the patient established the concept of the 'magic bullet' in medicine and earned him the 1908 Nobel Prize."
+    }
+  ],
+  "story": "Arsenic has a darker history than almost any other element. For centuries it was the 'inheritance powder' — the preferred poison of those who wished to eliminate inconvenient relatives, since arsenious oxide is tasteless, odorless, and produces symptoms resembling gastroenteritis. The development of the Marsh test in 1836, which could detect arsenic in exhumed bodies, transformed forensic science and led to the conviction of numerous poisoners who had previously seemed safe. The element that killed Victorian aristocrats and Bradford candy shoppers also gave us Salvarsan — medicine's first antibiotic-like drug. Arsenic's dual nature as poison and medicine persists: arsenic trioxide is today an FDA-approved treatment for acute promyelocytic leukemia.",
+  "source_note": "Elemental arsenic first obtained by Albertus Magnus (~1250). Recognized as element by Lavoisier (1789). The Marsh test published by James Marsh, 1836."
+}

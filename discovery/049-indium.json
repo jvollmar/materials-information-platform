@@ -1,0 +1,40 @@
+{
+  "discovered": 1863,
+  "discoverer": "Ferdinand Reich & Hieronymous Theodor Richter",
+  "country": "Germany",
+  "named_by": "Ferdinand Reich & Hieronymous Theodor Richter",
+  "named": 1863,
+  "etymology": "Latin: indicum (indigo) — named for the brilliant indigo-blue spectral line by which it was discovered using spectroscopy. The same Latin root gives us the dye 'indigo.' Indium's discovery using spectroscopy followed a pattern established by cesium (1860) and rubidium (1861) of naming elements after the color of their characteristic spectral lines.",
+  "timeline": [
+    {
+      "year": 1861,
+      "event": "Bunsen and Kirchhoff's spectroscopic discoveries of cesium and rubidium inspire chemists across Europe to apply the new technique to their own materials. Many laboratories begin systematic spectroscopic surveys of minerals, ores, and mineral waters."
+    },
+    {
+      "year": 1863,
+      "event": "Ferdinand Reich, a professor of physics at the Freiberg School of Mines in Saxony, is investigating zinc ore residues using a spectroscope. He observes a brilliant indigo-blue line that matches no known element. Unfortunately, Reich is colorblind and cannot reliably interpret color-based spectral lines."
+    },
+    {
+      "year": 1863,
+      "event": "Reich asks his assistant Hieronymous Theodor Richter, who has normal color vision, to confirm the new spectral line. Richter verifies the indigo-blue emission and performs the chemical work to isolate the element. They announce the discovery together, naming it indium for the Latin indicum (indigo)."
+    },
+    {
+      "year": 1867,
+      "event": "A priority dispute erupts between Reich and Richter — Richter claims he made the actual isolation and should receive primary credit; Reich argues he made the initial spectroscopic observation. The dispute becomes bitter and reflects the general problem of collaborative discovery credit that pervades 19th-century science."
+    },
+    {
+      "year": 1924,
+      "event": "Indium's use as a coating for aircraft engine bearings is developed — its softness and corrosion resistance protect bearing surfaces from wear and corrosion, an application that persists in aviation to the present."
+    },
+    {
+      "year": 1992,
+      "event": "Indium tin oxide (ITO) becomes commercially essential as the transparent conducting coating on liquid crystal displays — indium becomes the material that makes every LCD screen touch-sensitive and transparent to light while conducting electricity. The smartphone boom of the 2000s makes indium a strategically critical material."
+    },
+    {
+      "year": 2009,
+      "event": "Supply concerns about indium — which occurs only as a trace impurity in zinc ores with no primary deposits — become acute as LCD screen demand surges. The element that was a laboratory curiosity in 1863 becomes the subject of resource security discussions at government levels worldwide."
+    }
+  ],
+  "story": "Indium's discovery contains one of science's more poignant ironies: the man who made the initial spectroscopic observation was colorblind — unable to see the brilliant indigo-blue line that identified the new element. Reich had to rely on his assistant Richter to confirm what his spectroscope was showing him. The subsequent priority dispute between them was unfortunate but all too common in an era before formal collaborative attribution norms. Indium's 20th century story is perhaps its most interesting: an element with no practical use for a century became essential to the LCD display industry in the 1990s, making every flat-panel screen on Earth dependent on this rare trace element extracted from zinc refinery residues.",
+  "source_note": "Discovered by Reich and Richter (1863) at Freiberg Mining Academy. Named from Latin indicum (indigo) for spectral line color. Published in Journal für praktische Chemie, 1863."
+}

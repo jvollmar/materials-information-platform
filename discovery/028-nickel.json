@@ -1,0 +1,44 @@
+{
+  "discovered": 1751,
+  "discoverer": "Axel Fredrik Cronstedt",
+  "country": "Sweden",
+  "named_by": "Axel Fredrik Cronstedt",
+  "named": 1751,
+  "etymology": "German: Kupfernickel (copper demon or Old Nick's copper) — the ore nickeline (nickel arsenide) was called Kupfernickel by German miners because it looked like copper ore but yielded no copper, frustrating miners who thought the devil (der Nickel, a nickname for the devil) was tricking them.",
+  "timeline": [
+    {
+      "year": 1600,
+      "event": "German and Saxon miners encounter a reddish-brown ore (nickeline, nickel arsenide NiAs) that closely resembles copper ore. They call it 'Kupfernickel' — copper-nickel or devil's copper — because despite its copper-like appearance, it yields no copper when smelted. The arsenic released during smelting also creates health hazards."
+    },
+    {
+      "year": 1751,
+      "event": "Axel Fredrik Cronstedt, a young Swedish mineralogist and chemist, carefully analyzes Kupfernickel ore from the Cancellation mine in Hälsingland, Sweden. He reduces the ore with carbon and obtains a new silvery metal with magnetic properties — clearly not copper. He names the new metal 'nickel' (shortened from Kupfernickel) and publishes the discovery."
+    },
+    {
+      "year": 1775,
+      "event": "Torbern Bergman challenges Cronstedt's claim, arguing that his 'nickel' was an impure form of iron and cobalt. The debate continues until Bergman himself, working with the pure metal, eventually confirms Cronstedt's discovery was correct — nickel is a genuine new element."
+    },
+    {
+      "year": 1804,
+      "event": "Jeremiah Richter produces nickel metal of sufficient purity to demonstrate its true properties: malleable, ductile, magnetic, and resistant to corrosion. These measurements finally settle the identity of nickel as a distinct element."
+    },
+    {
+      "year": 1857,
+      "event": "The largest known nickel deposit is discovered at Sudbury, Ontario, Canada — a massive geological structure created by a meteorite impact about 1.85 billion years ago. The Sudbury Basin becomes the world's most important nickel source and drives the development of nickel alloys and stainless steel."
+    },
+    {
+      "year": 1889,
+      "event": "James Riley discovers that adding nickel to steel dramatically improves its toughness, especially at low temperatures. Nickel steel becomes the material of choice for armor plate and structural steel, and nickel is recognized as a crucial alloying element."
+    },
+    {
+      "year": 1905,
+      "event": "The Mond process — in which nickel reacts with carbon monoxide to form gaseous nickel tetracarbonyl, which is then decomposed to yield pure nickel — is developed by Ludwig Mond and becomes the basis of industrial nickel refining, producing nickel of extraordinary purity."
+    },
+    {
+      "year": 2022,
+      "event": "Nickel's role in electric vehicle batteries (NMC and NCA cathodes contain 60–80% nickel) drives demand to new records. Indonesia — with the world's largest nickel reserves, largely in laterite ore deposits — becomes the dominant global supplier, reshaping the geopolitics of the EV supply chain."
+    }
+  ],
+  "story": "Nickel was discovered because a Swedish mineralogist refused to accept the standard explanation for a frustrating ore. Where German miners saw devil's tricks, Cronstedt saw an unknown element — and his systematic approach paid off. Nickel's initial reception was skeptical: Bergman, the leading Swedish chemist of the day, doubted Cronstedt's claim and spent years trying to disprove it. He failed, and had the integrity to admit he was wrong. Today nickel is the quiet workhorse of modern industry — it makes stainless steel corrosion-resistant, gives jet engine superalloys their high-temperature strength, and increasingly powers electric vehicles. The demon's copper turned out to be quite useful.",
+  "source_note": "Discovered by Cronstedt (1751), published in Kongliga Vetenskapsakademiens handlingar. Named from Kupfernickel. Confirmed as element by Bergman (1775)."
+}

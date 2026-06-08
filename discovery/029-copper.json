@@ -1,0 +1,44 @@
+{
+  "discovered": -8700,
+  "discoverer": "Known since antiquity",
+  "country": "Global — multiple ancient civilizations",
+  "named_by": "Known since antiquity",
+  "named": -8700,
+  "etymology": "The English word 'copper' comes from the Latin 'cuprum,' which derives from 'Kypros' — the Latin name for Cyprus, the Mediterranean island that was the primary source of copper for the Roman world. The chemical symbol Cu comes directly from cuprum.",
+  "timeline": [
+    {
+      "year": -8700,
+      "event": "The oldest known metal artifact is a copper pendant found in northern Iraq (modern Kurdistan), dated to approximately 8700 BCE. Native copper — copper occurring in pure metallic form, not as an ore — is found in parts of the world and would have been the first copper worked by humans, since it requires no smelting."
+    },
+    {
+      "year": -5000,
+      "event": "Copper smelting — the extraction of copper from malachite and azurite ores by heating with charcoal — is developed in the Middle East and southeastern Europe. This is one of humanity's first metallurgical achievements and marks the transition to the Chalcolithic (Copper Age)."
+    },
+    {
+      "year": -3300,
+      "event": "Ötzi the Iceman, whose naturally mummified body is found in the Alps in 1991, carries a copper axe with 99.7% purity when he dies around 3300 BCE — suggesting sophisticated copper refining technology in Copper Age Europe."
+    },
+    {
+      "year": -3000,
+      "event": "The Bronze Age begins as craftsmen in the Middle East discover that adding tin to copper produces bronze — an alloy significantly harder and more durable than either metal alone. Bronze transforms tools, weapons, and art across Eurasia and Africa, and the Bronze Age lasts for approximately 2,000 years."
+    },
+    {
+      "year": -1400,
+      "event": "Cyprus becomes the leading copper producer in the Mediterranean world, supplying copper to Egypt, Greece, and the Levant. The Romans call the metal 'aes Cyprium' (metal of Cyprus), later shortened to 'cuprum' — giving copper its chemical symbol Cu."
+    },
+    {
+      "year": 1789,
+      "event": "Lavoisier recognizes copper as one of the 33 fundamental chemical elements in his Traité Élémentaire de Chimie — formally establishing what metalworkers had known for 9,000 years: copper is elemental."
+    },
+    {
+      "year": 1879,
+      "event": "Thomas Edison uses copper wire to build his electrical distribution system for electric lighting — establishing copper as the universal conductor of electricity. The explosion of electrical infrastructure in the late 19th and 20th centuries makes copper the third most-consumed metal after iron and aluminum."
+    },
+    {
+      "year": 2007,
+      "event": "Intel introduces copper interconnects into computer chips at the 45nm node, replacing aluminum wiring — reducing electrical resistance and enabling faster, more energy-efficient transistors. At the atomic scale, copper's superior conductivity becomes critical to the continued advancement of computing."
+    }
+  ],
+  "story": "Copper's history is essentially the history of human technology. For 9,000 years, copper has been the metal civilization has reached for when it needed to conduct electricity, resist corrosion, make alloys, or transmit information. The Bronze Age was copper's first great era; the Electrical Age is its second. Today copper is the metal of the global electrical grid — every power station, every home, every electronic device depends on copper wire. The element found as a natural nugget by a Neolithic human in what is now Kurdistan has traveled through the Bronze Age, the Roman Empire, the Industrial Revolution, and now the digital age without ever losing its central importance to civilization.",
+  "source_note": "Oldest artifact ~8700 BCE (copper pendant, Shanidar, Iraq). Native copper worked from at least 9000 BCE. Smelting from ore from ~5000 BCE. Named cuprum from Cyprus."
+}

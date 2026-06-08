@@ -1,0 +1,40 @@
+{
+  "discovered": 1898,
+  "discoverer": "William Ramsay & Morris Travers",
+  "country": "United Kingdom",
+  "named_by": "William Ramsay & Morris Travers",
+  "named": 1898,
+  "etymology": "Greek: kryptos (hidden) — named because it was so difficult to find, hidden in the residue of liquid air after argon, neon, and xenon had been removed. The name also reflects its chemical inertness — krypton hides itself from chemical reactions.",
+  "timeline": [
+    {
+      "year": 1894,
+      "event": "Argon is discovered by Rayleigh and Ramsay. Its existence creates a new group in the periodic table and predicts that other chemically inert gases must exist. Ramsay begins a systematic search for the missing members of this new noble gas family."
+    },
+    {
+      "year": 1898,
+      "event": "Using the newly developed technology of air liquefaction, Ramsay and his assistant Morris Travers obtain large quantities of liquid air. They begin the patient work of fractional distillation — carefully evaporating the liquid air at precisely controlled temperatures to separate its components."
+    },
+    {
+      "year": 1898,
+      "event": "In late May 1898, Ramsay and Travers examine the first fractions evaporating from liquid argon — the most volatile portions — and discover neon. Days later they examine the least volatile fractions and find a much heavier gas: xenon. In between these two discoveries, they isolate the intermediate fraction — krypton."
+    },
+    {
+      "year": 1898,
+      "event": "Krypton is isolated on May 30, 1898 — wedged chronologically between neon (May 1898) and xenon (July 1898). When electric current is passed through the newly isolated gas, it glows with a greenish-yellow light. Ramsay and Travers name it 'krypton' from the Greek kryptos, hidden — reflecting how thoroughly it had concealed itself in air despite being present at 1 part per million."
+    },
+    {
+      "year": 1960,
+      "event": "The meter is redefined using krypton-86 spectroscopy — the orange-red emission line at 605.78nm of ⁸⁶Kr becomes the international standard for the meter from 1960 to 1983, when it is replaced by the definition based on the speed of light. For 23 years, krypton defines the fundamental unit of length."
+    },
+    {
+      "year": 1962,
+      "event": "Neil Bartlett at the University of British Columbia reacts xenon with platinum hexafluoride to form the first noble gas compound — XePtF₆. This triggers investigation of krypton: krypton difluoride (KrF₂) is synthesized in 1963, proving that even the 'inert' noble gases can form compounds under the right conditions."
+    },
+    {
+      "year": 1975,
+      "event": "Krypton fluoride (KrF) excimer laser operating at 248nm wavelength is developed and becomes a cornerstone of semiconductor photolithography — used to pattern integrated circuits on silicon wafers at resolutions that drove Moore's Law for decades."
+    }
+  ],
+  "story": "Krypton was discovered in an extraordinary scientific sprint in the summer of 1898. Ramsay and Travers isolated three noble gases — neon, krypton, and xenon — within a few weeks of each other, working essentially around the clock on liquid air fractionation. The productive partnership between the experienced Ramsay and the meticulous Travers produced results that would have been impossible for either alone. Travers later wrote a vivid account of these weeks — the excitement of watching new gases reveal themselves in the spectroscope, each with a unique and beautiful spectrum. Krypton's name was chosen to honor how well it had hidden for so long in plain air.",
+  "source_note": "Isolated by Ramsay and Travers, May 30, 1898. Published in Proceedings of the Royal Society, 1898. Ramsay awarded Nobel Prize in Chemistry 1904."
+}

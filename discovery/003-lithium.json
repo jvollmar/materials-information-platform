@@ -1,0 +1,48 @@
+{
+  "discovered": 1817,
+  "discoverer": "Johan August Arfwedson",
+  "country": "Sweden",
+  "named_by": "Jöns Jacob Berzelius",
+  "named": 1817,
+  "etymology": "Greek: lithos (stone) — named because it was discovered in a mineral (petalite) rather than in plant ash like sodium and potassium",
+  "timeline": [
+    {
+      "year": 1800,
+      "event": "Brazilian scientist José Bonifácio de Andrada e Silva discovers the mineral petalite (LiAlSi₄O₁₀) on the Swedish island of Utö while visiting Stockholm. He names it petalite from the Greek for leaf, noting its perfect cleavage. The mineral sits unanalyzed in collections for 17 years."
+    },
+    {
+      "year": 1817,
+      "event": "Johan August Arfwedson, a 24-year-old student working in Jöns Jacob Berzelius's Stockholm laboratory, is tasked with analyzing petalite. He finds it contains an unfamiliar alkali — the oxides don't add up to 100% with known elements. The unknown component behaves like sodium and potassium but produces salts with distinctly different properties. Arfwedson correctly deduces he has found a new element."
+    },
+    {
+      "year": 1817,
+      "event": "Berzelius names the new element lithium (from lithos, Greek for stone) to distinguish it from sodium and potassium, which were discovered in plant and wood ash. Arfwedson cannot isolate the pure metal — lithium's high reactivity defeats all his attempts at reduction."
+    },
+    {
+      "year": 1818,
+      "event": "Christian Gmelin observes that lithium salts color a flame crimson red — the characteristic flame test that becomes a quick analytical tool for lithium detection."
+    },
+    {
+      "year": 1821,
+      "event": "William Thomas Brande isolates tiny amounts of lithium metal by electrolysis of lithium oxide, following the method Humphry Davy used to isolate sodium and potassium. The amounts are too small to weigh or study properties."
+    },
+    {
+      "year": 1855,
+      "event": "Robert Bunsen and Augustus Matthiessen independently produce lithium metal in useful quantities by electrolyzing molten lithium chloride — the same method used commercially today. Bunsen's name on the work (and his famous burner) ensures the result is widely disseminated."
+    },
+    {
+      "year": 1923,
+      "event": "Metallgesellschaft AG in Germany begins commercial production of lithium metal by molten salt electrolysis — the first industrial lithium production, initially for use in greases and specialty alloys."
+    },
+    {
+      "year": 1949,
+      "event": "John Cade, an Australian psychiatrist, publishes his discovery that lithium carbonate dramatically stabilizes mood in patients with bipolar disorder — one of the most important psychiatric discoveries of the 20th century, transforming treatment of the condition."
+    },
+    {
+      "year": 1991,
+      "event": "Sony commercializes the lithium-ion rechargeable battery, based on research by John Goodenough, M. Stanley Whittingham, and Akira Yoshino (2019 Nobel Prize in Chemistry) — transforming portable electronics and setting the stage for lithium's 21st-century importance in electric vehicles."
+    }
+  ],
+  "story": "Arfwedson never got the glory he deserved. His mentor Berzelius named the element, presented the findings, and received most of the credit — a common injustice in 19th-century science, where laboratory directors routinely overshadowed their students. Arfwedson died at 41 and largely disappeared from popular history despite his genuine discovery. The element he found in a Swedish stone laboratory in 1817 now powers the phones in billions of pockets worldwide.",
+  "source_note": "Discovery attributed to Arfwedson per Berzelius's own published account in Annals of Philosophy, 1818."
+}

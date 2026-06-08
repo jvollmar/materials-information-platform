@@ -1,0 +1,40 @@
+{
+  "discovered": 1825,
+  "discoverer": "Antoine Jérôme Balard",
+  "country": "France",
+  "named_by": "Antoine Jérôme Balard",
+  "named": 1826,
+  "etymology": "Greek: bromos (stench) — named for its intensely unpleasant, suffocating odor. Bromine is the only non-metallic element that is liquid at room temperature, and its heavy, dark-brown liquid releases orange-brown vapors with a powerful irritating smell. The name was chosen to capture this dominant characteristic.",
+  "timeline": [
+    {
+      "year": 1825,
+      "event": "Antoine Jérôme Balard, a 23-year-old assistant apothecary and pharmacy student in Montpellier, France, is studying the residues from the evaporation of sea water and brine from salt marshes. He treats the residual brine with chlorine gas and obtains a dense, dark-orange liquid with a pungent odor. He initially suspects it might be a compound of chlorine and iodine."
+    },
+    {
+      "year": 1826,
+      "event": "Balard determines that the liquid is not a compound but a new element, which he names muride (from Latin muria, brine) in his initial proposal to the French Academy of Sciences. The Academy, finding the name unsatisfactory, renames it brome (bromine in English) from the Greek bromos (stench). The name captures the element's most immediate property."
+    },
+    {
+      "year": 1826,
+      "event": "Carl Löwig, a young German student, independently discovers bromine while analyzing the mineral springs of his hometown of Kreuznach. He shows his samples to his professor Leopold Gmelin but delays publication to collect more material — and Balard's paper appears first. Löwig had bromine simultaneously but loses priority."
+    },
+    {
+      "year": 1844,
+      "event": "The first industrial production of bromine is established by extraction from the brines of salt works in Germany, where bromine is a trace constituent of natural salt deposits. Initially used for medicinal preparations and early photography."
+    },
+    {
+      "year": 1851,
+      "event": "Frederick Scott Archer introduces the collodion wet plate photographic process, which uses potassium bromide as a key component. Silver bromide (AgBr) becomes the light-sensitive material in all photographic film and paper — a role it retains for over a century."
+    },
+    {
+      "year": 1921,
+      "event": "Ethylene dibromide (EDB) is introduced as an additive in leaded gasoline — it combines with lead combustion products to prevent lead deposits in engines. This application makes bromine one of the most heavily produced elements of the mid-20th century until leaded gasoline is phased out."
+    },
+    {
+      "year": 1935,
+      "event": "Dow Chemical begins producing bromine by electrolyzing sea water at Kure Beach, North Carolina — demonstrating that the ocean contains a commercially significant concentration of bromine (67 ppm). The ocean becomes the major bromine source, containing 100 trillion kilograms of dissolved bromine."
+    }
+  ],
+  "story": "Bromine's discovery is one of chemistry's great near-misses. Balard found it at 23 as a student, but Löwig had it simultaneously — and lost the race because he waited to collect more material before publishing. Balard's name became associated with bromine discovery, while Löwig is largely forgotten. When Balard presented his discovery to the French Academy of Sciences, the great chemist Justus von Liebig reportedly examined the evidence and remarked that he himself had earlier obtained the same liquid but dismissed it as a chlorine compound without further investigation — another scientist who had been within reach of bromine and let it slip. Bromine is one of only two elements that are liquid at room temperature (mercury is the other), a distinction that makes it immediately recognizable among the elements.",
+  "source_note": "Discovered by Balard (1825, Montpellier). Published in Annales de Chimie et de Physique (1826). Independent discovery by Löwig (1825-1826, Germany)."
+}

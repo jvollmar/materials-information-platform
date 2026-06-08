@@ -1,0 +1,44 @@
+{
+  "discovered": 1886,
+  "discoverer": "Henri Moissan",
+  "country": "France",
+  "named_by": "André-Marie Ampère",
+  "named": 1813,
+  "etymology": "Latin: fluere (to flow) — named after fluorspar (calcium fluoride, CaF₂), a mineral used as a flux in metal smelting since the 16th century. The mineral was called fluorspar because it helped metals flow more easily when melted.",
+  "timeline": [
+    {
+      "year": 1529,
+      "event": "Georgius Agricola describes fluorspar (calcium fluoride) as a useful flux in metal smelting in his mining treatise. The mineral has been used for centuries without any knowledge of fluorine. The name fluorspar comes from the Latin fluere, to flow, because it lowers the melting point of metal ores."
+    },
+    {
+      "year": 1670,
+      "event": "Glassworker Heinrich Schwanhard discovers that fluorspar treated with acid produces a substance that etches glass — the first observation of hydrofluoric acid (HF). Glassmakers use this for decorative etching for centuries without understanding the chemistry."
+    },
+    {
+      "year": 1771,
+      "event": "Carl Wilhelm Scheele prepares hydrofluoric acid by heating fluorspar with sulfuric acid, severely burning himself in the process. He correctly identifies it as a new acid but does not isolate the element. HF's extraordinary corrosiveness — it dissolves glass and attacks bone — makes fluorine uniquely dangerous to work with."
+    },
+    {
+      "year": 1813,
+      "event": "André-Marie Ampère (better known for his work on electromagnetism) proposes that hydrofluoric acid contains an unknown element analogous to chlorine, and suggests the name fluorine. This is a theoretical prediction — the element has never been isolated."
+    },
+    {
+      "year": 1813,
+      "event": "Humphry Davy attempts to isolate fluorine by electrolysis of hydrofluoric acid, as he had successfully isolated sodium and potassium. He fails, is badly poisoned, and is temporarily blinded. He correctly concludes a new element exists but cannot isolate it."
+    },
+    {
+      "year": 1836,
+      "event": "Irish chemists Thomas and George Knox attempt to isolate fluorine. Thomas Knox is severely injured and George Knox nearly dies from poisoning. The quest for fluorine becomes known in chemistry as particularly dangerous — two chemists die in separate attempts during the 19th century, several others are permanently injured."
+    },
+    {
+      "year": 1886,
+      "event": "Henri Moissan finally isolates fluorine on June 26, 1886, after years of failed attempts. He electrolyzes liquid anhydrous hydrogen fluoride (cooled to -23°C) using platinum-iridium electrodes in a platinum apparatus sealed with fluorspar stoppers — the only materials resistant enough to contain the product. The pale yellow gas he collects is the most reactive element known. Moissan receives the 1906 Nobel Prize in Chemistry."
+    },
+    {
+      "year": 1938,
+      "event": "Roy Plunkett at DuPont accidentally discovers polytetrafluoroethylene (PTFE, Teflon) when a container of tetrafluoroethylene gas produces a white waxy solid — the most chemically inert polymer known, a direct consequence of fluorine's extraordinary reactivity creating uniquely stable C-F bonds."
+    }
+  ],
+  "story": "Fluorine has the distinction of being the most dangerous element to discover in the history of chemistry. The list of casualties in the 70-year quest to isolate it reads like a war memorial: two dead, many permanently injured, Davy temporarily blinded, Moissan himself suffering repeated poisoning during his successful experiments. The reason is that fluorine is the most electronegative and reactive of all elements — it attacks virtually everything, including glass, most metals, and human tissue. Moissan reportedly said that fluorine had cost him ten years of his life. He died at 54, the year after receiving his Nobel Prize.",
+  "source_note": "Named by Ampère (1813). Isolated by Moissan (1886), confirmed by the French Academy of Sciences June 28, 1886. Moissan awarded Nobel Prize in Chemistry 1906."
+}

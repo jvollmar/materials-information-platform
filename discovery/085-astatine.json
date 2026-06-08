@@ -1,0 +1,40 @@
+{
+  "discovered": 1940,
+  "discoverer": "Dale Corson, Kenneth MacKenzie & Emilio Segrè",
+  "country": "USA (University of California, Berkeley)",
+  "named_by": "Dale Corson, Kenneth MacKenzie & Emilio Segrè",
+  "named": 1940,
+  "etymology": "Greek: astatos (unstable, unsteady) — named for its extreme radioactive instability. Every isotope of astatine is radioactive with a short half-life, the longest being astatine-210 at just 8.1 hours. The name directly acknowledges the defining physical characteristic of this elusive element.",
+  "timeline": [
+    {
+      "year": 1869,
+      "event": "Mendeleev's periodic table predicts an element below iodine in the halogen group — 'eka-iodine' — with properties analogous to iodine but heavier and more metallic. The element proves impossible to find in nature for 70 years, partly because all its isotopes are extremely short-lived."
+    },
+    {
+      "year": 1931,
+      "event": "Fred Allison at Auburn University claims to discover element 85 in minerals using a technique called magneto-optic detection, naming it 'alabamine.' His claim is subsequently shown to be erroneous — the technique was unreliable. No element 85 has yet been genuinely found."
+    },
+    {
+      "year": 1940,
+      "event": "Dale Corson, Kenneth MacKenzie, and Emilio Segrè at the University of California Berkeley produce astatine-211 by bombarding bismuth-209 with alpha particles (helium-4 nuclei) in the 60-inch cyclotron. They detect the short-lived product by its radioactive properties and correctly identify it as the missing halogen, element 85."
+    },
+    {
+      "year": 1940,
+      "event": "The team names it astatine from the Greek astatos (unstable) — acknowledging from the outset that this element will never be bottled or held in hand. They observe only minute quantities, identified entirely by their radioactive emissions. The element has essentially no natural occurrence on Earth — less than 30 grams total at any given time."
+    },
+    {
+      "year": 1943,
+      "event": "Segrè and others confirm astatine's chemical behavior by study at the tracer level — it behaves as a heavy halogen, analogous to iodine but with more metallic character, consistent with periodic trends."
+    },
+    {
+      "year": 2010,
+      "event": "Astatine-211 emerges as a promising radioisotope for targeted alpha therapy (TAT) in cancer treatment — its 7.2-hour half-life and alpha emission characteristics make it potentially effective for targeted destruction of cancer cells. Clinical trials of At-211 labeled compounds begin at multiple centers."
+    },
+    {
+      "year": 2023,
+      "event": "Astatine-211 production infrastructure is developed at a small number of specialized cyclotron facilities in the US, Europe, and Japan — recognizing that the 7.2-hour half-life means production and clinical use must occur within ~500 km of each other, making global distribution impossible."
+    }
+  ],
+  "story": "Astatine is the rarest naturally occurring element — less than 30 grams exist in Earth's entire crust at any given moment, continuously produced and continuously decaying in the uranium and thorium decay chains. Any primordial astatine has decayed billions of times over. When Corson, MacKenzie, and Segrè made it artificially in 1940 they were working with quantities measurable only by Geiger counter, not by balance. The element that doesn't exist in nature, named for instability, may yet become a cancer treatment: at-211's alpha emission, if delivered directly to a tumor cell by a targeting molecule, could kill the cell with extraordinary precision. The rarest substance on Earth, produced in particle accelerators, may become a medical tool for the most common diseases.",
+  "source_note": "Produced and identified by Corson, MacKenzie, and Segrè (1940) at Berkeley. Named from Greek astatos (unstable). Published in Physical Review, 1940."
+}

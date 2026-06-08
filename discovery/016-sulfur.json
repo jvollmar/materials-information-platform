@@ -1,0 +1,44 @@
+{
+  "discovered": -2000,
+  "discoverer": "Known since antiquity",
+  "country": "Global — no single discoverer",
+  "named_by": "Antoine Lavoisier",
+  "named": 1789,
+  "etymology": "The name 'sulfur' comes from the Latin 'sulphur,' which may derive from Sanskrit 'sulvere' or from a pre-Latin Italic root. It was recognized as an element by Lavoisier in 1789. The British spelling 'sulphur' was officially changed to 'sulfur' by IUPAC in 1990, though 'sulphur' remains common in British usage.",
+  "timeline": [
+    {
+      "year": -2000,
+      "event": "Sulfur is one of the few elements known since prehistoric times. It occurs naturally near volcanic vents and hot springs as pure yellow crystals — one of the very few elements found in pure elemental form in nature. Ancient civilizations use it for fumigation, bleaching textiles, making fire, and religious ritual. Homer refers to 'pest-averting sulphur' in the Odyssey."
+    },
+    {
+      "year": -800,
+      "event": "Ancient Egyptians bleach linen with sulfur dioxide fumes and use sulfur in cosmetics. The association of sulfur with fire, volcanic vents, and the underworld gives it a prominent place in mythology — the 'brimstone' of biblical texts is sulfur, and hell is described as smelling of it."
+    },
+    {
+      "year": 850,
+      "event": "Chinese alchemists combine sulfur, charcoal, and potassium nitrate (saltpeter) and discover gunpowder — arguably the most historically consequential chemical discovery of the pre-modern era. The formula is refined over centuries and eventually transforms warfare globally."
+    },
+    {
+      "year": 1777,
+      "event": "Antoine Lavoisier demonstrates that sulfur is an element — not a compound — by showing it cannot be broken down into simpler substances. He challenges the prevailing phlogiston theory by showing that when sulfur burns, it gains weight by combining with oxygen, rather than losing phlogiston."
+    },
+    {
+      "year": 1789,
+      "event": "Lavoisier includes sulfur in his list of 33 chemical elements in his Traité Élémentaire de Chimie, establishing it as a fundamental substance. This recognition marks the transition from the ancient view of sulfur as a mystical substance to its modern chemical identity."
+    },
+    {
+      "year": 1839,
+      "event": "Charles Goodyear accidentally discovers vulcanization when he drops a mixture of rubber and sulfur onto a hot stove. The heat produces a stable, elastic rubber compound that doesn't melt in summer heat or crack in winter cold — transforming rubber from a curiosity into an industrial material and making the automobile tire possible."
+    },
+    {
+      "year": 1867,
+      "event": "Herman Frasch develops the Frasch process for mining underground sulfur deposits by pumping superheated water down to melt the sulfur and then pumping it to the surface — enabling economic exploitation of massive Louisiana and Texas sulfur deposits and making the United States the world's dominant sulfur supplier."
+    },
+    {
+      "year": 1920,
+      "event": "The modern era of sulfur production is dominated by recovery from petroleum refining — hydrodesulfurization of crude oil produces enormous quantities of hydrogen sulfide gas, which is converted to elemental sulfur by the Claus process. This byproduct sulfur now supplies most of the world's sulfuric acid and fertilizer industries."
+    }
+  ],
+  "story": "Sulfur has been part of human experience for as long as recorded history — its yellow crystals appearing mysteriously around volcanoes, its toxic fumes killing plants and animals, its flames burning blue and producing choking dioxide. The ancients called it brimstone and associated it with divine punishment and the underworld. Yet this same element is essential to every protein in your body (the amino acids methionine and cysteine contain sulfur), drives the global agricultural system through sulfuric acid and fertilizers, and enabled vulcanized rubber and thus the tire. Few elements span such extremes from the sacred and feared to the utterly commonplace.",
+  "source_note": "Known since antiquity. Recognized as an element by Lavoisier (1789). Named from Latin 'sulphur'; IUPAC standardized spelling to 'sulfur' in 1990."
+}

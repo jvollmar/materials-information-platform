@@ -1,0 +1,40 @@
+{
+  "discovered": 1782,
+  "discoverer": "Franz-Joseph Müller von Reichenstein",
+  "country": "Austria (Transylvania, now Romania)",
+  "named_by": "Martin Heinrich Klaproth",
+  "named": 1798,
+  "etymology": "Latin: tellus (Earth) — named by Klaproth as a companion to the later-discovered selenium, which was named for the Moon. The terrestrial name reflects tellurium's discovery in earthly minerals rather than in solar spectra. It is one of the few elements named after a planet (Earth).",
+  "timeline": [
+    {
+      "year": 1782,
+      "event": "Franz-Joseph Müller von Reichenstein, a mining official in Transylvania (then part of Austria, now Romania), is analyzing a gold ore from the mines of Zlatna. He finds a silver-white metallic mineral he cannot identify — it has properties unlike bismuth, antimony, or any known metal. After three years of investigation, he concludes it contains a new element, which he tentatively calls 'metallum problematicum' or 'aurum paradoxum.'"
+    },
+    {
+      "year": 1783,
+      "event": "Müller sends samples to Torbern Bergman in Sweden — the leading analytical chemist of the era — who examines them but dies before completing his analysis. The new element remains unconfirmed for years."
+    },
+    {
+      "year": 1796,
+      "event": "Hungarian scientist Pál Kitaibel independently discovers tellurium in a similar ore from a mine in Transylvania — unaware of Müller's earlier work. When the overlap becomes apparent, Müller is given priority."
+    },
+    {
+      "year": 1798,
+      "event": "Martin Heinrich Klaproth receives a sample from Müller and confirms the new element definitively using the more advanced techniques available by that date. He names it tellurium from the Latin tellus (Earth) — pairing it with the later-discovered selenium (Moon) in an elegant mythological symmetry."
+    },
+    {
+      "year": 1832,
+      "event": "Jöns Jacob Berzelius attempts to determine whether tellurium is truly elemental or a compound. His investigations confirm it is an element and provide the first accurate atomic weight."
+    },
+    {
+      "year": 1960,
+      "event": "Bismuth telluride (Bi₂Te₃) becomes established as the dominant thermoelectric material for solid-state Peltier cooling and waste-heat electricity generation — tellurium becomes essential to every thermoelectric cooler for electronics, beverages, and medical instruments."
+    },
+    {
+      "year": 2009,
+      "event": "First Solar's cadmium telluride (CdTe) thin-film solar panels achieve commercial scale production, making tellurium one of the most strategically important trace elements in renewable energy. The paradox: tellurium is rarer than gold in Earth's crust, yet it underlies a mass-market energy technology."
+    }
+  ],
+  "story": "Tellurium was discovered in the gold mines of Transylvania — the same region famous for Vlad the Impaler and the Dracula legends. Müller's discovery languished for 16 years before Klaproth confirmed it and provided a name. The naming pairing with selenium — Earth and Moon — is one of chemistry's most elegant symmetries, achieved by different chemists decades apart but recognized as a natural pair when selenium was found. Tellurium's modern story is one of supply constraint: it occurs in such tiny concentrations (1 part per billion in Earth's crust) that global production is measured in hundreds of tonnes per year — yet the CdTe solar industry needs it in quantity. It is perhaps the element where supply scarcity most directly threatens a renewable energy technology.",
+  "source_note": "Discovered by Müller (1782-1785) in Transylvania. Confirmed and named by Klaproth (1798). Named from Latin tellus (Earth). Independent discovery by Kitaibel (1796)."
+}

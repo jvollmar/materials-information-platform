@@ -1,0 +1,36 @@
+{
+  "discovered": 1880,
+  "discoverer": "Jean Charles Galissard de Marignac",
+  "country": "Switzerland",
+  "named_by": "Paul Émile Lecoq de Boisbaudran",
+  "named": 1886,
+  "etymology": "From gadolinite — the mineral in which it was found, named in honor of Johan Gadolin, the Finnish chemist who first identified yttria (containing yttrium and other rare earths) from the Ytterby mineral in 1794. Gadolinium is thus named after a mineral named after a person — Gadolin — making it an indirect tribute to one of rare earth chemistry's founding figures.",
+  "timeline": [
+    {
+      "year": 1794,
+      "event": "Johan Gadolin analyzes the black mineral from Ytterby, Sweden, and identifies a new oxide (yttria). The mineral is later named gadolinite in his honor, creating the chain of names that eventually reaches gadolinium."
+    },
+    {
+      "year": 1880,
+      "event": "Jean Charles Galissard de Marignac, a Swiss chemist in Geneva who had earlier discovered ytterbium, analyzes didymium and gadolinite samples using spectroscopy. He finds spectral lines he cannot attribute to any known element, and obtains a fraction with distinct properties that he believes represents a new element. He calls it 'Yα' — a provisional designation."
+    },
+    {
+      "year": 1886,
+      "event": "Paul Émile Lecoq de Boisbaudran independently isolates the same new element more completely, using improved separation methods. He names it gadolinium in honor of gadolinite (and thus of Johan Gadolin) — acknowledging Marignac's prior observation while providing the formal chemical characterization. Both men are credited as co-discoverers."
+    },
+    {
+      "year": 1935,
+      "event": "Gadolinium's extraordinary magnetic properties are measured — it has the highest room-temperature magnetic moment of any element and undergoes a transition to ferromagnetic ordering at its Curie point (20°C, just below room temperature). This makes gadolinium interesting for fundamental magnetism research."
+    },
+    {
+      "year": 1988,
+      "event": "Gadolinium-based contrast agents (GBCA) for MRI (magnetic resonance imaging) are approved and adopted worldwide — gadolinium's paramagnetic properties cause dramatic shortening of the T1 relaxation time in nearby protons, brightening specific tissues in MRI scans. GBCAs transform the diagnostic capability of MRI for cancer, neurological disease, and vascular imaging."
+    },
+    {
+      "year": 2006,
+      "event": "Concerns about nephrogenic systemic fibrosis (NSF) — a rare but serious disease caused by gadolinium deposition in patients with severely impaired kidney function — lead to new restrictions on gadolinium contrast agents and intensive research into more stable chelate formulations."
+    }
+  ],
+  "story": "Gadolinium's naming is a tribute within a tribute: the element is named after a mineral named after a scientist — a Russian-doll homage to Johan Gadolin, who started the lanthanide story in 1794. Gadolinium's MRI contrast agent application has arguably saved more lives than any other lanthanide element. The ability to inject gadolinium and light up tumors, blood vessels, and inflammatory tissue in MRI scanners has been transformative in oncology and neurology — allowing early detection of cancers, strokes, and multiple sclerosis lesions that would previously have been missed until much later stages. The element that hid in a Finnish mineralogist's ore samples for 86 years now illuminates disease in hundreds of millions of patients.",
+  "source_note": "First observed by Marignac (1880) in Geneva. Formally isolated and named gadolinium by Lecoq de Boisbaudran (1886). Named for gadolinite (named for Johan Gadolin)."
+}

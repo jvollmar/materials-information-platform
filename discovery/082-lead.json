@@ -1,0 +1,40 @@
+{
+  "discovered": -7000,
+  "discoverer": "Known since antiquity",
+  "country": "Global — Middle East, Mediterranean civilizations",
+  "named_by": "Known since antiquity",
+  "named": -7000,
+  "etymology": "The English word 'lead' comes from the Proto-Germanic 'lauda,' of uncertain further origin — possibly from Celtic languages. The chemical symbol Pb comes from the Latin 'plumbum,' which gives us 'plumber' (one who works with lead pipes), 'plumb' (a lead weight on a string used to find vertical), and 'plumb line.' The word plumbum itself may derive from the Greek 'molybdos' (lead) via an ancient Mediterranean root.",
+  "timeline": [
+    {
+      "year": -7000,
+      "event": "Lead beads found at Çatalhöyük in Anatolia (modern Turkey) date to approximately 7000-6500 BCE — among the world's oldest known metal artifacts. Native lead and easily smelted galena (lead sulfide) make lead one of the first metals worked by humans."
+    },
+    {
+      "year": -3800,
+      "event": "Lead smelting from galena is practiced in southeastern Europe, the Middle East, and the Aegean world. Lead's low melting point (327°C), malleability, and corrosion resistance make it practical for pipes, weights, seals, and small objects. The Romans extend lead use to an extraordinary scale."
+    },
+    {
+      "year": -200,
+      "event": "Rome's water distribution system — the most sophisticated water delivery infrastructure in the ancient world — uses thousands of miles of lead pipes. The Roman word for plumber, 'plumbarius,' gives us 'plumber.' Lead's taste may have contributed to the Romans' fondness for 'sapa' — grape juice reduced in lead vessels to form a sweet syrup. Some historians link lead poisoning to Roman social decline, though this remains debated."
+    },
+    {
+      "year": 1620,
+      "event": "Johann Rudolf Glauber discovers that lead can be used as a paint pigment (white lead, lead carbonate). Lead white becomes the most important white pigment in Western painting for centuries — prized for its opacity, workability, and fast drying. Every major painting from the Renaissance through the 19th century contains lead white in its light areas."
+    },
+    {
+      "year": 1786,
+      "event": "Benjamin Franklin writes a prescient letter warning about the dangers of lead poisoning from lead pipes, lead solders in rum stills, and lead-contaminated food and drink — one of the earliest scientific warnings about environmental lead contamination, largely unheeded."
+    },
+    {
+      "year": 1921,
+      "event": "Thomas Midgley Jr. at General Motors discovers that tetraethyllead (TEL) prevents engine knock in gasoline. Despite concerns from Midgley's own colleagues and public health researchers, TEL becomes standard in gasoline worldwide. Its use continues for 60 years before being phased out, resulting in one of the largest episodes of environmental lead contamination in human history."
+    },
+    {
+      "year": 1970,
+      "event": "Herbert Needleman begins studies linking childhood blood lead levels to cognitive development — his research eventually demonstrates that even low levels of lead exposure measurably reduce IQ and increase behavioral problems. The results drive the phase-out of leaded gasoline, lead paint, and lead solder in consumer products across the developed world."
+    }
+  ],
+  "story": "Lead's history is perhaps the longest cautionary tale in the history of chemistry. For 9,000 years, humans used lead for pipes, vessels, paint, food additives, gasoline, and solder — drawn by its extraordinary malleability, low melting point, and corrosion resistance. And for 9,000 years, lead silently poisoned those who used it. The Romans may have poisoned their aristocracy with lead-sweetened wine; painters were poisoned by lead white; 20th-century children lost IQ points to leaded gasoline exhaust. Thomas Midgley, who invented both tetraethyllead and CFCs (the ozone-destroying refrigerant), has been called the individual who caused more environmental damage than any other in history — both were profitable and both were catastrophic. The phase-out of lead from everyday use is one of environmental medicine's greatest achievements.",
+  "source_note": "Known since ~7000 BCE. Lead beads at Çatalhöyük (~6500 BCE). Recognized as chemical element by Lavoisier (1789). Symbol Pb from Latin plumbum."
+}

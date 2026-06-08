@@ -1,0 +1,40 @@
+{
+  "discovered": 1901,
+  "discoverer": "Eugène-Anatole Demarçay",
+  "country": "France",
+  "named_by": "Eugène-Anatole Demarçay",
+  "named": 1901,
+  "etymology": "From Europe — the continent. Demarçay chose a simple geographic name, following the established tradition of naming elements after places. Europium was discovered in Paris and named for the continent in which it was found, making it one of the few elements named for an entire continent.",
+  "timeline": [
+    {
+      "year": 1890,
+      "event": "William Crookes, using a spectroscope, observes anomalous lines in 'samarium' preparations that he cannot attribute to samarium — suggesting an impurity or additional element. He cannot isolate what produces these lines."
+    },
+    {
+      "year": 1896,
+      "event": "Lecoq de Boisbaudran (who discovered samarium and gallium) also observes strange spectral bands in samarium and notes they might indicate a new element, but does not isolate it."
+    },
+    {
+      "year": 1901,
+      "event": "Eugène-Anatole Demarçay, a French chemist who had earlier helped confirm the purity of Marie Curie's newly discovered radium using spectroscopic analysis, applies his exceptional spectroscopic skills to samarium preparations. He separates a new element by repeated fractional crystallization and identifies it by its unique spectral signature."
+    },
+    {
+      "year": 1901,
+      "event": "Demarçay names the new element europium after Europe and presents his findings to the French Academy of Sciences. Like many rare earth discoveries, the separation required extraordinary patience — performing hundreds of crystallizations to concentrate the new element."
+    },
+    {
+      "year": 1906,
+      "event": "Georges Urbain confirms Demarçay's discovery and provides the first accurate determination of europium's atomic weight. Demarçay had been losing his eyesight during the years of his europium work — by the time the discovery was confirmed, he was nearly blind."
+    },
+    {
+      "year": 1960,
+      "event": "Europium becomes essential to color television — red phosphors in color CRT televisions are based on europium-activated yttrium oxide (Y₂O₃:Eu³⁺) and yttrium vanadate (YVO₄:Eu³⁺). The brilliant red that made color TV vivid was europium's work. Without it, color television would have been significantly dimmer and less saturated."
+    },
+    {
+      "year": 2000,
+      "event": "Europium transitions from CRT to LED and fluorescent lamp applications. Europium-doped phosphors remain essential in fluorescent lighting and in the white LEDs that are replacing all other forms of artificial lighting — the precise color of the light from an LED bulb is tuned using europium and other rare earth phosphors."
+    }
+  ],
+  "story": "Demarçay discovered europium while going blind. He spent years performing the painstaking fractional crystallizations required to separate lanthanide elements from each other, all while his eyesight deteriorated — yet his spectroscopic identifications were precise and his work was meticulous. He died in 1904, just three years after his discovery, having also played a crucial role in confirming the purity of Marie Curie's radium. Europium's contribution to everyday life is its role in color — the brilliant reds of color television, the warm whites of fluorescent lamps, the carefully calibrated colors of LED lighting. The element of a continent colors the light in a billion homes.",
+  "source_note": "Discovered by Demarçay (1901) in Paris, from samarium preparations. Named after Europe. Published in Comptes Rendus de l'Académie des Sciences, 1901. Confirmed by Urbain (1906)."
+}

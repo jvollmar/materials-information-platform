@@ -1,0 +1,40 @@
+{
+  "discovered": 1878,
+  "discoverer": "Per Teodor Cleve / Marc Delafontaine & Louis Soret (independently)",
+  "country": "Sweden / Switzerland",
+  "named_by": "Per Teodor Cleve",
+  "named": 1879,
+  "etymology": "From Holmia — the Latin name for Stockholm, the capital of Sweden. Per Teodor Cleve, a Swedish chemist at Uppsala University, named it after his country's capital city, following the tradition of naming elements after the discoverer's homeland.",
+  "timeline": [
+    {
+      "year": 1878,
+      "event": "Marc Delafontaine and Louis Soret, working in Geneva, apply spectroscopic analysis to erbium oxide and detect anomalous absorption bands that do not belong to erbium. They provisionally call the supposed new element 'X' and publish their spectroscopic observations without isolating the element chemically."
+    },
+    {
+      "year": 1878,
+      "event": "Per Teodor Cleve at Uppsala University independently investigates erbium oxide using chemical fractionation and separates it into three fractions: residual erbium, and two new elements. He identifies both holmium and thulium as distinct from erbium through careful chemical work — finding both elements independently and simultaneously."
+    },
+    {
+      "year": 1879,
+      "event": "Cleve formally names one of his new elements holmium after Holmia (Stockholm), his native country's capital. Priority is shared with Delafontaine and Soret for the spectroscopic observation, but Cleve receives primary credit for the chemical isolation and characterization."
+    },
+    {
+      "year": 1886,
+      "event": "Lecoq de Boisbaudran separates dysprosium from holmium fractions — revealing that Cleve's holmium was still slightly impure. The final purification establishes holmium's distinctive spectroscopic and chemical properties."
+    },
+    {
+      "year": 1911,
+      "event": "Pure holmium metal is produced for the first time using reduction of anhydrous holmium fluoride with calcium — the standard method for reducing rare earth fluorides to metals."
+    },
+    {
+      "year": 1980,
+      "event": "Holmium has the highest magnetic moment of any naturally occurring element (10.6 μB per atom) — a property that makes it valuable in the pole pieces of high-field electromagnets and as a magnetic flux concentrator in specialized scientific instruments and MRI magnet design."
+    },
+    {
+      "year": 1995,
+      "event": "The Ho:YAG laser (holmium-doped yttrium aluminum garnet, emitting at 2.1 μm) becomes medically established for urological procedures — specifically lithotripsy (breaking up kidney stones) and treatment of enlarged prostate. The Ho:YAG laser's wavelength is strongly absorbed by water and soft tissue, making it precise for minimally invasive surgery."
+    }
+  ],
+  "story": "Holmium was discovered in an era when rare earth chemistry had become almost a sport — chemists competed to separate ever more refined fractions from the complex lanthanide mixtures. Cleve was exceptional: in 1878 he simultaneously separated both holmium and thulium from erbium, identifying two new elements in a single series of experiments. He was also the same Cleve who confirmed that gallium matched Mendeleev's prediction for eka-aluminum — he seemed to have an affinity for being present at defining moments in the history of the periodic table. Holmium is named for the city that gave us ABBA, the Nobel Prize ceremony, and the Vasa warship — but holmium's own contribution, the Ho:YAG kidney stone laser, has arguably helped more individual people.",
+  "source_note": "Spectroscopically observed by Delafontaine and Soret (1878). Chemically isolated by Cleve (1878) at Uppsala. Named Holmia (Stockholm) by Cleve (1879)."
+}
