@@ -1,0 +1,44 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "research",
+      "name": "Fundamental Nuclear & Atomic Research",
+      "icon": "🔬",
+      "share": "100% — no commercial applications exist",
+      "uses": [
+        "Named after Japan (Nihon in Japanese) — the first element discovered in Asia, a landmark achievement for Japanese science. Morita's group at RIKEN bombarded bismuth-209 with zinc-70 ions for nine years, detecting just 3 atoms of element 113 before IUPAC awarded priority in 2016. A fourth atom was detected in 2012 completing the decay chain to known element 105.",
+        "Longest-lived known isotope: 286Nh, t½ = 9.5 seconds. First synthesized: 2004, RIKEN Nishina Center, Japan (Morita group) — confirmed 2016.",
+        "3 atoms detected over 9 years of experiments.",
+        "Research probes the limits of nuclear stability, tests relativistic quantum chemistry predictions in superheavy atoms, and searches for the theoretical island of stability predicted around Z=114, N=184.",
+        "All production requires specialized particle accelerators and isotope reactor facilities — this element cannot be made by any other means."
+      ],
+      "companies": [
+        {
+          "name": "RIKEN Nishina Center",
+          "hq": "Japan",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "Sole discoverer of nihonium, awarded priority by IUPAC in 2016 after producing 3 confirmed atoms over a 9-year campaign using the GARIS gas-filled recoil separator and the RIKEN Linear Accelerator (RILAC). The discovery brought enormous national pride to Japan and led to the naming of the element after the country."
+        },
+        {
+          "name": "Lawrence Berkeley National Laboratory",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Independently attempted to produce element 113 during the same period using the BGS separator and bismuth + zinc reactions, contributing to the scientific context that validated RIKEN's approach and providing technical cross-checks on detection methodology."
+        },
+        {
+          "name": "GSI Helmholtz Centre",
+          "hq": "Germany",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Provided technical expertise and decay chain reference data that assisted in validating RIKEN's nihonium discovery. GSI's extensive experience with bismuth and lead target cold fusion reactions underpinned the experimental framework used at RIKEN."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "research",
+      "name": "Fundamental Nuclear & Atomic Research",
+      "icon": "🔬",
+      "share": "100% — no commercial applications exist",
+      "uses": [
+        "Named after Alfred Nobel. The naming was controversial — a 1957 Nobel Institute claim was quickly disproven, and both Berkeley and Dubna disputed priority for years before IUPAC awarded credit to Dubna in 1997. Nobelium's unusual +2 oxidation state stability (rather than the +3 typical of lanthanides and actinides) reflects relativistic stabilization of the 7s² electron pair.",
+        "Longest-lived practical isotope: 259No, t½ = 58 minutes. First synthesized: 1966, JINR Dubna (Flerov group) — confirmed after disputed earlier claims from Stockholm and Berkeley.",
+        "Only a few atoms per experiment.",
+        "All research conducted at specialized facilities: Oak Ridge National Laboratory (USA), Lawrence Berkeley National Laboratory (USA), JINR Dubna (Russia), GSI/FAIR (Germany), RIKEN (Japan), and JAEA (Japan).",
+        "Study of these elements advances understanding of relativistic quantum chemistry, nuclear shell structure near the heaviest stable nuclei, and the fundamental limits of atomic matter."
+      ],
+      "companies": [
+        {
+          "name": "JINR Dubna",
+          "hq": "Russia",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "Flerov's group at Dubna produced confirmed nobelium in 1966 using curium-242 + carbon-12 fusion and established the nuclear decay properties that definitively identified element 102. IUPAC awarded Dubna priority in 1997. Dubna continues No chemistry studies using the FLNR facilities."
+        },
+        {
+          "name": "Lawrence Berkeley National Laboratory",
+          "hq": "USA",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "Ghiorso's group at Berkeley independently produced and characterized nobelium, performing atomic beam spectroscopy and aqueous chemistry studies that established No's unique +2 oxidation state preference — a key insight into relativistic effects on heavy actinide chemistry."
+        },
+        {
+          "name": "GSI Helmholtz Centre",
+          "hq": "Germany",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Performed nuclear spectroscopy of nobelium isotopes using the SHIP separator and FOCAL detector array, measuring detailed gamma-ray and conversion electron spectra that mapped the nuclear energy levels of No-252, No-253, and No-254 — foundational data for understanding the nuclear structure of the heaviest actinides."
+        }
+      ]
+    }
+  ]
+}

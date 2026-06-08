@@ -1,0 +1,44 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "research",
+      "name": "Fundamental Nuclear & Atomic Research",
+      "icon": "🔬",
+      "share": "100% — no commercial applications exist",
+      "uses": [
+        "Named after Glenn T. Seaborg — the only element named after a living person at the time of naming (1994). Produced at Berkeley by bombarding californium-249 with oxygen-18 ions. Gas-phase chemistry at PSI shows Sg forms volatile SgO2Cl2 analogous to WO2Cl2, confirming its position as a heavier tungsten congener.",
+        "Longest-lived known isotope: 271Sg, t½ = 2.4 minutes. First synthesized: 1974, Lawrence Berkeley National Laboratory (Ghiorso, Nitschke, Morrissey, Seaborg group).",
+        "Atoms per experiment.",
+        "Research probes the limits of nuclear stability, tests relativistic quantum chemistry predictions in superheavy atoms, and searches for the theoretical island of stability predicted around Z=114, N=184.",
+        "All production requires specialized particle accelerators and isotope reactor facilities — this element cannot be made by any other means."
+      ],
+      "companies": [
+        {
+          "name": "Lawrence Berkeley National Laboratory",
+          "hq": "USA",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "Discovered element 106 in 1974 using the SuperHILAC accelerator. The naming controversy (Seaborg objected to naming an element after a living person initially) was resolved when IUPAC approved seaborgium in 1997. Berkeley produced all early Sg samples used for nuclear property measurements."
+        },
+        {
+          "name": "Paul Scherrer Institute (PSI)",
+          "hq": "Switzerland",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "Performed the first gas-phase chemistry of seaborgium using the online isothermal gas chromatography system, identifying volatile seaborgium oxychloride SgO2Cl2 — confirming Sg as a chemical homolog of tungsten in Group 6."
+        },
+        {
+          "name": "GSI Helmholtz Centre",
+          "hq": "Germany",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Produced seaborgium using lead targets and confirmed nuclear decay properties. GSI's SHIP separator enabled high-sensitivity detection of individual Sg atoms, contributing to the nuclear database used for chemical experiments."
+        }
+      ]
+    }
+  ]
+}

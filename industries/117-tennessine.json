@@ -1,0 +1,52 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "research",
+      "name": "Fundamental Nuclear & Atomic Research",
+      "icon": "🔬",
+      "share": "100% — no commercial applications exist",
+      "uses": [
+        "Named after Tennessee, home of Oak Ridge National Laboratory — which made the discovery possible by supplying 22mg of berkelium-249 after 250 days of continuous reactor irradiation in the HFIR reactor. The most multinational superheavy element discovery, requiring unique US national laboratory capabilities. Tennessine is the second-heaviest halogen (Group 17) but predicted to behave as a metal rather than a nonmetal.",
+        "Longest-lived known isotope: 294Ts, t½ = 51 milliseconds. First synthesized: 2010, JINR Dubna / Oak Ridge National Laboratory / Vanderbilt University / University of Nevada Las Vegas — confirmed 2016.",
+        "Atoms per experiment.",
+        "Research probes the limits of nuclear stability, tests relativistic quantum chemistry predictions in superheavy atoms, and searches for the theoretical island of stability predicted around Z=114, N=184.",
+        "All production requires specialized particle accelerators and isotope reactor facilities — this element cannot be made by any other means."
+      ],
+      "companies": [
+        {
+          "name": "Oak Ridge National Laboratory",
+          "hq": "USA",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "Made tennessine discovery possible by producing 22mg of berkelium-249 — the essential target material — after 250 days of continuous irradiation in the High Flux Isotope Reactor (HFIR), followed by rapid chemical separation and shipment to Dubna. Without ORNL's unique Bk-249 production capability, tennessine could not have been synthesized. The element is named after Tennessee in ORNL's honor."
+        },
+        {
+          "name": "JINR Dubna",
+          "hq": "Russia",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "Led the synthesis experiments, bombarding the ORNL-supplied berkelium-249 with calcium-48 ions at the Dubna Gas-Filled Recoil Separator. Oganessian's group detected tennessine atoms through their alpha decay chains and performed the nuclear property measurements establishing element 117."
+        },
+        {
+          "name": "Vanderbilt University",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Key US academic partner in the tennessine discovery. Contributed detector development, nuclear theory support, and data analysis. Joseph Hamilton and Akunori Ramayya of Vanderbilt were co-authors on the discovery publication and part of the core collaboration team."
+        },
+        {
+          "name": "Lawrence Livermore National Laboratory",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Contributed nuclear theory calculations and decay chain analysis supporting tennessine's discovery claim. LLNL's long-standing collaboration with JINR on superheavy elements provided the scientific framework for interpreting the tennessine decay data."
+        }
+      ]
+    }
+  ]
+}

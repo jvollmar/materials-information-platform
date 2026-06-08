@@ -1,0 +1,44 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "research",
+      "name": "Fundamental Nuclear & Atomic Research",
+      "icon": "🔬",
+      "share": "100% — no commercial applications exist",
+      "uses": [
+        "Named after Ernest O. Lawrence, inventor of the cyclotron. The last actinide element — lawrencium completes the f-block of the periodic table. Recent atom-at-a-time experiments have measured Lr's first ionization energy (478.0 kJ/mol, measured at JAEA/RIKEN Japan in 2015) — showing it is lower than predicted by simple periodic trends, consistent with its 7p¹ ground state rather than 6d¹.",
+        "Longest-lived practical isotope: 262Lr, t½ = 3.6 hours. First synthesized: 1961, Lawrence Berkeley National Laboratory (Ghiorso group) — confirmed with Dubna 1965.",
+        "Only a few atoms per experiment.",
+        "All research conducted at specialized facilities: Oak Ridge National Laboratory (USA), Lawrence Berkeley National Laboratory (USA), JINR Dubna (Russia), GSI/FAIR (Germany), RIKEN (Japan), and JAEA (Japan).",
+        "Study of these elements advances understanding of relativistic quantum chemistry, nuclear shell structure near the heaviest stable nuclei, and the fundamental limits of atomic matter."
+      ],
+      "companies": [
+        {
+          "name": "Lawrence Berkeley National Laboratory",
+          "hq": "USA",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "Discovered lawrencium in 1961 using the HILAC accelerator to bombard californium with boron-10 and boron-11 ions. Named after Ernest Lawrence, LBNL's founder and inventor of the cyclotron. LBNL performed the first chemical studies of lawrencium confirming its +3 oxidation state."
+        },
+        {
+          "name": "Japan Atomic Energy Agency (JAEA) / RIKEN",
+          "hq": "Japan",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "Performed the landmark 2015 measurement of lawrencium's first ionization energy using an atom-at-a-time surface ionization technique at the JAEA tandem accelerator. This measurement — using only ~1000 Lr atoms — was a tour de force of experimental atomic physics, confirming the predicted 7p¹ ground state configuration."
+        },
+        {
+          "name": "JINR Dubna",
+          "hq": "Russia",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Independently produced lawrencium and performed complementary nuclear spectroscopy. Dubna's measurements of lawrencium isotope decay properties provided the nuclear data necessary for understanding the transition from the actinide to transactinide series at the end of the f-block."
+        }
+      ]
+    }
+  ]
+}

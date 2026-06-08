@@ -1,0 +1,44 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "research",
+      "name": "Fundamental Nuclear & Atomic Research",
+      "icon": "🔬",
+      "share": "100% — no commercial applications exist",
+      "uses": [
+        "First transactinide element, named after Ernest Rutherford. Produced by bombarding californium-249 with carbon-12 ions (Berkeley) or plutonium-242 with neon-22 (Dubna). Chemistry studies at PSI (Switzerland) show Rf behaves as a heavier hafnium analog, consistent with its position below Hf in Group 4, but relativistic effects measurably alter its properties.",
+        "Longest-lived known isotope: 267Rf, t½ = 1.3 hours. First synthesized: 1964 Dubna (Flerov group) / 1969 Berkeley (Ghiorso group) — disputed, both credited.",
+        "Atoms per experiment.",
+        "Research probes the limits of nuclear stability, tests relativistic quantum chemistry predictions in superheavy atoms, and searches for the theoretical island of stability predicted around Z=114, N=184.",
+        "All production requires specialized particle accelerators and isotope reactor facilities — this element cannot be made by any other means."
+      ],
+      "companies": [
+        {
+          "name": "Lawrence Berkeley National Laboratory",
+          "hq": "USA",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "Ghiorso's team at Berkeley produced element 104 by bombarding californium-249 with carbon-12 in 1969 and named it rutherfordium. Berkeley's heavy-ion linear accelerator (HILAC) was the primary tool. LBNL continues superheavy element research using the 88-Inch Cyclotron."
+        },
+        {
+          "name": "JINR Dubna",
+          "hq": "Russia",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "Flerov's group at Dubna independently produced element 104 in 1964 and proposed the name kurchatovium. The prolonged naming dispute between Berkeley and Dubna was resolved in 1997 by IUPAC in favor of rutherfordium."
+        },
+        {
+          "name": "Paul Scherrer Institute (PSI)",
+          "hq": "Switzerland",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Conducts atom-at-a-time aqueous chemistry of rutherfordium and other transactinides using the OLGA and ARCA systems coupled to the PSI Philips Cyclotron. Key contributor to understanding Rf's chemical properties and relativistic effects."
+        }
+      ]
+    }
+  ]
+}

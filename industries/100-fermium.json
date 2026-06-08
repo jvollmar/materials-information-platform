@@ -1,0 +1,44 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "research",
+      "name": "Fundamental Nuclear & Atomic Research",
+      "icon": "🔬",
+      "share": "100% — no commercial applications exist",
+      "uses": [
+        "Named after Enrico Fermi. Fermium marks the practical limit of reactor-based transactinide production — elements heavier than fermium cannot be produced by simple neutron capture because fission occurs before another neutron can be captured. All elements beyond Fm require particle accelerator synthesis. Fm-257 is used as a target to produce mendelevium.",
+        "Longest-lived practical isotope: 257Fm, t½ = 100.5 days. First synthesized: 1952, Lawrence Berkeley National Laboratory — from Ivy Mike test debris.",
+        "Only nanogram quantities ever isolated.",
+        "All research conducted at specialized facilities: Oak Ridge National Laboratory (USA), Lawrence Berkeley National Laboratory (USA), JINR Dubna (Russia), GSI/FAIR (Germany), RIKEN (Japan), and JAEA (Japan).",
+        "Study of these elements advances understanding of relativistic quantum chemistry, nuclear shell structure near the heaviest stable nuclei, and the fundamental limits of atomic matter."
+      ],
+      "companies": [
+        {
+          "name": "Oak Ridge National Laboratory",
+          "hq": "USA",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "Produces fermium isotopes as byproducts of the HFIR reactor's heavy actinide irradiation campaigns. Fermium accumulates in small quantities in the plutonium-californium-einsteinium target assemblies. ORNL's hot cell processing separates and purifies Fm for research use."
+        },
+        {
+          "name": "Lawrence Berkeley National Laboratory",
+          "hq": "USA",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "Co-discovered fermium in 1952 from Ivy Mike fallout alongside LANL and Argonne. LBNL has performed much of the atomic spectroscopy and chemical behavior studies of fermium, including ionization energy measurements and oxidation state chemistry using atom-at-a-time techniques."
+        },
+        {
+          "name": "Los Alamos National Laboratory",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Co-discovered fermium from the Ivy Mike thermonuclear test in 1952 alongside Berkeley and Argonne. LANL's radiochemistry division performed the initial chemical separations of fermium from the coral and debris collected after the test, identifying the new element."
+        }
+      ]
+    }
+  ]
+}

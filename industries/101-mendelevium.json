@@ -1,0 +1,44 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "research",
+      "name": "Fundamental Nuclear & Atomic Research",
+      "icon": "🔬",
+      "share": "100% — no commercial applications exist",
+      "uses": [
+        "Named after Dmitri Mendeleev, creator of the periodic table. The first element discovered one atom at a time — a revolutionary experimental technique. Requires an einsteinium-253 target, itself vanishingly rare. The discovery team worked through the night to complete the experiment before the Es-253 target decayed away.",
+        "Longest-lived practical isotope: 258Md, t½ = 51.5 days. First synthesized: 1955, Lawrence Berkeley National Laboratory (Ghiorso, Harvey, Choppin, Thompson, Seaborg).",
+        "Only ~1 million atoms produced per experiment.",
+        "All research conducted at specialized facilities: Oak Ridge National Laboratory (USA), Lawrence Berkeley National Laboratory (USA), JINR Dubna (Russia), GSI/FAIR (Germany), RIKEN (Japan), and JAEA (Japan).",
+        "Study of these elements advances understanding of relativistic quantum chemistry, nuclear shell structure near the heaviest stable nuclei, and the fundamental limits of atomic matter."
+      ],
+      "companies": [
+        {
+          "name": "Lawrence Berkeley National Laboratory",
+          "hq": "USA",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "Sole discoverer of mendelevium in a landmark 1955 experiment using the 60-inch cyclotron to bombard einsteinium-253 with alpha particles. The team (Ghiorso, Harvey, Choppin, Thompson, Seaborg) detected just 17 atoms. The discovery defined the atom-at-a-time method that enables all transactinide element research."
+        },
+        {
+          "name": "Oak Ridge National Laboratory",
+          "hq": "USA",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "Supplies einsteinium-253 — the essential target material for mendelevium production — from HFIR neutron irradiation. Without ORNL's actinide production infrastructure, mendelevium synthesis would not be possible. ORNL also performs independent Md chemistry and nuclear spectroscopy studies."
+        },
+        {
+          "name": "JINR Dubna",
+          "hq": "Russia",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Independently produced mendelevium using alpha bombardment of einsteinium targets and conducted nuclear spectroscopy of multiple Md isotopes. Dubna's mendelevium research contributed to mapping the complete nuclear decay systematics of element 101 across multiple isotopes."
+        }
+      ]
+    }
+  ]
+}

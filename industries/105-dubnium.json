@@ -1,0 +1,44 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "research",
+      "name": "Fundamental Nuclear & Atomic Research",
+      "icon": "🔬",
+      "share": "100% — no commercial applications exist",
+      "uses": [
+        "Named after Dubna, Russia. The longest-lived isotope (268Db, 29 hours) enables atom-at-a-time aqueous chemistry experiments. Studies confirm Db behaves as a heavier tantalum analog but with relativistic deviations in extraction behavior. Produced by bombarding californium-249 with nitrogen-15 (Berkeley) or americium-243 with neon-22 (Dubna).",
+        "Longest-lived known isotope: 268Db, t½ = 29 hours. First synthesized: 1968 Dubna / 1970 Berkeley — disputed, both credited.",
+        "Atoms per experiment.",
+        "Research probes the limits of nuclear stability, tests relativistic quantum chemistry predictions in superheavy atoms, and searches for the theoretical island of stability predicted around Z=114, N=184.",
+        "All production requires specialized particle accelerators and isotope reactor facilities — this element cannot be made by any other means."
+      ],
+      "companies": [
+        {
+          "name": "Lawrence Berkeley National Laboratory",
+          "hq": "USA",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "Ghiorso's team at Berkeley produced and characterized element 105 in 1970 using californium-249 + nitrogen-15 fusion. Proposed the name hahnium (later rejected by IUPAC). LBNL's work established the nuclear properties used to confirm the element."
+        },
+        {
+          "name": "JINR Dubna",
+          "hq": "Russia",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "Flerov's group first reported element 105 in 1968 and proposed the name nielsbohrium. IUPAC ultimately awarded the name dubnium in 1997 to honor Dubna's contributions. Dubna continues transactinide chemistry research."
+        },
+        {
+          "name": "Paul Scherrer Institute (PSI)",
+          "hq": "Switzerland",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Performed definitive aqueous chemistry of dubnium using the ARCA (Automated Rapid Chemistry Apparatus), showing Db extraction behavior differs from both niobium and tantalum — demonstrating relativistic effects on Group 5 chemistry."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "research",
+      "name": "Fundamental Nuclear & Atomic Research",
+      "icon": "🔬",
+      "share": "100% — no commercial applications exist",
+      "uses": [
+        "Named after Lise Meitner, co-discoverer of nuclear fission and one of the most celebrated scientists of the 20th century. Produced at GSI by bombarding bismuth-209 with iron-58 ions — only a single atom was detected in the first experiment. No chemistry has been performed due to very short half-lives. Predicted to be a heavier iridium analog.",
+        "Longest-lived known isotope: 278Mt, t½ = 7.6 seconds. First synthesized: 1982, GSI Darmstadt (Münzenberg, Hofmann group).",
+        "Atoms per experiment.",
+        "Research probes the limits of nuclear stability, tests relativistic quantum chemistry predictions in superheavy atoms, and searches for the theoretical island of stability predicted around Z=114, N=184.",
+        "All production requires specialized particle accelerators and isotope reactor facilities — this element cannot be made by any other means."
+      ],
+      "companies": [
+        {
+          "name": "GSI Helmholtz Centre",
+          "hq": "Germany",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "Discovered meitnerium in a single-atom experiment in 1982. The detection of one atom of element 109 using the SHIP separator was a technical tour de force. GSI continues to produce Mt atoms for nuclear spectroscopy and decay studies at the SHIP and future SHELS separators."
+        },
+        {
+          "name": "JINR Dubna",
+          "hq": "Russia",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Independently confirmed meitnerium production and contributed nuclear decay data. Dubna's warm fusion approach using actinide targets complements GSI's cold fusion technique for producing and studying element 109 isotopes."
+        },
+        {
+          "name": "RIKEN Nishina Center",
+          "hq": "Japan",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Conducted meitnerium decay spectroscopy experiments using the GARIS separator, contributing to the nuclear decay database for Mt isotopes and providing independent verification of GSI decay chains used in superheavy element discovery confirmation."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "research",
+      "name": "Fundamental Nuclear & Atomic Research",
+      "icon": "🔬",
+      "share": "100% — no commercial applications exist",
+      "uses": [
+        "Named after the Flerov Laboratory of Nuclear Reactions at Dubna. Produced by bombarding plutonium-244 with calcium-48 — the first successful hot fusion reaction using doubly magic 48Ca, opening a new era of superheavy element synthesis. Flerovium sits at the edge of the predicted island of stability; its 289Fl isotope is among the most neutron-rich superheavy nuclides accessible.",
+        "Longest-lived known isotope: 289Fl, t½ = 1.9 seconds. First synthesized: 1999, JINR Dubna (Oganessian group) in collaboration with Lawrence Livermore National Laboratory — confirmed 2012.",
+        "Atoms per experiment.",
+        "Research probes the limits of nuclear stability, tests relativistic quantum chemistry predictions in superheavy atoms, and searches for the theoretical island of stability predicted around Z=114, N=184.",
+        "All production requires specialized particle accelerators and isotope reactor facilities — this element cannot be made by any other means."
+      ],
+      "companies": [
+        {
+          "name": "JINR Dubna",
+          "hq": "Russia",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "Oganessian's group at Dubna's Flerov Laboratory discovered flerovium using the Dubna Gas-Filled Recoil Separator (DGFRS) and the U400 cyclotron with calcium-48 beams on plutonium targets. Dubna's 48Ca beam program, developed over decades, enabled discovery of elements 114–118 in rapid succession from 1999–2010."
+        },
+        {
+          "name": "Lawrence Livermore National Laboratory",
+          "hq": "USA",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "Provided the critical plutonium-244 and americium-243 target materials — available only from US nuclear weapons program stockpiles — for JINR's 48Ca fusion experiments. The Dubna-Livermore collaboration produced elements 114, 115, 116, and 118. LLNL scientists co-authored the discovery papers."
+        },
+        {
+          "name": "Oak Ridge National Laboratory",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Supplied additional target material (curium-248 and californium-249) for the JINR-Livermore superheavy element program and performed independent confirmation experiments using the Recoil Separator at the Holifield Radioactive Ion Beam Facility (HRIBF)."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "research",
+      "name": "Fundamental Nuclear & Atomic Research",
+      "icon": "🔬",
+      "share": "100% — no commercial applications exist",
+      "uses": [
+        "Named after Lawrence Livermore National Laboratory, which supplied the curium-248 target material. Produced by bombarding curium-248 with calcium-48. Sits two elements below the predicted island of stability center (Z=114, N=184). Predicted to be a heavier polonium analog but with significantly altered radioactive and chemical properties due to relativistic effects.",
+        "Longest-lived known isotope: 293Lv, t½ = 53 milliseconds. First synthesized: 2000, JINR Dubna / Lawrence Livermore collaboration — confirmed 2012.",
+        "Atoms per experiment.",
+        "Research probes the limits of nuclear stability, tests relativistic quantum chemistry predictions in superheavy atoms, and searches for the theoretical island of stability predicted around Z=114, N=184.",
+        "All production requires specialized particle accelerators and isotope reactor facilities — this element cannot be made by any other means."
+      ],
+      "companies": [
+        {
+          "name": "JINR Dubna",
+          "hq": "Russia",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "Oganessian's group discovered livermorium in 2000 using curium-248 + calcium-48 at the DGFRS. Livermorium was among the first elements produced in JINR's 48Ca hot fusion program that ultimately discovered elements 113–118. The naming honored Livermore's essential role in supplying target material."
+        },
+        {
+          "name": "Lawrence Livermore National Laboratory",
+          "hq": "USA",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "Supplied curium-248 target material from the US nuclear stockpile and co-discovered livermorium with JINR. LLNL scientists Ken Moody, Mark Stoyer, and colleagues were integral team members in data collection and analysis. The element is named in honor of LLNL."
+        },
+        {
+          "name": "Oak Ridge National Laboratory",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Provided additional curium isotope production capabilities and nuclear data support for the livermorium discovery program. ORNL's expertise in actinide isotope production and chemistry was a key resource for the US side of the Dubna-Livermore collaboration."
+        }
+      ]
+    }
+  ]
+}

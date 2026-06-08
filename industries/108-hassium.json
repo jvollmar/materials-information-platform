@@ -1,0 +1,44 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "research",
+      "name": "Fundamental Nuclear & Atomic Research",
+      "icon": "🔬",
+      "share": "100% — no commercial applications exist",
+      "uses": [
+        "Named after Hesse (Hassia in Latin), the German state where GSI is located. Produced by bombarding lead-208 with iron-58 ions. The gas-phase chemistry of HsO4 — performed by a GSI/PSI collaboration — is the heaviest element chemistry ever studied directly, confirming hassium as a heavier osmium analog.",
+        "Longest-lived known isotope: 270Hs, t½ = 10 seconds. First synthesized: 1984, GSI Darmstadt (Münzenberg, Hofmann group).",
+        "Atoms per experiment.",
+        "Research probes the limits of nuclear stability, tests relativistic quantum chemistry predictions in superheavy atoms, and searches for the theoretical island of stability predicted around Z=114, N=184.",
+        "All production requires specialized particle accelerators and isotope reactor facilities — this element cannot be made by any other means."
+      ],
+      "companies": [
+        {
+          "name": "GSI Helmholtz Centre",
+          "hq": "Germany",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "Discovered element 108 in 1984 using the SHIP separator with lead-208 + iron-58 cold fusion. Led the landmark HsO4 gas-phase chemistry experiment in 2002 in collaboration with PSI, demonstrating that hassium forms volatile tetroxide just like osmium — the heaviest chemical property ever directly measured."
+        },
+        {
+          "name": "Paul Scherrer Institute (PSI)",
+          "hq": "Switzerland",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "Key partner in the HsO4 chemistry experiment — the most technically demanding chemical study of any element. PSI's thermochromatography detector array identified and measured the adsorption properties of individual HsO4 molecules produced at a rate of a few atoms per hour."
+        },
+        {
+          "name": "Lawrence Berkeley National Laboratory",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Contributed nuclear spectroscopy data and detection techniques for hassium characterization. LBNL's expertise in actinide and transactinide nuclear physics provided cross-checks on GSI's decay chain assignments."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "research",
+      "name": "Fundamental Nuclear & Atomic Research",
+      "icon": "🔬",
+      "share": "100% — no commercial applications exist",
+      "uses": [
+        "Named after Darmstadt, Germany — home of GSI. Produced by bombarding lead-208 with nickel-62 ions. Predicted to be a heavier platinum analog (Group 10) but relativistic effects significantly alter its electronic structure. The 6d transition metals (Rf through Cn) represent a frontier where relativistic quantum chemistry makes predictions that challenge classical periodic table expectations.",
+        "Longest-lived known isotope: 281Ds, t½ = 11 seconds. First synthesized: 1994, GSI Darmstadt (Hofmann group).",
+        "Atoms per experiment.",
+        "Research probes the limits of nuclear stability, tests relativistic quantum chemistry predictions in superheavy atoms, and searches for the theoretical island of stability predicted around Z=114, N=184.",
+        "All production requires specialized particle accelerators and isotope reactor facilities — this element cannot be made by any other means."
+      ],
+      "companies": [
+        {
+          "name": "GSI Helmholtz Centre",
+          "hq": "Germany",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "Discovered darmstadtium in 1994 using the SHIP separator and lead-208 + nickel-62 cold fusion. Hofmann's group at GSI discovered elements 107–112 in a remarkable sequence spanning 1981–1996, establishing GSI as the world's premier cold fusion superheavy element laboratory."
+        },
+        {
+          "name": "Lawrence Berkeley National Laboratory",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Independently confirmed darmstadtium production and decay properties using the BGS (Berkeley Gas-filled Separator). LBNL's confirmation experiments provided the independent verification required by IUPAC for official element recognition."
+        },
+        {
+          "name": "RIKEN Nishina Center",
+          "hq": "Japan",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Produced darmstadtium using the GARIS separator for nuclear spectroscopy studies of Ds isotopes. RIKEN's high-intensity heavy-ion beams enabled detailed gamma-ray and conversion electron spectroscopy of darmstadtium decay chains."
+        }
+      ]
+    }
+  ]
+}

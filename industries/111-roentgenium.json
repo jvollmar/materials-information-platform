@@ -1,0 +1,44 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "research",
+      "name": "Fundamental Nuclear & Atomic Research",
+      "icon": "🔬",
+      "share": "100% — no commercial applications exist",
+      "uses": [
+        "Named after Wilhelm Röntgen, discoverer of X-rays. Produced at GSI by bombarding bismuth-209 with nickel-64 ions. The 282Rg isotope with its 100-second half-life is relatively long-lived for this region. Predicted to have unusual properties — relativistic stabilization of the 7s electrons may give roentgenium gold-like chemical properties rather than silver-like (its lighter congener).",
+        "Longest-lived known isotope: 282Rg, t½ = 100 seconds. First synthesized: 1994, GSI Darmstadt (Hofmann group).",
+        "Atoms per experiment.",
+        "Research probes the limits of nuclear stability, tests relativistic quantum chemistry predictions in superheavy atoms, and searches for the theoretical island of stability predicted around Z=114, N=184.",
+        "All production requires specialized particle accelerators and isotope reactor facilities — this element cannot be made by any other means."
+      ],
+      "companies": [
+        {
+          "name": "GSI Helmholtz Centre",
+          "hq": "Germany",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "Discovered roentgenium in 1994 in the same experimental campaign that produced darmstadtium, using bismuth-209 + nickel-64 cold fusion and the SHIP separator. The naming honored Röntgen's discovery of X-rays exactly 100 years earlier (1895–1995)."
+        },
+        {
+          "name": "Lawrence Berkeley National Laboratory",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Provided independent confirmation of roentgenium using the BGS separator, measuring decay chains that matched GSI's data — the confirmation required by IUPAC for official recognition of element 111."
+        },
+        {
+          "name": "JINR Dubna",
+          "hq": "Russia",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Contributed additional roentgenium isotope data using hot fusion reactions with actinide targets, extending the known isotope chart for element 111 and providing complementary nuclear structure information."
+        }
+      ]
+    }
+  ]
+}

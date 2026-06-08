@@ -1,0 +1,44 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "research",
+      "name": "Fundamental Nuclear & Atomic Research",
+      "icon": "🔬",
+      "share": "100% — no commercial applications exist",
+      "uses": [
+        "Named after Nicolaus Copernicus. Produced at GSI by bombarding lead-208 with zinc-70 ions. Copernicium is predicted to be gaseous or at most a very volatile liquid at room temperature due to extreme relativistic contraction of its 7s² electrons, weakening metallic bonding. One gas-phase experiment at PSI tentatively suggested Cn behaves more like a noble gas than mercury.",
+        "Longest-lived known isotope: 285Cn, t½ = 29 seconds. First synthesized: 1996, GSI Darmstadt (Hofmann group).",
+        "Atoms per experiment.",
+        "Research probes the limits of nuclear stability, tests relativistic quantum chemistry predictions in superheavy atoms, and searches for the theoretical island of stability predicted around Z=114, N=184.",
+        "All production requires specialized particle accelerators and isotope reactor facilities — this element cannot be made by any other means."
+      ],
+      "companies": [
+        {
+          "name": "GSI Helmholtz Centre",
+          "hq": "Germany",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "Discovered copernicium in 1996 — the last element GSI discovered before JINR Dubna's hot fusion program took over superheavy element synthesis leadership. The SHIP separator detected individual Cn atoms by their characteristic alpha decay chain."
+        },
+        {
+          "name": "Paul Scherrer Institute (PSI)",
+          "hq": "Switzerland",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Performed a preliminary gas-phase volatility study of copernicium, suggesting it may adsorb on gold surfaces at unexpectedly low temperatures — tentative evidence for noble-gas-like volatility predicted by relativistic theory. Results are controversial and require confirmation."
+        },
+        {
+          "name": "RIKEN Nishina Center",
+          "hq": "Japan",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Conducted nuclear spectroscopy of copernicium isotopes using the GARIS separator, contributing decay chain data that independently confirmed GSI's discovery and characterized additional Cn isotopes with varying neutron numbers."
+        }
+      ]
+    }
+  ]
+}

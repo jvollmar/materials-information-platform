@@ -1,0 +1,44 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "research",
+      "name": "Fundamental Nuclear & Atomic Research",
+      "icon": "🔬",
+      "share": "100% — no commercial applications exist",
+      "uses": [
+        "Named after Moscow Oblast, home of JINR Dubna. Produced by bombarding americium-243 with calcium-48 ions. Moscovium decays through nihonium (element 113) — its observation provided crucial additional evidence confirming nihonium's existence before RIKEN's independent discovery was confirmed. Predicted to behave as a heavier bismuth analog.",
+        "Longest-lived known isotope: 290Mc, t½ = 220 milliseconds. First synthesized: 2003, JINR Dubna / Lawrence Livermore collaboration — confirmed 2016.",
+        "Atoms per experiment.",
+        "Research probes the limits of nuclear stability, tests relativistic quantum chemistry predictions in superheavy atoms, and searches for the theoretical island of stability predicted around Z=114, N=184.",
+        "All production requires specialized particle accelerators and isotope reactor facilities — this element cannot be made by any other means."
+      ],
+      "companies": [
+        {
+          "name": "JINR Dubna",
+          "hq": "Russia",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "Oganessian's group discovered moscovium in 2003 using americium-243 + calcium-48 at the Dubna Gas-Filled Recoil Separator. The moscovium decay chain passes through nihonium (Nh), providing early corroborating evidence for element 113 that supported RIKEN's later confirmed discovery."
+        },
+        {
+          "name": "Lawrence Livermore National Laboratory",
+          "hq": "USA",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "Supplied americium-243 target material (a byproduct of US nuclear reactor operations) for the moscovium synthesis experiment, and co-authored the discovery publication. LLNL scientists participated in data analysis and nuclear decay chain interpretation."
+        },
+        {
+          "name": "Vanderbilt University / University of Nevada Las Vegas",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "US academic partners in the moscovium confirmation experiment. Contributed detector development, nuclear theory calculations supporting the decay chain assignment, and data analysis in the collaborative confirmation study published in Physical Review Letters."
+        }
+      ]
+    }
+  ]
+}

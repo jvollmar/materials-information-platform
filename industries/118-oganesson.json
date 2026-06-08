@@ -1,0 +1,44 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "research",
+      "name": "Fundamental Nuclear & Atomic Research",
+      "icon": "🔬",
+      "share": "100% — no commercial applications exist",
+      "uses": [
+        "Named after Yuri Oganessian, the architect of hot fusion superheavy element synthesis and the leading figure in discovering elements 113–118. The heaviest confirmed element and the last in Period 7. Oganesson sits at the end of the periodic table as we know it. Predicted to be a solid at room temperature — not a gas like its lighter noble gas congeners — due to extreme relativistic effects destabilizing the 7p shell. May be the last element accessible to current accelerator technology without major advances in beam intensity and target production.",
+        "Longest-lived known isotope: 294Og, t½ = 0.89 milliseconds. First synthesized: 2002, JINR Dubna / Lawrence Livermore National Laboratory — confirmed 2015.",
+        "Only 5 atoms ever detected — the rarest substance ever intentionally created.",
+        "Research probes the limits of nuclear stability, tests relativistic quantum chemistry predictions in superheavy atoms, and searches for the theoretical island of stability predicted around Z=114, N=184.",
+        "All production requires specialized particle accelerators and isotope reactor facilities — this element cannot be made by any other means."
+      ],
+      "companies": [
+        {
+          "name": "JINR Dubna",
+          "hq": "Russia",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "Oganessian's group synthesized oganesson in 2002 by bombarding californium-249 with calcium-48, detecting just 3 atoms over months of irradiation at the Dubna Gas-Filled Recoil Separator. Two additional atoms were detected in a 2005 follow-up. The element is named in honor of Yuri Oganessian, who remains scientifically active at Dubna."
+        },
+        {
+          "name": "Lawrence Livermore National Laboratory",
+          "hq": "USA",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "Supplied californium-249 target material from US nuclear stockpiles and co-discovered oganesson with JINR. LLNL physicists Ken Moody, Mark Stoyer, and colleagues contributed to experimental design, target preparation, and data analysis in the discovery collaboration."
+        },
+        {
+          "name": "Oak Ridge National Laboratory",
+          "hq": "USA",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Produced californium-249 in the High Flux Isotope Reactor — ORNL is one of the very few facilities in the world capable of producing the actinide target materials required for superheavy element synthesis. ORNL's isotope production program is indispensable to the entire superheavy element research enterprise."
+        }
+      ]
+    }
+  ]
+}

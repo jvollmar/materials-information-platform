@@ -1,0 +1,44 @@
+{
+  "dataTier": 2,
+  "industries": [
+    {
+      "id": "research",
+      "name": "Fundamental Nuclear & Atomic Research",
+      "icon": "🔬",
+      "share": "100% — no commercial applications exist",
+      "uses": [
+        "Named after Niels Bohr. First produced at GSI by bombarding bismuth-209 with chromium-54 ions using the SHIP separator. Chemistry at PSI shows Bh forms volatile oxychlorides BhO3Cl analogous to rhenium, confirming its Group 7 position. GSI's cold fusion technique using doubly magic lead and bismuth targets revolutionized superheavy element synthesis.",
+        "Longest-lived known isotope: 270Bh, t½ = 61 seconds. First synthesized: 1981, GSI Darmstadt (Münzenberg, Hofmann group).",
+        "Atoms per experiment.",
+        "Research probes the limits of nuclear stability, tests relativistic quantum chemistry predictions in superheavy atoms, and searches for the theoretical island of stability predicted around Z=114, N=184.",
+        "All production requires specialized particle accelerators and isotope reactor facilities — this element cannot be made by any other means."
+      ],
+      "companies": [
+        {
+          "name": "GSI Helmholtz Centre",
+          "hq": "Germany",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "Discovered element 107 in 1981 using the UNILAC accelerator and SHIP (Separator for Heavy-Ion Reaction Products) velocity filter — an instrument that transformed superheavy element research by allowing identification of single atoms. GSI discovered elements 107–112 using bismuth and lead targets."
+        },
+        {
+          "name": "Paul Scherrer Institute (PSI)",
+          "hq": "Switzerland",
+          "tier": "major",
+          "volume": null,
+          "share": null,
+          "use": "Performed the first gas-phase chemistry of bohrium, identifying volatile BhO3Cl consistent with rhenium chemistry. Required extraordinary precision to study just a handful of Bh atoms produced over many weeks of irradiation."
+        },
+        {
+          "name": "JINR Dubna",
+          "hq": "Russia",
+          "tier": "large",
+          "volume": null,
+          "share": null,
+          "use": "Conducted complementary bohrium nuclear spectroscopy experiments, contributing decay data that confirmed GSI's discovery and provided the complete nuclear decay chain used to characterize element 107."
+        }
+      ]
+    }
+  ]
+}
